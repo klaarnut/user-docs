@@ -3,11 +3,8 @@
 เอกสารสำหรับผู้ใช้ RVsitebuilder CMS
 
 ![Kiku](images/logo.png)
-<<<<<<< HEAD
 ![orewa](images/under_construction.png)
-=======
 ![Fang](images/2018-02-07.png)
->>>>>>> ef7d1d795c8df3dd23bf4cb239de8d06e3e78c5e
 
 
 # H1
