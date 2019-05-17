@@ -25,4 +25,4 @@ If this documentation does not help, you can find community resources here:
 
 - Join our [forum](https://support.rvglobalsoft.com/hc/en-us/community/topics/360000661673-RVsitebuilder-7-Forum-for-End-User)
 - Submit [feature request](https://support.rvglobalsoft.com/hc/en-us/community/topics/360000639474-RVsitebuilder-7-Feature-Request)
-- Submit a [ticket] (https://rvglobalsoft.com/tickets/new&deptId=5)
+- Submit a [ticket](https://rvglobalsoft.com/tickets/new&deptId=5)
