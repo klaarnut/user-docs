@@ -30,7 +30,6 @@ From left to right
 To see your website in real time as you’re editing. A few seconds makes your website online.
 
 #### Apps
-
 To access to more Apps you can use with your website aside from features in content editor. Almost 10 FREE Apps are available by default, and much more in [RVsitebuilder Apps Marketplace](https://apps.rvsitebuilder.com/) that you can install to use with your website. Free, cheap, and reasonable price Apps are all selectable.
 
 #### Website Admin (Your Name)
