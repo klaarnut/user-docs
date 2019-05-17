@@ -55,4 +55,4 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-**Theme Color** is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
+*Theme Color* is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
