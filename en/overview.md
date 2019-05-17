@@ -13,6 +13,7 @@
 1. Open domain name on browser with /admin/login
 1. Enter admin login
 
+
 ## Admin Interface
 ### Admin Top Bar
 Top Bar menus will be all time available on CMS for the easier and faster access.
