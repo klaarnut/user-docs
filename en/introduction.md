@@ -12,14 +12,17 @@ There are 4 groups of users we created RVsitebuilder for:
 
 ## RVsitebuilder Demo 
 
-Before starting to build your app, we would like to suggest you to go to [RVsitebuilder app playgound](//TODO: url). Generate your app online, it provides simple CRUD and file manager allowing you to look at its code, modify and see it in action. 
+RVsitebuilder has online demo that everyone can try and see how it works on control panel server and non-cpntrol panel server [here](https://rvsitebuilder.com/demo/). 
 
-Then you can follow [installation](installation.md) to install RVsitebuilder locally and start developing your app.  
+## Getting RVsitebuilder
 
+RVsitebuilder on control panel server will be globally provided by hosting providers that can be found in our [Hosting Partner](https://rvsitebuilder.com/hosting-partner/) page. Select one based on your country and contact them for hosting service.
+RVsitebuilder on non-control panel server can be done by the installation [here](//TOTO: url )
  
 ## Getting Support 
 
 If this documentation does not help, you can find community resources here: 
 
-- Join our [forum](//TODO: url )
-- Submit [feature request](//TODO: url)
+- Join our [forum](https://support.rvglobalsoft.com/hc/en-us/community/topics/360000661673-RVsitebuilder-7-Forum-for-End-User)
+- Submit [feature request](https://support.rvglobalsoft.com/hc/en-us/community/topics/360000639474-RVsitebuilder-7-Feature-Request)
+- Submit a [ticket] (https://rvglobalsoft.com/tickets/new&deptId=5)
