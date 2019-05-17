@@ -1,7 +1,7 @@
 # RVsitebuilder end-user documentation
 ## Introduction
 
-**RVsitebuilder** is a Laravel based CMS, freely available worldwide from our [hosting partners](https://rvsitebuilder.com/hosting-partner/). 
+**RVsitebuilder** is online website builder with ready-to-use beautiful templates, freely available worldwide from our [hosting partners](https://rvsitebuilder.com/hosting-partner/). 
 By making on Laravel framework enable developers to create its own apps, extend and add new features while deploying with ease.
 Just export and import from admin. No composer or NPM is required on production server.  
 
