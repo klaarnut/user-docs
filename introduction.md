@@ -1,9 +1,7 @@
 # RVsitebuilder end-user documentation
 ## Introduction
 
-**RVsitebuilder** is online website builder with ready-to-use beautiful templates, freely available worldwide from our [hosting partners](https://rvsitebuilder.com/hosting-partner/). 
-By making on Laravel framework enable developers to create its own apps, extend and add new features while deploying with ease.
-Just export and import from admin. No composer or NPM is required on production server.  
+**RVsitebuilder** is online website builder with ready-to-use beautiful templates, beginner friendly, realtime responsive website online, and freely available worldwide from our [hosting partners](https://rvsitebuilder.com/hosting-partner/).
 
 There are 4 groups of users we created RVsitebuilder for: 
 
