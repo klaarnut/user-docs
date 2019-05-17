@@ -17,7 +17,7 @@ RVsitebuilder has online demo that everyone can try and see how it works on cont
 ## Getting RVsitebuilder
 
 RVsitebuilder on control panel server will be globally provided by hosting providers that can be found in our [Hosting Partner](https://rvsitebuilder.com/hosting-partner/) page. Select one based on your country and contact them for hosting service.
-RVsitebuilder on non-control panel server can be done by the installation [here](//TOTO: url )
+RVsitebuilder on non-control panel server can be done by the installation [here](//TODO: url )
  
 ## Getting Support 
 
