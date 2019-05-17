@@ -30,6 +30,7 @@ From left to right
 To see your website in real time as you’re editing. A few seconds makes your website online.
 
 #### Apps
+
 To access to more Apps you can use with your website aside from features in content editor. Almost 10 FREE Apps are available by default, and much more in [RVsitebuilder Apps Marketplace](https://apps.rvsitebuilder.com/) that you can install to use with your website. Free, cheap, and reasonable price Apps are all selectable.
 
 #### Website Admin (Your Name)
@@ -54,6 +55,4 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-###### Theme Color
-
-To select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
+**Theme Color** is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
