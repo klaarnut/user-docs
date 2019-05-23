@@ -58,3 +58,29 @@ Let’s say it’s color theme of your website. Aside from website template whic
 *Theme Color* is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
 *Font* is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
+
+*Background* will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
+
+##### Topmenu
+
+The top most to be seen is popular to display main parts of your company such as Logo, Telephone Number, Support or quick link, and also Account Name for when you allow your website to be logged in. Select one in 21 Topmenu designs to match your website template and theme, or to be completely different to get more attraction. The “Login/Logout” is enabled by default to let you and website visitors to register and login. Disable it if you like.
+
+##### Menu
+
+The main navigation on your website can be set to be matched and more unique by select in one from 32 Horizontal Menu designs or one from 6 Transparent designs. Make it more Modern with “Overlap” function to make Menu float over website banner for more cooler. Disable Menu completely for when you make a website that has only one page.
+
+##### Banner
+
+Banner has 2 types, Hero and Slide. It can be switch between 2 types by select one from 29 Hero styles or 85 Slide styles, just be aware that all current content and setting will be reset by the change. The selected Banner can be changed its image(s) later by your desire.
+
+##### Sidebar
+
+The attention needed Page or Blog Post can be placed as to always gain on every page of your website. Make those highlight Page or Post on Left or Right or both sides at your desire.
+
+##### Footer
+
+Footer is the important part on website to let people know your company whereabout. The address is identity that makes people trust in your company. Keep them follow and in touch with you on renowned social channels.
+
+##### Header Position
+
+Freely reposition of Header pieces (Banner, Topmenu, Menu) as you want in Header area.
