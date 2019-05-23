@@ -55,7 +55,7 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-⋅⋅⋅*Theme Color* is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.⋅⋅
+*Theme Color* is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
 *Font* is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
 
@@ -84,3 +84,139 @@ Footer is the important part on website to let people know your company whereabo
 - **Header Position**
 
 Freely reposition of Header pieces (Banner, Topmenu, Menu) as you want in Header area.
+
+#### Content
+
+image
+
+- **Section**
+
+Start page content with Content Sections that guide you for how to insert content and image to your page. Just drag a Section you like to drop anywhere on page Body area. All selected Section can be moved, customized section background, background for Blogs in Section.
+
+- **Form**
+
+Use Online Form for website visitors to submit it directly to your Email Address. Add more fields to your Form for proper purpose, Calendar, Price, etc. Form section can also be play with design to make it more gorgeous.
+
+- **MEnu**
+
+Add more Page(s) to Menu or Top Menu before defying to a page that already made Content for it, redirect this new added Page to a Blog Post or other websites at your desire.
+
+- **Add Page/Post**
+
+Add a New Page or new Post and immediately without worrying about where to put it on Menu. You can defy it to where you want any time.
+
+#### Email
+
+You may want to send an email for those visitors who register to your website as Welcome Email, Email Template can be useful and easier to support you. Custom its design to be matched your website design.
+
+- **Template**
+
+Select one from two default Email Template of how you want the email to be, and custom it later.
+
+- **Background**
+
+Make Email with background that match your website theme. Give dimensions of the email content and its background on Top, Bottom, Left, Right as you like.
+
+- **Header**
+
+elect one from 7 Header designs and custom it the way you like such as Header color, Header Image, insert Logo, company name, telephone number, make it the way that the receiver will immediately know that it was sent from you,
+
+- **Footer**
+
+Select one from 7 Footer designs, the information on Email Footer will be the same as in your website Footer by default. Add or edit the social channels to be followed.
+
+### Center Menu
+image
+
+- **Insert**
+The center to insert anything to content on page you’re editing.
+
+*Link*
+
+Connect page content to other page or Blog post to promote or give more related content. The link can also be set to other external website, email, files to open, content bookmark.
+
+*Image*
+
+To upload image(s) from your computer, browse from your facebook personal account, or select in our Free images and Background styles.
+
+*Table*
+
+Insert table to control content the way you want to your responsive website in easy way. Table settings are easy and displaying perfectly on mobile mode as well. 
+
+*Youtube*
+
+Upload video you want to present on your Youtube channel and add it to your page with this function, it not only helps save your website space but also makes this page works faster than upload video directly to the page itself. 
+
+*Icon*
+
+Hundreds of free icons to be freely used on any place of your website without worry of copyright or icon quality. All icons here are royalty-free and high resolution.
+
+*Specila Characters*
+
+Special Characters that you don’t have on your keyboard to make text more stylish, correct with some other language or text symbols are available to be used.
+
+*Separate Line*
+
+Divide content parts by in the same text block with Separate Line is not only to be more clearly reading but the text block also looking cool.
+
+- **Preview**
+
+The real time website preview mode while you’re editing. See how your website would be on sizes of device screens, computer desktop, ipad and mobile in rotate eyes.
+
+- **Hide/Show Admin Top Bar**
+
+Admin Top Bar is an always-appear tool bar for more faster access wherever you are in CMS. Sometimes while you’re at content builder, you can hide this Top Bar in case if it becomes as eyesore.
+
+### Right Menu
+
+Image
+
+- **Curren Page name with a symbol and 3-dots**
+
+The current page that you’re working with. It comes with a symbol in front of it such as Home or Document to tell the page’s priority. The 3-dots contains page setting for Set as home, Rename, Set as draft, Duplicate, SEO, Meta tag, Js/Css, Visibility.
+
+*Set as home*
+
+Make this page Home page of your website. Setting this page as Home will cahneg status of the previous Home page to be normal page.
+
+*Rename*
+
+Rename this page and it will result on page name on Navigation, page’s URL, and Footer Sitemap.
+
+*Set a draft*
+
+Hide this page for when it’s not finished to be shown on website yet. Set it a draft page that you can work with it until it’s done as set it undrafted to show it on your website.
+
+*Duplicate*
+
+Duplicate this page for the purpose such as doing your website content in other languages. The design and content will be the same, the page name will be marked with a number. Just rename the duplicated page as the way it should.
+
+*SEO*
+
+Make this page get ranked on search engine website such as google.com. Every page on your website has auto title and description for search engine tracking by the page name and content you add. It’d be better to edit it to the effective title and description.
+
+*Meta Tag*
+
+To insert embed meta tag that you would like search engines to track.
+
+*CSS/JS*
+
+If you can write your own CSS or Javascript and would like to use it on your page, RVsitebuilder CMS allows it here.
+
+Insert CSS in this place by ignoring <style> /* and */ </style> tags.
+
+Insert Javascript in this place by ignoring <script> /* and */</script> tags.
+
+*Visibility*
+
+Set this page to be visible to the visitors you want. There are 3 mains to concern.
+
+- *Public*, every page’s visibility is “Public” to be visible to EVERYONE by default.
+
+- *All Members*, set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
+
+- *Restricted Members*, aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
+
+-- **User**, is the role for those visitors who registered to be your website members. Every registered user is User.
+
+-- **VIP**, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
