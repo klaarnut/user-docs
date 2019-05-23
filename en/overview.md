@@ -220,3 +220,11 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 -- **User**, is the role for those visitors who registered to be your website members. Every registered user is User.
 
 -- **VIP**, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
