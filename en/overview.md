@@ -51,7 +51,7 @@ A place you can control how your website looks like from the most top down the f
 
 The 7 main parts to make your website be more attractive and functional.
 
-##### Website
+*##### Website*
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
@@ -61,7 +61,7 @@ Let’s say it’s color theme of your website. Aside from website template whic
 
 *Background* will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
 
-##### Topmenu
+##### *Topmenu*
 
 The top most to be seen is popular to display main parts of your company such as Logo, Telephone Number, Support or quick link, and also Account Name for when you allow your website to be logged in. Select one in 21 Topmenu designs to match your website template and theme, or to be completely different to get more attraction. The “Login/Logout” is enabled by default to let you and website visitors to register and login. Disable it if you like.
 
