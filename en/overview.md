@@ -221,3 +221,32 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 
 -- **VIP**, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
+
+- **Site**
+
+To navigate or change page/post editor.
+
+*Pages*
+
+- *Recent*
+Quick way to access to your recently added pages.
+
+- *Menu Pages*
+List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
+
+- *Internal Page*
+Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
+
+*Blog*
+
+- *Recent*
+Quick way to access to your recently added pages.
+
+- *Post*
+List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
+
+*System*
+
+- *System Page*
+
+
