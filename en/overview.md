@@ -16,7 +16,7 @@
 
 ## ADMIN INTERFACE
 
-### - Admin Top Bar
+### Admin Top Bar
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
@@ -55,11 +55,11 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-*Theme Color* is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
+*Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
-*Font* is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
+*Font* : is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
 
-*Background* will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
+*Background* : will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
 
 - **Topmenu**
 
@@ -97,7 +97,7 @@ Start page content with Content Sections that guide you for how to insert conten
 
 Use Online Form for website visitors to submit it directly to your Email Address. Add more fields to your Form for proper purpose, Calendar, Price, etc. Form section can also be play with design to make it more gorgeous.
 
-- **MEnu**
+- **Menu**
 
 Add more Page(s) to Menu or Top Menu before defying to a page that already made Content for it, redirect this new added Page to a Blog Post or other websites at your desire.
 
@@ -128,42 +128,42 @@ Select one from 7 Footer designs, the information on Email Footer will be the sa
 ### Center Menu
 image
 
-- **Insert**
+#### Insert
 The center to insert anything to content on page you’re editing.
 
-*Link*
+- **Link**
 
 Connect page content to other page or Blog post to promote or give more related content. The link can also be set to other external website, email, files to open, content bookmark.
 
-*Image*
+- **Image**
 
 To upload image(s) from your computer, browse from your facebook personal account, or select in our Free images and Background styles.
 
-*Table*
+- **Table**
 
 Insert table to control content the way you want to your responsive website in easy way. Table settings are easy and displaying perfectly on mobile mode as well. 
 
-*Youtube*
+- **Youtube**
 
 Upload video you want to present on your Youtube channel and add it to your page with this function, it not only helps save your website space but also makes this page works faster than upload video directly to the page itself. 
 
-*Icon*
+- **Icon**
 
 Hundreds of free icons to be freely used on any place of your website without worry of copyright or icon quality. All icons here are royalty-free and high resolution.
 
-*Specila Characters*
+- **Special Characters**
 
 Special Characters that you don’t have on your keyboard to make text more stylish, correct with some other language or text symbols are available to be used.
 
-*Separate Line*
+- **Separate Line**
 
 Divide content parts by in the same text block with Separate Line is not only to be more clearly reading but the text block also looking cool.
 
-- **Preview**
+#### Preview
 
 The real time website preview mode while you’re editing. See how your website would be on sizes of device screens, computer desktop, ipad and mobile in rotate eyes.
 
-- **Hide/Show Admin Top Bar**
+#### Hide/Show Admin Top Bar
 
 Admin Top Bar is an always-appear tool bar for more faster access wherever you are in CMS. Sometimes while you’re at content builder, you can hide this Top Bar in case if it becomes as eyesore.
 
@@ -171,35 +171,35 @@ Admin Top Bar is an always-appear tool bar for more faster access wherever you a
 
 Image
 
-- **Curren Page name with a symbol and 3-dots**
+#### Curren Page name with a symbol and 3-dots
 
 The current page that you’re working with. It comes with a symbol in front of it such as Home or Document to tell the page’s priority. The 3-dots contains page setting for Set as home, Rename, Set as draft, Duplicate, SEO, Meta tag, Js/Css, Visibility.
 
-*Set as home*
+- **Set as home**
 
 Make this page Home page of your website. Setting this page as Home will cahneg status of the previous Home page to be normal page.
 
-*Rename*
+- **Rename**
 
 Rename this page and it will result on page name on Navigation, page’s URL, and Footer Sitemap.
 
-*Set a draft*
+- **Set a draft**
 
 Hide this page for when it’s not finished to be shown on website yet. Set it a draft page that you can work with it until it’s done as set it undrafted to show it on your website.
 
-*Duplicate*
+- **Duplicate**
 
 Duplicate this page for the purpose such as doing your website content in other languages. The design and content will be the same, the page name will be marked with a number. Just rename the duplicated page as the way it should.
 
-*SEO*
+- **SEO**
 
 Make this page get ranked on search engine website such as google.com. Every page on your website has auto title and description for search engine tracking by the page name and content you add. It’d be better to edit it to the effective title and description.
 
-*Meta Tag*
+- **Meta Tag**
 
 To insert embed meta tag that you would like search engines to track.
 
-*CSS/JS*
+- **CSS/JS**
 
 If you can write your own CSS or Javascript and would like to use it on your page, RVsitebuilder CMS allows it here.
 
@@ -207,47 +207,42 @@ Insert CSS in this place by ignoring <style> /* and */ </style> tags.
 
 Insert Javascript in this place by ignoring <script> /* and */</script> tags.
 
-*Visibility*
+- **Visibility**
 
 Set this page to be visible to the visitors you want. There are 3 mains to concern.
 
-- *Public*, every page’s visibility is “Public” to be visible to EVERYONE by default.
+*Public* : every page’s visibility is “Public” to be visible to EVERYONE by default.
 
-- *All Members*, set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
+*All Members* : set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
 
-- *Restricted Members*, aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
+*Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
 
--- **User**, is the role for those visitors who registered to be your website members. Every registered user is User.
+- *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
 
--- **VIP**, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
+- *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
 
 
-- **Site**
+#### Site
 
 To navigate or change page/post editor.
 
-*Pages*
+- **Pages**
 
-- *Recent*
-Quick way to access to your recently added pages.
+*Recent* : Quick way to access to your recently added pages.
 
-- *Menu Pages*
-List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
+*Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
 
-- *Internal Page*
-Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
+*Internal Page* : Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
 
-*Blog*
+- **Blog**
 
-- *Recent*
-Quick way to access to your recently added pages.
+*Recent* : Quick way to access to your recently added pages.
 
-- *Post*
-List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
+*Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
 
-*System*
+- **System**
 
-- *System Page*
+*System Page* :
 
 
