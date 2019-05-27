@@ -55,11 +55,11 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-*Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
+- *Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
-*Font* : is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
+- *Font* : is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
 
-*Background* : will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
+- *Background* : will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
 
 - **Topmenu**
 
@@ -211,15 +211,15 @@ Insert Javascript in this place by ignoring <script> /* and */</script> tags.
 
 Set this page to be visible to the visitors you want. There are 3 mains to concern.
 
-*Public* : every page’s visibility is “Public” to be visible to EVERYONE by default.
+- *Public* : every page’s visibility is “Public” to be visible to EVERYONE by default.
 
-*All Members* : set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
+- *All Members* : set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
 
-*Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
+- *Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
 
-- *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
+- - *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
 
-- *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
+- - *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
 
 
@@ -229,20 +229,20 @@ To navigate or change page/post editor.
 
 - **Pages**
 
-*Recent* : Quick way to access to your recently added pages.
+- *Recent* : Quick way to access to your recently added pages.
 
-*Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
+- *Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
 
-*Internal Page* : Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
+- *Internal Page* : Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
 
 - **Blog**
 
-*Recent* : Quick way to access to your recently added pages.
+- *Recent* : Quick way to access to your recently added pages.
 
-*Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
+- *Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
 
 - **System**
 
-*System Page* :
+- *System Page* :
 
 
