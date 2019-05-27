@@ -217,7 +217,7 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 
 - *Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
 
-- - *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
+ - *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
 
 - - *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
