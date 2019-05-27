@@ -222,6 +222,7 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 -- **VIP**, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
 
+
 - **Site**
 
 To navigate or change page/post editor.
