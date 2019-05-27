@@ -243,6 +243,16 @@ To navigate or change page/post editor.
 
 - **System**
 
-- *System Page* :
+- *System Page*
+
+- - *Core (App Master)*, The master template for Register page and Login page for admin(s) and user(s). You can drag the same all tools as Content such as Banner, Section and custom its color and background in this master template page to be design for Register and Login pages.
+
+- - *Login*, To set the system of Login pages for admin(s) and user(s). It of the System pages such as Register page and Login page for admin(s) and user(s). Login system allow 3rd parties such as Google account, Facebook, Twitter, LINE and also JWT Login.
+
+- - *Register*, Set how you would allow people to register to your website, increase security with strength and captcha to enable and Admin Approve.
+
+- - *Admin Login*, For you and other website admin(s) to login to website admin area.
+
+
 
 
