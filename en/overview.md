@@ -225,7 +225,7 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 
 - **Site**
 
-..To navigate or change page/post editor.
+⋅⋅⋅To navigate or change page/post editor.
 
 *Pages*
 
