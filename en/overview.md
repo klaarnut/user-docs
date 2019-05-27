@@ -1,6 +1,6 @@
 # RVsitebuilder Overview
 
-## Login System
+## LOGIN SYSTEM
 
 ### Access RVsitebuilder via cPanel control panel
 
@@ -14,9 +14,9 @@
 1. Enter admin login.
 
 
-## Admin Interface
+## ADMIN INTERFACE
 
-### Admin Top Bar
+### - Admin Top Bar
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
@@ -225,7 +225,7 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 
 - **Site**
 
-⋅⋅⋅To navigate or change page/post editor.
+To navigate or change page/post editor.
 
 *Pages*
 
