@@ -1,7 +1,7 @@
 # Creating New Site
 
 ## Domain Name Selection
-After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overview.md#login-system_), you can start your professtionla guide in 1 minute!
+After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overview.md#login-system_), you can start your professtional site in 1 minute!
 1. Start with selecting a domain name you want to create a beautiful professtional website with RVsitebuilder 7.
 [image of domain selct step]
 1. Click "Next" to continue.
