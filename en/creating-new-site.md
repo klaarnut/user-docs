@@ -25,7 +25,7 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
   8.1 Add more menu by clicking plus button
   [image]
   8.2 On the Menu Setting you can:
-    8.2.1 Fill your Menu name
+  8.2.1 Fill your Menu name
     8.2.2 Add icon which will appear in front of the menu.
     8.2.3 Add badge to get more attractive from visitor.
     8.2.4 Select the method you need to open this menu.
