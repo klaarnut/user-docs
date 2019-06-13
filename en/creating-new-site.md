@@ -12,13 +12,16 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 [ image of crete site running progress]
 
 ## Beautiful Template
-6. Start your website with up to 200 ready-made beautiful templates. Keep or customize as you like.
+5. Select your website with up to 200 ready-made beautiful templates. Keep or customize as you like.
 
 ## Professional Website
+6. Easy way to create a wonderful website just drag and drop element 
 
 ### Website Banner
+7.
 
 ### Website Navigation
+8. Manage your Top Menu and Menu
 
 ### Website Content
 
