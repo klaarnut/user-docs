@@ -12,7 +12,7 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 [ image of crete site running progress]
 
 ## Beautiful Template
-1. Select template relate to your business categorie with up to 200 ready-made beautiful templates. Keep or customize as you like.
+Select template relate to your business categorie with up to 200 ready-made beautiful templates. Keep or customize as you like.
 
 
 ## Professional Website
@@ -36,7 +36,7 @@ You can insert a new Top menu on this. At the step **Content**, click on the Men
 
 There are 2 ways of adding a new menu
 
-1. Adding a new page: On the step Content click on the New Page button. You can add a new page and select Show on Menu box. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a Show on Menu box, it will create a new page, also add the menu to your navigation bar.
+1. Adding a new page: On the step Content click on the New Page button. You can add a new page and checkbox Show on Menu. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a Show on Menu box, it will create a new page, also add the menu to your navigation bar.
 1. Adding manually menu: You can add a new menu and select page to point at the step Content, click on the Menu icon and select Menu. You can adjust and point the menu to a page as you want. 
 
 
