@@ -3,8 +3,7 @@
 เอกสารสำหรับผู้ใช้ RVsitebuilder CMS
 
 ![Kiku](images/logo.png)
-![orewa](images/under_construction.png)
-![Fang](images/2018-02-07.png)
+
 
 
 # H1
@@ -24,6 +23,7 @@ Alt-H2
 
 siri edit 1 2 llll
 ## hk
+<<<<<<< HEAD
 ####### oh yeah
 fang edit 1 2
 siri edit 1 2
@@ -31,3 +31,6 @@ fang edit 1 2 123654
 amarin edit 1
 fang2 test edit
 123456
+=======
+
+>>>>>>> 17787512c7ee413b73c960a09dd3cccd5782fb3a
