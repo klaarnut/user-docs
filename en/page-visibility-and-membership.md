@@ -5,7 +5,7 @@
 ### Meaning
 Page visibility is the feature to set to whom your page(s) will be visible to, public, all members, or restricted members.
 
-**Public**, is the default visibility for every page you added in your website. The Public is meant to allow every one who open the page to be able to see the content.
+**Public**, is the default visibility for every page you added in your website. The Public is meant to allow everyone who open the page to be able to see the content.
 
 **All members**, is the custom visibility you can define to any page in your website. It will allow ONLY MEMBERS who registered on your website can see the content of this page by logging in with their registered username and password.
 
@@ -27,7 +27,7 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 
 Once **Visibility** clicked, you will be at Page Management box.
 
-- **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its visibility now. You can change to others page from here to set their visibilities.
+- **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its visibility now. You can change to other pages from here to set their visibilities.
 
 - **Page Management** with current page name on the right column. The slideable button will be shown as "Auto" with colorless which it's telling that the visibility of THIS PAGE is automatically set to PUBLIC. 
 
