@@ -30,12 +30,17 @@ Manage your Top Menu and Menu
 
 **Top Menu:** Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
 
+You can insert a new Top menu on this. At the step **Content**, click on the Menu icon and select **Top Menu**. You can adjust and point the menu to a page as you want, also insert the icon in front of the menu. [image]
+
 **Main Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
 
 There are 2 ways of adding a new menu
 
 1. Adding a new page: On the step Content click on the New Page button. You can add a new page and select Show on Menu box. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a Show on Menu box, it will create a new page, also add the menu to your navigation bar.
-You can insert a new Top menu on this. At the step **Content**, click on the Menu icon and select **Top Menu**. You can adjust and point the menu to a page as you want, also insert the icon in front of the menu.
+1. Adding manually menu: You can add a new menu and select page to point at the step Content, click on the Menu icon and select Menu. You can adjust and point the menu to a page as you want. 
+
+
+
 
 1. Add more menu by clicking plus button [image]
 1. On the Menu Setting you can:
