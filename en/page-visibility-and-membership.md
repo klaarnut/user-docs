@@ -34,15 +34,16 @@ Once **Visibility** clicked, you will be at Page Management box.
 Slide this button to right, and select one audience type for this page.
 
 
+
 ## Website Membership
 
-At the current page editor, click on Apps, selct Member to open Member management area.
-[ร ูปภาพ ]
+At the current page editor, click on **Apps**, selct **Member** to open Member management area.
+[ image ]
 
 Dashboard
 
 All website members, you, other website admins, and those customers who registered on your website will be listed here.
-[ รูป dashboard ]
+[ dashboard image ]
 
 You can edit these member by clicking on their names.
 
