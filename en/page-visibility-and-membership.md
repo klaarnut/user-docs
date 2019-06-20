@@ -36,6 +36,15 @@ Slide this button to right, and select one audience type for this page.
 
 ## Website Membership
 
+At the current page editor, click on Apps, selct Member to open Member management area.
+[ร ูปภาพ ]
+
+Dashboard
+
+All website members, you, other website admins, and those customers who registered on your website will be listed here.
+[ รูป dashboard ]
+
+You can edit these member by clicking on their names.
 
 
 
