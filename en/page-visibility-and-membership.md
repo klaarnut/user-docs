@@ -15,7 +15,8 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 #### Setting Areas
 - 3-dot next to current page name you're editing
 
-[ image ]
+![Kiku](image/Visibility1.png)
+
 - Site -> Pge Management icon
 
 [ image ]
@@ -38,7 +39,7 @@ Slide this button to right, and select one audience type for this page.
 ## Website Membership
 
 At the current page editor, click on **Apps**, selct **Member** to open Member management area.
-(image/Visibility1.png)
+[ image ]
 
 Dashboard
 
