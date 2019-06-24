@@ -39,6 +39,9 @@ Once **Visibility** clicked, you will be at Page Management box.
 
 Slide this button to right, and select one audience type for this page.
 
+![image](images/visibility4.png)
+
+
 
 
 ## Website Membership
@@ -52,7 +55,7 @@ At the current page editor, click on **Apps**, selct **Member** to open Member m
 
 All website members, you, other website admins, and those customers who registered on your website will be listed here.
 
-![image](images/member2.png)
+![image](images/member3.png)
 
 
 You can edit these member by clicking on their names.
