@@ -57,7 +57,7 @@ All website members, you, other website admins, and those customers who register
 
 ![image](images/member3.png)
 
-
+ #### Edit Current Member
 You can edit these member by clicking on their names.
 
 
