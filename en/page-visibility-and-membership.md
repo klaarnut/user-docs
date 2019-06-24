@@ -38,7 +38,7 @@ Slide this button to right, and select one audience type for this page.
 ## Website Membership
 
 At the current page editor, click on **Apps**, selct **Member** to open Member management area.
-[ image ]
+(image/Visibility1.png)
 
 Dashboard
 
