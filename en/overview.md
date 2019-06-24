@@ -245,7 +245,8 @@ To navigate or change page/post editor.
 
 - *System Page*
 
-- - *Core (App Master)*, The master template for Register page and Login page for admin(s) and user(s). You can drag the same all tools as Content such as Banner, Section and custom its color and background in this master template page to be design for Register and Login pages.
+- **Member**
+The master template for Register page and Login page for admin(s) and user(s). You can drag the same all tools as Content such as Banner, Section and custom its color and background in this master template page to be design for Register and Login pages.
 
 - - *Login*, To set the system of Login pages for admin(s) and user(s). It of the System pages such as Register page and Login page for admin(s) and user(s). Login system allow 3rd parties such as Google account, Facebook, Twitter, LINE and also JWT Login.
 
@@ -253,6 +254,29 @@ To navigate or change page/post editor.
 
 - - *Admin Login*, For you and other website admin(s) to login to website admin area.
 
+- **Blog**
+To set main system for Blog on your website.
 
+- - *Category List*, Make Blog category list title you want. Control how many of posts and how it displays by date that should display on this part to make it perfectly match your website design.
+
+- - *Recent Post*. Give it the title that you want. Select Blog Categories you want to show recent posts here. Control how many of posts and how it displays by date. Date, author name, and category of each recent post shown here can be on and off.
+
+- - *Blog List*,
+- - *a) Setting*, Make the Blog list the title you want. Set how many of Blog post you want to show on this part, make it show the reasonable number by page for too many Blog post to be shown. Order the Blog post by its date, also to set to show and hide post’s date, post’s author name and category of the post. Give it more to be continued reading by putting a word the way you want instead of “Read more..”.
+
+- - *b) Design*, Select a layout design for how those Blog posts will be displayed in this part.
+
+- **Setting**
+
+One setting for global result that will take effect to every page and Blog post on your website unless you set some customization on specific page that it will take these result from page setting.
+
+- *Back to top*
+To show and no to show the “Back to top” button on the long content page that will automatically appear for visitor.
+
+- *Brand*
+To add your brand identity the same way you can on Top Menu. The latest setting in one of these 2 places will be the display on your website.
+
+#### Save
+To save what you’re working with on your page. Many features in RVsitebuilder CMS are auto-apply to your page but it’s not saved yet, so just click this Save button as frequently as you want.
 
 

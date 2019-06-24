@@ -6,9 +6,9 @@ RVsitebuilder 7 provides the easy way to set SEO to your website. Just visit the
 
 At the Page Management, you're ready on SEO tab.
 
-Auto title and descreiption are the automated default for page's title, site brand and description.
+Auto title and description are the automated default for page's title, site brand and description.
 
-**Slide the slide-button to right to custom page's title and description to be more effective SEO.**
+Slide the slide-button to right to custom page's title and description to be more effective SEO.
 - **Page's title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 - **Site brand** : It is inherrited from Site brand you defined as your company.
 - **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
