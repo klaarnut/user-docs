@@ -19,10 +19,12 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 
 - Site -> Pge Management icon
 
-[ image ]
+![Kiku](images/visibility2.png)
+
 - Site -> Menu Pages -> 3-dot after page names
 
-[ image ]
+![image](images/visibility3.png)
+
 
 #### Page Visibility Management
 
