@@ -16,7 +16,6 @@ Select template relate to your business categorie with up to 200 ready-made beau
 
 
 ## Professional Website
-1. Easy way to create a wonderful website just drag and drop element 
 
 ### Website Banner
 The Most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles.
@@ -39,11 +38,7 @@ There are 2 ways of adding a new menu
 1. Adding a new page: On the step Content click on the New Page button. You can add a new page and checkbox Show on Menu. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a Show on Menu box, it will create a new page, also add the menu to your navigation bar.
 1. Adding manually menu: You can add a new menu and select page to point at the step Content, click on the Menu icon and select Menu. You can adjust and point the menu to a page as you want. 
 
-
-
-
-1. Add more menu by clicking plus button [image]
-1. On the Menu Setting you can:
+On the Menu Setting you can:
 
 - Fill your Menu name
 - Add icon which will appear in front of the menu.
@@ -52,8 +47,21 @@ There are 2 ways of adding a new menu
 - Choose a direction to link this menu.
 
 ### Website Content
-1.
-### Website Footer
-1.
+Easy way to create a wonderful website just drag and drop element.
 
+### Website Footer
+The new feature of RVsitebuilder is an adjustable footer area! In version 7, it allows you to change the style and background color by selecting from a list we provides.
+
+1. On step Design, select a Footer icon.
+1. Now RVsitebuilder 7 provides 8 styles to choose and set to show a sitemap and copyright. Don't forget to click **Apply** after you selected.
+1. You can insert your information by clicking on each block.
+
+**Information Setting**
+Simply put, your company profile is a professional introduction and aims to inform people (primarily prospective buyers and stakeholders) your products, services, and current status. A well written company profile is a great opportunity for your company to differentiate itself.
+
+**Contact Us setting** Add your company address for more trustworthy and easy to contact. A logo, a phone number will be shown on your top menu also.
+
+**Social Media setting** Always have your visitors stay connected with you on Facebook, Twitter, Google+, Instagram, Line that will appear on website footer.
+
+> **Tip:** Showing a sitemap - This feature will be useful for visitors to get faster and easier access.
 
