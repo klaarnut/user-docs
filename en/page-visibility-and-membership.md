@@ -17,13 +17,16 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 
 ![Kiku](images/Visibility1.png)
 
+
 - Site -> Page Management icon
 
 ![Kiku](images/visibility2.png)
 
+
 - Site -> Menu Pages -> 3-dot after page names
 
 ![image](images/visibility3.png)
+
 
 
 #### Page Visibility Management
@@ -41,12 +44,16 @@ Slide this button to right, and select one audience type for this page.
 ## Website Membership
 
 At the current page editor, click on **Apps**, selct **Member** to open Member management area.
-[ image ]
 
-Dashboard
+![image](images/member1.png)
+
+
+### User Management
 
 All website members, you, other website admins, and those customers who registered on your website will be listed here.
-[ dashboard image ]
+
+![image](images/member2.png)
+
 
 You can edit these member by clicking on their names.
 
