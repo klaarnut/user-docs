@@ -58,7 +58,15 @@ All website members, you, other website admins, and those customers who register
 ![image](images/member3.png)
 
 
-You can edit these member by clicking on their names.
+#### Edit Current Member
+You can edit password, enable the member to login by single sign-on from their socials accounts (Gogle Email, Facebook, Twitter, LINE), personal information, and roles , or delete member.
+
+1. Click the name you want to edit.
+1. In the member information page, edit fields you want. 
+1. Click **Update** button for saving.
+
+
+![image](images/member4.png)
 
 
 
