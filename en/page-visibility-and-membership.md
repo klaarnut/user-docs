@@ -46,6 +46,16 @@ Slide this button to right, and select one audience type for this page.
 
 ## Website Membership
 
+### Meaning
+
+Member is where to manage user and role for website members for both those you added and those who registered by themselves.
+
+**User Management** is to manage users information.
+
+**Role Management** is to manage roles for users.
+
+#### Setting Area
+
 At the current page editor, click on **Apps**, selct **Member** to open Member management area.
 
 ![image](images/member1.png)
@@ -67,6 +77,40 @@ You can edit password, enable the member to login by single sign-on from their s
 
 
 ![image](images/member4.png)
+
+
+#### Add New Member
+
+You can add anyone as a member to your website. Give them role, and send them the login information.
+
+1. Click on **Add Member**.
+1. Add information in all fields.
+- **Role** You can define role for thie new user as Administrator, Executive, User, or VIP. We will see more details about each role in the next part.
+- **NOtification** 
+- *Active*, Check this box for immediately activate this user once added.
+- *Verified*, Check this box to make this user verified by you once added.
+- *Send user welcome email*, Check this box to send Account Activation email to this user by email address given above.
+- *Sene new registered user email to add administrator*, Check this box to send New Activated User to all administrator of this website.
+1. Click **Create** to confirm adding this user.
+
+
+#### Delete Member
+
+Delete member will permanently delete that person from access to your member area website, all privilege and data will be deleted. Make sure before using this feature.
+
+1. Click a name you want to delete from being your website member.
+1. In user information page, click on **Delete** on the top right corner.
+1. Confirm.
+
+This user is deleted from member area of your website but still visit your website as normal visitor.
+
+
+### Role Management
+
+
+
+
+
 
 
 
