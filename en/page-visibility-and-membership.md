@@ -84,14 +84,22 @@ You can edit password, enable the member to login by single sign-on from their s
 You can add anyone as a member to your website. Give them role, and send them the login information.
 
 1. Click on **Add Member**.
-1. Add information in all fields.
-- **Role** You can define role for thie new user as Administrator, Executive, User, or VIP. We will see more details about each role in the next part.
-- **NOtification** 
-- *Active*, Check this box for immediately activate this user once added.
-- *Verified*, Check this box to make this user verified by you once added.
-- *Send user welcome email*, Check this box to send Account Activation email to this user by email address given above.
-- *Sene new registered user email to add administrator*, Check this box to send New Activated User to all administrator of this website.
-1. Click **Create** to confirm adding this user.
+
+![image](images/member5.png)
+
+
+2. Add information in all fields.
+
+![image](images/member6.png)
+***Role*** You can define role for thie new user as Administrator, Executive, User, or VIP. We will see more details about each role in the next part.
+***Notification*** 
+*Active*, Check this box for immediately activate this user once added.
+*Verified*, Check this box to make this user verified by you once added.
+*Send user welcome email*, Check this box to send Account Activation email to this user by email address given above.
+*Sene new registered user email to add administrator*, Check this box to send New Activated User to all administrator of this website.
+3. Click **Create** to confirm adding this user.
+
+![image](images/member5.png)
 
 
 #### Delete Member
@@ -99,8 +107,18 @@ You can add anyone as a member to your website. Give them role, and send them th
 Delete member will permanently delete that person from access to your member area website, all privilege and data will be deleted. Make sure before using this feature.
 
 1. Click a name you want to delete from being your website member.
-1. In user information page, click on **Delete** on the top right corner.
-1. Confirm.
+
+![image](images/member7.png)
+
+
+2. In user information page, click on **Delete** on the top right corner.
+
+![image](images/member8.png)
+
+
+3. Confirm.
+
+![image](images/member9.png)
 
 This user is deleted from member area of your website but still visit your website as normal visitor.
 
