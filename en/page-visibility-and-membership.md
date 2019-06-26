@@ -97,11 +97,8 @@ You can add anyone as a member to your website. Give them role, and send them th
 ***Notification*** 
 
 *Active*, Check this box for immediately activate this user once added.
-
 *Verified*, Check this box to make this user verified by you once added.
-
 *Send user welcome email*, Check this box to send Account Activation email to this user by email address given above.
-
 *Sene new registered user email to add administrator*, Check this box to send New Activated User to all administrator of this website.
 
 3. Click **Create** to confirm adding this user.
