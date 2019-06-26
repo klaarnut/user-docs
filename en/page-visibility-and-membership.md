@@ -39,7 +39,7 @@ Once **Visibility** clicked, you will be at Page Management box.
 
 Slide this button to right, and select one audience type for this page.
 
-![image](images/visibility4.png)
+![image](images/visibility5.png)
 
 
 
