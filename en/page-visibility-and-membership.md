@@ -113,7 +113,7 @@ Delete member will permanently delete that person from access to your member are
 
 1. Click a name you want to delete from being your website member.
 
-![image](images/member7.png)
+![image](images/member71.png)
 
 
 2. In user information page, click on **Delete** on the top right corner.
@@ -125,12 +125,12 @@ Delete member will permanently delete that person from access to your member are
 
 ![image](images/member9.png)
 
-This user is deleted from member area of your website but still visit your website as normal visitor.
+This user is deleted from member area of your website but still able visit your website as normal visitor.
 
 
 ### Role Management
 
-Role is the privilege to define to website member. You, as the website starter, will hold **Administrator**. All self-registered will have role as **User** by default.
+Role is the privilege to define to website member. You, as the website starter, will hold **Administrator** role. All self-registered will have role as **User** by default.
 
 There are 4 roles you can manage, and more custom role(s) you can create.
 
@@ -140,11 +140,11 @@ There are 4 roles you can manage, and more custom role(s) you can create.
 
 **Administrator**, The most privilege role for website member. This role holds all permissions to manage website, can add , delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
-**Executive**, The high privilege second from Admistrator. This role holds exclusive permission to access to website admin area to edit website content, manage installed applications, mostly for website information but cannot manage users and roles. This role is mainly used when you want more website content editors than you.
+**Executive**, The high privilege role second from Administrator. This role holds exclusive permission to access to website admin area to edit website content, manage installed applications, mostly for website information but cannot manage users and roles. This role is mainly used when you want more website content editors aside from you.
 
 ## Frontend Role
 
-**User**, The member privilege for website visitors who registered to your website. User role is mostly for permission to access to member or some pages on your website you set visibilily only for User (memeber).
+**User**, The member privilege for website visitors who registered to your website. User role is mostly for permission to access to member area or some pages on your website you set visibilily only for User (member).
 
 **VIP**, The **User** more permission role that can be used when you want some **User** to access to website admin area. This role is not famous to use, so it allows you to remove it from your website member management.
 
@@ -161,6 +161,7 @@ Role management allows you to create custom role(s) you may need.
 1. Click **Create**.
 
 ![image](images/role3.png)
+
 
 
 
