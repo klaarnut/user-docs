@@ -91,15 +91,23 @@ You can add anyone as a member to your website. Give them role, and send them th
 2. Add information in all fields.
 
 ![image](images/member6.png)
+
 ***Role*** You can define role for thie new user as Administrator, Executive, User, or VIP. We will see more details about each role in the next part.
+
 ***Notification*** 
+
 *Active*, Check this box for immediately activate this user once added.
+
 *Verified*, Check this box to make this user verified by you once added.
+
 *Send user welcome email*, Check this box to send Account Activation email to this user by email address given above.
+
 *Sene new registered user email to add administrator*, Check this box to send New Activated User to all administrator of this website.
+
 3. Click **Create** to confirm adding this user.
 
 ![image](images/member5.png)
+
 
 
 #### Delete Member
