@@ -38,9 +38,10 @@ Slide this button to right before adding SEO to this page.
 
 Auto title and description are the automated default for page's title, site brand and description.
 
+Slide the slide-button to right to custom page's title and description to be more effective SEO.
+
 ![image](images/seo4.png)
 
-Slide the slide-button to right to custom page's title and description to be more effective SEO.
 - **Page title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 - **Site brand** : It is inherrited from Site brand you defined as your company.
 - **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
@@ -71,7 +72,6 @@ RVsitebuilder provides places to insert meta tag and meta description for users.
 ![image](images/meta2.png)
 
 
-At the Page Management, you're ready on Meta tab. Insert embed meta tag here. And connect with ZGoogle API by this guide.
 Once **Meta tag** clicked, you will be at Page Management box.
 
 - **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its Meta tag now. You can change to other pages from here.
