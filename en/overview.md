@@ -44,7 +44,7 @@ To show who is (you are) working now. Click on it and select.
 
 ### Left Menu
 
-![Kiku](images/logo.png)
+[ image ]
 
 #### Template
 
