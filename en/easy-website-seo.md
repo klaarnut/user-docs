@@ -1,11 +1,10 @@
-# Easy Website SEO
+# Easy Website SEO and Meta Tag
 
 ## Make your website found on google
 
+### Website SEO
 
 SEO strategy nowadays is not only to do the meta tag in order to get ranked in google. And as google nowadays has improved its algorithm in website ranking, so it becomes more focus on Page Title or content, related to what popular searched from global searchers.
-
-And in RVsitebuilder, we provide places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google, it's about SEO strategies as explained above.
 
 RVsitebuilder 7 provides the easy way to set SEO to your website.
 
@@ -42,3 +41,31 @@ Slide the slide-button to right to custom page's title and description to be mor
 - **Description** : Make a few less-is-more sentences for the seek and found you. A short description about your business.
 
 *Tips*: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
+
+
+
+### Website Meta Tag
+
+RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google, it's about SEO strategies as explained above.
+
+
+#### Setting Areas
+- 3-dot next to current page name you're editing
+
+![Kiku](images/meta1.png)
+
+
+- Site -> Page Management icon
+
+![Kiku](images/visibility2.png)
+
+
+- Site -> Menu Pages -> 3-dot after page names
+
+![image](images/meta2.png)
+
+
+At the Page Management, you're ready on Meta tab. Insert embed meta tag here. And connect with ZGoogle API by this guide.
+
+![image](images/meta3.png)
+
