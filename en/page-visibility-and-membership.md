@@ -125,7 +125,7 @@ Delete member will permanently delete that person from access to your member are
 
 ![image](images/member9.png)
 
-This user is deleted from member area of your website but still able visit your website as normal visitor.
+This user is deleted from member area of your website but still able to visit your website as normal visitor.
 
 
 ### Role Management
