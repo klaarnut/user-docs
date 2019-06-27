@@ -47,7 +47,7 @@ Slide the slide-button to right to custom page's title and description to be mor
 - **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
 - **Description** : Make a few less-is-more sentences for the seek and found you. A short description about your business.
 
-*Tips*: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
+*Tips*: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
 
 
 
