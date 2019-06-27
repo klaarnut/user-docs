@@ -1,4 +1,4 @@
-# Easy Website SEO and Meta Tag
+# Easy Website SEO and Meta tag
 
 ## Make your website found on google
 
@@ -6,7 +6,7 @@
 
 SEO strategy nowadays is not only to do the meta tag in order to get ranked in google. And as google nowadays has improved its algorithm in website ranking, so it becomes more focus on Page Title or content, related to what popular searched from global searchers.
 
-RVsitebuilder 7 provides the easy way to set SEO to your website.
+RVsitebuilder 7 provides the easy way to set SEO in your website.
 
 
 #### Setting Areas
@@ -25,7 +25,13 @@ RVsitebuilder 7 provides the easy way to set SEO to your website.
 ![image](images/seo2.png)
 
 
-At the Page Management, you're ready on SEO tab.
+Once **SEO** clicked, you will be at Page Management box.
+
+- **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its SEO now. You can change to other pages from here.
+
+- **Page Management** with current page name on the right column. The slideable button will be shown with colorless which it's telling that the SEO of THIS PAGE is automatically set by your inserted content. 
+
+Slide this button to right before adding SEO to this page.
 
 ![image](images/seo3.png)
 
@@ -35,7 +41,7 @@ Auto title and description are the automated default for page's title, site bran
 ![image](images/seo4.png)
 
 Slide the slide-button to right to custom page's title and description to be more effective SEO.
-- **Page's title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
+- **Page title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 - **Site brand** : It is inherrited from Site brand you defined as your company.
 - **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
 - **Description** : Make a few less-is-more sentences for the seek and found you. A short description about your business.
@@ -44,7 +50,7 @@ Slide the slide-button to right to custom page's title and description to be mor
 
 
 
-### Website Meta Tag
+### Website Meta tag
 
 RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google, it's about SEO strategies as explained above.
 
@@ -66,6 +72,11 @@ RVsitebuilder provides places to insert meta tag and meta description for users.
 
 
 At the Page Management, you're ready on Meta tab. Insert embed meta tag here. And connect with ZGoogle API by this guide.
+Once **Meta tag** clicked, you will be at Page Management box.
+
+- **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its Meta tag now. You can change to other pages from here.
+
+- **Page Management** with current page name on the right column. Insert embed meta tag here. And connect with Google API by this guide.
 
 ![image](images/meta3.png)
 
