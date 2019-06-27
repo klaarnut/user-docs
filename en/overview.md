@@ -16,6 +16,10 @@
 1. Open domain name on browser with /admin/login
 1. Enter admin login.
 
+![image](images/overview2.png)
+
+![image](images/overview3.png)
+
 
 ## ADMIN INTERFACE
 
