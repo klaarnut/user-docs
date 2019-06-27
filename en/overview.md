@@ -8,6 +8,9 @@
 1. Look for Software feature group.
 1. Click on "RVsitebuilder 7" icon.
 
+![image](images/overview1.png)
+
+
 ### Access RVsitebuilder by domain name
 
 1. Open domain name on browser with /admin/login
@@ -20,8 +23,6 @@
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
-
-![Kiku](images/logo.png)
 
 From left to right
 
