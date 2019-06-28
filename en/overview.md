@@ -171,7 +171,7 @@ Select one from 7 Footer designs, the information on Email Footer will be the sa
 
 ![image](images/email5footer.png)
 
-
+------------------------------------------------
 ### Center Menu
 
 ![image](images/centermenu.png)
@@ -224,7 +224,7 @@ Admin Top Bar is an always-appear tool bar for more faster access wherever you a
 
 ![image](images/showHide.png)
 
-
+------------------------------------------------
 ### Right Menu
 
 ![image](images/rightmenu.png)
@@ -344,6 +344,6 @@ To save what you’re working with on your page. Many features in RVsitebuilder 
 
 ![image](images/rightmenu3.png)
 
-
+------------------------------------------------
 
 
