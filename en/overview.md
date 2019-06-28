@@ -27,6 +27,7 @@
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
+![image](images/admintopbar.png)
 
 From left to right
 
@@ -42,15 +43,21 @@ To access to more Apps you can use with your website aside from features in cont
 
 To show who is (you are) working now. Click on it and select.
 
+
 ### Left Menu
 
-[ image ]
+![image](images/leftmenu.png)
 
 #### Template
 
-The first thing to welcome you to start a beautiful website. Every website template in every template category is automatically making your website a responsive one. The content, the layout, the images are well-designed for perfectly displaying on every device’s screen. You can see all RVsitebuilder 7 templates in our [website](https://rvsitebuilder.com/template/). 
+![image](images/template.png)
+
+The first thing to welcome you to start a beautiful website. Every website template in every template category is automatically making your website a responsive one. The content, the layout, the images are well-designed for perfectly displaying on every device’s screen. You can see all RVsitebuilder 7 templates in our [website](https://rvsitebuilder.com/template/).
+
 
 #### Design
+
+![image](images/design1.png)
 
 A place you can control how your website looks like from the most top down the footer. Not only for the beautiful look but also for more action and conversion you will get from your website visitors.
 
@@ -59,6 +66,8 @@ The 7 main parts to make your website be more attractive and functional.
 - **Website**
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
+
+![image](images/design2website.png)
 
 - *Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
@@ -70,71 +79,108 @@ Let’s say it’s color theme of your website. Aside from website template whic
 
 The top most to be seen is popular to display main parts of your company such as Logo, Telephone Number, Support or quick link, and also Account Name for when you allow your website to be logged in. Select one in 21 Topmenu designs to match your website template and theme, or to be completely different to get more attraction. The “Login/Logout” is enabled by default to let you and website visitors to register and login. Disable it if you like.
 
+![image](images/design3topmenu.png)
+
 - **Menu**
 
 The main navigation on your website can be set to be matched and more unique by select in one from 32 Horizontal Menu designs or one from 6 Transparent designs. Make it more Modern with “Overlap” function to make Menu float over website banner for more cooler. Disable Menu completely for when you make a website that has only one page.
+
+![image](images/design4menu.png)
 
 - **Banner**
 
 Banner has 2 types, Hero and Slide. It can be switch between 2 types by select one from 29 Hero styles or 85 Slide styles, just be aware that all current content and setting will be reset by the change. The selected Banner can be changed its image(s) later by your desire.
 
+![image](images/design5banner.png)
+
 - **Sidebar**
 
 The attention needed Page or Blog Post can be placed as to always gain on every page of your website. Make those highlight Page or Post on Left or Right or both sides at your desire.
+
+![image](images/design6sidebar.png)
 
 - **Footer**
 
 Footer is the important part on website to let people know your company whereabout. The address is identity that makes people trust in your company. Keep them follow and in touch with you on renowned social channels.
 
-- **Header Position**
+![image](images/design7footer.png)
+
+- **Sort Header**
 
 Freely reposition of Header pieces (Banner, Topmenu, Menu) as you want in Header area.
 
+![image](images/design8header.png)
+
+
 #### Content
 
-image
+![image](images/content1.png)
 
 - **Section**
 
 Start page content with Content Sections that guide you for how to insert content and image to your page. Just drag a Section you like to drop anywhere on page Body area. All selected Section can be moved, customized section background, background for Blogs in Section.
 
+![image](images/content2section.png)
+
 - **Form**
 
 Use Online Form for website visitors to submit it directly to your Email Address. Add more fields to your Form for proper purpose, Calendar, Price, etc. Form section can also be play with design to make it more gorgeous.
+
+![image](images/content3form.png)
 
 - **Menu**
 
 Add more Page(s) to Menu or Top Menu before defying to a page that already made Content for it, redirect this new added Page to a Blog Post or other websites at your desire.
 
+![image](images/content4menu.png)
+
 - **Add Page/Post**
 
 Add a New Page or new Post and immediately without worrying about where to put it on Menu. You can defy it to where you want any time.
+
+![image](images/content5addpage.png)
+
 
 #### Email
 
 You may want to send an email for those visitors who register to your website as Welcome Email, Email Template can be useful and easier to support you. Custom its design to be matched your website design.
 
+![image](images/email1.png)
+
 - **Template**
 
 Select one from two default Email Template of how you want the email to be, and custom it later.
+
+![image](images/email2template.png)
 
 - **Background**
 
 Make Email with background that match your website theme. Give dimensions of the email content and its background on Top, Bottom, Left, Right as you like.
 
+![image](images/email3bg.png)
+
 - **Header**
 
 elect one from 7 Header designs and custom it the way you like such as Header color, Header Image, insert Logo, company name, telephone number, make it the way that the receiver will immediately know that it was sent from you,
+
+![image](images/email4header.png)
 
 - **Footer**
 
 Select one from 7 Footer designs, the information on Email Footer will be the same as in your website Footer by default. Add or edit the social channels to be followed.
 
+![image](images/email5footer.png)
+
+
 ### Center Menu
-image
+
+![image](images/centermenu.png)
 
 #### Insert
+
 The center to insert anything to content on page you’re editing.
+
+![image](images/insert.png)
 
 - **Link**
 
@@ -164,21 +210,30 @@ Special Characters that you don’t have on your keyboard to make text more styl
 
 Divide content parts by in the same text block with Separate Line is not only to be more clearly reading but the text block also looking cool.
 
+
 #### Preview
 
 The real time website preview mode while you’re editing. See how your website would be on sizes of device screens, computer desktop, ipad and mobile in rotate eyes.
+
+![image](images/preview.png)
+
 
 #### Hide/Show Admin Top Bar
 
 Admin Top Bar is an always-appear tool bar for more faster access wherever you are in CMS. Sometimes while you’re at content builder, you can hide this Top Bar in case if it becomes as eyesore.
 
+![image](images/showHide.png)
+
+
 ### Right Menu
 
-Image
+![image](images/rightmenu.png)
 
 #### Curren Page name with a symbol and 3-dots
 
 The current page that you’re working with. It comes with a symbol in front of it such as Home or Document to tell the page’s priority. The 3-dots contains page setting for Set as home, Rename, Set as draft, Duplicate, SEO, Meta tag, Js/Css, Visibility.
+
+![image](images/rightmenu1.png)
 
 - **Set as home**
 
@@ -188,7 +243,7 @@ Make this page Home page of your website. Setting this page as Home will cahneg 
 
 Rename this page and it will result on page name on Navigation, page’s URL, and Footer Sitemap.
 
-- **Set a draft**
+- **Set as draft**
 
 Hide this page for when it’s not finished to be shown on website yet. Set it a draft page that you can work with it until it’s done as set it undrafted to show it on your website.
 
@@ -200,17 +255,17 @@ Duplicate this page for the purpose such as doing your website content in other 
 
 Make this page get ranked on search engine website such as google.com. Every page on your website has auto title and description for search engine tracking by the page name and content you add. It’d be better to edit it to the effective title and description.
 
-- **Meta Tag**
+- **Meta tag**
 
 To insert embed meta tag that you would like search engines to track.
 
-- **CSS/JS**
+- **Js/Css**
 
-If you can write your own CSS or Javascript and would like to use it on your page, RVsitebuilder CMS allows it here.
-
-Insert CSS in this place by ignoring <style> /* and */ </style> tags.
+If you can write your own Javascript or CSS and would like to use it on your page, RVsitebuilder CMS allows it here.
 
 Insert Javascript in this place by ignoring <script> /* and */</script> tags.
+
+Insert CSS in this place by ignoring <style> /* and */ </style> tags.
 
 - **Visibility**
 
@@ -227,10 +282,11 @@ Set this page to be visible to the visitors you want. There are 3 mains to conce
 - - *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
 
-
 #### Site
 
 To navigate or change page/post editor.
+
+![image](images/rightmenu2.png)
 
 - **Pages**
 
@@ -281,7 +337,13 @@ To show and no to show the “Back to top” button on the long content page tha
 - *Brand*
 To add your brand identity the same way you can on Top Menu. The latest setting in one of these 2 places will be the display on your website.
 
+
 #### Save
+
 To save what you’re working with on your page. Many features in RVsitebuilder CMS are auto-apply to your page but it’s not saved yet, so just click this Save button as frequently as you want.
+
+![image](images/rightmenu3.png)
+
+
 
 
