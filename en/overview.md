@@ -69,11 +69,11 @@ Let’s say it’s color theme of your website. Aside from website template whic
 
 ![image](images/design2website.png)
 
-- *Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
+*Theme Color* : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
-- *Font* : is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
+*Font* : is the related font colors from the selected Theme Color. It also displays real time on your content area at Header text and icons. You can also change these related font colors as you desire.
 
-- *Background* : will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
+*Background* : will be “Fluid (full screen)” with color pickers disabled by default. You can apply and change Background color by disable “Fluid (full screen)”. Color, Custom, Gradient are all colors and shades you can select for your website background. Upload your own image or select pre-installed background images and designs are selectable in Image Manager.
 
 - **Topmenu**
 
@@ -180,7 +180,7 @@ Select one from 7 Footer designs, the information on Email Footer will be the sa
 
 The center to insert anything to content on page you’re editing.
 
-![image](images/insert.png)
+![image](images/Insert.png)
 
 - **Link**
 
@@ -271,15 +271,15 @@ Insert CSS in this place by ignoring <style> /* and */ </style> tags.
 
 Set this page to be visible to the visitors you want. There are 3 mains to concern.
 
-- *Public* : every page’s visibility is “Public” to be visible to EVERYONE by default.
+*Public* : every page’s visibility is “Public” to be visible to EVERYONE by default.
 
-- *All Members* : set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
+*All Members* : set this page to be accessed and visible to only those who registered to your website as members, or those you added them as members by yourself.
 
-- *Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
+*Restricted Members* : aside from setting page to be visible to those all members on your website, you can also restricted members by giving role to them as User or VIP.
 
-- - *User*, is the role for those visitors who registered to be your website members. Every registered user is User.
+-*User*, is the role for those visitors who registered to be your website members. Every registered user is User.
 
-- - *VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
+-*VIP*, the more privileged role you set to some User as VIP. Select this will restrict to only those VIP to see this page.
 
 
 #### Site
@@ -290,51 +290,51 @@ To navigate or change page/post editor.
 
 - **Pages**
 
-- *Recent* : Quick way to access to your recently added pages.
+*Recent* : Quick way to access to your recently added pages.
 
-- *Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
+*Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
 
-- *Internal Page* : Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
+*Internal Page* : Page(s) you don’t yet to be ready to publish with the 3-dots page setting.
 
 - **Blog**
 
-- *Recent* : Quick way to access to your recently added pages.
+*Recent* : Quick way to access to your recently added pages.
 
-- *Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
+*Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
 
 - **System**
 
-- *System Page*
+*System Page*
 
 - **Member**
 The master template for Register page and Login page for admin(s) and user(s). You can drag the same all tools as Content such as Banner, Section and custom its color and background in this master template page to be design for Register and Login pages.
 
-- - *Login*, To set the system of Login pages for admin(s) and user(s). It of the System pages such as Register page and Login page for admin(s) and user(s). Login system allow 3rd parties such as Google account, Facebook, Twitter, LINE and also JWT Login.
+*Login*, To set the system of Login pages for admin(s) and user(s). It of the System pages such as Register page and Login page for admin(s) and user(s). Login system allow 3rd parties such as Google account, Facebook, Twitter, LINE and also JWT Login.
 
-- - *Register*, Set how you would allow people to register to your website, increase security with strength and captcha to enable and Admin Approve.
+*Register*, Set how you would allow people to register to your website, increase security with strength and captcha to enable and Admin Approve.
 
-- - *Admin Login*, For you and other website admin(s) to login to website admin area.
+*Admin Login*, For you and other website admin(s) to login to website admin area.
 
 - **Blog**
 To set main system for Blog on your website.
 
-- - *Category List*, Make Blog category list title you want. Control how many of posts and how it displays by date that should display on this part to make it perfectly match your website design.
+*Category List*, Make Blog category list title you want. Control how many of posts and how it displays by date that should display on this part to make it perfectly match your website design.
 
-- - *Recent Post*. Give it the title that you want. Select Blog Categories you want to show recent posts here. Control how many of posts and how it displays by date. Date, author name, and category of each recent post shown here can be on and off.
+*Recent Post*. Give it the title that you want. Select Blog Categories you want to show recent posts here. Control how many of posts and how it displays by date. Date, author name, and category of each recent post shown here can be on and off.
 
-- - *Blog List*,
-- - *a) Setting*, Make the Blog list the title you want. Set how many of Blog post you want to show on this part, make it show the reasonable number by page for too many Blog post to be shown. Order the Blog post by its date, also to set to show and hide post’s date, post’s author name and category of the post. Give it more to be continued reading by putting a word the way you want instead of “Read more..”.
+*Blog List*,
+*a) Setting*, Make the Blog list the title you want. Set how many of Blog post you want to show on this part, make it show the reasonable number by page for too many Blog post to be shown. Order the Blog post by its date, also to set to show and hide post’s date, post’s author name and category of the post. Give it more to be continued reading by putting a word the way you want instead of “Read more..”.
 
-- - *b) Design*, Select a layout design for how those Blog posts will be displayed in this part.
+*b) Design*, Select a layout design for how those Blog posts will be displayed in this part.
 
 - **Setting**
 
 One setting for global result that will take effect to every page and Blog post on your website unless you set some customization on specific page that it will take these result from page setting.
 
-- *Back to top*
+*Back to top*
 To show and no to show the “Back to top” button on the long content page that will automatically appear for visitor.
 
-- *Brand*
+*Brand*
 To add your brand identity the same way you can on Top Menu. The latest setting in one of these 2 places will be the display on your website.
 
 
