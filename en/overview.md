@@ -288,9 +288,9 @@ To navigate or change page/post editor.
 
 ![image](images/rightmenu2.png)
 
-- **Pages**
+- **Page Setting**
 
-*Recent* : Quick way to access to your recently added pages.
+*Recently* : Quick way to access to your recently added pages.
 
 *Menu Pages* : List of all pages and all Blog posts on your website. The 3-dots behind is for same functions as 3-dots on current edit page.
 
@@ -298,7 +298,7 @@ To navigate or change page/post editor.
 
 - **Blog**
 
-*Recent* : Quick way to access to your recently added pages.
+*Recently* : Quick way to access to your recently added pages.
 
 *Post* : List of all Blog posts you on your website with the levels of categories it was added. The 3-dots behind is for same functions as 3-dots on current edit page.
 
@@ -306,7 +306,7 @@ To navigate or change page/post editor.
 
 *System Page*
 
-- **Member**
+***Member***
 The master template for Register page and Login page for admin(s) and user(s). You can drag the same all tools as Content such as Banner, Section and custom its color and background in this master template page to be design for Register and Login pages.
 
 *Login*, To set the system of Login pages for admin(s) and user(s). It of the System pages such as Register page and Login page for admin(s) and user(s). Login system allow 3rd parties such as Google account, Facebook, Twitter, LINE and also JWT Login.
@@ -315,7 +315,7 @@ The master template for Register page and Login page for admin(s) and user(s). Y
 
 *Admin Login*, For you and other website admin(s) to login to website admin area.
 
-- **Blog**
+***Blog***
 To set main system for Blog on your website.
 
 *Category List*, Make Blog category list title you want. Control how many of posts and how it displays by date that should display on this part to make it perfectly match your website design.
