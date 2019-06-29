@@ -1,6 +1,6 @@
 # Website Marketing
 
-## Google API Setup
+## Google API
 
 Once you setup [SEO and Meta tag](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/easy-website-seo.md) for your website already. You can see website performance and how SEO works on Google Console.
 
@@ -96,3 +96,53 @@ Select account you want to use for Google Analytics setup for your website.
 ![image](images/20.png)
 
 -------------------------------------------------------------------------
+
+## Setup Google Analytics
+
+Here's the guide to set Google Analytics to see your website performance.
+
+### Google Analytics Setup
+
+1. Register with Google Analytics at https://www.google.com/analytics/. If you have account with Google Analytics for your previous website, you can use it without going for new register.
+
+![image](images/mkt21.png)
+
+2. Once registration is completed, click on Gear icon for setting.
+
+![image](images/mkt22.png)
+
+3. At setting page, click **Create Account** (It will automatically show *Create new account* page for new register account.)
+
+![image](images/ana3.png)
+
+4. At *Create new account* page, click **Website**, and fill the required details.
+
+![image](images/mkt24.png)
+
+5. Then select **Get Tracking ID**.
+
+![image](images/mkt25.png)
+
+6. Accept Google Analytics Terms of Service by **I Accept** button.
+
+![image](images/mkt26.png)
+
+7. The **Tracking ID** of your website is now ready to use.
+
+![image](images/mkt27.png)
+
+8. Connecting Google Analytics report of your website to show in your website admin area, at Marketing dashboard:
+
+8.1) Login to your website, go to **Apps** -> **Marketing** -> **Go to Setup**.
+
+![image](images/webmkt1.png)
+
+8.2) Insert **Tracking ID** from number 7 in **Google Analytics** field, and click **Submit Google Tracking ID**.
+*If you can't see the field to insert Tracking ID, you will have to go to setup Google API first.*
+
+![image](images/ana8.png)
+
+-------------------------------------------------------------------------
+
+
+
