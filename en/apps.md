@@ -2,9 +2,11 @@
 
 ## Apps
 
-![image](images/apps1.png)
-
 RVsitebuilder 7 is a full function CMS, and it's also a tool that allows you to have more Apps to use with your website aside from features in content editor.
+
+You can navigate it from **Apps** -> **Manage**.
+
+![image](images/apps1.png)
 
 Once **Apps** clicked, you will be at My Apps page.
 
