@@ -161,10 +161,15 @@ You can bring these results to show on your website admin at Marketing dashboard
 If Google API setup is completed,these following results will be shown on your website admin at Marketing dashboard.
 
 Marketing -> Acquisition -> SEO
+
 Marketing -> Acquisition -> Web referral
+
 Marketing -> Performance -> Page speed
+
 Marketing -> Performance -> Crawl errors
+
 Marketing -> Performance -> robots.txt
+
 Marketing -> Users -> User Analytic
 
 -------------------------------------------------------------------------
