@@ -97,7 +97,7 @@ Select account you want to use for Google Analytics setup for your website.
 
 -------------------------------------------------------------------------
 
-## Setup Google Analytics
+## Google Analytics
 
 Here's the guide to set Google Analytics to see your website performance.
 
@@ -149,6 +149,23 @@ Here's the guide to set Google Analytics to see your website performance.
 *If you can't see the field to insert Tracking ID, you will have to go to setup Google API first.*
 
 ![image](images/Ana8.png)
+
+-------------------------------------------------------------------------
+
+## Google Search Console
+
+Google Search Console will monitor search result of your website on search engine such as google.com to let you analyse your SEO for the best solution.
+
+You can bring these results to show on your website admin at Marketing dashboard by setup Google API first.
+
+If Google API setup is completed,these following results will be shown on your website admin at Marketing dashboard.
+
+Marketing -> Acquisition -> SEO
+Marketing -> Acquisition -> Web referral
+Marketing -> Performance -> Page speed
+Marketing -> Performance -> Crawl errors
+Marketing -> Performance -> robots.txt
+Marketing -> Users -> User Analytic
 
 -------------------------------------------------------------------------
 
