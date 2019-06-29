@@ -67,11 +67,11 @@ Homepage URL : http://calmseas.netwaysite.com/
 5) ite Verification API
 *Sameple: Google Search Console API*
 
-![image](images/mkt11.png)
+![image](images/step11.png)
 
 *Click ***Enable*** to activate the API.*
 
-![image](images/mkt11.2.png)
+![image](images/step11.2.png)
 
 12. Login to your website admin, go to **Apps** -> **Marketing** -> **Go to Setup** to insert **Client ID** and **Client Secret** form number 9.
 
@@ -80,9 +80,9 @@ Homepage URL : http://calmseas.netwaysite.com/
 Then click **Create Google Authorization**.
 *(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
 
-![image](images/mkt12.1.png)
+![image](images/step12.1.png)
 
-![image](images/mkt12.2.png)
+![image](images/step12.2.png)
 
 13. Once the detail are are successfully submitted, you will be leased to Google Login page.
 Select account you want to use for Google Analytics setup for your website.
