@@ -1,26 +1,6 @@
 # Email Template
 
-Make your website more you with the custom email template for emails sent out to those visitors who register to your website and website admins. Email Template can be useful and easier to support you. Custom its design to be matched your website design.
-
-
-Emails sent from your website will be for:
-
-**Website Users**
-
-- Online Form: An email which will be sent to a user who submits the online form.
-
-- Reset password email: When a visitor clicked forgets password on website login area and need to reset it. 
-
-- Verify Email: Email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
-
-- Welcome Email: A greeting email which sends out when visitors approve the verification email.
-
- 
-**Website Admins**
-
-- Online Form: An email alert to inform that your visitor has submitted an online form on your website
-
-- New active user: An email alert to inform that you have a new member.
+Make your website way more you with the custom email template for emails sent out to those visitors who register to your website and website admins. Email Template can be useful and easier to support you. Custom its design to be matched your website design.
 
 
 ### Email Template Setup
@@ -39,19 +19,36 @@ Emails sent from your website will be for:
 
 In **Config** icon, you select an email page which you want to adjust.
 
-![image](images/email6.png)
-
 There are 2 templates for 2 receivers.
 
 **User template**, email templates to send to your website users.
 
-**Admin template**, email templates to send to website admins on your website.
+![image](images/email15.png)
 
 - **Master**, is to set an email template to globally use in every emails sent out.
 
 - **Form**, the email template to use with online form on your website.
 
 - **Member**, the email template to use with **Login** button on your website.
+
+- Reset password email: the email to use when users use forget password function on website login area. 
+
+- Verify Email: email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
+
+- Welcome Email: a greeting email which sends out when visitors approve the verification email.
+
+
+**Admin template**, email templates to send to website admins on your website.
+
+![image](images/email16.png)
+
+- **Master**, is to set an email template to globally use in every emails sent out.
+
+- **Member**, the email template to use to get alert from new users.
+
+- Online Form: an alert email to inform all website admins when a new user has submitted online form on your website.
+
+- New active user: an alert email to inform all website admin about new resgistered users.
 
 
 4. **Company Brand**
@@ -106,7 +103,7 @@ In **Config** icon, click on **Setting** to open email setting tools.
 
 - **Email Setting**, is to set email driver for sending out emails from your website from SMTP, Sendmail, Mailgun, Ses, Sparkpost, Log, or Array.
 
-![image](images/email11.png)
+![image](images/emaill11.png)
 
 - **Admin Email Management**, to set admin email or email sender. You can select whether the same as your admin account email or insert another one.
 
