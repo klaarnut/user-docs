@@ -15,7 +15,7 @@ You can click Add Category to create your own category. Also, you can select the
 On the Post page, there will be a blog widget which contains Category list and Recent Post as a default. 
 
 
-You can add more widget by clicking the "Section" icon then selecting "Blog"
+You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 
 Category list: This widget shows all your categories
