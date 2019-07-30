@@ -42,7 +42,18 @@ Manage your Top Menu and Menu
 
 **Top Menu:** Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
 
-You can insert a new Top menu on this. At the step **Content**, click on the Menu icon and select **Top Menu**. You can adjust and point the menu to a page as you want, also insert the icon in front of the menu. [image]
+You can select a Top menu style on step **Design**. Don't forget to click **Save**.
+
+![image](images/create8.png)
+
+
+And modify your Top menu on step **Content**, click on the Menu icon and select **Top Menu**. You can adjust and point the menu to a page as you want, also insert the icon in front of the menu.
+
+![image](images/create9.png)
+
+Clicking on a logo to change your own company logo and insert your company address.
+
+![image](images/create10.png)
 
 **Main Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
 
