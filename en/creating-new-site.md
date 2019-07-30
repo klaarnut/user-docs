@@ -100,7 +100,7 @@ The new feature of RVsitebuilder is an adjustable footer area! In version 7, it 
 
 ![image](images/create15.png)
 
-3. You can insert your information by clicking on an information block. Don't forget to click **Apply** after you insert a detail.
+3. You can insert your information by clicking on an information block. Click **Apply** after each change to make it save.
 
 ![image](images/create15-1.png)
 
