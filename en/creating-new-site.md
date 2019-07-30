@@ -100,6 +100,8 @@ The new feature of RVsitebuilder is an adjustable footer area! In version 7, it 
 
 ![image](images/create15.png)
 
+> **Tip:** Showing a sitemap - This feature will be useful for visitors to get faster and easier access.
+
 3. You can insert your information by clicking on an information block. Click **Apply** after each change to make it save.
 
 ![image](images/create15-1.png)
@@ -115,5 +117,5 @@ Simply put, your company profile is a professional introduction and aims to info
 
 ![image](images/create15-3.png)
 
-> **Tip:** Showing a sitemap - This feature will be useful for visitors to get faster and easier access.
+
 
