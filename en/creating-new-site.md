@@ -7,29 +7,34 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ![image](images/create1.png)
 
-1. Selecting a domain name you want to create a beautiful professtional website with RVsitebuilder 7 and clicking "Next" to continue.
+2. Selecting a domain name you want to create a beautiful professtional website with RVsitebuilder 7 and clicking "Next" to continue.
 
 ![image](images/create2.png)
 
-1. Check the information and add Admin Email, then check boxes to agree with our License Agreement.
+3. Check the information and add Admin Email, then check boxes to agree with our License Agreement.
 
 ![image](images/create3.png)
 
-1. Have a sip of your coffee while waiting for RVsitebuilder 7 creates itself in your domain name.
+4. Have a sip of your coffee while waiting for RVsitebuilder 7 creates itself in your domain name.
 
 ![image](images/create4.png)
 
 ## Beautiful Template
 Select template relate to your business categorie with up to 200 ready-made beautiful templates. Keep or customize as you like.
 
+![image](images/create5.png)
 
 ## Professional Website
 
 ### Website Banner
 The Most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles.
-- Hero Banner: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. [image]
+- Hero Banner: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
+
+![image](images/create6.png)
 
 - Slide Banner: Make it more than one image on your website banner, also you can change the slide effect.
+
+![image](images/create7.png)
 > **Note:** If you're setting website banner at Home page, it will affect to ALL pages. 
 
 ### Website Navigation
