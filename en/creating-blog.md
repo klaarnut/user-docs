@@ -13,6 +13,11 @@ You can click Add Category to create your own category. Also, you can select the
 
 ![image](images/blog02.png)
 
+Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
+Click on Blog Category Setting to adjust and select a design to display.
+
+![image](images/blog02-1.png)
+
 ## Add Widget
 
 On the Post page, there will be a blog widget which contains Category list and Recent Post as a default. 
@@ -36,4 +41,5 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 **Navigation**: A post breadcrumb navigation.
 
 **Next and Previous**: Visitor can click to see a next post and previous post.
+
 
