@@ -28,11 +28,11 @@ Select template relate to your business categorie with up to 200 ready-made beau
 
 ### Website Banner
 The Most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles.
-- Hero Banner: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
+- **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
 
 ![image](images/create6.png)
 
-- Slide Banner: Make it more than one image on your website banner, also you can change the slide effect.
+- **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
 
 ![image](images/create7.png)
 > **Note:** If you're setting website banner at Home page, it will affect to ALL pages. 
@@ -65,7 +65,7 @@ You can select a Menu style on step **Design**. Don't forget to click **Save**.
 
 There are 2 ways of adding a new menu
 
-1. **Adding a new page**: On the step Content click on the New Page button. You can add a new page and checkbox Show on Menu. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a Show on Menu box, it will create a new page, also add the menu to your navigation bar.
+1. **Adding a new page**: On the step Content click on **New Page**. You can add a new page and checkbox **Show on Menu**. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a **Show on Menu** box, it will create a new page, also add the menu to your navigation bar.
 
 ![image](images/create12-2.png)
 
