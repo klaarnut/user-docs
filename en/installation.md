@@ -27,6 +27,6 @@ Files.mirror1.rvsitebuilder.com
 - Enter license at manage app.
 
 4. Once the installation is completed.
-RVsitebuilder CMS is ready to [create website]](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) on your domain now!
+RVsitebuilder CMS is ready to [create website](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) on your domain now!
 
 
