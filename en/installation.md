@@ -2,14 +2,15 @@
 
 ## Getting RVsitebuilder License
 
-You can buy hosting service from our cPanel [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed in control panel.
-
-Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) and start your website!
+### cPanel Control Panel
+1. You can buy hosting service from our cPanel [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed.
+2. Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) and start your website!
  
 
-For other control panel systems, you can simply follow these steps.
+### Other Control Panel Systems
+For other control panel systems or non-control panel domain name, you can simply follow these steps.
 1. Getting RVsitebuilder license from your host provider or finding one in [hosting partners](https://rvsitebuilder.com/hosting-partner/).
-1. Make your control panel account meets with the following requrements.
+2. Make your control panel account meets with the following requrements.
 - Domain name must run on PHP7.1.3 or above. 
 - php extension: 'mysqlnd','pdo','gd','curl','iconv','mbstring','zip','posix_getpwuid','json' 
 - php ini config 'memory_limit' => 64M 
@@ -17,7 +18,7 @@ For other control panel systems, you can simply follow these steps.
 download.rvglobalsoft.com  
 Files.mirror1.rvsitebuilder.com 
 
-1. Install RVsitebuilder directly on your domain name.
+3. Install RVsitebuilder directly on your domain name.
 - Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer. 
 - Unzip the setup file 
 - Upload Folder rvsitebuilder to /public_html/ or /publc/ or /www/ 
@@ -25,7 +26,7 @@ Files.mirror1.rvsitebuilder.com
 - Follow the setup steps until finish. 
 - Enter license at manage app.
 
-**Once the installation is completed**
-RVsitebuilder CMS is ready to create a website for your domain.
+4. Once the installation is completed.
+RVsitebuilder CMS is ready to [create website]](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) on your domain now!
 
  
