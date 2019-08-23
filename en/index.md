@@ -7,12 +7,12 @@
     - [User Interface](user-interface.md) 
     - [Page Type](page-type.md)
 
-- ## Creating A New Site
+- ## Creating Website
     - [Create a New Website](create-new-website.md)
     - [Website Design](website-design.md)
     - [Website Branding](website-design.md)
     - [Pages and Content](website-design.md) 
-    - [Website Footer](website-design.md)
+    - [Website Footer](website-design.md)S
 
 - ## Website Blog
     - [Add New Blog](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##add-new-blog_)
