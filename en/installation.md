@@ -9,8 +9,8 @@
 
 ### Other Control Panel Systems and Non-control panel
 For other control panel systems or non-control panel domain name, you can simply follow these steps.
-1. Getting RVsitebuilder license from your host provider or finding one in [hosting partners](https://rvsitebuilder.com/hosting-partner/).
-2. Make your control panel account meets with the following requrements.
+1. Get RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
+2. Make your control panel account meet with the following requirements.
 - Domain name must run on PHP7.1.3 or above. 
 - php extension: 'mysqlnd','pdo','gd','curl','iconv','mbstring','zip','posix_getpwuid','json' 
 - php ini config 'memory_limit' => 64M 
@@ -29,4 +29,4 @@ Files.mirror1.rvsitebuilder.com
 4. Once the installation is completed.
 RVsitebuilder CMS is ready to [create website]](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) on your domain now!
 
- 
+
