@@ -7,7 +7,7 @@
 2. Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) and start your website!
  
 
-### Other Control Panel Systems
+### Other Control Panel Systems and Non-control panel
 For other control panel systems or non-control panel domain name, you can simply follow these steps.
 1. Getting RVsitebuilder license from your host provider or finding one in [hosting partners](https://rvsitebuilder.com/hosting-partner/).
 2. Make your control panel account meets with the following requrements.
