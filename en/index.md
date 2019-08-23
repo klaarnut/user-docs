@@ -12,7 +12,7 @@
     - [Website Design](website-design.md)
     - [Website Branding](website-design.md)
     - [Pages and Content](website-design.md) 
-    - [Website Footer](website-design.md)S
+    - [Website Footer](website-design.md)
 
 - ## Website Blog
     - [Add New Blog](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##add-new-blog_)
