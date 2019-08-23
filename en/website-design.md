@@ -1,23 +1,4 @@
-# Creating New Site
-
-## Domain Name Selection
-
-After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overview.md#login-system_), you can start your professtional site in 1 minute!
-1. Start with click **Create new site** 
-
-![image](images/create1.png)
-
-2. Selecting a domain name you want to create a beautiful professtional website with RVsitebuilder 7 and clicking "Next" to continue.
-
-![image](images/create2.png)
-
-3. Check the information and add Admin Email, then check boxes to agree with our License Agreement.
-
-![image](images/create3.png)
-
-4. Have a sip of your coffee while waiting for RVsitebuilder 7 creates itself in your domain name.
-
-![image](images/create4.png)
+# Website Design
 
 ## Beautiful Template
 Select template relate to your business categorie with up to 200 ready-made beautiful templates. Keep or customize as you like.
