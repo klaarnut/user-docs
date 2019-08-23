@@ -1,8 +1,9 @@
-# RVsitebuilder Overview
+# Create New Website
 
-## Website Admin Login System for Website Administrators
+## Accessing into RVsitebuilder
 
-### Access RVsitebuilder via cPanel control panel
+
+### By cPanel control panel
 
 1. Login to control panel.
 1. Look for Software feature group.
@@ -11,7 +12,7 @@
 ![image](images/overview1.png)
 
 
-### Access RVsitebuilder by domain name
+### By your domain name
 
 1. Open domain name on browser with /admin/login
 1. Enter admin login.
@@ -36,7 +37,7 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ![image](images/create3.png)
 
-4. Have a sip of your coffee while waiting for RVsitebuilder 7 creates itself in your domain name.
+4. Have a cup of coffee while waiting for RVsitebuilder 7 creates itself in your domain name.
 
 ![image](images/create4.png)
 
