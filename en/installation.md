@@ -9,7 +9,7 @@
 
 ### Other Control Panel Systems and Non-control panel
 For other control panel systems or non-control panel domain name, you can simply follow these steps.
-1. Get RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
+1. Get a control panel account or domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
 2. Make your control panel account meet with the following requirements.
 - Domain name must run on PHP7.1.3 or above. 
 - php extension: 'mysqlnd','pdo','gd','curl','iconv','mbstring','zip','posix_getpwuid','json' 
