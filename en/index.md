@@ -27,15 +27,13 @@
     - [Website Meta Tag](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/easy-website-seo.md##website-seo_)
     - [Blog SEO](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/easy-website-seo.md##blog-seo_)
 
-- ## Website Automation Email
-    - [Setting Automation Emails](setting-automation-emails.md)
+- ## Website Email
+    - [Setting Automation Emails](emails-settting.md)
 
-- ## Page Visibility and Website Member
+- ## Website Membership
     - [Page Visibility](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/page-visibility-and-membership.md##page-visibility_)
     - [Website Membership](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/page-visibility-and-membership.md##website-membership_)
-
-- ## Register and Login System
-    - Activate Register and Login System
+    - [Activate Register and Login System](register-and-login-system.md)
 
 - ## RVsitebuilder Apps
     - [Apps Management](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/apps.md##apps_)
