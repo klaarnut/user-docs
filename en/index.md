@@ -1,6 +1,7 @@
 - ## Getting started
     - [Introduction](introduction.md)   
     - [Installation](installation.md)
+    - [Glossary](glossary.md)
 
 - ## RVsitebuilder Overview
     - [Admin Interface](admin-interface.md) 
