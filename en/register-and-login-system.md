@@ -1,6 +1,6 @@
 # Register and Login System
 
-To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ Google​ Email, Facebook, Twitter, and​ also​ the​ dorect register​ with​ their​ email​ address​ is​ support​ed. 
+To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ Google​ Email, Facebook, Twitter, LINE, and​ also​ the​ direct register​ with​ their​ email​ address​ is​ support​ed. 
 ## Activate Google for register and login system
 
 Google Login Setup for Built-in Channels in your website
@@ -30,7 +30,7 @@ Insert Client ID and Client secret from number 8 to Google Login Setup, and clic
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
 
-##​ Facebook Login Setup for Built-in Channels in your website
+##​Facebook Login Setup for Built-in Channels in your website
 
 Go to https://developers.facebook.com/apps , select Create a New App.
 
