@@ -1,7 +1,6 @@
 # Register and Login System
 
-Making your website a member website, you allow website visitors to register and login with their emails. Here in RVsitebuilder 7, 
-
+To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ Google​ Email, Facebook, Twitter, and​ also​ the​ dorect register​ with​ their​ email​ address​ is​ support​ed. 
 ## Activate Google for register and login system
 
 Google Login Setup for Built-in Channels in your website
