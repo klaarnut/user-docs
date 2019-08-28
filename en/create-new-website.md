@@ -41,4 +41,11 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ![image](images/create4.png)
 
+## Content Editor
+
+On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
+In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. In “Image” section, it will present the almost ready content layout with cool text and picture positions with the beautiful background image from Background image album.
+
+1. 
+
 
