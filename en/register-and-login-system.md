@@ -73,53 +73,68 @@ Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystem0.png)
 
-1) Slide the slidable button to activate Google Login
-2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
+- 1) Slide the slidable button to activate Google Login
+- 2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
 *(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
 
-3) Click OK to add these values to your form.
+- 3) Click OK to add these values to your form.
 
-4) On Login Setting, click **Apply** to apply your setting.
+- 4) On Login Setting, click **Apply** to apply your setting.
 
 ![image](images/loginSystem6.png)
 
-5) Click **Save** to save all of your setting above.
+- 5) Click **Save** to save all of your setting above.
 
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
 
-##​Facebook Login Setup for Built-in Channels in your website
+------------------------------------------------------------------------------
 
-Go to https://developers.facebook.com/apps , select Create a New App.
+## ​Facebook Login Setup for Built-in Channels in your website
 
-Insert Display Name and Contact Email you want facebook to connect with your website. Then click Create App ID.
+1. Go to https://developers.facebook.com/apps , select **Create a New App**.
 
-Insert the correct Security Check.
+1. Insert **Display Name** and **Contact Email** you want facebook to connect with your website. Then click **Create App ID**.
 
-Next page, look for product Integrate Facebook Login and select Confirm.
+1. Insert the correct **Security Check**.
 
-At Facebook API management dashboard, find Facebook Login, and insert OAuth redirect URIs and Save Changes. (You can find OAuth redirect URIs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Login Callback URL for facebook.)
+1. Next page, look for product **Integrate Facebook Login** and select **Confirm**.
 
-Go to Settings -> Basic, to insert Privacy Policy URL. If you have a page to provide Privacy Policy on your website, if not, you can insert your website URL.
+1. At Facebook API management dashboard, find **Facebook Login**, and insert **OAuth redirect URIs** and **Save Changes**. *(You can find OAuth redirect URIs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Login Callback URL for facebook.)*
 
-Select + Add Platform to continue.
+1. Go to **Settings** -> **Basic**, to insert **Privacy Policy URL**. If you have a page to provide Privacy Policy on your website, if not, you can insert your website URL.
 
-Select Platform as Website.
+1. Select **+ Add Platform** to continue.
 
-Insert your website at Site URL and click Save Changes.
+1. Select Platform as **Website**.
 
-Next page, set the Status as On.
+1. Insert your website at **Site URL** and click **Save Changes**.
 
-Confirm the setting.
+1. Next page, set the **Status** as **On**.
 
-Look for App Secret, and select Show.
+1. **Confirm** the setting.
 
-Facebook API management page will display App ID and App secret.
+1. Look for **App Secret**, and select **Show**.
 
-Login as admin to your website.
+1. Facebook API management page will display **App ID** and **App secret**.
 
-Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Facebook Login Setup.
+1. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Facebook Login Setup.
 
-User the data of App ID and App secret from number 13 to insert at Facebook Login Setup.
+![image](images/loginSystem01.png)
+
+- 1) Slide the slidable button to activate Google Login
+- 2) Insert Client ID and Client secret from number 13 to Facebook Login Setup, and click OK to complete setting.
+
+- 3) Click OK to add these values to your form.
+
+- 4) On Login Setting, click **Apply** to apply your setting.
+
+![image](images/loginSystem6.png)
+
+- 5) Click **Save** to save all of your setting above.
+
+1. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
+
+------------------------------------------------------------------------------
