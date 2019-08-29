@@ -71,7 +71,7 @@ Click ***Enable*** to activate the API.*
 
 12. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
 
-![image](images/loginSystem0.png)
+![image](images/loginSystyem0.png)
 
 - 1) Slide the slidable button to activate Google Login
 - 2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
