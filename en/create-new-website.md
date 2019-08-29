@@ -49,6 +49,10 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 1. **Content**: a normal section which contains a various layout.
 2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
 3. **Backgroud**: It will present the almost ready content layout with cool text and picture positions with the beautiful background image from Background image album.
+4. **Team**: Showing your staff members including profile images, job positions, member names and so on.
+5. **Pricing**:
+6. **Contact**:
+7. **Table**:
 
 
 
