@@ -8,7 +8,7 @@ Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
-Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familiar with Google API Setup, you can follow easy setup below.
+Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familiar with Google API Setup, you can follow easy steps below.
 
 1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't have one.
 
