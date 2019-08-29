@@ -2,15 +2,15 @@
 
 To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ **Google​ Email, Facebook, Twitter, LINE**, and​ also​ the​ direct register​ with​ their​ email​ address​ is​ support​ed.
 
-## Activate Google for register and login system
+## Activate Google for website register and login system
 
 Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
-Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familar with Google API setup, you can follow easy setup below.
+Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familiar with Google API Setup, you can follow easy setup below.
 
-1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't hace one.
+1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't have one.
 
 2. In Google APIs page, click **Create** for setting your new Google API.
 
@@ -44,7 +44,11 @@ Homepage URL : http://calmseas.netwaysite.com/
 2) Create a name for recognizable
 3) Insert **Authorized JavaScript origins** (Your website URL)
 4) Insert **Redirect URL***
-*Please login to your website admin, go to Marketing -> Go to Setup to bring the value for Redirect URL information.*
+
+*Please login to your website editor -> Site  -> System, select "Login" under Member. Click on any area of Login widget to open Login Setting. Click on Social Login, and copy URL from Google Login Redirect URL*
+
+![image](images/loginSystem5.png)
+
 5) Don't forget to click **Save**.
 
 ![image](images/loginSystem2.png)
@@ -65,18 +69,24 @@ Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystem4.png)
 
-At Google Developer Console page, click Credentials.
+12. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
 
-Select OAuth Client ID you created from number 1.
+![image](images/loginSystem0.png)
 
-Google Developer Console page will display Client ID and Client secret.
+1) Slide the slidable button to activate Google Login
+2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
-Login as admin to your website.
+*(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
 
-Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
+3) Click OK to add these values to your form.
 
-Insert Client ID and Client secret from number 8 to Google Login Setup, and click OK to complete setting.
- 
+4) On Login Setting, click **Apply** to apply your setting.
+
+![image](images/loginSystem6.png)
+
+5) Click **Save** to save all of your setting above.
+
+13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
 
