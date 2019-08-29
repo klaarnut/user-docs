@@ -50,9 +50,14 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
 3. **Backgroud**: It will present the almost ready content layout with cool text and picture positions with the beautiful background image from Background image album.
 4. **Team**: Showing your staff members including profile images, job positions, member names and so on.
-5. **Pricing**:
-6. **Contact**:
-7. **Table**:
+5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
+6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
+7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
+8. **Video**:
+9. **Full screen**: 
+10. **Social**:
+11. **Blank**:
+12. **Blog**:
 
 
 
