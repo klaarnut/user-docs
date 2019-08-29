@@ -1,19 +1,69 @@
 # Register and Login System
 
-To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ Google​ Email, Facebook, Twitter, LINE, and​ also​ the​ direct register​ with​ their​ email​ address​ is​ support​ed. 
+To​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users,​ you can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ **Google​ Email, Facebook, Twitter, LINE**, and​ also​ the​ direct register​ with​ their​ email​ address​ is​ support​ed.
+
 ## Activate Google for register and login system
 
 Google Login Setup for Built-in Channels in your website
 
-Google Login Setup for Built-in Channels requires Google API Setup . If you don't setup it yet, please go setup by the guide first. If you did it already, you can continue to number 2.
+![image](images/login_system.png)
 
-After the Google API setup is completed, go to https://console.developers.google.com to select project you created for your website.
+Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familar with Google API setup, you can follow easy setup below.
 
-Click Library.
+1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't hace one.
 
-Search for Google+ API.
+2. In Google APIs page, click **Create** for setting your new Google API.
 
-Enable Google+ API (Google+ API should be already enabled by setting Google API for Marketing (number 1). But if it’s not, just enable it again.)
+![image](images/loginSystem1.png)
+
+3. Insert your Project Name, and click **Create**.
+
+![image](images/step3.png)
+
+4. Once the new project has been created, at Google APIs select your created project and click **Credential**.
+
+![image](images/step4.png)
+
+5. In Create credentials drop-down list, select OAuth client ID
+
+![image](images/6.png)
+
+6. Then, select **Configure consent screen**.
+
+![image](images/mkt9.png)
+
+7. Create your **Product name shown to users** and website URL at **Homepage URL**.
+
+For example: Product name shown to users : Calm Seas
+Homepage URL : http://calmseas.netwaysite.com/
+
+![image](images/step7.png)
+
+8. At **Create OAuth client ID** page.
+1) Select **Web application**
+2) Create a name for recognizable
+3) Insert **Authorized JavaScript origins** (Your website URL)
+4) Insert **Redirect URL***
+*Please login to your website admin, go to Marketing -> Go to Setup to bring the value for Redirect URL information.*
+5) Don't forget to click **Save**.
+
+![image](images/loginSystem2.png)
+
+9. The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
+
+![image](images/mkt12.png)
+
+10. Once you clicked OK to leave OAuth client, at Google APIs page , select **Library**.
+
+![image](images/mkt13.png)
+
+11. Search for the following API setups to **Enable** them.
+
+![image](images/loginSystem3.png)
+
+Click ***Enable*** to activate the API.*
+
+![image](images/loginSystem4.png)
 
 At Google Developer Console page, click Credentials.
 
