@@ -53,11 +53,26 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
 6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
 7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
-8. **Video**:
-9. **Full screen**: 
-10. **Social**:
-11. **Blank**:
-12. **Blog**:
+8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section. 
+9. **Full screen**: Full-screen mode takes advantage of your available screen real estate and provides a useful platform for presenting visual content. One main benefit of a full screen page layout is visibility.
+10. **Social**: Putting your social media channel on your website can directly affect the response and engagement from your visitor.
+11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
+12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
 
+## Font Style
 
+Step to add font style from Google Font.
+
+1. Choosing a font at Google Font.
+2. On RVsitebuilder text tool, click plus button behind a font style.
+
+![image](images/googlefont01.png)
+
+3. Fill a font name and click Add.
+
+![image](images/googlefont02.png)
+
+4. You can select a new font from a font list.
+
+Tips: You can add a miximum 5 font styles.
