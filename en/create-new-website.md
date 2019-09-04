@@ -125,7 +125,7 @@ A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
 ![image](images/shadowsection.png)
 
-You can select 6 shadow preset styles which you can midify color and size on the below setting.
+You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
    - **Overlap**
 
@@ -138,5 +138,7 @@ Making one section to overlap other sections.
 ![image](images/boxsection.png)
 
 Adjusting section border design.
+
+### Block Properties
 
 
