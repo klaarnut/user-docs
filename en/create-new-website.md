@@ -99,6 +99,8 @@ Use **Delete** icon to delete section. Be careful, it’s a prompt delete functi
 
 #### Duplicate Section
 
+![image](images/duplicatesection.png)
+
 You can use **Duplicate Section** icon to duplicate the section you want to repeat. It will copy all design and content immediately.
 
 #### Edit Section
