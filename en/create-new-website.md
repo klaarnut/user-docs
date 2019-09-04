@@ -77,7 +77,7 @@ Step to add font style from Google Font.
 
 ![image](images/googlefont03.png)
 
-    **Tips:** You can add a miximum 5 font styles.
+    *Tips:* You can add a miximum 5 font styles.
 
 ## Page Function
 
@@ -87,12 +87,27 @@ Step to add font style from Google Font.
 
 #### Move Section
 
+![image](images/movesection.png)
+
 Rearrange a section up or down by drag drag to drop where you want in the same page.
 
-### Delete Section
+#### Delete Section
+
+![image](images/deletesection.png)
 
 Use **Delete** icon to delete section. Be careful, it’s a prompt delete function.
 
-### Duplicate Section
+#### Duplicate Section
 
 You can use **Duplicate Section** icon to duplicate the section you want to repeat. It will copy all design and content immediately.
+
+#### Edit Section
+
+A Section properties which you can adjust Background, Shadow, Overlap and Box.
+
+##### Backgroud
+
+*Fluid (full screen)*: Enable or disable a full screen section.
+*Color* : Selecting background color by using color picker or choosing from a gradient color.
+*Background Image*: Inserting an image to a background. You can select an image from Image Manager.
+*Reponsive Image Position*: Image alignment on responsive mode.
