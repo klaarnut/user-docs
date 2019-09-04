@@ -78,3 +78,21 @@ Step to add font style from Google Font.
 ![image](images/googlefont03.png)
 
     **Tips:** You can add a miximum 5 font styles.
+
+## Page Function
+
+### Section Properties
+
+![image](images/sectionproperties01.png)
+
+#### Move Section
+
+Rearrange a section up or down by drag drag to drop where you want in the same page.
+
+### Delete Section
+
+Use **Delete** icon to delete section. Be careful, it’s a prompt delete function.
+
+### Duplicate Section
+
+You can use **Duplicate Section** icon to duplicate the section you want to repeat. It will copy all design and content immediately.
