@@ -108,6 +108,8 @@ You can use **Duplicate Section** icon to duplicate the section you want to repe
 A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
    - **Background**
+   
+![image](images/backgroundsection.png)
 
 *Fluid (full screen)*: Enable or disable a full screen section.
 
@@ -121,11 +123,18 @@ A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
 ![image](images/shadowsection.png)
 
-*Preset*: You can select 6 shadow styles which you can midify color and size on the below setting.
+You can select 6 shadow preset styles which you can midify color and size on the below setting.
 
    - **Overlap**
-   
 
 ![image](images/overlapsection.png)
 
 Making one section to overlap other sections. 
+
+   - **Box**
+
+![image](images/boxsection.png)
+
+Adjusting section border design.
+
+
