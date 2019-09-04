@@ -103,11 +103,22 @@ You can use **Duplicate Section** icon to duplicate the section you want to repe
 
 #### Edit Section
 
+![image](images/editsection.png)
+
 A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
-##### Backgroud
+   - **Background**
 
 *Fluid (full screen)*: Enable or disable a full screen section.
+
 *Color* : Selecting background color by using color picker or choosing from a gradient color.
+
 *Background Image*: Inserting an image to a background. You can select an image from Image Manager.
+
 *Reponsive Image Position*: Image alignment on responsive mode.
+
+   - **Shadow**
+
+![image](images/shadow.png)
+
+*Preset*: You can select 6 shadow styles. which you can midify color and size on the below setting.
