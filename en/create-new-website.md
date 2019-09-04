@@ -64,7 +64,7 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 Step to add font style from Google Font.
 
-1. Choosing a font at Google Font.
+1. Choosing a font at [Google Font](https://fonts.google.com).
 2. On RVsitebuilder text tool, click plus button behind a font style.
 
 ![image](images/googlefont01.png)
@@ -75,4 +75,6 @@ Step to add font style from Google Font.
 
 4. You can select a new font from a font list.
 
-Tips: You can add a miximum 5 font styles.
+![image](images/googlefont03.png)
+
+    **Tips:** You can add a miximum 5 font styles.
