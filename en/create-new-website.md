@@ -119,6 +119,6 @@ A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
    - **Shadow**
 
-![image](images/shadow.png)
+![image](images/shadowsection.png)
 
 *Preset*: You can select 6 shadow styles. which you can midify color and size on the below setting.
