@@ -141,4 +141,14 @@ Adjusting section border design.
 
 ### Block Properties
 
+#### Move Block
+Drag to drop where you want in the same section.
+
+#### Duplicate Block
+
+#### Edit Block
+
+#### Animation
+
+#### Delete Block
 
