@@ -83,7 +83,7 @@ Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystem6.png)
 
-    5) Click **Save** to save all of your setting above.
+    5) Click "Save" to save all of your setting above.
 
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
