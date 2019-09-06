@@ -1,9 +1,7 @@
 # Register and Login System
 
-Here are guides to​ allow​ website​ visitor​s​ to​ register​ in​ your​ website​ as​ a​ member for​ purpose such​ as​ some​ privilege page​ access​ or​ some​ part​ of​ website​ admin​ interface for​ some​ exclusive​ users.​
-You can​ activate​ the​ Built-in Login​ System​ to​ allow​ users to​ use​ their​ current​ account​ from​ **Google​ Email, Facebook, Twitter, LINE**, and​ also​ the​ direct register​ with​ their​ email​ address​ is​ support​ed.
-
-## Activate Google for website register and login system
+Once your website completed, you may want it to be [memberhsip](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/page-visibility-and-membership.md) one that allow users to register.
+Aside from them having to submit reguster from, you can also actiavte Built-in Login systems to​ allow​ users to​ use​ one of their​ current​ account​s from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
 
 Google Login Setup for Built-in Channels in your website
 
