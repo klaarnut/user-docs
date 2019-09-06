@@ -74,16 +74,14 @@ Click ***Enable*** to activate the API.*
 ![image](images/loginSystyem0.png)
 
     1) Slide the slidable button to activate Google Login.
-    
-    2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
-    *(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
+    2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
     3) Click OK to add these values to your form.
 
     4) On Login Setting, click **Apply** to apply your setting.
 
-    ![image](images/loginSystem6.png)
+![image](images/loginSystem6.png)
 
     5) Click **Save** to save all of your setting above.
 
@@ -133,7 +131,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     4) On Login Setting, click **Apply** to apply your setting.
 
-    ![image](images/loginSystem6.png)
+![image](images/loginSystem6.png)
 
     5) Click **Save** to save all of your setting above.
 
