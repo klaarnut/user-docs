@@ -1,7 +1,7 @@
 # Register and Login System
 
-Once your website completed, you may want it to be [memberhsip](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/page-visibility-and-membership.md) one that allow users to register.
-Aside from them having to submit reguster from, you can also actiavte Built-in Login systems to​ allow​ users to​ use​ one of their​ current​ account​s from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
+Once your website is completed, you may want it to be [memberhsip](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/page-visibility-and-membership.md) one that allow users to register.
+Aside from letting them to submit register form, you can also actiavte Built-in Login systems to​ allow​ them to​ use​ one of their​ current​ account​s from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
 
 Google Login Setup for Built-in Channels in your website
 

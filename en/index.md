@@ -16,29 +16,28 @@
     - [Website Footer](website-design.md)
 
 - ## Website Blog
-    - [Add New Blog](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##add-new-blog_)
-    - [Add New Category](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##add-new-category_) 
-    - [Blog Design]
-    Coming soon 
-    - [Blog Widgets](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##blog-widget_)
-    - [Edit Blog](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/creating-blog.md##edit-blog-category_)
+    - [Add New Blog](creating-blog.md)
+    - Add New Category
+    - Blog Design
+    - Blog Widgets
+    - Edit Blog
 
 - ## SEO
-    - [Website SEO](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/easy-website-seo.md##website-seo_)
-    - [Website Meta Tag](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/easy-website-seo.md##website-seo_)
-    - [Blog SEO](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/easy-website-seo.md##blog-seo_)
+    - [Website SEO](website-seo.md)
+    - [Website Meta Tag](website-meta-tag.md)
+    - Blog SEO
 
 - ## Website Email
-    - [Setting Automation Emails](emails-settting.md)
+    - [Setting Automation Emails](emails-setting.md)
 
 - ## Website Membership
-    - [Page Visibility](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/page-visibility-and-membership.md##page-visibility_)
-    - [Website Membership](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/page-visibility-and-membership.md##website-membership_)
+    - [Page Visibility](page-visibility.md)
+    - [Website Membership](website-membership.md)
     - [Activate Register and Login System](register-and-login-system.md)
 
 - ## RVsitebuilder Apps
-    - [Apps Management](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/apps.md##apps_)
-    - [Apps Marketplace](https://github.com/rvsitebuilder/user-docs/edit/7.2/en/apps.md##apps-marketplace_)
+    - [Apps Management](apps.md)
+    - [Apps Marketplace](apps-marketplace.md)
 
 - ## Website Management
     - Backing up Website
