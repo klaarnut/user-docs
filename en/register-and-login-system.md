@@ -170,3 +170,69 @@ If Google Login returns error when visitors try to login, please contact your ho
 ------------------------------------------------------------------------------
 
 ## LINE Login Setup for Built-in Channels in your website
+
+To setup Line app as a login channel for your website, you will have to register your email address with Line first.
+
+Register here: https://developers.line.biz/en/docs/line-login/getting-started/
+
+Then setup the login by following.
+1. Login to line developer console at: https://developers.line.biz/console/
+
+2. Click **Create New Provider**.
+![image](images/loginSystemLine1.png)
+
+3. Add Provider name, and Confirm.
+![image](images/loginSystemLine2.png)
+
+4. At "Confirm" stage, click **Create**.
+![image](images/loginSystemLine3.png)
+
+5. Create **Create Channel** for LINE Login.
+![image](images/loginSystemLine4.png)
+
+6. Add required values:
+
+*App name*
+*App description*
+*App type*, select Use Web
+*Email address*, add the email address of admin.
+![image](images/loginSystemLine5.png)
+
+7. Once you're at Confirm page, *checkbox at LINE Developer Agreement*, and click **Create**.
+![image](images/loginSystemLine6.png)
+
+8. You'll be leaded to App page. Click on **LINE Login** app.
+![image](images/loginSystemLine7.png)
+
+9. Insert **Callback URL**, and click **Update**.
+*(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)*
+![image](images/loginSystemLine8.png)
+
+
+10. To record email addresses of LINE registered users on your website, you can setup at **OpenID Connect** by clicking on **Submit**.
+![image](images/loginSystemLine9.png)
+
+*Check boxes for functions*, and click **Submit**.
+![image](images/loginSystemLine10.png)
+
+11. The details of **Channel ID** and **Channel secret** are showing.
+![image](images/loginSystemLine11.png)
+
+12. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
+
+![image](images/loginSystem02.png)
+
+    1) Slide the slidable button to activate Google Login
+    2) Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
+
+    3) Click OK to add these values to your form.
+
+    4) On Login Setting, click **Apply** to apply your setting.
+
+![image](images/loginSystemLine13.png)
+
+    5) Click **Save** to save all of your setting above.
+
+6. The LINE Login single sign-on is available for your user to login to your website without make a new register.
+
+------------------------------------------------------------------------------
