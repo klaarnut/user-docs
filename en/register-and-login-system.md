@@ -73,18 +73,18 @@ Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystyem0.png)
 
-- 1) Slide the slidable button to activate Google Login
-- 2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
+    1) Slide the slidable button to activate Google Login
+    2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
-*(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
+    *(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
 
-- 3) Click OK to add these values to your form.
+    3) Click OK to add these values to your form.
 
-- 4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click **Apply** to apply your setting.
 
-![image](images/loginSystem6.png)
+    ![image](images/loginSystem6.png)
 
-- 5) Click **Save** to save all of your setting above.
+    5) Click **Save** to save all of your setting above.
 
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
@@ -131,10 +131,42 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     4) On Login Setting, click **Apply** to apply your setting.
 
-![image](images/loginSystem6.png)
+    ![image](images/loginSystem6.png)
 
     5) Click **Save** to save all of your setting above.
 
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 ------------------------------------------------------------------------------
+
+## Twitter Login Setup for Built-in Channels in your website
+
+1. Go to https://apps.twitter.com/, select **Create New App**.
+
+2. Insert all the information required. *(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Twitter login redirect URL.)* And click **Create** to complete the setting.
+
+3. Once the application created, select **Keys and Access Tokens**.
+
+4. Twitter API management page will display Consumer Key (API key) and Consumer Secret (API Secret).
+
+5.  Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Facebook Login Setup.
+
+![image](images/loginSystem02.png)
+
+    1) Slide the slidable button to activate Google Login
+    2) Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
+
+    3) Click OK to add these values to your form.
+
+    4) On Login Setting, click **Apply** to apply your setting.
+
+![image](images/loginSystem6.png)
+
+    5) Click **Save** to save all of your setting above.
+
+6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
+
+
+------------------------------------------------------------------------------
+
+## LINE Login Setup for Built-in Channels in your website
