@@ -124,17 +124,17 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 ![image](images/loginSystem01.png)
 
-- 1) Slide the slidable button to activate Google Login
-- 2) Insert Client ID and Client secret from number 13 to Facebook Login Setup, and click OK to complete setting.
+    1) Slide the slidable button to activate Google Login
+    2) Insert Client ID and Client secret from number 13 to Facebook Login Setup, and click OK to complete setting.
 
-- 3) Click OK to add these values to your form.
+    3) Click OK to add these values to your form.
 
-- 4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click **Apply** to apply your setting.
 
 ![image](images/loginSystem6.png)
 
-- 5) Click **Save** to save all of your setting above.
+    5) Click **Save** to save all of your setting above.
 
-1. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
+15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 ------------------------------------------------------------------------------
