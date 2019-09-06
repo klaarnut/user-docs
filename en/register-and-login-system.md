@@ -79,7 +79,7 @@ Click ***Enable*** to activate the API.*
 
     3) Click OK to add these values to your form.
 
-    4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
@@ -129,11 +129,11 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     3) Click OK to add these values to your form.
 
-    4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
-    5) Click **Save** to save all of your setting above.
+    5) Click "Save" to save all of your setting above.
 
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
@@ -159,11 +159,11 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     3) Click OK to add these values to your form.
 
-    4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
-    5) Click **Save** to save all of your setting above.
+    5) Click "Save" to save all of your setting above.
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
@@ -229,11 +229,11 @@ Then setup the login by following.
 
     3) Click OK to add these values to your form.
 
-    4) On Login Setting, click **Apply** to apply your setting.
+    4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystemLine13.png)
 
-    5) Click **Save** to save all of your setting above.
+    5) Click "Save" to save all of your setting above.
 
 6. The LINE Login single sign-on is available for your user to login to your website without make a new register.
 
