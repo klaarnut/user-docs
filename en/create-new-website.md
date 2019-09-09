@@ -151,6 +151,8 @@ Drag to drop where you want in the same section.
 
 ![image](images/duplicateblock.png)
 
+Duplicate the block you want to repeat. It will copy all design and content immediately.
+
 #### Edit Block
 
 ![image](images/editblock.png)
@@ -159,7 +161,132 @@ Drag to drop where you want in the same section.
 
 ![image](images/animation.png)
 
+Set Animation and Parallax Effect for block by “Edit Block”. You can choose 18 animations and 19 scrolling effects.
+
 #### Delete Block
 
+Use “Delete” icon to delete block. Be careful, it’s a prompt delete function.
+
 ![image](images/deleteblock.png)
+
+### Text Tools
+
+![image](images/texttools.png) 
+
+#### Clipboard
+
+**Paint format**
+
+![image](images/paintformat.png)
+
+The Paint Tool copies formatting from one place in your document to another. It's quite handy. RVsitebuilder lets you copy the formatting you've applied to a specific section of text to another section using the paint format tool. To use this tool, select the text that's formatted in the way that you want to copy
+
+1. Current cursor on format a line of text or cell in your desired appearance.
+2. Click the Paint Format icon.
+3. To apply this format to other text, simply highlight the text you want to apply the formatting to.
+4. Clicking Paint Format icon again, it will lock the format into place and every piece of text clicked will change to the new format.
+
+**Paste from external**
+
+![image](images/pastefromexternal.png)
+
+This will clean up HTML source code before pasting it into your document. Paste or drag content from Office documents, web pages and other programs into the box below (To paste use the keyboard shortcut, Ctrl + v on Windows or Command + v on a Mac). Please be patient, pasting from Office documents can take a considerable amount of time. When the paste is complete press Insert.
+
+**Undo and Redo**
+
+![image](images/undoredo.png) 
+
+To reverse your last action and To reverse your last Undo.
+
+**HTML Mode**
+
+![image](images/htmlmode.png)
+
+Insert HTML Code for each block. Please be careful to usie the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
+
+#### Font
+
+**Bold, Italic, Underline, Strikethrough
+
+![image](images/fontstyle.png)
+
+Add text to Bold, Italic, Underline, Strikethrough.
+
+**Font Color
+
+![image](images/fontcolor.png)
+
+Apply color to font by using our color picket or you can type a color code for the specific color.
+
+**Font Highlight
+
+![image](images/fonthilight.png)
+
+Hover the text and choosing the colot to highlight.
+
+**Clean formatting
+
+![image](images/cleanformat.png)
+
+Clearing text format, in case you copy the text from another website. 
+
+**Font Family
+
+![image](images/fontfamily.png)
+
+Selecting font family from the drop-down list and you can add more font family fron Google Font.
+
+**Font Style
+
+![image](images/fontformat.png)
+
+Font style creates the basic text structure, helping you organize thoughts on a page. You can apply style to text while you’re editing or adding it. Selecting 11 stlyes on the drop-down list to control the typography (font design), giving the words personality and flare.
+
+**Font Size
+
+![image](images/fontsize.png)
+
+Increase or decrease a font size bt choosing on the drop-down list.
+
+#### Paragraph
+
+**Insert Number
+
+![image](images/insertnumber.png)
+
+Add list by numbered.
+
+**Insert bullet
+
+![image](images/insertbullet.png)
+
+Add content to list by bulleted list icons.
+
+**Indent
+
+![image](images/indent.png)
+
+In the Text toolbar, click the increase or decrease indent icons to indent text to the left or right.
+
+**Line Spacing
+
+![image](images/linespacing.png)
+
+Change the space between lines. 
+
+**Alignment
+
+![image](images/alignment.png)
+
+Align your text paragraph; left, center, right and justify.
+
+
+
+
+
+
+
+
+
+
 
