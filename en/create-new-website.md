@@ -169,9 +169,11 @@ Use “Delete” icon to delete block. Be careful, it’s a prompt delete functi
 
 ![image](images/deleteblock.png)
 
+
 ### Text Tools
 
 ![image](images/texttools.png) 
+
 
 #### Clipboard
 
@@ -203,6 +205,7 @@ To reverse your last action and To reverse your last Undo.
 ![image](images/htmlmode.png)
 
 Insert HTML Code for each block. Please be careful to usie the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
+
 
 #### Font
 
@@ -248,6 +251,7 @@ Font style creates the basic text structure, helping you organize thoughts on a 
 
 Increase or decrease a font size bt choosing on the drop-down list.
 
+
 #### Paragraph
 
 **Insert Number**
@@ -280,19 +284,20 @@ Change the space between lines.
 
 Align your text paragraph; left, center, right and justify.
 
+
 ### Table Tools
 
 ![image](images/tabletools.png)
 
 Click **insert** to create a new table.
 
-**Table Size**
+#### Table Size
 
 ![image](images/tablesize.png)
 
-Adjust the table and borader size, also select the boarder style on the drop-down list. The table size you can choose a unit size between percentage and pixel.
+Adjust the table and boarder size, also select the boarder style on the drop-down list. The table size you can choose a unit size between percentage and pixel.
 
-**Table object**
+#### Table object
 
 ![image](images/tableobject.png)
 
@@ -304,25 +309,8 @@ To Insert, merge, remove both row and column.
 
 Adjust the color on each cell or the whole table and table border.
 
-**Table Alignment**
+#### Table Alignment
 
 ![image](images/tablealignment.png)
 
 Align text on the table both horizontal and verticle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
