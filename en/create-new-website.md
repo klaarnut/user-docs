@@ -43,6 +43,8 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ## Content Editor
 
+![image](images/sections.png)
+
 On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
 In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
 
@@ -60,12 +62,12 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
 
-## Font Style
+## Font Family
 
-Step to add font style from Google Font.
+Step to add font family from Google Font.
 
 1. Choosing a font at [Google Font](https://fonts.google.com).
-2. On RVsitebuilder text tool, click plus button behind a font style.
+2. On RVsitebuilder text tool, click plus button behind a font family.
 
 ![image](images/googlefont01.png)
 
@@ -77,7 +79,8 @@ Step to add font style from Google Font.
 
 ![image](images/googlefont03.png)
 
-    Tips: You can add a miximum 5 font styles.
+    Tips: You can add a miximum 5 font families.
+
 
 ## Page Function
 
