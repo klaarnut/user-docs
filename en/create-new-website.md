@@ -77,7 +77,7 @@ Step to add font style from Google Font.
 
 ![image](images/googlefont03.png)
 
-    *Tips:* You can add a miximum 5 font styles.
+    Tips: You can add a miximum 5 font styles.
 
 ## Page Function
 
