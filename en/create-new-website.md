@@ -142,13 +142,24 @@ Adjusting section border design.
 ### Block Properties
 
 #### Move Block
+
+![image](images/moveblock.png)
+
 Drag to drop where you want in the same section.
 
 #### Duplicate Block
 
+![image](images/duplicateblock.png)
+
 #### Edit Block
+
+![image](images/editblock.png)
 
 #### Animation
 
+![image](images/animation.png)
+
 #### Delete Block
+
+![image](images/deleteblock.png)
 
