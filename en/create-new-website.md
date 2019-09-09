@@ -206,43 +206,43 @@ Insert HTML Code for each block. Please be careful to usie the correct HTML code
 
 #### Font
 
-**Bold, Italic, Underline, Strikethrough
+**Bold, Italic, Underline, Strikethrough**
 
 ![image](images/fontstyle.png)
 
 Add text to Bold, Italic, Underline, Strikethrough.
 
-**Font Color
+**Font Color**
 
 ![image](images/fontcolor.png)
 
 Apply color to font by using our color picket or you can type a color code for the specific color.
 
-**Font Highlight
+**Font Highlight**
 
 ![image](images/fonthilight.png)
 
 Hover the text and choosing the colot to highlight.
 
-**Clean formatting
+**Clean formatting**
 
 ![image](images/cleanformat.png)
 
 Clearing text format, in case you copy the text from another website. 
 
-**Font Family
+**Font Family**
 
 ![image](images/fontfamily.png)
 
 Selecting font family from the drop-down list and you can add more font family fron Google Font.
 
-**Font Style
+**Font Style**
 
 ![image](images/fontformat.png)
 
 Font style creates the basic text structure, helping you organize thoughts on a page. You can apply style to text while you’re editing or adding it. Selecting 11 stlyes on the drop-down list to control the typography (font design), giving the words personality and flare.
 
-**Font Size
+**Font Size**
 
 ![image](images/fontsize.png)
 
@@ -250,35 +250,71 @@ Increase or decrease a font size bt choosing on the drop-down list.
 
 #### Paragraph
 
-**Insert Number
+**Insert Number**
 
 ![image](images/insertnumber.png)
 
 Add list by numbered.
 
-**Insert bullet
+**Insert bullet**
 
 ![image](images/insertbullet.png)
 
 Add content to list by bulleted list icons.
 
-**Indent
+**Indent**
 
 ![image](images/indent.png)
 
 In the Text toolbar, click the increase or decrease indent icons to indent text to the left or right.
 
-**Line Spacing
+**Line Spacing**
 
 ![image](images/linespacing.png)
 
 Change the space between lines. 
 
-**Alignment
+**Alignment**
 
 ![image](images/alignment.png)
 
 Align your text paragraph; left, center, right and justify.
+
+### Table Tools
+
+![image](images/tabletools.png)
+
+Click **insert** to create a new table.
+
+**Table Size**
+
+![image](images/tablesize.png)
+
+Adjust the table and borader size, also select the boarder style on the drop-down list. The table size you can choose a unit size between percentage and pixel.
+
+**Table object**
+
+![image](images/tableobject.png)
+
+To Insert, merge, remove both row and column.
+
+**Table Color**
+
+![image](images/tablecolor.png)
+
+Adjust the color on each cell or the whole table and table border.
+
+**Table Alignment**
+
+![image](images/tablealignment.png)
+
+Align text on the table both horizontal and verticle.
+
+
+
+
+
+
 
 
 
