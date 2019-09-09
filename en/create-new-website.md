@@ -62,25 +62,6 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
 
-## Font Family
-
-Step to add font family from Google Font.
-
-1. Choosing a font at [Google Font](https://fonts.google.com).
-2. On RVsitebuilder text tool, click plus button behind a font family.
-
-![image](images/googlefont01.png)
-
-3. Fill a font name and click Add.
-
-![image](images/googlefont02.png)
-
-4. You can select a new font from a font list.
-
-![image](images/googlefont03.png)
-
-    Tips: You can add a miximum 5 font families.
-
 
 ## Page Function
 
@@ -240,7 +221,24 @@ Clearing text format, in case you copy the text from another website.
 
 ![image](images/fontfamily.png)
 
-Selecting font family from the drop-down list and you can add more font family fron Google Font.
+Selecting font family from the drop-down list and you can add more font family from Google Font.
+
+Step to add font family from Google Font.
+
+1. Choosing a font at [Google Font](https://fonts.google.com).
+2. On RVsitebuilder text tool, click plus button behind a font family.
+
+![image](images/googlefont01.png)
+
+3. Fill a font name and click Add.
+
+![image](images/googlefont02.png)
+
+4. You can select a new font from a font list.
+
+![image](images/googlefont03.png)
+
+    Tips: You can add a miximum 5 font families.
 
 **Font Style**
 
@@ -252,7 +250,7 @@ Font style creates the basic text structure, helping you organize thoughts on a 
 
 ![image](images/fontsize.png)
 
-Increase or decrease a font size bt choosing on the drop-down list.
+Increase or decrease a font size by choosing on the drop-down list.
 
 
 #### Paragraph
@@ -292,13 +290,11 @@ Align your text paragraph; left, center, right and justify.
 
 ![image](images/tabletools.png)
 
-Click **insert** to create a new table.
-
 #### Table Size
 
 ![image](images/tablesize.png)
 
-Adjust the table and boarder size, also select the boarder style on the drop-down list. The table size you can choose a unit size between percentage and pixel.
+Adjust the table and boarder size, also select the boarder style on the drop-down list. You can choose a table unit size between percentage and pixel.
 
 #### Table object
 
@@ -310,7 +306,7 @@ To Insert, merge, remove both row and column.
 
 ![image](images/tablecolor.png)
 
-Adjust the color on each cell or the whole table and table border.
+Adjust the color on each cell or the whole table and table border color.
 
 #### Table Alignment
 
