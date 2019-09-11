@@ -33,7 +33,7 @@
 - ## Website Membership
     - [Page Visibility](page-visibility.md)
     - [Website Membership](website-membership.md)
-    - [Activate Register and Login System](register-and-login-system.md)
+    - [Website Register and Login System](register-and-login-system.md)
 
 - ## RVsitebuilder Apps
     - [Apps Management](apps.md)
