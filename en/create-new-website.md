@@ -14,7 +14,7 @@
 
 ### By your domain name
 
-1. Open domain name on browser with /admin/login
+1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/website-membership.md).)
 1. Enter admin login.
 
 ![image](images/overview2.png)
