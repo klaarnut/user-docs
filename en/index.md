@@ -28,7 +28,7 @@
     - Blog SEO
 
 - ## Website Email
-    - [Setting Automation Emails](emails-setting.md)
+    - [Setting Automation Emails](emails-template.md)
 
 - ## Website Membership
     - [Page Visibility](page-visibility.md)
