@@ -5,8 +5,7 @@ Definitions of functions, items, and features in RVsitebuilder 7.
 ## A
 **Admin**
 
-You, and the other users who can login and access to website editor and management area.
-
+    You, and the other users who can login and access to website editor and management area.
 
 **Admin Interface**
 
