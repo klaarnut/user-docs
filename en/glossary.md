@@ -7,21 +7,26 @@ Definitions of functions, items, and features in RVsitebuilder 7.
 
 You, and the other users who can login and access to website editor and management area.
 
+
 **Admin Interface**
 
 The website editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
+
 
 **Admin Top Bar**
 
 The very top most black bar menus on the right hand on website editor
 
+
 **Apps**
 
 The applications that are enabled on your website.
 
+
 **Apps Manage**
 
 The center page to see all applocations currently enabled, available to enable, and disabled apps on your website. You can check apps version and update them from here.
+
 
 ## B
 **Brand**
