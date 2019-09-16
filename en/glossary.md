@@ -35,12 +35,15 @@ The center page to see all applocations currently enabled and disabled apps on y
 **Apps Name**
 
 The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as:
-    rvsitebuilder/wysiwyg
+        rvsitebuilder/wysiwyg
 
 
 ## B
 **Block**
-The sub content are inside Section.
+
+The sub content are inside Section that you can edit separetedly eventhough they're inside the same Section.
+
+
 **Brand**
 
 The brand of your company or your business to show on your website top menu, banner, and footer.
@@ -95,12 +98,16 @@ Your real website when it's called by everyone.
 
 ## P
 **Page**
-The general website content area of your website separated by page name. It can be either display on menu or not.
+
+The general website content area of your separated by page name. It can be either display on menu or not.
 
 **Panel**
 
+The setup tool that will automatically be activated by mouse-clicked on its display area such as content area that will have Text setup panel pops up once you place mouse on any of content area.
+
 **Post**
-The content area for Blog that you can it on your website. Once added, the Bl
+
+The content area for Blog that you can add on your website. Once added, the Blog post will be appeared under Blog menu and fuctionally works as Blog post.
 
 **Project Name**
 
@@ -111,7 +118,7 @@ The content area for Blog that you can it on your website. Once added, the Bl
 ## R
 **Right Menu**
 
-The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other page.
+The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other pages.
 
 ## S
 **Section**
@@ -145,11 +152,11 @@ A type of pages in RVsitebuilder 7. It's mostly for setting up Register and Logi
 ## T
 **3-dot menu**
 
-The vertical 3 small dot appears next to page name on Right Menu and Page Setting. It's shortcut to page options such as set as home, set as draft, rename, SEO, and etc.
+The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the shortcut to page options such as set as home, set as draft, rename, SEO, and etc.
 
 **Toolbar**
 
-Bars that contain nescessary tools that will always be ready to use while you're editing your website. 
+Bars that contain nescessary tools that will always be ready to use while you're editing your website. It can be opened by directly click on each Toolbar.
 
 ## U
 **User Interface**
