@@ -6,7 +6,7 @@ Definitions of functions, items, and features in RVsitebuilder 7.
 **Admin**
 
 You, and the other users who can login and access to website editor and management area.
-    
+
 
 **Admin Interface**
 
@@ -15,7 +15,7 @@ The website editor that can only be accessed by Admin to edit website content, a
 
 **Admin Top Bar**
 
-The very top most black bar menus on the right hand on website editor
+The very top most black bar menus on the right hand on website editor, works for access Apps management.
 
 
 **Apps**
@@ -23,20 +23,32 @@ The very top most black bar menus on the right hand on website editor
 The applications that are enabled on your website.
 
 
+**Apps Launcher**
+The **Apps** menu on Admin Top Menu to launch and navigate to all applications that are enabled on your website. 
+
+
 **Apps Manage**
 
-The center page to see all applocations currently enabled, available to enable, and disabled apps on your website. You can check apps version and update them from here.
+The center page to see all applocations currently enabled and disabled apps on your website. You can check apps version and update them from here.
+
+
+**Apps Name**
+
+The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as:
+    rvsitebuilder/wysiwyg
 
 
 ## B
+**Block**
+The sub content are inside Section.
 **Brand**
 
-The brand of your company or your business to add into your website.
+The brand of your company or your business to show on your website top menu, banner, and footer.
 
 ## C
 **Center Menu**
 
-The center menu on the top of website editor contains of most frequestly used tools while you're editing your content.
+The center menu on the top of website editor contains of most frequestly used tools while you're editing your content such as **Insert Tool**.
 
 ## D
 **Disabled apps**
@@ -61,7 +73,7 @@ The most of area you'd be at when you edit your website, means every area that y
 ## I
 **Insert Toolbar**
 
-A bar to insert everything on your content. It's always right on the top of the website editor promptly to be used.
+A bar to insert additional needs on your content. It's always right on the top of the website editor promptly to be used.
 
 ## J
 
@@ -70,7 +82,7 @@ A bar to insert everything on your content. It's always right on the top of the 
 ## L
 **Left Menu**
 
-The left menus lie on the top left of website editor. It's the main menu to switch what you want to edit on your website.
+The left menus lie on the top left of website editor. It's the main menu to switch what you're going to edit the main parts of your website such as templae, design, content, and or email.
 
 ## M
 **My Site**
@@ -83,8 +95,14 @@ Your real website when it's called by everyone.
 
 ## P
 **Page**
+The general website content area of your website separated by page name. It can be either display on menu or not.
 
 **Panel**
+
+**Post**
+The content area for Blog that you can it on your website. Once added, the Bl
+
+**Project Name**
 
 
 
@@ -93,7 +111,7 @@ Your real website when it's called by everyone.
 ## R
 **Right Menu**
 
-The menu on the right hand lower the Admin Top Bar. It's mostly for current page configuration and to switch to other page.
+The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other page.
 
 ## S
 **Section**
@@ -118,13 +136,17 @@ One of website design to show left or/and right content bar(s) togther with your
 
 **Site Config**
 
-The easy advanced configuration setting for your website such as CSS/JS, Meta, SEO, Visibility, Log, and etc. for more functional and effective. NO WORRIES if you don't feel familiar with these words, we have easy guide on every part of it.
+The easy advanced configuration setting for your website such as CSS/JS, Meta, SEO, Visibility, Log, and etc. for more functional and effective website. NO WORRIES if you don't feel familiar with these words, we have easy guide on every part of it.
 
 **System page**
 
 A type of pages in RVsitebuilder 7. It's mostly for setting up Register and Login pages for your website. It will work to allow users to login, and store them in admin area for membership purpose.
 
 ## T
+**3-dot menu**
+
+The vertical 3 small dot appears next to page name on Right Menu and Page Setting. It's shortcut to page options such as set as home, set as draft, rename, SEO, and etc.
+
 **Toolbar**
 
 Bars that contain nescessary tools that will always be ready to use while you're editing your website. 
@@ -135,13 +157,16 @@ Bars that contain nescessary tools that will always be ready to use while you're
 All areas on your website that users will see, My Site, Login page, Register page, and User dashboard page. The My Site will be Public Interface, while User dashboard will be Member Interface.
 
 ## V
+**Vendor Name**
+
+
 **View modes**
 
 The websie editor area that you can switch view of devices to see how your website will be the same while editing it.
 
 **Visibility**
 
-The visible control of your pages of how you aim particular page to be seen by public (all users), website member (regitered users), or website admin.
+The visible control of your pages of how you aim particular page to be seen by whether public (all users), website member (regitered users), or website admin.
 
 ## W
 **Website editor**
@@ -154,7 +179,7 @@ The functional content area that's not only showing content but does some action
 
 **WYSIWYS**
 
-The Website editor which is sometimes called by development team or website designers.
+What You See Is What You Get, the Website editor which is sometimes called by development team or website designers.
 
 ## X
 
