@@ -45,13 +45,15 @@ The name of package which will consist of Vendor Name and Project Name separated
 
 The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
 
-**Block Properties**
-
-The properties setting for your block display; background, shadow, border. (แก้ไขจาก Box เป็น Border)
-
 **Block Options**
 
 The grey options that will be appeared at the right top of the current block you're working with. We use these options when we want to move block (drag and drop), delete, duplicate, and edit section design such as background image, color, and animation.
+
+        
+
+**Block Properties**
+
+The properties setting for your block display; background, shadow, border. (แก้ไขจาก Box เป็น Border)
 
 
 **Brand**
