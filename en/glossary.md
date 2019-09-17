@@ -60,16 +60,8 @@ The center menu on the top of content editor contains of most frequestly used to
 The first place of every time you logging in to edit website. It's the place to edit website content, change template design, and setting systems for your website.
 
 
-**Content Menus**
-
-The 4 blue penny-sized floating menus on the left hand in content editor. It contains nescessary functions to start your content with.
-
 
 ## D
-**Design Menus**
-
-The 7 green penny-sized floating menus on the left hand in Design tab. It contains nescessary functions to start your website design.
-
 
 **Disabled apps**
 
@@ -85,6 +77,10 @@ The applications that are currently enabled and using on your website.
 The most of area you'd be at when you edit your website, means every area that you can directly add, edit, insert content on it. This area will be different from Widget area whcih we will later see what it means.
 
 ## F
+**Floating Side Menus**
+
+The panny-sized floating menu on left hand when you're at Design menu and Content menu.
+
 
 ## G
 
@@ -184,8 +180,9 @@ All areas on your website that users will see, My Site, Login page, Register pag
 ## V
 **Vendor Name**
 
-The name of company or developer who develops the package such as:
-                rvsitebuilder
+The name of company or developer who develops the package such as;
+
+                - rvsitebuilder
 
 **View modes**
 
