@@ -35,7 +35,8 @@ The application center to see all applocations currently enabled and disabled on
 
 **Apps Name**
 
-The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as:
+The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as;
+
                 rvsitebuilder/wysiwyg
 
 
@@ -43,6 +44,14 @@ The name of package which will consist of Vendor Name and Project Name separated
 **Block**
 
 The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
+
+**Block Properties**
+
+The properties setting for your block display; background, shadow, border. (แก้ไขจาก Box เป็น Border)
+
+**Block Options**
+
+The grey options that will be appeared at the right top of the current block you're working with. We use these options when we want to move block (drag and drop), delete, duplicate, and edit section design such as background image, color, and animation.
 
 
 **Brand**
@@ -68,6 +77,7 @@ The first place of every time you logging in to edit website. It's the place to 
 The applications that are already installed but not enabled to use on your website yet.
 
 ## E
+
 **Enabled apps**
 
 The applications that are currently enabled and using on your website.
@@ -79,7 +89,7 @@ The most of area you'd be at when you edit your website, means every area that y
 ## F
 **Floating Side Menus**
 
-The panny-sized floating menu on left hand when you're at Design menu and Content menu.
+The panny-sized floating menus on left hand when you're at Design menu and Content menu.
 
 
 ## G
@@ -124,7 +134,8 @@ The content area for Blog that you can add on your website. Once added, it will 
 
 **Project Name**
 
-The name of a feature or service such as:
+The name of a feature or service such as;
+
                 wysiwyg
 
 ## Q
@@ -182,7 +193,7 @@ All areas on your website that users will see, My Site, Login page, Register pag
 
 The name of company or developer who develops the package such as;
 
-                - rvsitebuilder
+                rvsitebuilder
 
 **View modes**
 
