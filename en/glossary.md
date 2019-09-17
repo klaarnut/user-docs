@@ -49,7 +49,7 @@ The sub content area inside Section that you can edit separetedly even though th
 
 The grey options that will be appeared at the right top of the current block you're working with. We use these options when we want to move block (drag and drop), delete, duplicate, and edit section design such as background image, color, and animation.
 
-        
+
 
 **Block Properties**
 
@@ -91,7 +91,7 @@ The most of area you'd be at when you edit your website, means every area that y
 ## F
 **Floating Side Menus**
 
-The panny-sized floating menus on left hand when you're at Design menu and Content menu.
+The penny-sized floating menus on left hand when you're at Design menu (7 green floating menus) and Content menu (4 blue floating menu).
 
 
 ## G
@@ -213,7 +213,7 @@ The functional content area that's not only showing content but does some action
 
 **WYSIWYS**
 
-What You See Is What You Get, the Website editor which is sometimes called by development team or website designers.
+What You See Is What You Get, the content editor which is sometimes called by development team or website designers.
 
 ## X
 
