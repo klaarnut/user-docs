@@ -18,6 +18,11 @@ The content editor that can only be accessed by Admin to edit website content, a
 The very top most black bar menus on the right hand on content editor, works for access Apps management.
 
 
+**Apply**
+
+The functional button you will see in setting panels, it will work to apply what you have set to content area, but it does NOT SAVE that you will hvae to click Save button to save them.
+
+
 **Apps**
 
 The applications that are enabled and disabled on your website.
@@ -176,6 +181,7 @@ The easy advanced configuration setting for your website such as CSS/JS, Meta, S
 
 A type of pages which it's mostly for setting up Register and Login pages on your website. It will work to allow users to login, and store them in admin area for membership purpose.
 
+
 ## T
 **3-dot menu**
 
@@ -206,6 +212,10 @@ The content editor area that you can switch view of devices to see how your webs
 The visible control of your pages of how you aim particular page to be seen by whether public (all users), website member (regitered users), or website admin.
 
 ## W
+
+**Website Navigation**
+
+The menu bar on your website to let everyone navigates to pages.
 
 **Widget**
 
