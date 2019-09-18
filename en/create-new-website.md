@@ -41,6 +41,12 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ![image](images/create4.png)
 
+## Template Selection
+
+This ready to use beautiful template, you can select more than 300 styles. Keep or customize as you like.
+
+![image](images/selecttemplate.png)
+
 ## Content Editor
 
 ![image](images/sections.png)
@@ -64,6 +70,8 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 
 ## Page Function
+
+Drac and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
 
 ### Section Properties
 
@@ -90,8 +98,6 @@ You can use **Duplicate Section** icon to duplicate the section you want to repe
 #### Edit Section
 
 ![image](images/editsection.png)
-
-A Section properties which you can adjust Background, Shadow, Overlap and Box.
 
    - **Background**
    
@@ -124,6 +130,8 @@ Making one section to overlap other sections.
 Adjusting section border design.
 
 ### Block Properties
+
+Inside a section, it contain a block content which you can customize on block properties, a
 
 #### Move Block
 
