@@ -7,8 +7,8 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options such as set as home, set as draft, rename, SEO, and etc.
 
 ## A
-**Admin**
-: You, and the other users who can login and access to website editor and management area.
+**Admin, Administrator**
+: The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
 **Admin Interface**
 : The content editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
@@ -35,6 +35,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 ## B
+**Backend Role**
+: The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps. 
+
 **Block**
 : The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
 
@@ -62,16 +65,22 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 ## E
+**Editable area**
+: The most of area you'd be at when you edit your website, means every area that you can directly add, edit, insert content on it. This area will be different from Widget area whcih we will later see what it means.
+
 **Enabled apps**
 : The applications that are currently enabled and using on your website.
 
-**Editable area**
-: The most of area you'd be at when you edit your website, means every area that you can directly add, edit, insert content on it. This area will be different from Widget area whcih we will later see what it means.
+**Executive**
+: The high permission role second to Administrator. This role holds exclusive permission to access to website admin area to edit website content, manage installed applications, mostly for website information but cannot manage users and roles. This role is mainly used when you want more website content editors aside from you.
 
 
 ## F
 **Floating Side Menus**
 : The penny-sized floating menus on left hand when you're at Design menu (7 green floating menus) and Content menu (4 blue floating menu).
+
+**Frontend Role**
+: The low permisison 2 users, User and VIP, that are accessible website user area like your website, member area, member only.
 
 
 ## G
@@ -116,6 +125,11 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Panel**
 : The setup tool that will automatically be activated by mouse-clicked on its display area such as content area that will have Text setup panel pops up once you place mouse on any of content area.
 
+**Permission**
+: The privilege to set for users for 2 high permission levels;
+        All: for all inclusive accessibiity to content editor, apps mamangement, and member management.
+        View Admin: for high accessibility to view member lists, edit content, manage apps.
+
 **Post**
 : The content area for Blog that you can add on your website. Once added, it will be appeared under Blog menu and fuctionally works as Blog post.
 
@@ -131,6 +145,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 ## R
 **Right Menu**
 : The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other pages.
+
+**Role**
+: The permission levels of users of your website; Administrator, Excutive, User, and VIP.
 
 
 ## S
@@ -162,6 +179,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 ## U
+**User**
+: Everyone knows and opens your website, the first time visitor, the fans of your website, the investiagtors, the registered members, the website admins.
+
 **User Interface**
 : All areas on your website that users will see, My Site, Login page, Register page, and User dashboard page. The My Site will be Public Interface, while User dashboard will be Member Interface.
 
