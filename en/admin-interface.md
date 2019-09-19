@@ -188,7 +188,7 @@ Special Characters that you don’t have on your keyboard to make text more styl
 Divide content parts by in the same text block with Separate Line is not only to be more clearly reading but the text block also looking cool.
 
 
-#### Preview
+#### View modes
 
 The real time website preview mode while you’re editing. See how your website would be on sizes of device screens, computer desktop, ipad and mobile in rotate eyes.
 

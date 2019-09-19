@@ -102,6 +102,10 @@ The penny-sized floating menus on left hand when you're at Design menu (7 green 
 ## G
 
 ## H
+**Hide and Show Admin Top Bar**
+
+The vertical left angle blacket (︿) under view modes. It's action is to hide or show the Admin Top Bar.
+
 
 ## I
 **Insert Toolbar**
