@@ -4,7 +4,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 ## *
 **3-dot menu**
-: The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options such as set as home, set as draft, rename, SEO, and etc.
+: The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options; set as home, set as draft, rename, SEO, and etc.
 
 ## A
 **Admin, Administrator**
