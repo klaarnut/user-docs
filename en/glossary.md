@@ -1,32 +1,27 @@
 # Glossary
 
-Definitions of functions, items, and features in RVsitebuilder 7.
+Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 ## *
 **3-dot menu**
-
-The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options such as set as home, set as draft, rename, SEO, and etc.
+: The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options such as set as home, set as draft, rename, SEO, and etc.
 
 
 ## A
 **Admin**
-
-You, and the other users who can login and access to website editor and management area.
+: You, and the other users who can login and access to website editor and management area.
 
 
 **Admin Interface**
-
-The content editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
+: The content editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
 
 
 **Admin Top Bar**
-
-The very top most black bar menus on the right hand on content editor, works for access Apps management.
+: The very top most black bar menus on the right hand on content editor, works for access Apps management.
 
 
 **Apply**
-
-The functional button you will see in setting panels, it will work to apply what you have set to content area, but it does NOT SAVE that you will hvae to click Save button to save them.
+: The functional button you will see in setting panels, it will work to apply what you have set to content area, but it does NOT SAVE that you will hvae to click Save button to save them.
 
 
 **Apps**
