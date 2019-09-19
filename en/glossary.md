@@ -26,7 +26,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The **Apps** menu on Admin Top Menu to launch and navigate to all applications that are enabled on your website. 
 
 **Apps Manage**
-: The application center to see all applocations currently enabled and disabled on your website. You can check their version and update them from here.
+: The application center to see all applications currently enabled and disabled on your website. You can check their version and update them from here.
 
 **Apps Name**
 : The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as;
@@ -38,6 +38,8 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Backend Role**
 : The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps. 
 
+**Blog**
+: 
 **Block**
 : The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
 
@@ -80,7 +82,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The penny-sized floating menus on left hand when you're at Design menu (7 green floating menus) and Content menu (4 blue floating menu).
 
 **Frontend Role**
-: The low permisison 2 users, User and VIP, that are accessible website user area like your website, member area, member only.
+: The low permisison 2 users, User and VIP, that are accessible website user area like your website, member area, member only page.
 
 
 ## G
@@ -109,7 +111,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 ## M
 **My Site**
-: Your real website when it's called by everyone.
+: Your real website to be seen by everyone.
 
 
 ## N
@@ -126,8 +128,10 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The setup tool that will automatically be activated by mouse-clicked on its display area such as content area that will have Text setup panel pops up once you place mouse on any of content area.
 
 **Permission**
-: The privilege to set for users for 2 high permission levels;
+: The privilege to set for users with 2 high permission levels;
+
         All: for all inclusive accessibiity to content editor, apps mamangement, and member management.
+
         View Admin: for high accessibility to view member lists, edit content, manage apps.
 
 **Post**
@@ -158,13 +162,13 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The light blue options that will be appeared at the right of the current section you're working with. We use these options when we want to move section (drag and drop), delete, duplicate, and edit section design such as background image and color.
 
 **Section Properties**
-: The properties setting for your section display; background, shadow, border. (แก้ไขจาก Box เป็น Border)
+: The properties setting for your section display; background, shadow, border.
 
 **Section Selector**
 : The always-available place on the left hand when you're editing your website. It's there for you to add more sections for content.
 
 **Sidebar**
-: One of website design to show left or/and right content bar(s) together with your website main content area. Sidebar will be appeared on every page of your website once added. It can eiter display the same attention-needed content every page or special content in some specific page.
+: One of website design to show left or/and right content bar(s) together with your website main content area. Sidebar will be appeared on every page of your website once added. It can eiter display the same attention-needed content on every page or special content in some specific page.
 
 **Site Config**
 : The easy advanced configuration setting for your website such as CSS/JS, Meta, SEO, Visibility, Log, and etc. for more functional and effective website. NO WORRIES if you don't feel familiar with these words, we have easy guide on every part of it.
@@ -180,7 +184,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 ## U
 **User**
-: Everyone knows and opens your website, the first time visitor, the fans of your website, the investiagtors, the registered members, the website admins.
+: Everyone who knows and opens your website, the first time visitor, the fans of your website, the investigators, the registered members, the website admins.
 
 **User Interface**
 : All areas on your website that users will see, My Site, Login page, Register page, and User dashboard page. The My Site will be Public Interface, while User dashboard will be Member Interface.
@@ -193,10 +197,10 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
                 rvsitebuilder
 
 **View modes**
-: The content editor area that you can switch view of devices to see how your website will while editing it.
+: The content editor area that you can switch view of devices to see how your website will be while editing it.
 
 **Visibility**
-: The visible control of your pages of how you aim particular page to be seen by whether public (all users), website member (regitered users), or website admin.
+: The visibility control of your pages of how you aim particular page to be seen by whether public (all users), website member (regitered users), or website admin.
 
 
 ## W
@@ -204,7 +208,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The menu bar on your website to let everyone navigates to pages.
 
 **Widget**
-: The functional content area that's not only showing content but does some action when user communicaites with it, such as Online Form, Blog, Facenook comments, etc. It's not a direct edit area, but with a settng panel to set its function and display. Let's say it's not free place to insert, but a convenient tool.
+: The functional content area that's not only showing content but does some action when user communicaites with it, such as Online Form, Blog, Facebook comments, etc. It's not a direct edit area, but with a setting panel to set its function and display. Let's say it's not free place to insert, but a convenient tool.
 
 **WYSIWYS**
 : What You See Is What You Get, the content editor which is sometimes called by development team or website designers.
