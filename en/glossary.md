@@ -10,9 +10,6 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Admin, Administrator**
 : The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
-**Admin Email Template**
-: 
-
 **Admin Interface**
 : The content editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
 
@@ -40,12 +37,6 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 ## B
 **Backend Role**
 : The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps. 
-
-**Blank Template**
-:
-
-**Blog**
-: 
 
 **Block**
 : The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
@@ -92,13 +83,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The low permisison 2 users, User and VIP, that are accessible website user area like your website, member area, member only page.
 
 
-## G
-
-
 ## H
-**Hero Banner**
-:
-
 **Hide and Show Admin Top Bar**
 : The vertical left angle blacket (︿) under view modes. It's action is to hide or show the Admin Top Bar.
 
@@ -108,31 +93,14 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : A bar to insert additional needs on your content. It's always right on the top of the content editor promptly to be used.
 
 
-## J
-
-
-## K
-
-
 ## L
 **Left Menu**
 : The left menus lie on the top left of content editor. It's the main menu to switch what you're going to edit the main parts of your website such as templae, design, content, and or email.
 
 
 ## M
-**Master Email Template**
-:
-
 **My Site**
 : Your real website to be seen by everyone.
-
-
-## N
-
-
-## O
-**Online Form**
-: 
 
 
 ## P
@@ -152,19 +120,11 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Post**
 : The content area for Blog that you can add on your website. Once added, it will be appeared under Blog menu and fuctionally works as Blog post.
 
-**Private Apps**
-:
 
 **Project Name**
 : The name of a feature or service such as;
 
                 wysiwyg
-
-**Public Apps**
-: 
-
-
-## Q
 
 
 ## R
@@ -194,9 +154,6 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Site Config**
 : The easy advanced configuration setting for your website such as CSS/JS, Meta, SEO, Visibility, Log, and etc. for more functional and effective website. NO WORRIES if you don't feel familiar with these words, we have easy guide on every part of it.
 
-**Slide Banner**
-: 
-
 **System page**
 : A type of pages which it's mostly for setting up Register and Login pages on your website. It will work to allow users to login, and store them in admin area for membership purpose.
 
@@ -209,9 +166,6 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 ## U
 **User**
 : Everyone who knows and opens your website, the first time visitor, the fans of your website, the investigators, the registered members, the website admins.
-
-**User Email Template**
-: 
 
 **User Interface**
 : All areas on your website that users will see, My Site, Login page, Register page, and User dashboard page. The My Site will be Public Interface, while User dashboard will be Member Interface.
@@ -239,12 +193,3 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 **WYSIWYS**
 : What You See Is What You Get, the content editor which is sometimes called by development team or website designers.
-
-
-## X
-
-
-## Y
-
-
-## Z
