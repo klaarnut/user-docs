@@ -11,8 +11,8 @@
 - ## Creating Website
     - [Create a New Website](create-new-website.md)
     - [Website Design](website-design.md)
+    - [Page and Menu](page-and-menu.md) 
     - [Website Branding](website-design.md)
-    - [Menu and Page](menu-and-page.md) 
     - [Website Footer](website-design.md)
     - [Online Form](online-form.md)
 
