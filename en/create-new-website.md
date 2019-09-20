@@ -321,3 +321,7 @@ Adjust the color on each cell or the whole table and table border color.
 ![image](images/tablealignment.png)
 
 Align text on the table both horizontal and verticle.
+
+![image](images/tablealignment.png)
+
+Align text on the table both horizontal and verticle.
