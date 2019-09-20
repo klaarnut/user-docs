@@ -12,7 +12,7 @@
     - [Create a New Website](create-new-website.md)
     - [Website Design](website-design.md)
     - [Website Branding](website-design.md)
-    - [Pages and Content](website-design.md) 
+    - [Menu and Page](menu-and-page.md) 
     - [Website Footer](website-design.md)
     - [Online Form](online-form.md)
 
