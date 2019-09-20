@@ -1,5 +1,7 @@
 ### Website Footer
-The new feature of RVsitebuilder is an adjustable footer area! In version 7, it allows you to change the style and background color by selecting from a list we provides.
+The new feature of RVsitebuilder is an adjustable footer area!
+
+In version 7, it allows you to change the style and background color by selecting from a list we provides.
 
 1. On step **Design** -> **Footer**.
 2. Now RVsitebuilder 7 provides 8 styles to choose and set to show a sitemap and copyright. Don't forget to click **Apply** after you selected.

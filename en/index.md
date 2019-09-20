@@ -13,7 +13,7 @@
     - [Website Design](website-design.md)
     - [Page and Menu](page-and-menu.md) 
     - [Website Branding](website-design.md)
-    - [Website Footer](website-design.md)
+    - [Website Footer](website-footer.md)
     - [Online Form](online-form.md)
 
 - ## Website Blog
