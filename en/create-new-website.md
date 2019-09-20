@@ -47,6 +47,12 @@ This ready to use beautiful template, you can select more than 300 styles. Keep 
 
 ![image](images/selecttemplate.png)
 
+## Save to Publish
+
+After select template, you will be brought to website editor. Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
+
+![image](images/save.jpeg)
+
 ## Content Editor
 
 ![image](images/sections.png)
