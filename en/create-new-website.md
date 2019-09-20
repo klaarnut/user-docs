@@ -325,3 +325,7 @@ Align text on the table both horizontal and verticle.
 ![image](images/tablealignment.png)
 
 Align text on the table both horizontal and verticle.
+
+![image](images/tablealignment.png)
+
+Align text on the table both horizontal and verticle.
