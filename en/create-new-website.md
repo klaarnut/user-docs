@@ -60,16 +60,10 @@ Let's go further for more beautiful and unique one!
 
 You may start next step with;
 
-   1) Website Design
+   1) [Website Design](website-design.md)
+   2) [Website Branding](website-design.md)
+   3) [Page and Menu](page-and-menu.md) 
+   4) [Website Footer](website-footer.md)
+   5) [Online Form](online-form.md)
 
-   2) Website Content
-
-   3) Website Branding
-
-   4) Page and Menu
-
-   5) Website Footer
-
-   6) Online Form
-
-   -----------
+   ---------------------------------------------------------
