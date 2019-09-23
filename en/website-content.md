@@ -6,10 +6,11 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 ![image](images/content6.png)
 
+---------------------------------------
 
 ## 1. Edit your content
 
-Once you place mouse of the text area, you can immediately start your content with our cool text tools.
+Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
 ![image](images/content7.png)
 
@@ -81,9 +82,9 @@ Clearing text format, in case you copy the text from another website.
 
 ![image](images/fontfamily.png)
 
-Selecting font family from the drop-down list and you can add more font family from Google Font.
+Selecting font family from the drop-down list and you can use **our new feature to add more font family from Google Font** as well!
 
-Step to add font family from Google Font.
+**Add font family from Google Font**
 
 1. Choosing a font at [Google Font](https://fonts.google.com).
 2. On RVsitebuilder text tool, click plus button behind a font family.
@@ -174,6 +175,7 @@ Adjust the color on each cell or the whole table and table border color.
 
 Align text on the table both horizontal and verticle.
 
+-----------------------------------------------
 
 ## 2. Add new content section
 
@@ -195,6 +197,7 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
+--------------------------------------------------
 
 ## 3. Add image to your content
 
@@ -206,43 +209,43 @@ You can click directly on the images that come with section.
 ![image](images/content8.png)
 
 
-3 image tools are right on the image you click; Upload, Replace, and Edit respectively.
+The 3 image tools are right on the image you clicked; **Upload**, **Replace**, and **Edit** respectively.
 
 
 ![image](images/content9.png)
 
 
-      1 ) Upload
+1 ) Upload
       
-      Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
+Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
 
-      2 ) Replace
+2 ) Replace
 
-      Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
+Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
 
-      ![image](images/content10.png)
+![image](images/content10.png)
 
-         1) Image Manager panel ; Feel free to select one in free images from here.
+   1) Image Manager panel ; Feel free to select one in free images from here.
 
-         2) Upload button ; Feel free to upload new image from your computer.
+   2) Upload button ; Feel free to upload new image from your computer.
 
-         3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+   3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
-      3 ) Edit
+3 ) Edit
 
-      Click this button in order to edit this image.
+Click this button in order to edit this image.
 
-      ![image](images/content11.png)
+![image](images/content11.png)
 
-         From left to right.
-         Zoom In : To Zoom this image for more closer.
-         Zoom Out : To make this image more farther but not farther than the original.
-         Rotate : To rotate this image.
-         Flip Horizontal : To make this image flipped horizontally.
-         Flip Vertical : To make this image flipped vertically.
-         Resize : To make this image size matched this image box. It's not to resize image freely.
-         Overwrite (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
-         FULL image Editor : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
+   From left to right.
+   **Zoom In** : To Zoom this image for more closer.
+   **Zoom Out** : To make this image more farther but not farther than the original.
+   **Rotate** : To rotate this image.
+   **Flip Horizontal** : To make this image flipped horizontally.
+   **Flip Vertical** : To make this image flipped vertically.
+   **Resize** : To make this image size matched this image box. It's not to resize image freely.
+   **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+   **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
 
 
 ----------------------------------------------------------------------------------------------------
