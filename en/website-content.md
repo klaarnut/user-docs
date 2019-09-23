@@ -225,11 +225,11 @@ Click this icon and you will see the Image manager panel that has 3 main parts t
 
 ![image](images/content10.png)
 
-   1) Image Manager panel ; Feel free to select one in free images from here.
+   1 ) Image Manager panel ; Feel free to select one in free images from here.
 
-   2) Upload button ; Feel free to upload new image from your computer.
+   2 ) Upload button ; Feel free to upload new image from your computer.
 
-   3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+   3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
 3. **Edit**
 
@@ -254,7 +254,7 @@ Click this button in order to edit this image.
    **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
 
    **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
-   
+
 
 
 ----------------------------------------------------------------------------------------------------
