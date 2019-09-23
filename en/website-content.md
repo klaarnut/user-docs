@@ -1,22 +1,17 @@
-## Content Editor
+# Content Editor
 
-![image](images/sections.png)
+Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
 
-On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
-In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
+At Content tab, you will always be at the new added page or the latest one you edit previously. 
 
-1. **Content**: a normal section which contains a various layout.
-2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
-3. **Backgroud**: It will present the almost ready content layout with cool text and picture positions with the beautiful background image from Background image album.
-4. **Team**: Showing your staff members including profile images, job positions, member names and so on.
-5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
-6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
-7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
-8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section. 
-9. **Full screen**: Full-screen mode takes advantage of your available screen real estate and provides a useful platform for presenting visual content. One main benefit of a full screen page layout is visibility.
-10. **Social**: Putting your social media channel on your website can directly affect the response and engagement from your visitor.
-11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
-12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
+![image](images/content6.png)
+
+
+## 1. Edit your content
+
+Once you place mouse of the text area, you can immediately start your content with our cool text tools.
+
+![image](images/content7.png)
 
 
 ### Text Tools
@@ -179,6 +174,77 @@ Adjust the color on each cell or the whole table and table border color.
 
 Align text on the table both horizontal and verticle.
 
--------------------------------------------------------------------------
+
+## 2. Add new content section
+
+![image](images/sections.png)
+
+On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
+In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
+
+1. **Content**: a normal section which contains a various layout.
+2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
+3. **Backgroud**: It will present the almost ready content layout with cool text and picture positions with the beautiful background image from Background image album.
+4. **Team**: Showing your staff members including profile images, job positions, member names and so on.
+5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
+6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
+7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
+8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section. 
+9. **Full screen**: Full-screen mode takes advantage of your available screen real estate and provides a useful platform for presenting visual content. One main benefit of a full screen page layout is visibility.
+10. **Social**: Putting your social media channel on your website can directly affect the response and engagement from your visitor.
+11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
+12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
+
+
+## 3. Add image to your content
+
+Once some content done, let's make this page more interesting by adding images on it.
+
+You can click directly on the images that come with section.
+
+
+![image](images/content8.png)
+
+
+3 image tools are right on the image you click; Upload, Replace, and Edit respectively.
+
+
+![image](images/content9.png)
+
+
+      1 ) Upload
+      
+      Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
+
+      2 ) Replace
+
+      Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
+
+      ![image](images/content10.png)
+
+         1) Image Manager panel ; Feel free to select one in free images from here.
+
+         2) Upload button ; Feel free to upload new image from your computer.
+
+         3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+
+      3 ) Edit
+
+      Click this button in order to edit this image.
+
+      ![image](images/content11.png)
+
+         From left to right.
+         Zoom In : To Zoom this image for more closer.
+         Zoom Out : To make this image more farther but not farther than the original.
+         Rotate : To rotate this image.
+         Flip Horizontal : To make this image flipped horizontally.
+         Flip Vertical : To make this image flipped vertically.
+         Resize : To make this image size matched this image box. It's not to resize image freely.
+         Overwrite (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+         FULL image Editor : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
+
+
+----------------------------------------------------------------------------------------------------
 
 
