@@ -4,12 +4,13 @@ After the [one-click create my site](create-new-website.md), you sure want to de
 
 First we will start with a beautiful template.
 
-## Beautiful Template
+
+### Beautiful Template
 Select template relate to your business categorie with up to 138 ready-made beautiful templates including with very new template designs and blank templates.
 
 ![image](images/newtemplate.png)
 
-## Professional Website
+----------------------------------------------------------------------
 
 ### Website Banner
 Banner is the most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
@@ -21,6 +22,8 @@ Banner is the most attractive part of your website. RVsitebuilder 7 allows you t
 
 ![image](images/create7.png)
 > **Note:** If you're setting website banner at Home page, it will affect to ALL pages. 
+
+----------------------------------------------------------------------
 
 ### Website Navigation
 Manage your Top Menu and Menu
@@ -70,6 +73,8 @@ On the Menu Setting you can:
 - Select the method you need to open this menu.
 - Choose a direction to link this menu.
 
+----------------------------------------------------------------------
+
 ### Website Content
 Easy way to create a wonderful website just drag and drop element. On step **Content**, click on a **Section** button then drag and drop a section.
 
@@ -79,29 +84,31 @@ Easy way to create a wonderful website just drag and drop element. On step **Con
 
 Drac and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
 
-### Section Properties
+----------------------------------------------------------------------
+
+#### Section Properties
 
 ![image](images/sectionproperties01.png)
 
-#### Move Section
+##### Move Section
 
 ![image](images/movesection.png)
 
 Rearrange a section up or down by drag drag to drop where you want in the same page.
 
-#### Delete Section
+##### Delete Section
 
 ![image](images/deletesection.png)
 
 Use **Delete** icon to delete section. Be careful, it’s a prompt delete function.
 
-#### Duplicate Section
+##### Duplicate Section
 
 ![image](images/duplicatesection.png)
 
 You can use **Duplicate Section** icon to duplicate the section you want to repeat. It will copy all design and content immediately.
 
-#### Edit Section
+##### Edit Section
 
 ![image](images/editsection.png)
 
@@ -135,33 +142,35 @@ Making one section to overlap other sections.
 
 Adjusting section border design.
 
-### Block Properties
+----------------------------------------------------------------------
+
+#### Block Properties
 
 Inside a section, it contain a block content which you can customize on block properties, a
 
-#### Move Block
+##### Move Block
 
 ![image](images/moveblock.png)
 
 Drag to drop where you want in the same section.
 
-#### Duplicate Block
+##### Duplicate Block
 
 ![image](images/duplicateblock.png)
 
 Duplicate the block you want to repeat. It will copy all design and content immediately.
 
-#### Edit Block
+##### Edit Block
 
 ![image](images/editblock.png)
 
-#### Animation
+##### Animation
 
 ![image](images/animation.png)
 
 Set Animation and Parallax Effect for block by “Edit Block”. You can choose 18 animations and 19 scrolling effects.
 
-#### Delete Block
+##### Delete Block
 
 Use “Delete” icon to delete block. Be careful, it’s a prompt delete function.
 
