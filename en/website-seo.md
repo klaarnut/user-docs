@@ -1,4 +1,4 @@
-# Easy Website SEO and Meta tag
+# Easy Website SEO
 
 ## Make your website found on google
 
@@ -10,14 +10,20 @@ RVsitebuilder 7 provides the easy way to set SEO in your website.
 
 
 #### Setting Areas
+You can set SEO in 2 ways; by page or by site.
+
+1. **By page**
+
+It means to set SEO for an individual page that will be effect only at this page.
+
 - 3-dot next to current page name you're editing
 
-![Kiku](images/seo1.png)
+![image](images/seo1.png)
 
 
 - Site -> Page Management icon
 
-![Kiku](images/visibility2.png)
+![image](images/visibility2.png)
 
 
 - Site -> Menu Pages -> 3-dot after page names
@@ -49,3 +55,15 @@ Slide the slide-button to right to custom page's title and description to be mor
 
 *Tips*: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
 
+-----------------------------------------------------
+
+2. **By site**
+
+This means to set SEO that will effect for the entire website, You can edit on some specific pages to use different SEO by guide **By page** above.
+
+Ways to access to SEO by site setting areas. It all 3 ways mentioned on **By page** part, you will just click on **Site** on the setting panel to switch to Site setting.
+
+( รอรูป )
+
+
+-----------------------------------------------------

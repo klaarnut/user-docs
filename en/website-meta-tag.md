@@ -1,17 +1,24 @@
+# Easy Website Meta tag
+
 ### Website Meta tag
 
-RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google, it's about SEO strategies as explained above.
+RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google.
 
 
 #### Setting Areas
-- 3-dot next to current page name you're editing
 
-![Kiku](images/meta1.png)
+You can set SEO in 2 ways; by page or by site.
+
+1. **By page**
+
+It means to set SEO for an individual page that will be effect only at this page.
+
+![image](images/meta1.png)
 
 
 - Site -> Page Management icon
 
-![Kiku](images/visibility2.png)
+![image](images/visibility2.png)
 
 
 - Site -> Menu Pages -> 3-dot after page names
@@ -27,3 +34,14 @@ Once **Meta tag** clicked, you will be at Page Management box.
 
 ![image](images/meta3.png)
 
+-----------------------------------------------------------------
+
+2. **By site**
+
+This means to set Meta tag that will effect for the entire website, You can edit on some specific pages to use different Meta tag by guide **By page** above.
+
+Ways to access to Meta tag by site setting areas. It all 3 ways mentioned on **By page** part, you will just click on **Site** on the setting panel to switch to Site setting.
+
+( รอรูป )
+
+-----------------------------------------------------
