@@ -1,4 +1,7 @@
-# User Inrerface
+# User Interface
+
+User Interface will have 2 main levels; Public and Member.
+
 
 ## Public Interface
 
@@ -17,6 +20,7 @@ For guest, or every website visitors who open your website.
 
 ![image](images/ui5.png)
 
+----------------------------------------------------------------
 
 ## Member Interface
 
