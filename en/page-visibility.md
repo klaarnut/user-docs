@@ -1,5 +1,3 @@
-# Page Visibility and Website Membership
-
 ## Page Visibility
 
 ### Meaning
