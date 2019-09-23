@@ -39,6 +39,7 @@
 - ## RVsitebuilder Apps
     - [Apps Management](apps.md)
     - [Apps Marketplace](apps-marketplace.md)
+    - [Lavascript and CSS Manaul Add](css-and-javascript.md)
 
 - ## Website Management
     - Backing up Website
@@ -49,4 +50,4 @@
     - Language Files
 
 - ## Troubleshooting
-    - [End User Troubleshooting](https://support.rvglobalsoft.com/hc/en-us/sections/360003727213-Troubleshooting)
+    - [End User Troubleshooting](https://support.rvglobalsoft.com/hc/en-us/categories/360002328334)
