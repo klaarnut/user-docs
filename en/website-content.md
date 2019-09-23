@@ -19,100 +19,6 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
 
-
-## Page Function
-
-Drac and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
-
-### Section Properties
-
-![image](images/sectionproperties01.png)
-
-#### Move Section
-
-![image](images/movesection.png)
-
-Rearrange a section up or down by drag drag to drop where you want in the same page.
-
-#### Delete Section
-
-![image](images/deletesection.png)
-
-Use **Delete** icon to delete section. Be careful, it’s a prompt delete function.
-
-#### Duplicate Section
-
-![image](images/duplicatesection.png)
-
-You can use **Duplicate Section** icon to duplicate the section you want to repeat. It will copy all design and content immediately.
-
-#### Edit Section
-
-![image](images/editsection.png)
-
-   - **Background**
-   
-![image](images/backgroundsection.png)
-
-*Fluid (full screen)*: Enable or disable a full screen section.
-
-*Color* : Selecting background color by using color picker or choosing from a gradient color.
-
-*Background Image*: Inserting an image to a background. You can select an image from Image Manager.
-
-*Reponsive Image Position*: Image alignment on responsive mode.
-
-   - **Shadow**
-
-![image](images/shadowsection.png)
-
-You can select 6 shadow preset styles which you can modify color and size on the below setting.
-
-   - **Overlap**
-
-![image](images/overlapsection.png)
-
-Making one section to overlap other sections. 
-
-   - **Box**
-
-![image](images/boxsection.png)
-
-Adjusting section border design.
-
-### Block Properties
-
-Inside a section, it contain a block content which you can customize on block properties, a
-
-#### Move Block
-
-![image](images/moveblock.png)
-
-Drag to drop where you want in the same section.
-
-#### Duplicate Block
-
-![image](images/duplicateblock.png)
-
-Duplicate the block you want to repeat. It will copy all design and content immediately.
-
-#### Edit Block
-
-![image](images/editblock.png)
-
-#### Animation
-
-![image](images/animation.png)
-
-Set Animation and Parallax Effect for block by “Edit Block”. You can choose 18 animations and 19 scrolling effects.
-
-#### Delete Block
-
-Use “Delete” icon to delete block. Be careful, it’s a prompt delete function.
-
-![image](images/deleteblock.png)
-
-
 ### Text Tools
 
 ![image](images/texttools.png) 
@@ -272,4 +178,7 @@ Adjust the color on each cell or the whole table and table border color.
 ![image](images/tablealignment.png)
 
 Align text on the table both horizontal and verticle.
+
+-------------------------------------------------------------------------
+
 
