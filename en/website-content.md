@@ -215,11 +215,11 @@ The 3 image tools are right on the image you clicked; **Upload**, **Replace**, a
 ![image](images/content9.png)
 
 
-1 ) Upload
+1. **Upload**
       
 Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
 
-2 ) Replace
+2. **Replace**
 
 Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
 
@@ -231,21 +231,30 @@ Click this icon and you will see the Image manager panel that has 3 main parts t
 
    3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
-3 ) Edit
+3. **Edit**
 
 Click this button in order to edit this image.
 
 ![image](images/content11.png)
 
    From left to right.
+
    **Zoom In** : To Zoom this image for more closer.
+
    **Zoom Out** : To make this image more farther but not farther than the original.
+
    **Rotate** : To rotate this image.
+
    **Flip Horizontal** : To make this image flipped horizontally.
+
    **Flip Vertical** : To make this image flipped vertically.
+
    **Resize** : To make this image size matched this image box. It's not to resize image freely.
+
    **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+
    **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
+   
 
 
 ----------------------------------------------------------------------------------------------------
