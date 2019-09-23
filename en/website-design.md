@@ -1,6 +1,6 @@
 # Website Design
 
-After the [one-click create my site](create-new-site.md), you sure want to design it as beautiful as your style.
+After the [one-click create my site](create-new-website.md), you sure want to design it as beautiful as your style.
 
 First we will start with a beautiful template.
 
@@ -167,4 +167,6 @@ Use “Delete” icon to delete block. Be careful, it’s a prompt delete functi
 
 ![image](images/deleteblock.png)
 
+
+----------------------------------------------------------------
 
