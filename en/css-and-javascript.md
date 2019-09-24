@@ -1,6 +1,5 @@
 # Easy add javascript/CSS on your website
 
-(รอรูป)
 
 RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website. 
 
@@ -52,6 +51,8 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 2. On **Site Config** panel.
 
+![image](images/jscss4.png)
+
     1) Click **Site**
 
     2) Select **CMS**
@@ -62,8 +63,6 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
     5) Click **Save**
 
-
-![image](images/jscss4.png)
 
 3. Don't forget to click **Save** on content editor.
 
