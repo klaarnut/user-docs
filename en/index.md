@@ -1,5 +1,5 @@
 - ## Getting started
-    - [Introduction](introduction.md)   
+    - [Overview](overview.md)   
     - [Installation](installation.md)
     - [Glossary](glossary.md)
 
@@ -18,15 +18,15 @@
 
 - ## Website Blog
     - [Add New Blog](creating-blog.md)
-    - Add New Category
-    - Blog Design
-    - Blog Widgets
-    - Edit Blog
+    - [Add New Category](creating-blog.md)
+    - [Blog Design](creating-blog.md)
+    - [Blog Widgets](creating-blog.md)
+    - [Edit Blog](creating-blog.md)
 
 - ## SEO
     - [Website SEO](website-seo.md)
     - [Website Meta Tag](website-meta-tag.md)
-    - Blog SEO
+    - [Blog SEO](creating-blog.md)
 
 - ## Website Email
     - [Setting Automation Emails](email-template.md)
