@@ -22,16 +22,18 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
   - [W](#w)
 
 
-<a name="number"></a>
 ## *
+<a name="number"></a>
+
 **3-dot menu**
 
 : The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options; set as home, set as draft, rename, SEO, and etc.
 
 
 
-<a name="a"></a>
 ## A
+<a name="a"></a>
+
 **Admin, Administrator**
 
 : The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
@@ -71,12 +73,13 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 : The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as;
 
-        rvsitebuilder/wysiwyg
+- *rvsitebuilder/wysiwyg*
 
 
 
-<a name="b"></a>
 ## B
+<a name="b"></a>
+
 **Backend Role**
 
 : The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps.
@@ -103,8 +106,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="c"></a>
 ## C
+<a name="c"></a>
+
 **Center Menu**
 
 : The center menu on the top of content editor contains of most frequestly used tools while you're editing your content such as **Insert Tool**.
@@ -116,16 +120,18 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="d"></a>
 ## D
+<a name="d"></a>
+
 **Disabled apps**
 
 : The applications that are already installed but not enabled to use on your website yet.
 
 
 
-<a name="e"></a>
 ## E
+<a name="e"></a>
+
 **Editable area**
 
 : The most of area you'd be at when you edit your website, means every area that you can directly add, edit, insert content on it. This area will be different from Widget area whcih we will later see what it means.
@@ -141,8 +147,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="f"></a>
 ## F
+<a name="f"></a>
+
 **Floating Side Menus**
 
 : The penny-sized floating menus on left hand when you're at Design menu (7 green floating menus) and Content menu (4 blue floating menu).
@@ -154,40 +161,45 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="h"></a>
 ## H
+<a name="h"></a>
+
 **Hide and Show Admin Top Bar**
 
 : The vertical left angle blacket (︿) under view modes. It's action is to hide or show the Admin Top Bar.
 
 
 
-<a name="i"></a>
 ## I
+<a name="i"></a>
+
 **Insert Toolbar**
 
 : A bar to insert additional needs on your content. It's always right on the top of the content editor promptly to be used.
 
 
 
-<a name="l"></a>
 ## L
+<a name="l"></a>
+
 **Left Menu**
 
 : The left menus lie on the top left of content editor. It's the main menu to switch what you're going to edit the main parts of your website such as templae, design, content, and or email.
 
 
 
-<a name="m"></a>
 ## M
+<a name="m"></a>
+
 **My Site**
 
 : Your real website to be seen by everyone.
 
 
 
-<a name="p"></a>
 ## P
+<a name="p"></a>
+
 **Page**
 
 : The general website content area separated by page name. It can be either display on menu or not.
@@ -217,12 +229,13 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 : The name of a feature or service such as;
 
-- wysiwyg
+- *wysiwyg*
 
 
 
-<a name="r"></a>
 ## R
+<a name="r"></a>
+
 **Right Menu**
 
 : The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other pages.
@@ -234,8 +247,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="s"></a>
 ## S
+<a name="s"></a>
+ 
 **Section**
 
 : The main parts of your website to insert and control how the content will display. Section can contain whether only text, text and image, table, images, and content blocks.
@@ -272,16 +286,18 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="t"></a>
 ## T
+<a name="t"></a>
+
 **Toolbar**
 
 : Bars that contain nescessary tools that will always be ready to use while you're editing your website. It can be opened by directly clicking on each Toolbar.
 
 
 
-<a name="u"></a>
 ## U
+<a name="u"></a>
+
 **User**
 
 : Everyone who knows and opens your website, the first time visitor, the fans of your website, the investigators, the registered members, the website admins.
@@ -293,13 +309,14 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="v"></a>
 ## V
+<a name="v"></a>
+
 **Vendor Name**
 
 : The name of company or developer who develops the package such as;
 
-- rvsitebuilder
+- *rvsitebuilder*
 
 
 **View modes**
@@ -313,8 +330,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-<a name="w"></a>
 ## W
+<a name="w"></a>
+
 **Website Navigation**
 
 : The menu bar on your website to let everyone navigates to pages.
