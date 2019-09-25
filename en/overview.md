@@ -16,11 +16,11 @@
 
 - **End-users** - to build a great looking responsive website, you don’t need to have a programing skill. You can find end-user documentation right here.
 
-- **Laravel developers** - to accelerate development with full featured CMS. Focus on business logic of your app and leave all foundation to us. Together with worldwide hosting partners, no more trouble deploying your app. Just a simple click. You can find developer documentation [here](https://dev.rvsitebuilder.com). 
+- **Laravel developers** - to accelerate development with full featured CMS. Focus on business logic of your app and leave all foundation to us. Together with worldwide hosting partners, no more trouble deploying your app. Just a simple click. You can find developer documentation [here](https://dev.rvsitebuilder.com).
 
-- **Service Providers** - to host laravel application with 1-click installer from cPanel, or non-control panel system without to provide SSH shell to end-users and developers. You can find [service provider documentation](//TODO: url ) here. 
+- **Service Providers** - to host laravel application with 1-click installer from cPanel, or non-control panel system without to provide SSH shell to end-users and developers.
 
-- **Template Designers** - from basic to advance templates. You can find [template  documentation](//TODO: url ) here. 
+- **Template Designers** - from basic to advanced templates.
 
 
 ## RVsitebuilder Demo 
