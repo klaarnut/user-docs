@@ -1,6 +1,6 @@
 # User Interface
 
-User Interface will have 2 main levels; Public and Member.
+User Interface will have 2 main levels; **Public** and **Member**.
 
 
 ## Public Interface
