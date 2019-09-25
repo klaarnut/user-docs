@@ -14,7 +14,7 @@
 
 ### By your domain name
 
-1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/website-membership.md).)
+1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/7.2/en/website-membership).
 1. Enter admin login.
 
 ![image](images/overview2.png)
@@ -24,7 +24,7 @@
 
 ## Domain Name Selection
 
-After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overview.md#login-system_), you can start your professtional site in 1 minute!
+After logging in, you can start your professtional site in 1 minute!
 1. Start with click **Create new site** 
 
 ![image](images/create1.png)
@@ -43,7 +43,7 @@ After [logging in](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/overvi
 
 ## Template Selection
 
-This ready to use beautiful template, you can select more than 300 styles. Keep or customize as you like.
+This ready to use beautiful template, you can select one in more than 138 styles. Keep or customize as you like.
 
 ![image](images/selecttemplate.png)
 
@@ -61,9 +61,14 @@ Let's go further for more beautiful and unique one!
 You may start next step with;
 
    1) [Website Design](website-design.md)
+
    2) [Website Content](website-content.md)
+
    3) [Page and Menu](page-and-menu.md) 
+
    4) [Website Footer](website-footer.md)
+
    5) [Online Form](online-form.md)
+   
 
    ---------------------------------------------------------

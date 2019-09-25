@@ -64,6 +64,7 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
     5) Click **Save**
 
 
+
 3. Don't forget to click **Save** on content editor.
 
 

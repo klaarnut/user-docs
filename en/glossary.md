@@ -10,65 +10,91 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 **Admin, Administrator**
 : The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
+
 **Admin Interface**
 : The content editor that can only be accessed by Admin to edit website content, and the management area to manage website users, websites, and website roles.
+
 
 **Admin Top Bar**
 : The very top most black bar menus on the right hand on content editor, works for access Apps management.
 
+
 **Apply**
 : The functional button you will see in setting panels, it will work to apply what you have set to content area, but it does NOT SAVE that you will hvae to click Save button to save them.
+
 
 **Apps**
 : The applications that are enabled and disabled on your website.
 
+
 **Apps Launcher**
 : The **Apps** menu on Admin Top Menu to launch and navigate to all applications that are enabled on your website. 
+
 
 **Apps Manage**
 : The application center to see all applications currently enabled and disabled on your website. You can check their version and update them from here.
 
+
 **Apps Name**
 : The name of package which will consist of Vendor Name and Project Name separated by slash (/)such as;
 
-                rvsitebuilder/wysiwyg
+        rvsitebuilder/wysiwyg
+
 
 
 ## B
 **Backend Role**
-: The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps. 
+
+: The more permission 2 users, Administrator and Executive, that are accessible website admin area to edit content, update CMS and apps version, install and uninstall Apps.
+
 
 **Block**
+
 : The sub content area inside Section that you can edit separetedly even though they're inside the same Section.
 
+
 **Block Options**
+
 : The grey options that will be appeared at the right top of the current block you're working with. We use these options when we want to move block (drag and drop), delete, duplicate, and edit section design such as background image, color, and animation.
 
+
 **Block Properties**
+
 : The properties setting for your block display; background, shadow, border. (แก้ไขจาก Box เป็น Border)
 
+
 **Brand**
+
 : The brand of your company or your business to show on your website top menu, banner, and footer.
 
 
 ## C
 **Center Menu**
+
 : The center menu on the top of content editor contains of most frequestly used tools while you're editing your content such as **Insert Tool**.
 
+
 **Content editor**
+
 : The first place of every time you logging in to edit website. It's the place to edit website content, change template design, and setting systems for your website.
+
 
 
 ## D
 **Disabled apps**
+
 : The applications that are already installed but not enabled to use on your website yet.
+
 
 
 ## E
 **Editable area**
+
 : The most of area you'd be at when you edit your website, means every area that you can directly add, edit, insert content on it. This area will be different from Widget area whcih we will later see what it means.
 
+
 **Enabled apps**
+
 : The applications that are currently enabled and using on your website.
 
 **Executive**

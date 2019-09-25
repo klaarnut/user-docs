@@ -10,7 +10,7 @@ Almost 10 FREE Apps are available by default, and much more in [RVsitebuilder Ap
 
 You can hire our developers to build it especially for you!
 
-The rest menus are for Laravel Developer to build private apps for you by structures in our [Developer Document](https://github.com/rvsitebuilder/developer-docs/tree/master/en).
+The rest menus are for Laravel Developer to build private apps for you by structures in our [Developer Document](https://dev.rvsitebuilder.com).
 
 ![image](images/apps4.png)
 
