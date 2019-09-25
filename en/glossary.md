@@ -233,9 +233,9 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
-## R
 <a name="r"></a>
 
+## R
 **Right Menu**
 
 : The menu on the right hand under the Admin Top Bar. It's mostly for current page configuration and to switch to other pages.
