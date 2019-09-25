@@ -2,6 +2,7 @@
 
 ## Getting RVsitebuilder License
 
+
 ### cPanel Control Panel
 1. You can buy hosting service from our cPanel [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed.
 
@@ -22,6 +23,7 @@ download.rvglobalsoft.com
 Files.mirror1.rvsitebuilder.com 
 
 
+
 3. Install RVsitebuilder directly on your domain name.
 - Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer. 
 - Unzip the setup file 
@@ -29,6 +31,7 @@ Files.mirror1.rvsitebuilder.com
 - Call the setup.php script for your domain name on browser http://mydomainname.com/rvsitebuilder/setup.php 
 - Follow the setup steps until finish. 
 - Enter license at manage app.
+
 
 
 4. Once the installation is completed.

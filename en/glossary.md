@@ -2,10 +2,35 @@
 
 Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
+  - [*](#number)
+  - [A](#a)
+  - [B](#b)
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [H](#h)
+  - [I](#i)
+  - [L](#l)
+  - [M](#m)
+  - [P](#p)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+
+
+<a name="number"></a>
 ## *
 **3-dot menu**
+
 : The vertical 3 small dots appear next to the page name on Right Menu and Page Setting. It's the quick access to page options; set as home, set as draft, rename, SEO, and etc.
 
+
+
+<a name="a"></a>
 ## A
 **Admin, Administrator**
 
@@ -50,6 +75,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="b"></a>
 ## B
 **Backend Role**
 
@@ -76,6 +102,8 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 : The brand of your company or your business to show on your website top menu, banner, and footer.
 
 
+
+<a name="c"></a>
 ## C
 **Center Menu**
 
@@ -88,6 +116,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="d"></a>
 ## D
 **Disabled apps**
 
@@ -95,6 +124,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="e"></a>
 ## E
 **Editable area**
 
@@ -111,6 +141,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="f"></a>
 ## F
 **Floating Side Menus**
 
@@ -123,6 +154,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="h"></a>
 ## H
 **Hide and Show Admin Top Bar**
 
@@ -130,6 +162,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="i"></a>
 ## I
 **Insert Toolbar**
 
@@ -137,6 +170,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="l"></a>
 ## L
 **Left Menu**
 
@@ -144,6 +178,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="m"></a>
 ## M
 **My Site**
 
@@ -151,6 +186,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="p"></a>
 ## P
 **Page**
 
@@ -181,10 +217,11 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 : The name of a feature or service such as;
 
-        wysiwyg
+- wysiwyg
 
 
 
+<a name="r"></a>
 ## R
 **Right Menu**
 
@@ -197,6 +234,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="s"></a>
 ## S
 **Section**
 
@@ -234,6 +272,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="t"></a>
 ## T
 **Toolbar**
 
@@ -241,6 +280,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="u"></a>
 ## U
 **User**
 
@@ -253,12 +293,13 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="v"></a>
 ## V
 **Vendor Name**
 
 : The name of company or developer who develops the package such as;
 
-        rvsitebuilder
+- rvsitebuilder
 
 
 **View modes**
@@ -272,6 +313,7 @@ Definitions of functions, items, terms, and features in RVsitebuilder 7.
 
 
 
+<a name="w"></a>
 ## W
 **Website Navigation**
 
