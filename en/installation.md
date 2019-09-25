@@ -4,12 +4,15 @@
 
 ### cPanel Control Panel
 1. You can buy hosting service from our cPanel [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed.
-2. Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) and start your website!
+
+2. Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) and start your website!
  
 
 ### Other Control Panel Systems and Non-control panel
 For other control panel systems or non-control panel domain name, you can simply follow these steps.
 1. Get a control panel account or domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
+
+
 2. Make your control panel account meet with the following requirements.
 - Domain name must run on PHP7.1.3 or above. 
 - php extension: 'mysqlnd','pdo','gd','curl','iconv','mbstring','zip','posix_getpwuid','json' 
@@ -17,6 +20,7 @@ For other control panel systems or non-control panel domain name, you can simply
 - Firewall on your server doesn't block the following domains.  
 download.rvglobalsoft.com  
 Files.mirror1.rvsitebuilder.com 
+
 
 3. Install RVsitebuilder directly on your domain name.
 - Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer. 
@@ -26,7 +30,8 @@ Files.mirror1.rvsitebuilder.com
 - Follow the setup steps until finish. 
 - Enter license at manage app.
 
+
 4. Once the installation is completed.
-RVsitebuilder CMS is ready to [create website](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/create-new-website.md) on your domain now!
+RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!
 
 

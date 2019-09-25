@@ -1,6 +1,6 @@
 # Register and Login System
 
-Once your website is completed, you may want it to be [memberhsip](https://github.com/rvsitebuilder/user-docs/blob/7.2/en/website-membership.md) one that allows users to register.
+Once your website is completed, you may want it to be [memberhsip](https://user.rvsitebuilder.com/docs/7.2/en/website-membership) one that allows users to register.
 Aside from letting them to submit register form, you can also actiavte Built-in Login systems to​ allow​ them to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
 
 Google Login Setup for Built-in Channels in your website
@@ -84,6 +84,7 @@ Click ***Enable*** to activate the API.*
 
     5) Click "Save" to save all of your setting above.
 
+
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
@@ -134,6 +135,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     5) Click "Save" to save all of your setting above.
 
+
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 ------------------------------------------------------------------------------
@@ -163,6 +165,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 ![image](images/loginSystem6.png)
 
     5) Click "Save" to save all of your setting above.
+
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
@@ -233,6 +236,7 @@ Then setup the login by following.
 ![image](images/loginSystemLine13.png)
 
     5) Click "Save" to save all of your setting above.
+
 
 6. The LINE Login single sign-on is available for your user to login to your website without make a new register.
 
