@@ -5,9 +5,9 @@
   - [Getting RVsitebuilder](#rvsitebuilder)
   - [Getting Support](#support)
 
-## Overview
 
 <a name="overview"></a>
+## Overview
 
 **RVsitebuilder** is online website builder with ready-to-use beautiful templates, beginner friendly, realtime responsive wesbite online, and freely available worldwide from our [hosting partners](https://rvsitebuilder.com/hosting-partner/). It can be installed and used to build wesbite on every server that does and does not have control panel. 
 
@@ -23,24 +23,21 @@
 - **Template Designers** - from basic to advanced templates.
 
 
-## RVsitebuilder Demo 
-
 <a name="demo"></a>
+## RVsitebuilder Demo 
 
 RVsitebuilder has online demo that everyone can try and see how it works on control panel server and non-cpntrol panel server [here](https://rvsitebuilder.com/demo/). 
 
 
-## Getting RVsitebuilder
-
 <a name="rvsitebuilder"></a>
+## Getting RVsitebuilder
 
 RVsitebuilder on control panel server will be globally provided by hosting providers that can be found in our [Hosting Partner](https://rvsitebuilder.com/hosting-partner/) page. Select one based on your country and contact them for hosting service.
 RVsitebuilder on non-control panel server can be done by the installation [here](https://rvsitebuilder.com/installation/)
 
  
+ <a name="support"></a>
 ## Getting Support 
-
-<a name="support"></a>
 
 If this documentation does not help, you can find community resources here: 
 

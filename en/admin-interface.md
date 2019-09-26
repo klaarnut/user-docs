@@ -1,5 +1,12 @@
 # ADMIN INTERFACE
 
+  - [Admin Top Bar](#admintopbar)
+  - [Left Menu](#leftmenu)
+  - [Center Menu](#centermenu)
+  - [Right Menu](#rightmenu)
+
+
+<a name="admintopbar"></a>
 ### Admin Top Bar
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
@@ -20,7 +27,9 @@ To access to more Apps you can use with your website aside from features in cont
 
 To show who is (you are) working now. Click on it and select.
 
-------------------------------------------------
+
+
+<a name="leftmenu"></a>
 ### Left Menu
 
 ![image](images/leftmenu.png)
@@ -148,7 +157,9 @@ Select one from 7 Footer designs, the information on Email Footer will be the sa
 
 ![image](images/email5footer.png)
 
-------------------------------------------------
+
+
+<a name="centermenu"></a>
 ### Center Menu
 
 ![image](images/centermenu.png)
@@ -201,7 +212,9 @@ Admin Top Bar is an always-appear tool bar for more faster access wherever you a
 
 ![image](images/showHide.png)
 
-------------------------------------------------
+
+
+<a name="rightmenu"></a>
 ### Right Menu
 
 ![image](images/rightmenu.png)

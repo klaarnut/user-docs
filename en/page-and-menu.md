@@ -1,12 +1,19 @@
 ## Adding Page and Menu are easy as by following this guide
 
+  - [Add New Page](#addpage)
+  - [Add New Menu](#addmenu)
+
+
 First, a little to know is adding Page and adding Menu are not the same part.
 
 Adding page is to add new content area for your new content. It WILL NOT appear on website navigation unless you add it to a Menu.
 
 Adding menu is to add new Top Menu or Menu on website navigation. You can define **Page** for the new added menu immediately or later.
 
-### Adding New Page
+
+
+<a name="addpage"></a>
+### Add New Page
 
 1. In Content editor, click "+" floating menu, and select **New Page**.
 
@@ -34,9 +41,10 @@ Sample of the new added page with "Show on menu" box UNCHECKED. The new content 
 
 3. You can start content for this page now.
 
--------------------------------------------------------------------------------
 
-### Adding New Menu
+
+<a name="addmenu"></a>
+### Add New Menu
 
 1. In Content editor, click "Menu" floating menu, and select **Menu**.
 

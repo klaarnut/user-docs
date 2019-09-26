@@ -1,31 +1,48 @@
 # Website Design
 
+  - [Beautiful Template](#template)
+  - [Website Banner](#banner)
+  - [Website Navigation](#navigation)
+  - [Website Content](#content)
+
+
 After the [one-click create my site](create-new-website.md), you sure want to design it as beautiful as your style.
 
 First we will start with a beautiful template.
 
 
+
+<a name="template"></a>
 ### Beautiful Template
+
 Select template relate to your business categorie with up to 138 ready-made beautiful templates including with very new template designs and blank templates.
 
 ![image](images/newtemplate.png)
 
-----------------------------------------------------------------------
 
+
+<a name="banner"></a>
 ### Website Banner
+
 Banner is the most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
+
+
 - **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
 
 ![image](images/create6.png)
 
+
 - **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
 
 ![image](images/create7.png)
-> **Note:** If you're setting website banner at Home page, it will affect to ALL pages. 
 
-----------------------------------------------------------------------
+ *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
+
+
+<a name="navigation"></a>
 ### Website Navigation
+
 Manage your Top Menu and Menu
 
 **Top Menu:** Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
@@ -33,6 +50,7 @@ Manage your Top Menu and Menu
 You can select a Top menu style on step **Design**. Don't forget to click **Save**.
 
 ![image](images/create8.png)
+
 
 
 And modify your Top menu on step **Content**, click on the Menu icon and select **Top Menu**. You can add icon, badge and point the menu to a page as you want.
@@ -44,6 +62,8 @@ And modify your Top menu on step **Content**, click on the Menu icon and select 
 Clicking on a logo to change your own company logo and insert your company address.
 
 ![image](images/create10.png)
+
+
 
 **Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
 
@@ -73,18 +93,19 @@ On the Menu Setting you can:
 - Select the method you need to open this menu.
 - Choose a direction to link this menu.
 
-----------------------------------------------------------------------
 
+
+<a name="content"></a>
 ### Website Content
+
 Easy way to create a wonderful website just drag and drop element. On step **Content**, click on a **Section** button then drag and drop a section.
 
 ![image](images/create14.png)
 
 ![image](images/create14-1.png)
 
-Drac and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
+Drag and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
 
-----------------------------------------------------------------------
 
 #### Section Properties
 
@@ -142,7 +163,6 @@ Making one section to overlap other sections.
 
 Adjusting section border design.
 
-----------------------------------------------------------------------
 
 #### Block Properties
 
@@ -177,5 +197,5 @@ Use “Delete” icon to delete block. Be careful, it’s a prompt delete functi
 ![image](images/deleteblock.png)
 
 
-----------------------------------------------------------------
+
 

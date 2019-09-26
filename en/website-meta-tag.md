@@ -1,15 +1,21 @@
 # Easy Website Meta tag
 
-### Website Meta tag
+  - [Meta tag by page](#metabypage)
+  - [Meta tag by site](#metabysite)
+
+## Website Meta tag
+
 
 RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google.
 
 
-#### Setting Areas
-
+### Setting Areas
 You can set SEO in 2 ways; by page or by site.
 
-1. **By page**
+
+
+<a name="metabypage"></a>
+#### By page
 
 It means to set SEO for an individual page that will be effect only at this page.
 
@@ -34,14 +40,38 @@ Once **Meta tag** clicked, you will be at Page Management box.
 
 ![image](images/meta3.png)
 
------------------------------------------------------------------
 
-2. **By site**
+
+<a name="metabypage"></a>
+#### By site
 
 This means to set Meta tag that will effect for the entire website, You can edit on some specific pages to use different Meta tag by guide **By page** above.
 
-Ways to access to Meta tag by site setting areas. It all 3 ways mentioned on **By page** part, you will just click on **Site** on the setting panel to switch to Site setting.
+Way to access to Meta tag by site setting areas.
 
-( รอรูป )
+1. At **Site** -> **Page Management** icon
 
------------------------------------------------------
+![image](images/visibility2.png)
+
+
+2. you will just click on **Site** on the setting panel to switch to Site setting.
+
+![image](images/seoimage1.png)
+
+1) Click **Site**
+
+2) Select **CMS**
+
+3) Select **Meta**
+
+4) Insrt Meta tag for the entire site
+
+5) Click **Save**
+
+
+3. Don't forget to click **Save** on content editor.
+
+
+4. Click on **My Site** to publish what you just have done.
+
+

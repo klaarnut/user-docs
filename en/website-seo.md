@@ -1,18 +1,23 @@
 # Easy Website SEO
 
+  - [SEO by page](#seobypage)
+  - [SEO by site](#seobysite)
+
 ## Make your website found on google
 
-### Website SEO
 
 SEO strategy nowadays is not only to do the meta tag in order to get ranked in google. And as google nowadays has improved its algorithm in website ranking, so it becomes more focus on Page Title or content, related to what popular searched from global searchers.
 
 RVsitebuilder 7 provides the easy way to set SEO in your website.
 
 
-#### Setting Areas
+### Setting Areas
 You can set SEO in 2 ways; by page or by site.
 
-1. **By page**
+
+
+<a name="seobypage"></a>
+#### By page
 
 It means to set SEO for an individual page that will be effect only at this page.
 
@@ -55,15 +60,38 @@ Slide the slide-button to right to custom page's title and description to be mor
 
 *Tips*: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
 
------------------------------------------------------
 
-2. **By site**
+
+<a name="seobypage"></a>
+#### By site**
 
 This means to set SEO that will effect for the entire website, You can edit on some specific pages to use different SEO by guide **By page** above.
 
-Ways to access to SEO by site setting areas. It all 3 ways mentioned on **By page** part, you will just click on **Site** on the setting panel to switch to Site setting.
+Way to access to SEO by site setting areas.
 
-( รอรูป )
+1. At **Site** -> **Page Management** icon
+
+![image](images/visibility2.png)
 
 
------------------------------------------------------
+2. you will just click on **Site** on the setting panel to switch to Site setting.
+
+![image](images/seoimage1.png)
+
+1) Click **Site**
+
+2) Select **CMS**
+
+3) Select **SEO**
+
+4) Select SEO for the entire site
+
+5) Click **Save**
+
+
+3. Don't forget to click **Save** on content editor.
+
+
+4. Click on **My Site** to publish what you just have done.
+
+

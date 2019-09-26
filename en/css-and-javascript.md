@@ -10,7 +10,7 @@ Long story short, it allows you to install Apps from our [Apps Marketplace](http
 But in case if sometimes you really want to add Javascript/Css on your page in order to make your website more wow, you can also do that in our **HTML Mode**.
 
 
-### Add Javascript/Cs by page
+### Add Javascript/Css by page
 
 1. Make sure the Javascript/Css you got is correct and working properly.
 

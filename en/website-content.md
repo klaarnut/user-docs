@@ -1,13 +1,19 @@
 # Content Editor
 
+  - [Edit Content](#editcontent)
+  - [Add New Content Section](#addsection)
+  - [Add Image](#addimage)
+
+
 Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
 
 At Content tab, you will always be at the new added page or the latest one you edit previously. 
 
 ![image](images/content6.png)
 
----------------------------------------
 
+
+<a name="editcontent"></a>
 ## 1. Edit your content
 
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
@@ -175,8 +181,9 @@ Adjust the color on each cell or the whole table and table border color.
 
 Align text on the table both horizontal and verticle.
 
------------------------------------------------
 
+
+<a name="addsection"></a>
 ## 2. Add new content section
 
 ![image](images/sections.png)
@@ -197,8 +204,9 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
---------------------------------------------------
 
+
+<a name="addimage"></a>
 ## 3. Add image to your content
 
 Once some content done, let's make this page more interesting by adding images on it.
@@ -257,6 +265,5 @@ Click this button in order to edit this image.
 
 
 
-----------------------------------------------------------------------------------------------------
 
 
