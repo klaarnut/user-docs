@@ -42,29 +42,32 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 **Next and Previous**: Visitor can click to see a next post and previous post.
 
-Blog Catagories
 
-Add Catagories
+## Add Catagories
 
 You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
-Add Blog to Catagory
+## Add Blog to Catagory
 
 Fills your blog name and select catagory which you want to add in.
 
-Manage your Blog page
+## Manage your Blog page
 
 A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog list. 
 
-You can moditfy this page by clicking Site -> Blog tab -> Blog page.
+You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
 
-mainblogpage.png
+![image](images/mainblogpage.png)
+
 
 It will have a blog widget Category list and Recent Post as a default.
 
 Category list, this widget shows all your categories.
+
 Category list Setting
-categorylist.png
+
+![image](images/categorylist.png)
+
 1. Title: Insert your Title.
 2. Number of Category: Limit your category which display on the list.
 3. Order by: Select Ascending or Descending to arrage a list.
@@ -72,7 +75,11 @@ categorylist.png
 
 
 Recent Post, this widget shows your latest post.
+
 Recent Post Setting
+
+![image](images/recentpost.png)
+
 1. Title: Insert your Title.
 2. Category to display: Select a category which you need to show on a list.
 3. Number of Post: Limit your post which display on the list.
@@ -82,8 +89,11 @@ Recent Post Setting
 7. Enable/Disable show catagories on each post.
 
 Blog List, this widget shows all your posts.
+
 Blog List Setting
-bloglist.png
+
+![image](images/bloglist.png)
+
 1. Title: Insert your Title.
 2. Enable/Disable a total of posts
 3. Limit a number of post which diaplay on the list
