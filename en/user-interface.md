@@ -1,8 +1,12 @@
 # User Interface
 
+  - [Public Interface](#publicinterface)
+  - [Member Interface](#memberinterface)
+
 User Interface will have 2 main levels; **Public** and **Member**.
 
 
+<a name="publicinterface"></a>
 ## Public Interface
 
 For guest, or every website visitors who open your website.
@@ -20,8 +24,9 @@ For guest, or every website visitors who open your website.
 
 ![image](images/ui5.png)
 
-----------------------------------------------------------------
 
+
+<a name="memberinterface"></a>
 ## Member Interface
 
 For website visitors who are already your website members.
@@ -51,5 +56,5 @@ Some users were regitered to your website by website admin. This way they probab
 
 [Here](website-membership.md) is how you manage these members on your website.
 
----------------------------------------------------------------
+
 

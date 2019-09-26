@@ -11,6 +11,9 @@
   - [Splash Page](#splashpage)
 
 
+It has several page types you see while building your wewbsite in RVSitebuilder. This part will help you understand the difference of them.
+
+
 <a name="page"></a>
 ## Page
 
