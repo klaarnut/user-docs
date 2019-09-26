@@ -41,9 +41,9 @@ Once you done playing with the color, click on the form to add or remove fields 
 
 6. Form will switch to Email Setup area;
 
-- the **Form Action** panel is to set Subject and Email Address for this Form in order to recieve information when it is submitted by users.
+- **the Form Action** panel is to set Subject and Email Address for this Form in order to recieve information when it is submitted by users.
 
-- the background "Thank you" is the editable area that you can edit text and image/icon on it directly!
+- **the background "Thank you"** is the editable area that you can edit text and image/icon on it directly!
 
 ![image](images/form5.png)
 
