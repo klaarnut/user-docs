@@ -7,13 +7,6 @@
 
 ![image](images/blog01.png)
 
-## Blog Catagories
-
-You can click Add Category to create your own category. Also, you can select the parent category with the 3 maximum levels. For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
-
-![image](images/blog02.png)
-
-
 
 ## Add Catagories
 
@@ -23,7 +16,11 @@ On step **Content**, click on **New Post**. You can click **Add Category** to cr
 
 For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
+## Manage your Categories Index
+
 Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
+
+![image](catepage.png)
 
 **By Category List**: Shows all your posts in the category
 
