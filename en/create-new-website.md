@@ -7,9 +7,9 @@
   - [Publish](#publish)
 
 <a name="rvsitebuilderaccess"></a>
-## RVsitebuilder Access
+### RVsitebuilder Access
 
-### By cPanel control panel
+#### By cPanel control panel
 
 1. Login to control panel.
 1. Look for Software feature group.
@@ -18,7 +18,7 @@
 ![image](images/overview1.png)
 
 
-### By your domain name
+#### By your domain name
 
 1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/7.2/en/website-membership).
 1. Enter admin login.
@@ -30,7 +30,7 @@
 
 
 <a name="domainselection"></a>
-## Domain Name Selection
+### Domain Name Selection
 
 After logging in, you can start your professtional site in 1 minute!
 1. Start with click **Create new site** 
@@ -52,7 +52,7 @@ After logging in, you can start your professtional site in 1 minute!
 
 
 <a name="templateselection"></a>
-## Template Selection
+### Template Selection
 
 This ready to use beautiful template, you can select one in more than 138 styles. Keep or customize as you like.
 
@@ -61,7 +61,7 @@ This ready to use beautiful template, you can select one in more than 138 styles
 
 
 <a name="publish"></a>
-## Publish
+### Publish
 
 After select template, you will be brought to website editor. Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
 

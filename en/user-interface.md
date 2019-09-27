@@ -7,7 +7,7 @@ User Interface will have 2 main levels; **Public** and **Member**.
 
 
 <a name="publicinterface"></a>
-## Public Interface
+### Public Interface
 
 For guest, or every website visitors who open your website.
 
@@ -27,7 +27,7 @@ For guest, or every website visitors who open your website.
 
 
 <a name="memberinterface"></a>
-## Member Interface
+### Member Interface
 
 For website visitors who are already your website members.
 
