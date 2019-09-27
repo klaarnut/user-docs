@@ -30,41 +30,31 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 ![image](images/blog04.png)
 
 
-**Category list**: This widget shows all your categories.
-
-**Recent Post**: Shows your latest post also you can adjust the number of posts, set date & time, author name and categories.
-
-**Posts in Category**: A blog list on current categories.
-
-**Post Info**: Shows and Author profile and time and date of the blog post.
-
-**Navigation**: A post breadcrumb navigation.
-
-**Next and Previous**: Visitor can click to see a next post and previous post.
 
 
 ## Add Catagories
 
-You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
+On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. 
+
+For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
 ## Add Blog to Catagory
 
 Fills your blog name and select catagory which you want to add in.
 
-## Manage your Blog page
+## Manage your Blog post
 
-A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog list. 
+Once you creates a post, you will be able to write a content in the section under a post info widget section.
 
-You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
+manageblogpost01.png
 
-![image](images/mainblogpage.png)
+### Blog post widget section 
 
+**Category list**: this widget shows all your categories.
 
-It will have a blog widget Category list and Recent Post as a default.
+![image](images/blog-category.jpg)
 
-Category list, this widget shows all your categories.
-
-Category list Setting
+**Category list Setting**
 
 ![image](images/categorylist.png)
 
@@ -73,10 +63,11 @@ Category list Setting
 3. Order by: Select Ascending or Descending to arrage a list.
 4. Enable/Disable a total number of posts.
 
+**Recent Post**: This widget shows your latest post.
 
-Recent Post, this widget shows your latest post.
+![image](images/blog-recentpost.jpg)
 
-Recent Post Setting
+**Recent Post Setting**
 
 ![image](images/recentpost.png)
 
@@ -88,9 +79,72 @@ Recent Post Setting
 6. Enable/Disable author name on each post.
 7. Enable/Disable show catagories on each post.
 
-Blog List, this widget shows all your posts.
+**Posts in Category**: Show all blog post which create on the same post's category.
 
-Blog List Setting
+![image](images/blog-postcategory.jpg)
+
+**Posts in this Category setiing**
+
+![image](images/postinthiscat.png)
+
+1. Title: Insert your Title.
+2. Number of Post: Limit your post which display on the list.
+3. Order by: Select Ascending or Descending to arrage a list.
+4. Enable/Disable post date and time on each post.
+5. Enable/Disable author name on each post.
+
+**Post Info**: A post details and informations.
+
+![image](images/blog-postinfo.jpg)
+
+**Post Info Setting**
+
+![image](images/postinfosetting.png)
+
+1. Title Size: Select a font size for Title
+2. Enable/Disable Category name.
+3. Enable/Disable post date and time.
+4. Enable/Disable author email.
+5. Enable/Disable author name.
+
+
+**Navigation**: A post breadcrumb navigation.
+
+![image](images/blog-breadcrumb.jpg) 
+
+**Breadcrum Setting**
+
+![image](images/breadcrumsetting.png) 
+
+1. Select a design of arrow.
+2. Select a text color.
+
+
+**Next and Previous**: Visitor can click to see a next post and previous post.
+
+![image](images/blog-next.jpg)
+
+**Next and Previous Buttons Setting**
+
+![image](images/nextandpreviousbuttons.png)
+
+
+1. Select a design of arrow.
+2. Select a text color.
+
+## Manage your Blog index
+
+A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumnail.. 
+
+You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
+
+![image](images/mainblogpage.png)
+
+### Blog index widget section 
+
+There are 2 widgets section, Category list and Recent Post, allow to add in a blog index. Beside, you are able to adjust a blog list widget to display a thumnails of all posts.
+
+**Blog List Setting**
 
 ![image](images/bloglist.png)
 
@@ -103,6 +157,7 @@ Blog List Setting
 7. Enable/Disable show catagories on each post.
 8. Enable/Disable show a first paragraph on each post.
 9. Continue Reading text is a button to access a post page.
+
 
 
 
