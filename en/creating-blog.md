@@ -13,32 +13,37 @@ You can click Add Category to create your own category. Also, you can select the
 
 ![image](images/blog02.png)
 
-Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
-Click on Blog Category Setting to adjust and select a design to display.
-
-![image](images/blog02-1.png)
-
-## Add Widget
-
-On the Post page, there will be a blog widget which contains Category list and Recent Post as a default. 
-
-
-You can add more widget by clicking the **Section** icon then selecting **Blog**
-
-![image](images/blog03.png)
-
-![image](images/blog04.png)
-
-
 
 
 ## Add Catagories
+
+![image](addcategory.png)
 
 On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. 
 
 For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
+Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
+
+**By Category List**: Shows all your posts in the category
+
+**By Category List Setting**
+
+![image](images/bycatesetting.png)
+
+1. Enable/Disable Category Name
+2. Enable/Disable Total Number of Posts
+3. Limit post per page
+4. Order by: Select Newest, Post Title or Last edit to arrage a list.
+5. Enable/Disable author name on each post.
+6. Enable/Disable post date and time on each post.
+7. Enable/Disable post's category on each post.
+8. Continue Reading text is a button to access a post page.
+
+
 ## Add Blog to Catagory
+
+![image](images/addpost.png)
 
 Fills your blog name and select catagory which you want to add in.
 
@@ -46,11 +51,17 @@ Fills your blog name and select catagory which you want to add in.
 
 Once you creates a post, you will be able to write a content in the section under a post info widget section.
 
-manageblogpost01.png
+![image](images/manageblogpost01.png)
+
+You can add more widget by clicking the **Section** icon then selecting **Blog**
+
+![image](images/blog03.png)
+
+![image](images/blog04.png)
 
 ### Blog post widget section 
 
-**Category list**: this widget shows all your categories.
+**Category list**: This widget shows all your categories.
 
 ![image](images/blog-category.jpg)
 
@@ -79,7 +90,7 @@ manageblogpost01.png
 6. Enable/Disable author name on each post.
 7. Enable/Disable show catagories on each post.
 
-**Posts in Category**: Show all blog post which create on the same post's category.
+**Posts in Category**: Shows all blog post which create on the same post's category.
 
 ![image](images/blog-postcategory.jpg)
 
@@ -107,7 +118,6 @@ manageblogpost01.png
 4. Enable/Disable author email.
 5. Enable/Disable author name.
 
-
 **Navigation**: A post breadcrumb navigation.
 
 ![image](images/blog-breadcrumb.jpg) 
@@ -119,7 +129,6 @@ manageblogpost01.png
 1. Select a design of arrow.
 2. Select a text color.
 
-
 **Next and Previous**: Visitor can click to see a next post and previous post.
 
 ![image](images/blog-next.jpg)
@@ -127,7 +136,6 @@ manageblogpost01.png
 **Next and Previous Buttons Setting**
 
 ![image](images/nextandpreviousbuttons.png)
-
 
 1. Select a design of arrow.
 2. Select a text color.
