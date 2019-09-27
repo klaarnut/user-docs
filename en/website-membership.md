@@ -104,14 +104,14 @@ There are 4 roles you can manage, and more custom role(s) you can create.
 ![image](images/role1.png)
 
 
-##### Backend Role
+#### Backend Role
 
 **Administrator**, The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
 **Executive**, The high permission role second to Administrator. This role holds exclusive permission to access to website admin area to edit website content, manage installed applications, mostly for website information but cannot manage users and roles. This role is mainly used when you want more website content editors aside from you.
 
 
-##### Frontend Role
+#### Frontend Role
 
 **User**, The member privilege for website visitors who registered to your website. User role is mostly for permission to access to member area or some pages on your website you set visibilily only for User (member).
 

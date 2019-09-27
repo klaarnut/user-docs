@@ -11,16 +11,16 @@ Aside from letting them to submit register form, you can also actiavte Built-in 
 
 
 <a name="cmsregisterlogin"></a>
-## Pre-installed Register and Login Setup
+### Pre-installed Register and Login Setup
 
 
 
 <a name="googlelogin"></a>
-## Google Login Setup for Built-in Channels in your website
+### Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
-Google Login Setup for Built-in Channels requires Google API Setup. Don't worry if you don't feel familiar with Google API Setup, you can follow easy steps below.
+**Google Login Setup for Built-in Channels requires Google API Setup**. Don't worry if you don't feel familiar with Google API Setup, you can follow easy steps below.
 
 1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't have one.
 
@@ -122,7 +122,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 
 <a name="facebooklogin"></a>
-## ​Facebook Login Setup for Built-in Channels in your website
+### ​Facebook Login Setup for Built-in Channels in your website
 
 1. Go to https://developers.facebook.com/apps , select **Create a New App**.
 
@@ -172,7 +172,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 
 <a name="twitterlogin"></a>
-## Twitter Login Setup for Built-in Channels in your website
+### Twitter Login Setup for Built-in Channels in your website
 
 1. Go to https://apps.twitter.com/, select **Create New App**.
 
@@ -204,7 +204,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 
 <a name="linelogin"></a>
-## LINE Login Setup for Built-in Channels in your website
+### LINE Login Setup for Built-in Channels in your website
 
 To setup Line app as a login channel for your website, you will have to register your email address with Line first.
 

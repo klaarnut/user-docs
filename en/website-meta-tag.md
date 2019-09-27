@@ -44,7 +44,7 @@ Once **Meta tag** clicked, you will be at Page Management box.
 
 
 
-<a name="metabypage"></a>
+<a name="metabysite"></a>
 #### By site
 
 This means to set Meta tag that will effect for the entire website, You can edit on some specific pages to use different Meta tag by guide **By page** above.

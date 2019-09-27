@@ -63,7 +63,7 @@ Slide the slide-button to right to custom page's title and description to be mor
 
 
 
-<a name="seobypage"></a>
+<a name="seobysite"></a>
 #### By site
 
 This means to set SEO that will be effect for the entire website. You can edit on any individual pages to use different SEO on guide **By page** above.
