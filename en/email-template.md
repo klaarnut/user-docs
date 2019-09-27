@@ -1,29 +1,34 @@
 # Email Template
 
+  - [Email Template Setup](#emailtemplatesetup)
+  - [Email Design](#emaildesign)
+  - [Email Address Setup](#emailaddresssetup)
+
 Make your website way more you with the custom email template for emails sent out to those visitors who register to your website and website admins. Email Template can be useful and easier to support you. Custom its design to be matched your website design.
 
 
+<a name="emailtemplatesetup"></a>
 ### Email Template Setup
 
 1. Navigate it from **Email** menu.
 
 ![image](images/email1.png)
 
------------------------------------------------------------------------------
+
 
 2. Select one from to two templates, it can be customized later.
 
 ![image](images/email2template.png)
 
------------------------------------------------------------------------------
 
-3. **Email Templates Selection**
+
+3. Email Templates Selection
 
 In **Config** icon, you can select an email page which you want to adjust.
 
 There are 2 templates for 2 receivers.
 
-**User template**, email templates to send to your website users.
+1) User template, email templates to send to your website users.
 
 ![image](images/email15.png)
 
@@ -40,7 +45,7 @@ There are 2 templates for 2 receivers.
 *Welcome Email*: a greeting email which sends out when visitors approve the verification email.
 
 
-**Admin template**, email templates to send to website admins on your website.
+2) Admin template, email templates to send to website admins on your website.
 
 ![image](images/email16.png)
 
@@ -52,7 +57,7 @@ There are 2 templates for 2 receivers.
 
 *New active user*: an alert email to inform all website admin about new resgistered users.
 
------------------------------------------------------------------------------
+
 
 4. **Company Brand**
 
@@ -60,7 +65,7 @@ You may edit company brand here in Email template by clicking on Brand area. The
 
 ![image](images/email8.png)
 
------------------------------------------------------------------------------
+
 
 5. **Email Header Text**
 
@@ -68,9 +73,10 @@ You can add an impact text on your email to get more attraction or a tiny promot
 
 ![image](images/email7.png)
 
------------------------------------------------------------------------------
 
-6. **Email Design**
+
+<a name="emaildesign"></a>
+### Email Design
 
 You can customise Email design to be more related feel to your company and website.
 
@@ -90,9 +96,10 @@ You can customise Email design to be more related feel to your company and websi
 
 ![image](images/email5footer.png)
 
------------------------------------------------------------------------------
 
-7. **Email Setup**
+
+<a name="emailaddresssetup"></a>
+### Email Address Setup
 
 **Email Subject**
 
@@ -119,13 +126,13 @@ In **Config** icon, click on **Setting** to open email setting tools.
 
 ![image](images/email13.png)
 
------------------------------------------------------------------------------
 
-8. **Preview and Test**
+
+- **Preview and Test**
 
 Preview your email template by sending it directly to your email. See how it works on the visitor's view.
 
 Click on **Preview** feature, and insert your own email in **To** field. Click **Send** to send it.
 
 ![image](images/email14.png)
----------------------------------------------------------------------------------------
+
