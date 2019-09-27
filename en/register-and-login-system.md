@@ -1,17 +1,65 @@
 # Register and Login System
 
-  - [Pre-installed Register and Login](#cmsregisterlogin)
+  - [Built-in Register and Login](#cmsregisterlogin)
   - [Google Login Setup](#googlelogin)
   - [Facebook Login Setup](#facebooklogin)
   - [Twitter Login Setup](#twitterlogin)
   - [LINE Login Setup](#linelogin)
 
 Once your website is completed, you may want it to be [memberhsip](https://user.rvsitebuilder.com/docs/7.2/en/website-membership) one that allows users to register.
-Aside from letting them to submit register form, you can also actiavte Built-in Login systems to​ allow​ them to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
+Aside from letting them to submit register form, you can also actiavte Built-in Login channels to​ allow​ them to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
 
 
 <a name="cmsregisterlogin"></a>
-### Pre-installed Register and Login Setup
+### Built-in Register and Login Setup
+
+Every website created in RVsitebuilder 7 will have Login button on Top Menu by default. This Login button will be used for user register and login. 
+
+It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
+
+[image]
+
+
+#### Register Setup
+
+1. Click on Site -> System -> Register page.
+
+![image](images/register1.png)
+
+2. Once the Register form appears, click on form to open Register Setting panel.
+
+![image](images/register2.png)
+
+
+#### Login Setup
+
+1. 1. Click on Site -> System -> Login page.
+
+![image](images/login1.png)
+
+2. Once the Register form appears, click on form to open Login Setting panel.
+
+![image](images/login2.png)
+
+3. You can start with **Built-in Channels**.
+
+4. You can also enable **Social Login** to use together with normal Built-in in number 3.
+
+4.1) Click on Social Login icon
+
+![image](images/login3.png)
+
+4.2) Slide the slideable button on any or all the Social channels you want user to login to your website with.
+
+![image](images/login4.png)
+
+- [Google Account](#googlelogin)
+
+- [Facebook](#facebooklogin)
+
+- [Twitter](#twitterlogin)
+
+- [LINE](#linelogin)
 
 
 
