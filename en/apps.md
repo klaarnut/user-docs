@@ -14,4 +14,3 @@ You can install more apps to use with your website such as Sitemap, Weather, and
 
 ![image](images/apps2.png)
 
------------------------------------------------------------------------

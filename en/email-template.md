@@ -10,19 +10,19 @@ Make your website way more you with the custom email template for emails sent ou
 <a name="emailtemplatesetup"></a>
 ### Email Template Setup
 
-1. Navigate it from **Email** menu.
+1. **Navigate it from Email menu.**
 
 ![image](images/email1.png)
 
 
 
-2. Select one from to two templates, it can be customized later.
+2. **Select template**, it can be customized later.
 
 ![image](images/email2template.png)
 
 
 
-3. Email Templates Selection
+3. **Setup recipient templates**
 
 In **Config** icon, you can select an email page which you want to adjust.
 
@@ -38,11 +38,11 @@ There are 2 templates for 2 receivers.
 
 - **Member**, the email template to use with **Login** button on your website.
 
-*Reset password email*: the email to use when users use forget password function on website login area. 
+- *Reset password email*: the email to use when users use forget password function on website login area. 
 
-*Verify Email*: email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
+- *Verify Email*: email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
 
-*Welcome Email*: a greeting email which sends out when visitors approve the verification email.
+- *Welcome Email*: a greeting email which sends out when visitors approve the verification email.
 
 
 2) Admin template, email templates to send to website admins on your website.
@@ -59,7 +59,7 @@ There are 2 templates for 2 receivers.
 
 
 
-4. **Company Brand**
+4. **Edit company brand**
 
 You may edit company brand here in Email template by clicking on Brand area. The information about company brand you change here will be effect to website company brand as well.
 
@@ -67,7 +67,7 @@ You may edit company brand here in Email template by clicking on Brand area. The
 
 
 
-5. **Email Header Text**
+5. **Set Email header**
 
 You can add an impact text on your email to get more attraction or a tiny promote before the whole email content. Just by clicking on **EDIT EMAIL HEADER** and start.
 

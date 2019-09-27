@@ -39,7 +39,7 @@
 - ## RVsitebuilder Apps
     - [Apps Management](apps.md)
     - [Apps Marketplace](apps-marketplace.md)
-    - [Lavascript and CSS Manaul Add](css-and-javascript.md)
+    - [CSS and Javascript Manaul Add](css-and-javascript.md)
 
 - ## Website Management
     - Backing up Website

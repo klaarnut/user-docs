@@ -20,6 +20,7 @@ You can set SEO in 2 ways; by page or by site.
 It means to set SEO for an individual page that will be effect only at this page.
 
 A) 3-dot next to current page name you're editing
+
 ![image](images/meta1.png)
 
 

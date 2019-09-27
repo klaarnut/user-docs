@@ -1,5 +1,7 @@
-# Easy add javascript/CSS on your website
+# Easy add CSS/Javascrip on your website
 
+  - [Add CSS/Javascript by page](#cssjsbypage)
+  - [Add CSS/Javascript by site](#cssjsbysite)
 
 RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website. 
 
@@ -10,7 +12,8 @@ Long story short, it allows you to install Apps from our [Apps Marketplace](http
 But in case if sometimes you really want to add Javascript/Css on your page in order to make your website more wow, you can also do that in our **HTML Mode**.
 
 
-### Add Javascript/Css by page
+<a name="cssjsbypage"></a>
+### Add CSS/Javascript by page
 
 1. Make sure the Javascript/Css you got is correct and working properly.
 
@@ -41,7 +44,9 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 7. If there's nothing in action or it shows and error, please check the script again for if it's really correct.
 
 
-### Add Javascript/Cs by site
+
+<a name="cssjsbysite"></a>
+### Add CSS/Javascript by site
 
 
 1. On Content editor, click **Site** -> **Page Management** icon
@@ -53,15 +58,15 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 ![image](images/jscss4.png)
 
-    1) Click **Site**
+1) Click **Site**
 
-    2) Select **CMS**
+2) Select **CMS**
 
-    3) Select **CSS/JS**
+3) Select **CSS/JS**
 
-    4) Insert CSS or JavaScript
+4) Insert CSS or JavaScript
 
-    5) Click **Save**
+5) Click **Save**
 
 
 
@@ -74,4 +79,3 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 5. If there's nothing in action or it shows and error, please check the script again for if it's really correct.
 
 
---------------------------------------------------------------------

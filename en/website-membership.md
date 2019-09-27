@@ -1,5 +1,11 @@
 ## Website Membership
 
+  - [Meaning](#meaning)
+  - [Setting Areas](#settingarea)
+  - [User Management](#usermanagement)
+  - [Role Management](#rolemanagement)
+
+<a name="meaning"></a>
 ### Meaning
 
 Member is where to manage user and role for website members for both those you added and those who registered by themselves.
@@ -8,13 +14,18 @@ Member is where to manage user and role for website members for both those you a
 
 **Role Management** is to manage roles for users.
 
-#### Setting Area
+
+
+<a name="settingarea"></a>
+### Setting Areas
 
 At the current page editor, click on **Apps**, selct **Member** to open Member management area.
 
 ![image](images/member1.png)
 
 
+
+<a name="usermanagement"></a>
 ### User Management
 
 All website members, you, other website admins, and those customers who registered on your website will be listed here.
@@ -82,6 +93,8 @@ Delete member will permanently delete that person from access to your member are
 This user is deleted from member area of your website but still able to visit your website as normal visitor.
 
 
+
+<a name="rolemanagement"></a>
 ### Role Management
 
 Role is the privilege to define to website member. You, as the website starter, will hold **Administrator** role. All self-registered will have role as **User** by default.
@@ -90,19 +103,22 @@ There are 4 roles you can manage, and more custom role(s) you can create.
 
 ![image](images/role1.png)
 
-## Backend Role
+
+##### Backend Role
 
 **Administrator**, The utimate permission role for website member. This role holds all permissions to manage website, can add, delete, and define every website member a role. Usually the first person, you, who started create this website will have this role.
 
 **Executive**, The high permission role second to Administrator. This role holds exclusive permission to access to website admin area to edit website content, manage installed applications, mostly for website information but cannot manage users and roles. This role is mainly used when you want more website content editors aside from you.
 
-## Frontend Role
+
+##### Frontend Role
 
 **User**, The member privilege for website visitors who registered to your website. User role is mostly for permission to access to member area or some pages on your website you set visibilily only for User (member).
 
 **VIP**, The **User** more permission role that can be used when you want some **User** to access to website admin area. This role is not famous to use, so it allows you to remove it from your website member management.
 
-## Create Custom Role
+
+#### Create Custom Role
 
 Role management allows you to create custom role(s) you may need.
 
@@ -111,7 +127,9 @@ Role management allows you to create custom role(s) you may need.
 ![image](images/role2.png)
 
 2. Give this Role a name.
-1. At **Associated Permissions**, you can check this box if you want this Role to be ale to access to website admin area.
-1. Click **Create**.
+
+3. At **Associated Permissions**, you can check this box if you want this Role to be ale to access to website admin area.
+
+4. Click **Create**.
 
 ![image](images/role3.png)

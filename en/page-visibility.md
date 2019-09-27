@@ -1,6 +1,12 @@
 ## Page Visibility
 
+  - [Meaning](#meaning)
+  - [Setting Areas](#settingarea)
+  - [Page Visibility Setting](#visibilitysetting)
+
+<a name="meaning"></a>
 ### Meaning
+
 Page visibility is the feature to set to whom your page(s) will be visible to, public, all members, or restricted members.
 
 **Public**, is the default visibility for every page you added in your website. The Public is meant to allow everyone who open the page to be able to see the content.
@@ -10,24 +16,27 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 **Restricted member(s)**, is the custom visibility you set for restricted members who have more privilege than normal members such as to be able to access to website admin area. The advanced privilege of these restrictd members will be set by you (will be explained in Website Membership part).
 
 
-#### Setting Areas
-- 3-dot next to current page name you're editing
 
-![Kiku](images/Visibility1.png)
+<a name="settingarea"></a>
+### Setting Areas
+A) 3-dot next to current page name you're editing
 
-
-- Site -> Page Management icon
-
-![Kiku](images/visibility2.png)
+![image](images/Visibility1.png)
 
 
-- Site -> Menu Pages -> 3-dot after page names
+B) Site -> Page Management icon
+
+![image](images/visibility2.png)
+
+
+C) Site -> Menu Pages -> 3-dot after page names
 
 ![image](images/visibility3.png)
 
 
 
-#### Page Visibility Management
+<a name="visibilitysetting"></a>
+### Page Visibility Management
 
 Once **Visibility** clicked, you will be at Page Management box.
 
