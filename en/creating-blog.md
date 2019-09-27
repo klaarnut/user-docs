@@ -2,15 +2,16 @@
 
 ## Add New Post
 
+![image](images/blog01.png)
+
+A simple and easy to add your new blog post
+
 1. Current on the step **Content**.
 1. Select **New Post**.
 
-![image](images/blog01.png)
-
-
 ## Add Catagories
 
-![image](addcategory.png)
+![image](images/addcategory.png)
 
 On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. 
 
@@ -20,7 +21,7 @@ For example: If we add "Cats" category and select parent category to "Animals", 
 
 Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
 
-![image](catepage.png)
+![image](images/catepage.png)
 
 **By Category List**: Shows all your posts in the category
 
