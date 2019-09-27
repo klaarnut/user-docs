@@ -139,7 +139,7 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 ## Manage your Blog index
 
-A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumnail.. 
+A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumbnail.
 
 You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
 
