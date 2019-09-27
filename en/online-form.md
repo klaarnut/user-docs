@@ -44,7 +44,7 @@ Once you done playing with the color, click on the form to add or remove fields 
 <a name="emailsetup"></a>
 ### Email Setup
 
-**1.** Once you redesign your form beautiful enough and the nescessary fields added,click on the form to setup EMAIL to use with this form. Click on **Email Setup**.
+**1.** Once you redesign your form beautiful enough and the nescessary fields added, click on the form to setup EMAIL to use with this form. Click on **Email Setup**.
 
 ![image](images/form4.png)
 
@@ -52,14 +52,14 @@ Once you done playing with the color, click on the form to add or remove fields 
 
 **2.** Form will switch to Email Setup area
 
-- **the Form Action** panel is to set Subject and Email Address for this Form in order to recieve information when it is submitted by users.
+- the **Form Action** panel is to set Subject and Email Address for this Form in order to recieve information when it is submitted by users.
 
-- **the background "Thank you"** is the editable area that you can edit text and image/icon on it directly!
+- the background **"Thank you"** is the editable area that you can edit text and image/icon on it directly!
 
 ![image](images/form5.png)
 
 
 
-**3.** DON'T FORGET TO CLICK **Save** on the rihgt menu to save all of your form setting.
+**3.** DON'T FORGET TO CLICK **Save** on the right menu to save all of your form setting.
 
 
