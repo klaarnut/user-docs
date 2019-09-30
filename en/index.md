@@ -41,6 +41,9 @@
     - [Apps Marketplace](apps-marketplace.md)
     - [CSS and Javascript Manaul Add](css-and-javascript.md)
 
+- ## Advanced
+    - [CSS and Javascript Manaul Add](css-and-javascript.md)
+
 - ## Website Management
     - Backing up Website
     - Changing Domain Name

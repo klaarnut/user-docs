@@ -17,7 +17,7 @@ Every website created in RVsitebuilder 7 will have Login button on Top Menu by d
 
 It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
 
-[image]
+![image](images/login23.png
 
 
 #### Register Setup
@@ -61,7 +61,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 - [LINE](#linelogin)
 
-
+------------------------------------------------------------------------
 
 <a name="googlelogin"></a>
 ### Google Login Setup for Built-in Channels in your website
@@ -167,7 +167,7 @@ Click ***Enable*** to activate the API.*
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
 
-
+------------------------------------------------------------------------
 
 <a name="facebooklogin"></a>
 ### ​Facebook Login Setup for Built-in Channels in your website
@@ -217,7 +217,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
-
+------------------------------------------------------------------------
 
 <a name="twitterlogin"></a>
 ### Twitter Login Setup for Built-in Channels in your website
@@ -249,7 +249,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
-
+------------------------------------------------------------------------
 
 <a name="linelogin"></a>
 ### LINE Login Setup for Built-in Channels in your website

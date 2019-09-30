@@ -3,8 +3,6 @@
   - [cPanel Control Panel](#cpanel)
   - [Other Control Panel and Non-control Panel](#othercpandnocp)
 
-## Getting RVsitebuilder License
-
 <a name="cpanel"></a>
 ### cPanel Control Panel
 
