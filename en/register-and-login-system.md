@@ -25,7 +25,10 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/login23.png)
 
-        *Image: Disable/enable Login button
+*Image: Disable/enable Login button*
+
+
+
 
 
 #### Register Setup
