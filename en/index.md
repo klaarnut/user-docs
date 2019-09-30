@@ -39,7 +39,6 @@
 - ## RVsitebuilder Apps
     - [Apps Management](apps.md)
     - [Apps Marketplace](apps-marketplace.md)
-    - [CSS and Javascript Manaul Add](css-and-javascript.md)
 
 - ## Advanced
     - [CSS and Javascript Manaul Add](css-and-javascript.md)

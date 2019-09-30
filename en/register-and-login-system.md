@@ -6,8 +6,14 @@
   - [Twitter Login Setup](#twitterlogin)
   - [LINE Login Setup](#linelogin)
 
-Once your website is completed, you may want it to be [memberhsip](https://user.rvsitebuilder.com/docs/7.2/en/website-membership) one that allows users to register.
-Aside from letting them to submit register form, you can also actiavte Built-in Login channels to​ allow​ them to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** for more faster.
+RVsitebuilder 7 has login function for website and user separately.
+
+https://user.rvsitebuilder.com/login, for website user.
+
+https://user.rvsitebuilder.com/admin/login. for you and other website admins [you set](website-membership.md)
+
+
+You can start using the Built-in Login channel to let user resgiter and login with their email addresses. RVsitebuilder 7 has social login channels to​ allow​ users to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** to loginto your website in the quicker way.
 
 
 <a name="cmsregisterlogin"></a>
@@ -17,7 +23,7 @@ Every website created in RVsitebuilder 7 will have Login button on Top Menu by d
 
 It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
 
-![image](images/login23.png
+![image](images/login23.png)
 
 
 #### Register Setup
