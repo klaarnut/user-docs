@@ -23,6 +23,8 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 
 ![image](images/catepage.png)
 
+### Category index widget section 
+
 **By Category List**: Shows all your posts in the category
 
 **By Category List Setting**
@@ -57,13 +59,13 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 ![image](images/blog04.png)
 
-### Blog post widget section 
+### Blog Post Widget Section 
 
 **Category list**: This widget shows all your categories.
 
 ![image](images/blog-category.jpg)
 
-**Category list Setting**
+**Category List Setting**
 
 ![image](images/categorylist.png)
 
@@ -92,7 +94,7 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 ![image](images/blog-postcategory.jpg)
 
-**Posts in this Category setiing**
+**Posts in This Category Setiing**
 
 ![image](images/postinthiscat.png)
 
@@ -137,6 +139,7 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 1. Select a design of arrow.
 2. Select a text color.
+
 
 ## Manage your Blog index
 
