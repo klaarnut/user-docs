@@ -27,9 +27,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 *Image: Disable/enable Login button*
 
-
-
-
+---------------------------------------------------------------------
 
 #### Register Setup
 
@@ -37,10 +35,15 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/register1.png)
 
-2. Once the Register form appears, click on form to open Register Setting panel.
+*Image: Opening Register setting*
 
+
+2. Once the Register form appears, click on form to open Register Setting panel.
 ![image](images/register2.png)
 
+*Image: Register setting area*
+
+---------------------------------------------------------------------
 
 #### Login Setup
 
