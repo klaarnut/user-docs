@@ -6,24 +6,26 @@
   - [Twitter Login Setup](#twitterlogin)
   - [LINE Login Setup](#linelogin)
 
-RVsitebuilder 7 has login function for website and user separately.
+RVsitebuilder 7 has login function for website and user separately such as;
 
 https://user.rvsitebuilder.com/login, for website user.
 
 https://user.rvsitebuilder.com/admin/login. for you and other website admins [you set](website-membership.md)
 
 
-You can start using the Built-in Login channel to let user resgiter and login with their email addresses. RVsitebuilder 7 has social login channels to​ allow​ users to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** to loginto your website in the quicker way.
+You can start using the Built-in Login channel to let user register and login with their email addresses. RVsitebuilder 7 has social login channels to​ allow​ users to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** to loginto your website in the quicker way.
 
 
 <a name="cmsregisterlogin"></a>
 ### Built-in Register and Login Setup
 
-Every website created in RVsitebuilder 7 will have Login button on Top Menu by default. This Login button will be used for user register and login. 
+Every website created in RVsitebuilder 7 will have **Login button on Top Menu by default**. This Login button will be used for user register and login. 
 
 It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
 
 ![image](images/login23.png)
+
+        *Image: Disable/enable Login button
 
 
 #### Register Setup
