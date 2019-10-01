@@ -39,7 +39,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 2. Once the Register form appears, click on form to open Register Setting panel.
 
 ![image](images/register2.png)
-<br/><code>**Image: Register setting area*</code>
+<br/><code>*Image: Register setting area*</code>
 
 <br/>
 
@@ -66,9 +66,12 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/login3.png)
 
+<br/>
 4.2) Slide the slideable button on any or all the Social channels you want user to login to your website with.
 
 ![image](images/login4.png)
+
+<br/>
 
 - [Google Account](#googlelogin)
 
@@ -78,13 +81,14 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 - [LINE](#linelogin)
 
-------------------------------------------------------------------------
+<br/>
 
 <a name="googlelogin"></a>
 ### Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
+<br/>
 **Google Login Setup for Built-in Channels requires Google API Setup**. Don't worry if you don't feel familiar with Google API Setup, you can follow easy steps below.
 
 1. Open Google Console website at https://console.developers.google.com/ . Login with your google email (Gmail) or register if you don't have one.
@@ -93,27 +97,27 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/loginSystem1.png)
 
-
+<br/>
 3. Insert your Project Name, and click **Create**.
 
 ![image](images/step3.png)
 
-
+<br/>
 4. Once the new project has been created, at Google APIs select your created project and click **Credential**.
 
 ![image](images/step4.png)
 
-
+<br/>
 5. In Create credentials drop-down list, select OAuth client ID
 
 ![image](images/6.png)
 
-
+<br/>
 6. Then, select **Configure consent screen**.
 
 ![image](images/mkt9.png)
 
-
+<br/>
 7. Create your **Product name shown to users** and website URL at **Homepage URL**.
 
 *For example*
@@ -124,7 +128,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/step7.png)
 
-
+<br/>
 8. At **Create OAuth client ID** page.
 
 1) Select **Web application**
@@ -139,34 +143,37 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ![image](images/loginSystem5.png)
 
+<br/>
 5) Don't forget to click **Save**.
 
 ![image](images/loginSystem2.png)
 
-
+<br/>
 9. The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
 
 ![image](images/mkt12.png)
 
-
+<br/>
 10. Once you clicked OK to leave OAuth client, at Google APIs page , select **Library**.
 
 ![image](images/mkt13.png)
 
-
+<br/>
 11. Search for the following API setups to **Enable** them.
 
 ![image](images/loginSystem3.png)
 
+<br/>
 Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystem4.png)
 
-
+<br/>
 12. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
 
 ![image](images/loginSystyem0.png)
 
+<br/>
 1) Slide the slidable button to activate Google Login.
 
 2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
@@ -177,6 +184,7 @@ Click ***Enable*** to activate the API.*
 
 ![image](images/loginSystem6.png)
 
+<br/>
 5) Click "Save" to save all of your setting above.
 
 
@@ -184,7 +192,7 @@ Click ***Enable*** to activate the API.*
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
 
-------------------------------------------------------------------------
+<br/>
 
 <a name="facebooklogin"></a>
 ### ​Facebook Login Setup for Built-in Channels in your website
@@ -219,6 +227,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 ![image](images/loginSystem01.png)
 
+<br/>
 1) Slide the slidable button to activate Google Login.
 
 2) Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
@@ -229,12 +238,13 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 ![image](images/loginSystem6.png)
 
+<br/>
 5) Click "Save" to save all of your setting above.
 
 
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
-------------------------------------------------------------------------
+<br/>
 
 <a name="twitterlogin"></a>
 ### Twitter Login Setup for Built-in Channels in your website
@@ -251,6 +261,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 ![image](images/loginSystem02.png)
 
+<br/>
 1) Slide the slidable button to activate Google Login.
 
 2) Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
@@ -261,12 +272,13 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 ![image](images/loginSystem6.png)
 
+<br/>
 5) Click "Save" to save all of your setting above.
 
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
-------------------------------------------------------------------------
+<br/>
 
 <a name="linelogin"></a>
 ### LINE Login Setup for Built-in Channels in your website
@@ -279,21 +291,25 @@ Then setup the login by following.
 1. Login to line developer console at: https://developers.line.biz/console/
 
 2. Click **Create New Provider**.
+
 ![image](images/loginSystemLine1.png)
 
-
+<br/>
 3. Add Provider name, and Confirm.
+
 ![image](images/loginSystemLine2.png)
 
-
+<br/>
 4. At "Confirm" stage, click **Create**.
+
 ![image](images/loginSystemLine3.png)
 
-
+<br/>
 5. Create **Create Channel** for LINE Login.
+
 ![image](images/loginSystemLine4.png)
 
-
+<br/>
 6. Add required values:
 
 *App name*
@@ -303,42 +319,44 @@ Then setup the login by following.
 
 ![image](images/loginSystemLine5.png)
 
-
+<br/>
 7. Once you're at Confirm page, *checkbox at LINE Developer Agreement*, and click **Create**.
 
 ![image](images/loginSystemLine6.png)
 
-
+<br/>
 8. You'll be leaded to App page. Click on **LINE Login** app.
 
 ![image](images/loginSystemLine7.png)
 
-
+<br/>
 9. Insert **Callback URL**, and click **Update**.
 
 *(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)*
 
 ![image](images/loginSystemLine8.png)
 
-
+<br/>
 10. To record email addresses of LINE registered users on your website, you can setup at **OpenID Connect** by clicking on **Submit**.
 
 ![image](images/loginSystemLine9.png)
 
+<br/>
 *Check boxes for functions*, and click **Submit**.
 
 ![image](images/loginSystemLine10.png)
 
-
+<br/>
 11. The details of **Channel ID** and **Channel secret** are showing.
 
 ![image](images/loginSystemLine11.png)
 
-
+<br/>
 12. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
 
 ![image](images/loginSystem02.png)
 
+<br/>
 1) Slide the slidable button to activate Google Login.
 
 2) Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
@@ -349,6 +367,7 @@ Then setup the login by following.
 
 ![image](images/loginSystemLine13.png)
 
+<br/>
 5) Click "Save" to save all of your setting above.
 
 
