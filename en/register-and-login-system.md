@@ -24,38 +24,41 @@ Every website created in RVsitebuilder 7 will have **Login button on Top Menu by
 It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
 
 ![image](images/login23.png)
+<br/><code>*Image: Disable/enable Login button*</code>
 
-*Image: Disable/enable Login button*
-
----------------------------------------------------------------------
+<br/>
 
 #### Register Setup
 
 1. Click on Site -> System -> Register page.
 
 ![image](images/register1.png)
+<br/><code>*Image: Opening Register setting*</code>
 
-*Image: Opening Register setting*
-
-
+<br/>
 2. Once the Register form appears, click on form to open Register Setting panel.
+
 ![image](images/register2.png)
+<br/><code>**Image: Register setting area*</code>
 
-*Image: Register setting area*
-
----------------------------------------------------------------------
+<br/>
 
 #### Login Setup
 
 1. 1. Click on Site -> System -> Login page.
 
 ![image](images/login1.png)
+<br/><code>*Image: Opening Login setting*</code>
 
+<br/>
 2. Once the Register form appears, click on form to open Login Setting panel.
 
 ![image](images/login2.png)
+<br/><code>*Image: Login setting area*</code>
 
+<br/>
 3. You can start with **Built-in Channels**.
+
 
 4. You can also enable **Social Login** to use together with normal Built-in in number 3.
 
