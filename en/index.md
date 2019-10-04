@@ -44,12 +44,12 @@
     - [CSS and Javascript Manaul Add](css-and-javascript.md)
 
 - ## Website Management
-    - Backing up Website
-    - Changing Domain Name
-    - Migrating to New Server
+    - [Backing up Website](backup-website.md)
+    - [Changing Domain Name](change-domainname.md)
+    - [Migrating to New Server](migration.md)
 
 - ## Internationalization
-    - Language Files
+    - [Language Files](language-file.md)
 
 - ## Troubleshooting
     - [End User Troubleshooting](https://support.rvglobalsoft.com/hc/en-us/categories/360002328334)

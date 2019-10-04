@@ -190,7 +190,7 @@ Click ***Enable*** to activate the API.*
 
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
-If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this guide. 
+If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-). 
 
 <br/>
 
