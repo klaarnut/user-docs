@@ -1,6 +1,15 @@
 # Creating Blog
+- [Add New Post](#add-new-post)
+- [Add Catagories](#add-catagories)
+- [Manage your Categories Index](#manage-your-categories-index)
+  - [Category index widget section](#category-index-widget-section)
+- [Add Blog to Catagory](#add-blog-to-catagory)
+- [Manage your Blog post](#manage-your-blog-post)
+  - [Blog Post Widget Section](#blog-post-widget-section)
+- [Manage your Blog index](#manage-your-blog-index)
+  - [Blog index widget section](#blog-index-widget-section)
 
-## Add New Post 55555
+## Add New Post
 
 ![image](images/blog01.png)
 
