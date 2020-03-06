@@ -2,7 +2,7 @@
 
   - [Select website navigation style](#websitenavigation)
   - [Add new menu](#addnewmenu)
-  - [Rename menu names](#renamemenunames)
+  - [Rename menu names](#renamemenu)
   - [Add sub menu](#addsubmenu)
 
 
@@ -82,7 +82,7 @@ Sample of the new added page with "Show on menu" box UNCHECKED. The new content 
 
 
 
-<a name="renamenununames"></a>
+<a name="renamemenu"></a>
 ### Rename menu names
 
 
