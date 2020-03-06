@@ -60,7 +60,7 @@ On your first create site by steps above, you will be welcome to **Templates** t
 
 Start a ready-to-edit website by selecting one from free beautiful templates from this step.
 
- => [n'woon รูปหน้า Templates ]
+ => [n'woon รูปหน้า Templates แล้วลบรปข้างล่างออก]
 ![image](images/selecttemplate.png)
 
 
@@ -78,9 +78,8 @@ Website content, configurations, and users are safe and kept.
 Things will change are **images and text on Header Banner of every page** that you have to reinsert again.
 
 
-#### Slide to Hero
 
-#### Hero to Slide
+#### Change Hero tempalte to Slide
 
 You may first started your website with an immoveble Header and Content for cool but feel it needs moveable header to present what you just added to your website or business.
 
@@ -88,11 +87,33 @@ You may first started your website with an immoveble Header and Content for cool
 
  => [n'woon ในหน้า templates ชี้ให้เห็น template categories และ แสดงตัวอย่างการวางเมาส์ลง template ที่เป้น slide]
 
-2. Select a most favorite slide banner will pop you a warning about what's to concern on changeing template.
+2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
 
  => [n'woon แสดง popup warning ตอนทำการเปลี่ยน template]
 
 3. Sure to change it, just click **OK**.
+
+
+#### Change Slide template to Hero
+
+You may feel the slide iamegs on Header are none of use by some reason.
+
+**Change on some page**
+If you want to change Slide header to be just and immoveable image for cool, you can remove unused images from Header of the page. This way you, you will have some page with Slide images Header, and some with immoveable image.
+
+1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
+
+ => [n'woon หน้า website ที่มี slide header สัก 3-4 slide, ในหน้า content ที่ไม่ใช่หน้า Home , click Banner เพื่อแสดงให้เห็น Banner Tools ยังไม่ต้อง คลิกอะไร]
+
+2. Click remove all Header images and leave the last one.
+
+ => [n'woon ใน banner tool ข้อ 1 แสดงให้เห็นการลบ banner image ออกทุกรูป เหลือแค่ 1 รูป]
+
+3. On the laft image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
+
+ => [n'woon ใน จากข้อ 2 แสดงการคลิกเพื่อเปิด Section Properties ของ Header banner เพื่อ edit. ไม่ต้อง edit ให้ดู เดี่ญวจะ link ไปหัวข้อ Customiza Template ด้านล่าง]
+
+
 
 <a name="customisetemplate"></a>
 ### Customise template
