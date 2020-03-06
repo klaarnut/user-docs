@@ -60,7 +60,7 @@ On your first create site by steps above, you will be welcome to **Templates** t
 
 Start a ready-to-edit website by selecting one from free beautiful templates from this step.
 
-[n'woon รูปหน้า Templates ]
+ => [n'woon รูปหน้า Templates ]
 ![image](images/selecttemplate.png)
 
 
@@ -69,7 +69,7 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
 
 You may want to change template on your website for seasoning, changing Hero template to Slide or changing Slide template to Hero. It's easy as just click on **Template** tab.
 
-[n'woon รูปหน้า program เปิดหน้า content แล้วไกด์ให้คลิกตรงเมนู Templates ]
+ => [n'woon รูปหน้า program เปิดหน้า content แล้วไกด์ให้คลิกตรงเมนู Templates ]
 
 **What's to concern for changing website template**
 
@@ -86,11 +86,11 @@ You may first started your website with an immoveble Header and Content for cool
 
 1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a movable slide images on website header, so keep looing for **"Type: Slide"**.
 
-[n'woon ในหน้า templates ชี้ให้เห็น template categories และ แสดงตัวอย่างการวางเมาส์ลง template ที่เป้น slide]
+ => [n'woon ในหน้า templates ชี้ให้เห็น template categories และ แสดงตัวอย่างการวางเมาส์ลง template ที่เป้น slide]
 
 2. Select a most favorite slide banner will pop you a warning about what's to concern on changeing template.
 
-[n'woon แสดง popup warning ตอนทำการเปลี่ยน template]
+ => [n'woon แสดง popup warning ตอนทำการเปลี่ยน template]
 
 3. Sure to change it, just click **OK**.
 
