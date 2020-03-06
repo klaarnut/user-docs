@@ -32,10 +32,6 @@
 ![image](images/overview3.png)
 
 
-
-
-
-
 ### Select Domain Name
 
 After logging in, you can start your professtional site in 1 minute!
