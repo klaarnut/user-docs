@@ -1,13 +1,16 @@
-# Create New Website
+# Template
 
 
-  - [RVsitebuilder Access](#rvsitebuilderaccess)
-  - [Domain Name Selection](#domainselection)
-  - [Template Selection](#templateselection)
+  - [Create a new site](#createanewsite)
+  - [Change template](#changetemplate)
+  - [Customise template](#customisetemplate)
   - [Publish](#publish)
 
-<a name="rvsitebuilderaccess"></a>
-### RVsitebuilder Access
+
+## 
+
+<a name="createanewsite"></a>
+### Create a new site
 
 #### By cPanel control panel
 
@@ -29,8 +32,7 @@
 
 
 
-<a name="domainselection"></a>
-### Domain Name Selection
+### Select Domain Name
 
 After logging in, you can start your professtional site in 1 minute!
 1. Start with click **Create new site** 
@@ -51,12 +53,29 @@ After logging in, you can start your professtional site in 1 minute!
 
 
 
-<a name="templateselection"></a>
-### Template Selection
+### Select Template
 
 This ready to use beautiful template, you can select one in more than 138 styles. Keep or customize as you like.
 
 ![image](images/selecttemplate.png)
+
+
+<a name="changetemplate"></a>
+### Change template
+
+#### Slide to Hero
+
+#### Hero to Slide
+
+
+<a name="customisetemplate"></a>
+### Customise template
+
+#### Edit website banner
+
+#### Sort Header Positions
+
+
 
 
 
