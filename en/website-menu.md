@@ -1,7 +1,13 @@
-## Adding Page and Menu are easy as by following this guide
+## Website Menu
 
-  - [Add New Page](#addpage)
-  - [Add New Menu](#addmenu)
+  - [Select website navigation style](#websitenavigation)
+  - [Add new menu](#addnewmenu)
+  - [Rename menu names](#renamemenunames)
+  - [Add sub menu](#addsubmenu)
+
+
+<a name="websitenavigation"></a>
+### Select website navigation style
 
 
 First, a little to know is adding Page and adding Menu are not the same part.
@@ -12,8 +18,9 @@ Adding menu is to add new Top Menu or Menu on website navigation. You can define
 
 
 
-<a name="addpage"></a>
-### Add New Page
+<a name="addnewmenu"></a>
+### Add new menu
+Naming, Poiting menu to page-website
 
 1. In Content editor, click "+" floating menu, and select **New Page**.
 
@@ -72,3 +79,13 @@ Sample of the new added page with "Show on menu" box UNCHECKED. The new content 
 
 
 6. Enjoy!
+
+
+
+<a name="renamenununames"></a>
+### Rename menu names
+
+
+<a name="addsubmenu"></a>
+### Add sub menu
+

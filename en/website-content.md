@@ -1,8 +1,14 @@
-# Content Editor
+# Website Content
 
-  - [Edit Content](#editcontent)
-  - [Add New Content Section](#addsection)
-  - [Add Image](#addimage)
+  - [Add new page](#addnewpage)
+  - [Add content and font](#addcontentandfont)
+  - [Content area design](#contentareadesign)
+  - [Insert blog widget](#insertblogwidget)
+  - [Insert link to content and image](#insertlink)
+  - [Insert button](#insertbutton)
+  - [Insert image](#insertimage)
+
+
 
 
 Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
@@ -13,8 +19,17 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 
 
-<a name="editcontent"></a>
-## 1. Edit your content
+<a name="addnewpage"></a>
+## Add new page
+And point page to menu
+
+
+<a name="addcontentandfont"></a>
+## Add content and font
+Text, font, google font
+
+<a name="contentareadesign"></a>
+## Content area design
 
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
@@ -183,8 +198,8 @@ Align text on the table both horizontal and verticle.
 
 
 
-<a name="addsection"></a>
-## 2. Add new content section
+
+## Add new content section
 
 ![image](images/sections.png)
 
@@ -204,10 +219,21 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
+<a name="insertblogwidget"></a>
+## Insert blog widget
 
 
-<a name="addimage"></a>
-## 3. Add image to your content
+<a name="insertlink"></a>
+## Insert link to content and image
+
+
+<a name="insertbutton"></a>
+## Insert button
+
+
+<a name="insertimage"></a>
+## Insert image
+Replace, Edit, Upload, Use image from facebook
 
 Once some content done, let's make this page more interesting by adding images on it.
 
