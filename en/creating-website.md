@@ -12,6 +12,7 @@
 <a name="createanewsite"></a>
 ### Create a new site
 
+
 #### By cPanel control panel
 
 1. Login to control panel.
