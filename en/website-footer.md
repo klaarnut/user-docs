@@ -28,6 +28,9 @@ In version 7, it allows you to change the style and background color by selectin
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
+---------------------------------------------------------------------------------------------------
+
+
 <a name="informationsetting"></a>
 ## Information Setting
 
@@ -44,6 +47,9 @@ You can insert information about your company on the information block.
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
+---------------------------------------------------------------------------------------------------
+
+
 <a name="contactussetting"></a>
 ## Contact Us setting
 
@@ -58,6 +64,9 @@ Add your company address for more trustworthy and easy to contact. This is a Bra
 2. Click **Apply**, and Save it on Content edior page.
 
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+
+
+---------------------------------------------------------------------------------------------------
 
 
 <a name="socialsetting"></a>

@@ -47,6 +47,8 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
+---------------------------------------------------------------------------------------------------
+
 
 <a name="renamemenu"></a>
 ## Rename menu
@@ -66,6 +68,11 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 3. Close Menu Setting window, and Save it on Content edior page.
 
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+ 
+
+ ---------------------------------------------------------------------------------------------------
+
+
 
 <a name="addsubmenu"></a>
 ## Add sub menu

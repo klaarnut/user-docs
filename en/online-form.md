@@ -1,15 +1,16 @@
-## Adding Online Form on Your Website
+# Online Form
 
   - [Add New Form](#addnewform)
   - [Form Design](#formdesign)
   - [Email Setup](#emailsetup)
+
 
 Online Form is frequently used on a website that needs more communication between you, the website owner, and website users. 
 
 Its purpose is to let users to submit information for you to contact back or for more sale opportunity.
 
 <a name="addnewform"></a>
-### Add New Form
+## Add New Form
 
 **1.** On Content Editot, navigate to **Form** floating menu.
 
@@ -22,9 +23,11 @@ Its purpose is to let users to submit information for you to contact back or for
 ![image](images/form2.png)
 
 
+---------------------------------------------------------------------------------------------------
+
 
 <a name="formdesign"></a>
-### Form Design
+## Form Design
 
 **1.** Once the Form dropped, the Form Design will welcome you for custom design as you want. All color can be changed, the Form fields can be added or removed for your need.
 
@@ -40,9 +43,11 @@ Once you done playing with the color, click on the form to add or remove fields 
 ![image](images/form6.png)
 
 
+---------------------------------------------------------------------------------------------------
+
 
 <a name="emailsetup"></a>
-### Email Setup
+## Email Setup
 
 **1.** Once you redesign your form beautiful enough and the nescessary fields added, click on the form to setup EMAIL to use with this form. Click on **Email Setup**.
 
@@ -63,3 +68,4 @@ Once you done playing with the color, click on the form to add or remove fields 
 **3.** DON'T FORGET TO CLICK **Save** on the right menu to save all of your form setting.
 
 
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
