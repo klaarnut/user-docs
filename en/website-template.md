@@ -248,32 +248,22 @@ You can select a Menu style anytime.
 => [n'woon รูป จิ้ม Menu 1 style + คลิกปุ่ม Save]
 
 
-There are 2 ways of adding a new menu
-
-1. **Adding a new page**: On the step Content click on **New Page**. You can add a new page and checkbox **Show on Menu**. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a **Show on Menu** box, it will create a new page, also add the menu to your navigation bar.
-
-![image](images/create12-2.png)
-
-![image](images/create12-3.png)
-
-2. **Adding manually menu**: You can add a new menu and select page to point at the step **Content**, select on the Menu icon and select Menu. Clicking plus buttom to add a new Menu. You can add icon, badge and point the menu to a page as you want.
-
-![image](images/create12.png)
-
-![image](images/create13.png)
-
-On the Menu Setting you can:
-
-- Fill your Menu name
-- Add icon which will appear in front of the menu.
-- Add badge to get more attractive from visitor.
-- Select the method you need to open this menu.
-- Choose a direction to link this menu.
-
-
 
 ### Sort Header Positions
 
+You can reorder Header positions between Banner, Top Menu, and Menu to make your website more unique than the deafult positions added from template you selected.
+
+1. Go to **Design** tab, and **Sort Header**.
+
+=> [n'woon รูป แสดงไกด์ click เมนู Design และ Sort Header ด้านซ้าย]
+
+2. Freely drag and drop Banner, Top Menu, and Menu as order you want in Header area.
+
+=> [n'woon รูป แสดงไกด์ การลาก banner, top menu, และ เมนู สลับที่บน header]
+
+3. Save it by clicking Cross (close) mark.
+
+=> [n'woon รูป แสดงไกด์ ปิด sort header เพื่ีอ save]
 
 
 ---------------------------------------------------------------------------------------------------
@@ -367,7 +357,7 @@ You can change the Slide Header banner for the entire website at once.
 <a name="publish"></a>
 ## Publish
 
-After select template, you will be brought to website editor. Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
+Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
 
 ![image](images/save.jpeg)
 
@@ -376,15 +366,13 @@ Now your website is online!
 
 Let's go further for more beautiful and unique one!
 
-You may start next step with;
+You may continue next step with;
 
-   1) [Website Design](website-design.md)
-
+   1) [Website Menu](website-menu.md)
+   
    2) [Website Content](website-content.md)
-
-   3) [Page and Menu](page-and-menu.md) 
-
-   4) [Website Footer](website-footer.md)
-
-   5) [Online Form](online-form.md)
+   
+   3) [Website Footer](website-footer.md)
+   
+   4) [Online Form](online-form.md)
    
