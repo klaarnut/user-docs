@@ -98,7 +98,7 @@ You may first started your website with an immoveble Header and Content for cool
 
 You may feel the slide images on Header are none of use by some reason.
 
-**Change on some page**
+   **Change on some page**
 If you want to change Slide header to be just an immoveable image for cool, you can remove unused images from Header of the page. *This way, you will have some page with Slide images Header, and some with immoveable image.*
 
 1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
@@ -114,9 +114,18 @@ If you want to change Slide header to be just an immoveable image for cool, you 
  => [n'woon ใน จากข้อ 2 แสดงการคลิกเพื่อเปิด Section Properties ของ Header banner เพื่อ edit. ไม่ต้อง edit ให้ดู เดี่ยวจะ link ไปหัวข้อ Customiza Template ด้านล่าง]
 
 
-**Change for the 
+   **Change for the entire website**
+You can change the Slide Header banner for the entire website at once.
 
+   1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a Hero banner, so keep looing for **"Type: Hero"**.
 
+ => [n'woon ในหน้า templates ชี้ให้เห็น template categories และ แสดงตัวอย่างการวางเมาส์ลง template ที่เป้น Hero]
+
+   1. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
+
+ => [n'woon แสดง popup warning ตอนทำการเปลี่ยน template]
+
+   1. Sure to change it, just click **OK**.
 ---------------------------------------------------------------------------------------------------
 
 
