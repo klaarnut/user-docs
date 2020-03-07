@@ -111,7 +111,7 @@ You can select 6 shadow preset styles which you can modify color and size on the
 
 ![image](images/overlapsection.png)
 
-Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content
+Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content overlap the banner.
 
    - **Box**
 
@@ -157,7 +157,7 @@ You can select 6 shadow preset styles which you can modify color and size on the
 
 ![image](images/overlapsection.png)
 
-Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content
+Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content overlap the banner.
 
    - **Box**
 
@@ -198,35 +198,55 @@ Add and edit border of the image.
  *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
 
-### Edit website navigation
+### Edit website navigation style
 
 Manage your Top Menu and Menu
 
-**Top Menu:** Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
+#### Top Menu
 
-You can select a Top menu style on step **Design**. Don't forget to click **Save**.
+**Select Top Menu style**
 
-![image](images/create8.png)
+Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
+
+You can select a Top Menu style anytime.
+
+1. Click **Design** tab and **Topmenu**.
+
+=> [n'woon รูป แสดงไกด์ click เมนู Design และ Topmenu ด้านซ้าย]
+
+2. Select one from Top Menu style, and don't forget to click **Save**.
+
+=> [n'woon รูป จิ้ม Top menu 1 style + คลิกปุ่ม Save]
 
 
+**Edit Top Menu branding**
 
-And modify your Top menu on step **Content**, click on the Menu icon and select **Top Menu**. You can add icon, badge and point the menu to a page as you want.
+1. At **Content** tab, click on the Menu icon and select **Top Menu**.
 
 ![image](images/create9.png)
 
-![image](images/create11.png)
+2. Click on a logo to change your own company logo and insert your company address.
 
-Clicking on a logo to change your own company logo and insert your company address.
-
-![image](images/create10.png)
+=> [n'woon รูป แสดงการ edit Top Menu โดยไกด์ให้จิ้มที่ logo เพื่อให้ Brand tool แสดงขึ้นมา]
 
 
 
-**Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
+#### Menu
 
-You can select a Menu style on step **Design**. Don't forget to click **Save**.
+This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
+
+You can select a Menu style anytime.
 
 ![image](images/create12-1.png)
+
+1. Click **Design** tab and **Menu**.
+
+=> [n'woon รูป แสดงไกด์ click เมนู Design และ Menu ด้านซ้าย]
+
+2. Select one from Menu style, and don't forget to click **Save**.
+
+=> [n'woon รูป จิ้ม Menu 1 style + คลิกปุ่ม Save]
+
 
 There are 2 ways of adding a new menu
 
