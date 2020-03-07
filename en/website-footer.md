@@ -1,8 +1,11 @@
 # Website Footer
 
   - [Footer Design](#footerdesign)
+  - [Information Setting](#informationsetting)
   - [Contact Us Setting](#contactussetting)
   - [Social Media Setting](#socialsetting)
+
+
 
 The new feature of RVsitebuilder is an adjustable footer area!
 
@@ -14,21 +17,31 @@ In version 7, it allows you to change the style and background color by selectin
 ## Footer Design
 
 1. On step **Design** tab, click **Footer**.
-2. Select and set to show a sitemap and copyright. Don't forget to click **Apply** after you selected.
+2. Select a Footer design and set to show a sitemap and copyright.
 
 ![image](images/create15.png)
 
 > **Tip:** Showing a sitemap - This feature will be useful for visitors to get faster and easier access.
 
-3. You can insert your information by clicking on an information block. Simply put, your company profile is a professional introduction and aims to inform people (primarily prospective buyers and stakeholders) your products, services, and current status. A well written company profile is a great opportunity for your company to differentiate itself.
-
-![image](images/create15-1.png)
-  
-4. Click **Apply**, and Save it on Content edior page.
+3. Click **Apply**, and Save it on Content edior page.
 
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
+<a name="informationsetting"></a>
+## Information Setting
+
+You can insert information about your company on the information block.
+
+1. Just click directly on the Follow Us area on Footer and set it. 
+
+ => [n'woon ตรง footer ทำกรอบตรง informaiton ให้เห้นว่า click ได้เลยตรงนี้]
+
+2. Simply put, your company profile is a professional introduction and aims to inform people (primarily prospective buyers and stakeholders) your products, services, and current status. A well written company profile is a great opportunity for your company to differentiate itself.
+
+3. Click **Apply**, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
 <a name="contactussetting"></a>
