@@ -2,8 +2,8 @@
 
 
   - [Create a new site](#createanewsite)
-  - [Change template](#changetemplate)
   - [Customise template](#customisetemplate)
+  - [Change template](#changetemplate)
   - [Publish](#publish)
 
 
@@ -68,34 +68,66 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
 <a name="customisetemplate"></a>
 ## Customise template
 
-### Edit website banner
 
 After the [one-click create my site](#createanewsite) and select a template already, you sure want to design it as beautiful as your style.
 
-Then let's start from **Website Banner**.
+Then let's start from **Edit website banner**.
 
 
-<a name="banner"></a>
-### Website Banner
+### Edit website banner
 
 Banner is top most of your website and it's the most attractive part. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
 
 
-- **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
+- **Hero Banner**: If you selected a template with Hero banner, you can change its image and color by clicking on the Background icon on the right corner. 
 
 ![image](images/create6.png)
 
 
-- **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
+- **Slide Banner**: If you started your website with Slide banner template, you can change those images and slide effect for them.
+  
+1. Click on Header banner area, then click on image icon on the number of slide template you want to edit. You may start from *slide1*.
 
-![image](images/create7.png)
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิก Banner เพื่อ edit รูป banner ตรง slide 1]
+
+2. The **Section Properties** pops up which it allows you to change banner image, set shadow for image, make the image overlapped, and the box border of the banner image.
+
+   - **Background**
+   
+![image](images/backgroundsection.png)
+
+*Fluid (full screen)*: Enable or disable a full screen section.
+
+*Color* : Selecting background color by using color picker or choosing from a gradient color.
+
+*Background Image*: Inserting an image to a background. You can select an image from Image Manager.
+
+*Reponsive Image Position*: Image alignment on responsive mode.
+
+   - **Shadow**
+
+![image](images/shadowsection.png)
+
+You can select 6 shadow preset styles which you can modify color and size on the below setting.
+
+   - **Overlap**
+
+![image](images/overlapsection.png)
+
+Making one section to overlap other sections. 
+
+   - **Box**
+
+![image](images/boxsection.png)
+
+Adjusting section border design.
+**
 
  *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
 
 
-<a name="navigation"></a>
-### Website Navigation
+### Edit website navigation
 
 Manage your Top Menu and Menu
 
