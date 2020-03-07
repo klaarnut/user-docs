@@ -1,7 +1,6 @@
-## Website Footer
+# Website Footer
 
   - [Footer Design](#footerdesign)
-  - [Information Setting](#informationsetting)
   - [Contact Us Setting](#contactussetting)
   - [Social Media Setting](#socialsetting)
 
@@ -12,42 +11,51 @@ In version 7, it allows you to change the style and background color by selectin
 
 
 <a name="footerdesign"></a>
-### Footer Design
+## Footer Design
 
-1. On step **Design** -> **Footer**.
-2. Now RVsitebuilder 7 provides 8 styles to choose and set to show a sitemap and copyright. Don't forget to click **Apply** after you selected.
+1. On step **Design** tab, click **Footer**.
+2. Select and set to show a sitemap and copyright. Don't forget to click **Apply** after you selected.
 
 ![image](images/create15.png)
 
 > **Tip:** Showing a sitemap - This feature will be useful for visitors to get faster and easier access.
 
-3. You can insert your information by clicking on an information block. Click **Apply** after each change to make it save.
+3. You can insert your information by clicking on an information block. Simply put, your company profile is a professional introduction and aims to inform people (primarily prospective buyers and stakeholders) your products, services, and current status. A well written company profile is a great opportunity for your company to differentiate itself.
 
 ![image](images/create15-1.png)
+  
+4. Click **Apply**, and Save it on Content edior page.
 
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
-
-<a name="informationsetting"></a>
-### Information setting
-
-Simply put, your company profile is a professional introduction and aims to inform people (primarily prospective buyers and stakeholders) your products, services, and current status. A well written company profile is a great opportunity for your company to differentiate itself.
 
 
 
 <a name="contactussetting"></a>
-### Contact Us setting
+## Contact Us setting
 
 Add your company address for more trustworthy and easy to contact. This is a Brand global setting which logo, a phone number will be shown on your top menu also.
 
+1. Just click directly on the Contact Us area on Footer and set it. 
+
+> **Note:** This Contact Us information is the same when you add and edit on Top Menu.
+
 ![image](images/create15-2.png)
 
+2. Click **Apply**, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
 <a name="socialsetting"></a>
-### Social Media setting
+## Social Media setting
 
 Always have your visitors stay connected with you on Facebook, Twitter, Google+, Instagram, Line that will appear on website footer.
 
+1. Just click directly on the Follow Us area on Footer and set it. 
+  
 ![image](images/create15-3.png)
 
+2. Click **Apply**, and Save it on Content edior page.
 
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
