@@ -116,6 +116,10 @@ If you want to change Slide header to be just an immoveable image for cool, you 
 
 **Change for the 
 
+
+---------------------------------------------------------------------------------------------------
+
+
 <a name="customisetemplate"></a>
 ## Customise template
 
@@ -125,6 +129,7 @@ If you want to change Slide header to be just an immoveable image for cool, you 
 
 
 
+---------------------------------------------------------------------------------------------------
 
 
 <a name="publish"></a>
