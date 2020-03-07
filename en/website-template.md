@@ -261,9 +261,9 @@ You can reorder Header positions between Banner, Top Menu, and Menu to make your
 
 => [n'woon รูป แสดงไกด์ การลาก banner, top menu, และ เมนู สลับที่บน header]
 
-3. Save it by clicking Cross (close) mark.
+3. Close with Cross (close) mark, and Save it on Content edior page.
 
-=> [n'woon รูป แสดงไกด์ ปิด sort header เพื่ีอ save]
+=> [n'woon รูป แสดงไกด์ ปิด sort header และ แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
 ---------------------------------------------------------------------------------------------------

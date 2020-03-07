@@ -19,9 +19,37 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 
 
-<a name="addnewpage"></a>
-## Add new page
-And point page to menu
+<a name="addnewmenu"></a>
+## Add new menu
+Naming, Poiting menu to page-website
+
+1. In Content editor, click "+" floating menu, and select **New Page**.
+
+![image](images/page1.png)
+
+
+2. The "Add Page" panel appears;
+
+    1) Page Name : Insert any name for this new page
+    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation
+    3) Save : To add this page
+
+![image](images/page2.png)
+
+    
+Sample of the new added page with "Show on menu" box checked. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
+    
+![image](images/page3.png)
+
+
+Sample of the new added page with "Show on menu" box UNCHECKED. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
+
+![image](images/page4.png)
+
+
+3. You can start content for this page now.
+
+
 
 
 <a name="addcontentandfont"></a>

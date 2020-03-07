@@ -1,57 +1,21 @@
-## Website Menu
+# Website Menu
 
-  - [Select website navigation style](#websitenavigation)
   - [Add new menu](#addnewmenu)
   - [Rename menu names](#renamemenu)
   - [Add sub menu](#addsubmenu)
 
 
-<a name="websitenavigation"></a>
-### Select website navigation style
 
-
-First, a little to know is adding Page and adding Menu are not the same part.
-
-Adding page is to add new content area for your new content. It WILL NOT appear on website navigation unless you add it to a Menu.
+First, a little to know is adding Menu and adding Page are not the same part.
 
 Adding menu is to add new Top Menu or Menu on website navigation. You can define **Page** for the new added menu immediately or later.
 
-
-
-<a name="addnewmenu"></a>
-### Add new menu
-Naming, Poiting menu to page-website
-
-1. In Content editor, click "+" floating menu, and select **New Page**.
-
-![image](images/page1.png)
-
-
-2. The "Add Page" panel appears;
-
-    1) Page Name : Insert any name for this new page
-    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation
-    3) Save : To add this page
-
-![image](images/page2.png)
-
-    
-Sample of the new added page with "Show on menu" box checked. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
-    
-![image](images/page3.png)
-
-
-Sample of the new added page with "Show on menu" box UNCHECKED. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
-
-![image](images/page4.png)
-
-
-3. You can start content for this page now.
+Adding page is to add new content area for your new content. It WILL NOT appear on website navigation unless you add it to a Menu. See guide here(website-content.md).
 
 
 
 <a name="addmenu"></a>
-### Add New Menu
+## Add New Menu
 
 1. In Content editor, click "Menu" floating menu, and select **Menu**.
 
@@ -78,14 +42,31 @@ Sample of the new added page with "Show on menu" box UNCHECKED. The new content 
 ![image](images/page9.png)
 
 
-6. Enjoy!
+6. Close Menu Setting window, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 
 
 <a name="renamemenu"></a>
-### Rename menu names
+## Rename menu names
 
+
+1. In Content editor, click "Menu" floating menu, and select **Menu**.
+
+![image](images/page5.png)
+
+
+2. The "Menu Setting" panel appears, click on Menu you want to rename on the navigation. Then Rename it.
+
+
+ => [n'woon หน้า content editor, คลิก Menu แล้ว แสดงการเลือกชื่อเมนูบน navigation แล้วชี้ให้เห๋็นชื่อเมนูที่เลือกในชอง Rename ]
+
+
+3. Close Menu Setting window, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
 <a name="addsubmenu"></a>
-### Add sub menu
+## Add sub menu
 
