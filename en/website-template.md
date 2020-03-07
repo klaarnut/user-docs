@@ -1,4 +1,4 @@
-# Template
+# Website Template
 
 
   - [Create a new site](#createanewsite)
@@ -64,6 +64,97 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
 
 ---------------------------------------------------------------------------------------------------
 
+
+<a name="customisetemplate"></a>
+## Customise template
+
+### Edit website banner
+
+After the [one-click create my site](#createanewsite) and select a template already, you sure want to design it as beautiful as your style.
+
+Then let's start from **Website Banner**.
+
+
+<a name="banner"></a>
+### Website Banner
+
+Banner is top most of your website and it's the most attractive part. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
+
+
+- **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
+
+![image](images/create6.png)
+
+
+- **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
+
+![image](images/create7.png)
+
+ *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
+
+
+
+<a name="navigation"></a>
+### Website Navigation
+
+Manage your Top Menu and Menu
+
+**Top Menu:** Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
+
+You can select a Top menu style on step **Design**. Don't forget to click **Save**.
+
+![image](images/create8.png)
+
+
+
+And modify your Top menu on step **Content**, click on the Menu icon and select **Top Menu**. You can add icon, badge and point the menu to a page as you want.
+
+![image](images/create9.png)
+
+![image](images/create11.png)
+
+Clicking on a logo to change your own company logo and insert your company address.
+
+![image](images/create10.png)
+
+
+
+**Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
+
+You can select a Menu style on step **Design**. Don't forget to click **Save**.
+
+![image](images/create12-1.png)
+
+There are 2 ways of adding a new menu
+
+1. **Adding a new page**: On the step Content click on **New Page**. You can add a new page and checkbox **Show on Menu**. If you don't select Show on Menu, the page will be an internal page automatically. But if you select a **Show on Menu** box, it will create a new page, also add the menu to your navigation bar.
+
+![image](images/create12-2.png)
+
+![image](images/create12-3.png)
+
+2. **Adding manually menu**: You can add a new menu and select page to point at the step **Content**, select on the Menu icon and select Menu. Clicking plus buttom to add a new Menu. You can add icon, badge and point the menu to a page as you want.
+
+![image](images/create12.png)
+
+![image](images/create13.png)
+
+On the Menu Setting you can:
+
+- Fill your Menu name
+- Add icon which will appear in front of the menu.
+- Add badge to get more attractive from visitor.
+- Select the method you need to open this menu.
+- Choose a direction to link this menu.
+
+
+
+### Sort Header Positions
+
+
+
+---------------------------------------------------------------------------------------------------
+
 <a name="changetemplate"></a>
 ## Change template
 
@@ -79,7 +170,7 @@ Things will change are **images and text on Header Banner of every page** that y
 
 
 
-### Change Hero tempalte to Slide
+### Change Hero template to Slide
 
 You may first started your website with an immoveble Header and Content for cool but feel it needs moveable header to present what you just added to your website or business.
 
@@ -98,7 +189,8 @@ You may first started your website with an immoveble Header and Content for cool
 
 You may feel the slide images on Header are none of use by some reason.
 
-   **Change on some page**
+- **Change on some page**
+
 If you want to change Slide header to be just an immoveable image for cool, you can remove unused images from Header of the page. *This way, you will have some page with Slide images Header, and some with immoveable image.*
 
 1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
@@ -114,30 +206,19 @@ If you want to change Slide header to be just an immoveable image for cool, you 
  => [n'woon ใน จากข้อ 2 แสดงการคลิกเพื่อเปิด Section Properties ของ Header banner เพื่อ edit. ไม่ต้อง edit ให้ดู เดี่ยวจะ link ไปหัวข้อ Customiza Template ด้านล่าง]
 
 
-   **Change for the entire website**
+- **Change for the entire website**
+
 You can change the Slide Header banner for the entire website at once.
 
-   1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a Hero banner, so keep looing for **"Type: Hero"**.
+1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a Hero banner, so keep looing for **"Type: Hero"**.
 
  => [n'woon ในหน้า templates ชี้ให้เห็น template categories และ แสดงตัวอย่างการวางเมาส์ลง template ที่เป้น Hero]
 
-   1. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
+2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
 
  => [n'woon แสดง popup warning ตอนทำการเปลี่ยน template]
 
-   1. Sure to change it, just click **OK**.
----------------------------------------------------------------------------------------------------
-
-
-<a name="customisetemplate"></a>
-## Customise template
-
-### Edit website banner
-
-### Sort Header Positions
-
-
-
+3. Sure to change it, just click **OK**.
 ---------------------------------------------------------------------------------------------------
 
 

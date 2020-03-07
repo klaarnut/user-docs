@@ -9,7 +9,7 @@
     - [Page Type](page-type.md)
 
 - ## ![image](images/icon_creating_website.svg) Creating Website
-    - [Template](template.md)
+    - [Website Template](website-template.md)
     - [Website Menu](website-menu.md)
     - [Website Content](website-content.md)
     - [Website Footer](website-footer.md)
