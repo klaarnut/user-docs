@@ -14,7 +14,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 
 
-<a name="addmenu"></a>
+<a name="addnewmenu"></a>
 ## Add New Menu
 
 1. In Content editor, click "Menu" floating menu, and select **Menu**.
@@ -83,4 +83,3 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
  => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
 
- 
