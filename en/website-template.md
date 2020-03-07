@@ -76,15 +76,19 @@ Then let's start from **Edit website banner**.
 
 ### Edit website banner
 
-Banner is top most of your website and it's the most attractive part. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
+Banner is the top most of your website and it's the most attractive part. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
 
 
-- **Hero Banner**: If you selected a template with Hero banner, you can change its image and color by clicking on the Background icon on the right corner. 
+#### Hero Banner
+
+If you selected a template with Hero banner, you can change its image and color by clicking on the Background icon on the right corner. 
 
 ![image](images/create6.png)
 
 
-- **Slide Banner**: If you started your website with Slide banner template, you can change those images and slide effect for them.
+#### Slide Banner
+
+If you started your website with Slide banner template, you can change those images and slide effect for them.
   
 1. Click on Header banner area, then click on image icon on the number of slide template you want to edit. You may start from *slide1*.
 
@@ -98,9 +102,9 @@ Banner is top most of your website and it's the most attractive part. RVsitebuil
 
 *Fluid (full screen)*: Enable or disable a full screen section.
 
-*Color* : Selecting background color by using color picker or choosing from a gradient color.
+*Color* : Select background color by using color picker or choosing from a gradient color.
 
-*Background Image*: Inserting an image to a background. You can select an image from Image Manager.
+*Background Image*: You can upload your own imageI or select one from Image Manager.
 
 *Reponsive Image Position*: Image alignment on responsive mode.
 
