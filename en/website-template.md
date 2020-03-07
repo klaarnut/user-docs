@@ -81,14 +81,53 @@ Banner is the top most of your website and it's the most attractive part. RVsite
 
 #### Hero Banner
 
-If you selected a template with Hero banner, you can change its image and color by clicking on the Background icon on the right corner. 
+If you selected a template with Hero banner, you can change its image and color.
 
-![image](images/create6.png)
+1. Click on Header banner area, then click on the edit tool icon on the right corner.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิก Banner เพื่อคลิก edit Hero banner]
+
+2. The **Section Properties** pops up which it allows you to change banner image, set shadow for image, make the image overlapped, and the box border of the banner image.
+
+   - **Background**
+   
+![image](images/backgroundsection.png)
+
+*Fluid (full screen)*: Enable or disable a full screen section.
+
+*Color* : Select background color by using color picker or choosing from a gradient color.
+
+*Background Image*: You can upload your own imageI or select one from Image Manager.
+
+*Reponsive Image Position*: Image alignment on responsive mode.
+
+   - **Shadow**
+
+![image](images/shadowsection.png)
+
+You can select 6 shadow preset styles which you can modify color and size on the below setting.
+
+   - **Overlap**
+
+![image](images/overlapsection.png)
+
+Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content
+
+   - **Box**
+
+![image](images/boxsection.png)
+
+Add and edit border of the image.
+
+
+ *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
 
 #### Slide Banner
 
 If you started your website with Slide banner template, you can change those images and slide effect for them.
+
+**Edit slide image**
   
 1. Click on Header banner area, then click on image icon on the number of slide template you want to edit. You may start from *slide1*.
 
@@ -118,17 +157,45 @@ You can select 6 shadow preset styles which you can modify color and size on the
 
 ![image](images/overlapsection.png)
 
-Making one section to overlap other sections. 
+Make one section to overlap the other. Here you can make image banner to overlap the first content or make the first content
 
    - **Box**
 
 ![image](images/boxsection.png)
 
-Adjusting section border design.
-**
+Add and edit border of the image.
 
  *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
+
+**Add effect to slide banner**
+
+1. Click on Header banner area, then click on **Effect** icon.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิก Banner เพื่อ edit Slide effect]
+
+2. Select an effect for your banner slide and give it the moving duration in second.
+
+=> [n'woon รูป SLide effect จิ้มตั้วอย่าง 1  effect และแสดงการใส่ effect duration]
+
+
+
+ *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
+
+
+ **Add more slide images**
+
+1. Click on Header banner area, then click on **Add Slide** icon.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิก Banner เพื่อเพ่ิม slide image เครื่องหมายบวก]
+
+2. Select one from pre-installed image list, then change it later.
+
+=> [n'woon รูป banner slide popup จิ้มตั้วอย่าง 1 อัน + ปุ่ม save]
+
+
+
+ *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
 
 
 ### Edit website navigation
@@ -209,6 +276,25 @@ Things will change are **images and text on Header Banner of every page** that y
 ### Change Hero template to Slide
 
 You may first started your website with an immoveble Header and Content for cool but feel it needs moveable header to present what you just added to your website or business.
+
+- **Change on some page**
+
+If you want to change Hero banner to slide images, you switch it page by page. *This way, you will have some page with Slide images Header, and Home page and the other pages still have Hero banner.*
+
+1. One the page you want to switch to Slide images, click on Header banner to activate Banner tools.
+
+ => [n'woon หน้า website ทีี่เป็น hero ไม่ใช้หน้า home, แสดงการคลิกเพื่อเปิดใช้งาน banner tool]
+
+2. On the Banner tool, click "Switch Banner".
+
+=> [n'woon รูป hero banner ไกด์ให้คิลิกรง Switch banner icon]
+
+3. Select one from pre-installed image list, then change it later.
+
+=> [n'woon รูป banner slide popup จิ้มตั้วอย่าง 1 อัน + ปุ่ม save]
+
+
+- **Change for the entire website**
 
 1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a movable slide images on website header, so keep looing for **"Type: Slide"**.
 
