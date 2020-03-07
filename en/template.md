@@ -7,12 +7,11 @@
   - [Publish](#publish)
 
 
-## 
 
 <a name="createanewsite"></a>
-### Create a new site
+## Create a new site
 
-#### By cPanel control panel
+### By cPanel control panel
 
 1. Login to control panel.
 1. Look for Software feature group.
@@ -22,7 +21,7 @@
 
 
 
-#### By your domain name
+### By your domain name
 
 1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/7.2/en/website-membership).
 1. Enter admin login.
@@ -32,7 +31,7 @@
 ![image](images/overview3.png)
 
 
-#### Select Domain Name
+### Select Domain Name
 
 After logging in, you can start your professtional site in 1 minute!
 1. Start with click **Create new site** 
@@ -54,7 +53,7 @@ After logging in, you can start your professtional site in 1 minute!
 
 
 
-#### Select Template
+### Select Template
 
 On your first create site by steps above, you will be welcome to **Templates** tab to select a template for your website.
 
@@ -65,7 +64,7 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
 
 
 <a name="changetemplate"></a>
-### Change template
+## Change template
 
 You may want to change template on your website for seasoning, changing Hero template to Slide or changing Slide template to Hero. It's easy as just click on **Template** tab.
 
@@ -79,7 +78,7 @@ Things will change are **images and text on Header Banner of every page** that y
 
 
 
-#### Change Hero tempalte to Slide
+### Change Hero tempalte to Slide
 
 You may first started your website with an immoveble Header and Content for cool but feel it needs moveable header to present what you just added to your website or business.
 
@@ -94,12 +93,12 @@ You may first started your website with an immoveble Header and Content for cool
 3. Sure to change it, just click **OK**.
 
 
-#### Change Slide template to Hero
+### Change Slide template to Hero
 
-You may feel the slide iamegs on Header are none of use by some reason.
+You may feel the slide images on Header are none of use by some reason.
 
 **Change on some page**
-If you want to change Slide header to be just and immoveable image for cool, you can remove unused images from Header of the page. This way you, you will have some page with Slide images Header, and some with immoveable image.
+If you want to change Slide header to be just an immoveable image for cool, you can remove unused images from Header of the page. *This way, you will have some page with Slide images Header, and some with immoveable image.*
 
 1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
 
@@ -111,23 +110,24 @@ If you want to change Slide header to be just and immoveable image for cool, you
 
 3. On the laft image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
 
- => [n'woon ใน จากข้อ 2 แสดงการคลิกเพื่อเปิด Section Properties ของ Header banner เพื่อ edit. ไม่ต้อง edit ให้ดู เดี่ญวจะ link ไปหัวข้อ Customiza Template ด้านล่าง]
+ => [n'woon ใน จากข้อ 2 แสดงการคลิกเพื่อเปิด Section Properties ของ Header banner เพื่อ edit. ไม่ต้อง edit ให้ดู เดี่ยวจะ link ไปหัวข้อ Customiza Template ด้านล่าง]
 
 
+**Change for the 
 
 <a name="customisetemplate"></a>
-### Customise template
+## Customise template
 
-#### Edit website banner
+### Edit website banner
 
-#### Sort Header Positions
+### Sort Header Positions
 
 
 
 
 
 <a name="publish"></a>
-### Publish
+## Publish
 
 After select template, you will be brought to website editor. Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
 
