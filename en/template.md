@@ -62,6 +62,7 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
  => [n'woon รูปหน้า Templates แล้วลบรปข้างล่างออก]
 ![image](images/selecttemplate.png)
 
+---------------------------------------------------------------------------------------------------
 
 <a name="changetemplate"></a>
 ## Change template
