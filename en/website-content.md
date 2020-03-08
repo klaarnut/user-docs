@@ -478,6 +478,90 @@ You can make content block display animation effect for being more wow.
 <a name="insertblogwidget"></a>
 ## Insert blog widget
 
+You can Blog widget to insert your **Blog Catagory List** and **Recent Post List** along with content on the page you want for more connection and readers to your Blog.
+
+
+3 ways to insert Blog widget for your Blog Catagory List or Recent Post List to content are; as Section, as Block and as element along with the content.
+
+
+- *As section*
+  
+1. Place mouse on content section you want to insert Blog widget.
+   
+ => [n'woon รูป แสดงการคลิกลงบน content section หรือ block 1 อัน ]
+
+
+2. Use **Insert** tool, and **Widget**. 
+
+ => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+
+
+3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Section**.
+
+ => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert section]
+
+
+4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+   
+ => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+
+
+5. You can also edit section background the same way with section background of content.
+
+ => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น tools ของ section background]
+
+
+
+- *As block*
+  
+1. Place mouse on content block you want to insert Blog widget.
+   
+ => [n'woon รูป แสดงการคลิกลงบน content section หรือ block 1 อัน ]
+
+
+2. Use **Insert** tool, and **Widget**. 
+
+ => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+
+
+3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Block**.
+
+ => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert Block]
+
+
+4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+   
+ => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+
+
+5. You can also edit block background the same way with block background of content.
+
+ => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น tools ของ block]
+
+
+
+- *As element along with content*
+  
+1. Place mouse on content area you want to insert Blog widget.
+   
+ => [n'woon รูป แสดงการคลิกลงบน content section หรือ block ที่แทรกใน content ]
+
+
+2. Use **Insert** tool, and **Widget**. 
+
+ => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+
+
+3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Element**.
+
+ => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert Element]
+
+
+4. The inserted widget will be at the mouse position along the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+   
+ => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+
+
 
 ---------------------------------------------------------------------------------------------------
 
