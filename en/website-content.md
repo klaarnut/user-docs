@@ -569,6 +569,166 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
 <a name="insertlink"></a>
 ## Insert link to content and image
 
+You can insert connect link or hyperlink to your content and image by using **Insert** tool.
+
+ => [n'woon รูปแสดง การคลิกเปิด tool ของปุ่ม Insert]
+
+
+### Insert page as link
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Page**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Page ใต้เมนู link]
+
+
+3. All 3 page types you can insert this content or image to link to.
+
+
+    - Pages
+  You can link to any page on your website.
+
+ => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Pages]
+
+
+    - Blog
+
+  You can link to any blog post on your blog.
+
+ => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Blog]
+
+
+    - System
+
+  You can link to any system page on your website such as Login page, Register page, etc.
+
+ => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง System]
+
+
+
+4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
+
+ => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
+
+
+### Insert website as link
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Website**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Website ใต้เมนู link]
+
+
+3. You can link to any website by inserting URL here.
+
+ => [n'woon รูปแสดงหน้า Link to website]
+
+
+4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
+
+ => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
+
+
+### Insert send email as link
+
+You can set the link to send email to you for more communication with your website visitors.
+
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Email**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง email ใต้เมนู link]
+
+
+3. On **Set Email** tab, add Email address, subject to let your visitor write message directly to you here.
+
+ => [n'woon รูปแสดงหน้า Link to email]
+
+
+4. on **Set Button** tab, set where link will be opened, and add the hover tooltips to display when mouse hover on it.
+
+ => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
+
+
+### Insert file downloading as link
+
+You can insert file to be donwloaded for your website visitors.
+
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Files**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Files ใต้เมนู link]
+
+
+3. *Choose File* to upload, and select it from select field.
+
+ => [n'woon รูปแสดงหน้า Link to file ชี้ให้เห็นปุ่ม choose file ก่อน แล้วไปเลือก file ที่ upload ขึ้นมาแล้ว]
+
+
+4. Set where hover tooltips to display when mouse hover on it.
+
+ => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรงtooltips]
+
+
+### Insert bookmark as link
+
+- **Set content AS bookmark target**
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Bookmark target ใต้เมนู link]
+
+
+3. Name this bookmark target for selection purpose.
+
+ => [n'woon รูปแสดงหน้า Link to Bookmark target แสดงการใส่ชื่อ bookmark]
+
+
+
+- **Set content TO a bookmark**
+
+1. Highlight *short content* or click on *an image*.
+
+ => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+
+
+2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
+
+ => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Bookmark ใต้เมนู link]
+
+
+3. Choose a bookmark from dropdown list.
+
+ => [n'woon รูปแสดงหน้า Link to Bookmark แสดงให้เห็น dropdown list]
+
+
+4. Set where hover tooltips to display when mouse hover on it.
+
+ => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรงtooltips]
+
+
 
 ---------------------------------------------------------------------------------------------------
 
