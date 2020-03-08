@@ -689,7 +689,7 @@ You can insert file to be donwloaded for your website visitors.
 
 ### Insert bookmark as link
 
-- **Set content AS bookmark target**
+- **Set content as bookmark target**
 
 1. Highlight *short content* or click on *an image*.
 
@@ -707,7 +707,7 @@ You can insert file to be donwloaded for your website visitors.
 
 
 
-- **Set content TO a bookmark**
+- **Set content to a bookmark**
 
 1. Highlight *short content* or click on *an image*.
 
