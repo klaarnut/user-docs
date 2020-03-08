@@ -588,7 +588,6 @@ You can insert connect link or hyperlink to your content and image by using **In
 
 3. All 3 page types you can insert this content or image to link to.
 
-
    - *Pages*
   
   You can link to any page on your website.
