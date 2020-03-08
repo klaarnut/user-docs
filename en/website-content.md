@@ -19,9 +19,12 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 
 
-<a name="addnewmenu"></a>
-## Add new menu
-Naming, Poiting menu to page-website
+<a name="addnewpage"></a>
+## Add new page
+
+
+### Add new page
+
 
 1. In Content editor, click "+" floating menu, and select **New Page**.
 
@@ -30,19 +33,19 @@ Naming, Poiting menu to page-website
 
 2. The "Add Page" panel appears;
 
-    1) Page Name : Insert any name for this new page
-    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation
-    3) Save : To add this page
+    1) Page Name : Insert any name for this new page.
+    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point the new added page to a menu later.*
+    3) Save : To add this page.
 
 ![image](images/page2.png)
 
     
-Sample of the new added page with "Show on menu" box checked. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
+- a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
 ![image](images/page3.png)
 
 
-Sample of the new added page with "Show on menu" box UNCHECKED. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
+- b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
 
 ![image](images/page4.png)
 
@@ -50,14 +53,65 @@ Sample of the new added page with "Show on menu" box UNCHECKED. The new content 
 3. You can start content for this page now.
 
 
+### Link page to a menu
+
+- **Link page to a current menu on navigation**
+
+1. In Content editor, click "Menu" floating menu, and select **Menu**.
+
+![image](images/page5.png)
+
+
+2. The "Menu Setting" panel appears, click on the Menu you want to link to this page.
+
+
+ => [n'woon หน้า content editor, คลิก Menu แล้ว แสดงการเลือกชื่อเมนูบน navigation พร้อม menu setting ของ menu ที่เลือก ]
+
+
+3. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
+
+ => [n'woon ใน menu setting panel ชี้ให้เห็น 1. Link to, 2 เลือกเป็น page, 3. drop down ที่ลิทชื่อเพจ ตรง select page ]
+
+
+4. Close Menu Setting window, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+
+
+- **Link page to a new menu**
+
+1. In Content editor, click "Menu" floating menu, and select **Menu**.
+
+![image](images/page5.png)
+
+
+2. The "Menu Setting" panel appears. Click at "+" symbol on Website Navigation to add new menu.
+
+![image](images/page6.png)
+
+
+3. The added menu information appears in "Menu Setting" panel.
+
+![image](images/page7.png)
+
+
+4. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
+
+ => [n'woon ใน menu setting panel ชี้ให้เห็น 1. Link to, 2 เลือกเป็น page, 3. drop down ที่ลิทชื่อเพจ ตรง select page ]
+
+
+5. Close Menu Setting window, and Save it on Content edior page.
+
+ => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+
+
+---------------------------------------------------------------------------------------------------
 
 
 <a name="addcontentandfont"></a>
 ## Add content and font
-Text, font, google font
 
-<a name="contentareadesign"></a>
-## Content area design
+RVsitebuilder 7 provides full pack of content tools you would want.
 
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
@@ -225,6 +279,11 @@ Adjust the color on each cell or the whole table and table border color.
 Align text on the table both horizontal and verticle.
 
 
+---------------------------------------------------------------------------------------------------
+
+
+<a name="contentareadesign"></a>
+## Content area design
 
 
 ## Add new content section
@@ -247,16 +306,29 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
+
+---------------------------------------------------------------------------------------------------
+
+
 <a name="insertblogwidget"></a>
 ## Insert blog widget
+
+
+---------------------------------------------------------------------------------------------------
 
 
 <a name="insertlink"></a>
 ## Insert link to content and image
 
 
+---------------------------------------------------------------------------------------------------
+
+
 <a name="insertbutton"></a>
 ## Insert button
+
+
+---------------------------------------------------------------------------------------------------
 
 
 <a name="insertimage"></a>
