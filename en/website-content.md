@@ -286,7 +286,7 @@ Align text on the table both horizontal and verticle.
 ## Content area design
 
 
-## Add new content section
+### Add new content section
 
 ![image](images/sections.png)
 
@@ -307,6 +307,171 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
 
+### Content section design
+
+Content section is the main content area you can easily see it section by section by *blue border line*. You can edit section background for more attracive content.
+
+
+#### Edit section background
+
+
+1. Click on the content section you want to edit. The *blue border line* will show its area.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section นึง เพื่อให้เห็นขอบเขตของ content section (กรอบสีฟ้า) และทำเห็นว่า ในกรอบสีฟ้านีคือ content section]
+
+2. Click **Edit Section** icon, and the **Section Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
+
+   - **Background**
+   
+![image](images/backgroundsection.png)
+
+*Fluid (full screen)*: Enable or disable a full screen section.
+
+*Color* : Select background color by using color picker or choosing from a gradient color.
+
+*Background Image*: You can upload your own image or select one from Image Manager.
+
+*Reponsive Image Position*: Image alignment on responsive mode.
+
+   - **Shadow**
+
+![image](images/shadowsection.png)
+
+You can select 6 shadow preset styles which you can modify color and size on the below setting.
+
+   - **Overlap**
+
+![image](images/overlapsection.png)
+
+You can make this section to overlap the above or below content section or being overlapped by them.
+
+   - **Box**
+
+![image](images/boxsection.png)
+
+Add and edit border of this section.
+
+
+#### Duplicate section
+
+You can duplciate section fore more faster content making if it's used the same design and content layout.
+
+1. Click on the content section you want to edit. The *blue border line* will show its area.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section นึง เพื่อให้เห็นขอบเขตของ content section (กรอบสีฟ้า) และทำเห็นว่า ในกรอบสีฟ้านีคือ content section]
+
+2. Click **Duplicate Section** icon. The new section will be duplicated below this section you selected.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ขี้ให้เห็น duplicate section icon]
+
+3. You can start edit this duplicated section, it will not overwrite content and design in the original one.
+
+ => [n'woon รูปแสดงให้เห็นsection ที่ถูก duplicate มาใหม่]
+
+
+#### Move section
+
+You can use **Move** tool to freely move content section by drag and drop.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ชี้มห้เห็น Move section icon และการ move แบบลากไปวาง]
+
+
+#### Remove section
+
+*CANNOT UNDO* You can remove section if it's unwanted. But be careful and sure you want to remove it, it cannot be undo. 
+*If you accidently press Remove Section icon* DO NOT click main Save button (the blue Save button on the top right), just refresh this page, then the remove didn't save and take no effect.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ชี้มห้เห็น Remove section icon แค่นั้น ไม่ต้องทำไรมาก]
+
+
+### Content block design
+
+Content block is sub content areas *inside content section* that you can see they have their own tools appears while you're editing on each of them.
+
+
+#### Edit block background
+
+1. Click on the content block you want to edit. The tools will show to edit this block.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน content block นึง เพื่อให้เห็นขอบเขตของ content block]
+
+2. Click **Edit Block** icon, and the **Block Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this block.
+
+   - **Background**
+   
+![image](images/backgroundsection.png)
+
+*Background Color* : Select background color by using color picker or choosing from a gradient color.
+
+*Background Image*: You can upload your own image or select one from Image Manager.
+
+*Reponsive Image Position*: Image alignment on responsive mode.
+
+   - **Shadow**
+
+![image](images/shadowsection.png)
+
+You can select 6 shadow preset styles which you can modify color and size on the below setting.
+
+   - **Overlap**
+
+![image](images/overlapsection.png)
+
+You can make this block to overlap the above or below content block or being overlapped by them.
+
+   - **Box**
+
+![image](images/boxsection.png)
+
+Add and edit border of this block.
+
+
+#### Duplicate block
+
+You can duplciate section fore more faster content making if it's used the same design and content layout.
+
+1. Click on the content block you want to edit. The tools will show to edit this block.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน content block นึง เพื่อให้เห็นขอบเขตของ content block]
+
+
+2. Click **Duplicate Block** icon. The new block will be duplicated next to this block you selected.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ขี้ให้เห็น duplicate block icon]
+
+
+3. You can start edit this duplicated block, it will not overwrite content and design in the original one.
+
+ => [n'woon รูปแสดงให้เห็น block ที่ถูก duplicate มาใหม่]
+
+
+#### Move block
+
+You can use **Move** block to freely move content block by drag and drop inside content section.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ชี้ให้เห็น Move block icon และการ move แบบลากไปวาง]
+
+
+#### Add animation to block
+
+You can make content block display animation effect for being more wow.
+
+1. Click on the content block you want to edit. then click on **Animation** icon.
+
+=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ขี้ให้เห็น Animation icon]
+
+2. Select an effect for your content block and give it the moving duration in second.
+
+=> [n'woon รูป Block animation จิ้มตั้วอย่าง 1  effect และแสดงการใส่ effect duration]
+
+
+#### Remove block
+
+*CANNOT UNDO* You can remove block if it's unwanted. But be careful and sure you want to remove it, it cannot be undo. 
+*If you accidently press Remove Block icon* DO NOT click main Save button (the blue Save button on the top right), just refresh this page, then the remove didn't save and take no effect.
+
+ => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ชี้มห้เห็ฯ Remove block icon แค่นั้น ไม่ต้องทำไรมาก]
+
 ---------------------------------------------------------------------------------------------------
 
 
@@ -326,6 +491,68 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 <a name="insertbutton"></a>
 ## Insert button
+
+
+### Insert button
+
+You can add button in content area for more connections.
+
+1. At Content area, place mouse on position you want to insert button.
+
+
+2. On Center menu, click "Insert" and select "Button".
+
+ => [n'woon รูป คลิกปุ่ม Insert และเลือก Button]
+
+
+3. Select a design for your button.
+
+ => [n'woon ใน Button panel เลือก 1 style]
+
+
+4. Click on button itself for more setting such as set it linked to external website url.
+
+ => [n'woon รูปตรง button ที่ีเลือกมา คลิกแสดงให้เห็นปุ่ม edit ต่างๆ]
+
+
+### Edit button
+
+Click on the button to activate Button tools.
+
+ => [n'woon รูปตรง button ที่ีเลือกมา คลิกแสดงให้เห็นปุ่ม edit ต่างๆ]
+
+
+- **Edit button design**
+
+On the **Button** panel, you can edit button style as unique as you want.
+
+   - **Style**
+
+You can change button design from here again.
+
+ => [n'woon ใน Button panel เลือกใหม่ 1 style]
+
+
+   - **Design**
+
+You can also customize the button to be more unique and attractive.
+
+ => [n'woon ใน Button panel คลิก design]
+
+*Button Base Color* : To customize the button color other than pre-installed designs
+
+*Size and Border* : To edit size of the button, and the border of the button that you can add color to it.
+
+*Text Shadow* : To add shadow and shadow color on the text in the button
+
+*Box Shadow* : To add shadow and shadow color on the border of the button.
+
+
+   - **Design**
+
+You can add HTML code on this button for more functional.
+
+ => [n'woon ใน Button panel คลิก HTML Text]
 
 
 ---------------------------------------------------------------------------------------------------

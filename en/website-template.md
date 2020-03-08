@@ -97,7 +97,7 @@ If you selected a template with Hero banner, you can change its image and color.
 
 *Color* : Select background color by using color picker or choosing from a gradient color.
 
-*Background Image*: You can upload your own imageI or select one from Image Manager.
+*Background Image*: You can upload your own image or select one from Image Manager.
 
 *Reponsive Image Position*: Image alignment on responsive mode.
 
@@ -143,7 +143,7 @@ If you started your website with Slide banner template, you can change those ima
 
 *Color* : Select background color by using color picker or choosing from a gradient color.
 
-*Background Image*: You can upload your own imageI or select one from Image Manager.
+*Background Image*: You can upload your own image or select one from Image Manager.
 
 *Reponsive Image Position*: Image alignment on responsive mode.
 
