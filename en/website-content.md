@@ -589,20 +589,21 @@ You can insert connect link or hyperlink to your content and image by using **In
 3. All 3 page types you can insert this content or image to link to.
 
 
-    - Pages
+   - Pages
+  
   You can link to any page on your website.
 
  => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Pages]
 
 
-    - Blog
+   - Blog
 
   You can link to any blog post on your blog.
 
  => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Blog]
 
 
-    - System
+   - System
 
   You can link to any system page on your website such as Login page, Register page, etc.
 
