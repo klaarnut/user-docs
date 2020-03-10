@@ -14,13 +14,13 @@ Its purpose is to let users to submit information for you to contact back or for
 
 **1.** On Content Editot, navigate to **Form** floating menu.
 
-![image](images/img_click form.jpg)
+![image](images/img_click_form.jpg)
 
 
 
 **2.** Select one from cool Form designs, and drag it to drop on content area.
 
-![image](img_select from.jpg.png)
+![image](images/img_select_from.jpg)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -34,13 +34,13 @@ Its purpose is to let users to submit information for you to contact back or for
 
 Once you done playing with the color, click on the form to add or remove fields on this form as your need.
 
-![image](images/form3.png)
+![image](images/img_design_form.jpg)
 
 
 
 **2.** Any field can be set as *Required* to ask the nescessary information from your users. Click **directly on field** to set it.
 
-![image](images/form6.png)
+![image](images/img_field_setting.jpg)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ Once you done playing with the color, click on the form to add or remove fields 
 
 **1.** Once you redesign your form beautiful enough and the nescessary fields added, click on the form to setup EMAIL to use with this form. Click on **Email Setup**.
 
-![image](images/form4.png)
+![image](images/img_email_setup.jpg)
 
 
 
@@ -61,11 +61,11 @@ Once you done playing with the color, click on the form to add or remove fields 
 
 - the background **"Thank you"** is the editable area that you can edit text and image/icon on it directly!
 
-![image](images/form5.png)
+![image](images/img_thank_you_form.jpg)
 
 
 
 **3.** DON'T FORGET TO CLICK **Save** on the right menu to save all of your form setting.
 
 
- => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+ ![image](images/img_save_form.jpg)
