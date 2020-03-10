@@ -14,13 +14,13 @@ Its purpose is to let users to submit information for you to contact back or for
 
 **1.** On Content Editot, navigate to **Form** floating menu.
 
-![image](images/form1.png)
+![image](images/img_click form.jpg)
 
 
 
 **2.** Select one from cool Form designs, and drag it to drop on content area.
 
-![image](images/form2.png)
+![image](img_select from.jpg.png)
 
 
 ---------------------------------------------------------------------------------------------------
