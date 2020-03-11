@@ -18,7 +18,7 @@ In version 7, it allows you to change the style and background color by selectin
 
 1. On step **Design** tab, click **Footer**.
 
-![image](images/01_footer.svg)
+![image](images/img_01_footer.png)
 
 2. Select a Footer design and set to show a sitemap and copyright.
 
