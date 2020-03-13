@@ -15,7 +15,7 @@ Edit content for your website is the most easiest and frequent activity you may 
 
 At Content tab, you will always be at the new added page or the latest one you edit previously. 
 
-![image](images/content6.png)
+![image](images/website_content/img_webstie_content.png)
 
 
 
@@ -28,7 +28,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 1. In Content editor, click "+" floating menu, and select **New Page**.
 
-![image](images/page1.png)
+![image](images/website_content/img_add_page_01_newpage.png)
 
 
 2. The "Add Page" panel appears;
@@ -37,17 +37,17 @@ At Content tab, you will always be at the new added page or the latest one you e
     2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point the new added page to a menu later.*
     3) Save : To add this page.
 
-![image](images/page2.png)
+![image](images/website_content/img_add_page_02_panel_appears.png)
 
     
 - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
-![image](images/page3.png)
+![image](images/website_content/img_add_page_03_show_on_menu.png)
 
 
 - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
 
-![image](images/page4.png)
+![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
 
 3. You can start content for this page now.
@@ -59,50 +59,50 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 1. In Content editor, click "Menu" floating menu, and select **Menu**.
 
-![image](images/page5.png)
+![image](images/website_content/img_link_page_01.png)
 
 
 2. The "Menu Setting" panel appears, click on the Menu you want to link to this page.
 
 
- => [n'woon หน้า content editor, คลิก Menu แล้ว แสดงการเลือกชื่อเมนูบน navigation พร้อม menu setting ของ menu ที่เลือก ]
+![image](images/website_content/img_link_page_02_menu_setting.png)
 
 
 3. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
- => [n'woon ใน menu setting panel ชี้ให้เห็น 1. Link to, 2 เลือกเป็น page, 3. drop down ที่ลิทชื่อเพจ ตรง select page ]
+![image](images/website_content/img_link_page_03_setting_page.png)
 
 
 4. Close Menu Setting window, and Save it on Content edior page.
 
- => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 - **Link page to a new menu**
 
 1. In Content editor, click "Menu" floating menu, and select **Menu**.
 
-![image](images/page5.png)
+![image](images/website_content/img_add_page_01_newpage.png)
 
 
 2. The "Menu Setting" panel appears. Click at "+" symbol on Website Navigation to add new menu.
 
-![image](images/page6.png)
+![image](images/website_content/img_add_page_05_add_page_by_icon.png)
 
 
 3. The added menu information appears in "Menu Setting" panel.
 
-![image](images/page7.png)
+![image](images/website_content/img_add_page_06_menu_setting.png)
 
 
 4. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
- => [n'woon ใน menu setting panel ชี้ให้เห็น 1. Link to, 2 เลือกเป็น page, 3. drop down ที่ลิทชื่อเพจ ตรง select page ]
+![image](images/website_content/img_add_page_07_setting_page.png)
 
 
 5. Close Menu Setting window, and Save it on Content edior page.
 
- => [n'woon แสดงการคลิกปุ่ม save หลักในหน้า content editor]
+![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -115,19 +115,19 @@ RVsitebuilder 7 provides full pack of content tools you would want.
 
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
-![image](images/content7.png)
+![image](images/website_content/img_add_content_01.png)
 
 
 ### Text Tools
 
-![image](images/texttools.png) 
+![image](images/website_content/img_text_tools_01.png) 
 
 
 #### Clipboard
 
 **Paint format**
 
-![image](images/paintformat.png)
+![image](images/website_content/img_text_tools_02_paint_format.png)
 
 The Paint Tool copies formatting from one place in your document to another. It's quite handy. RVsitebuilder lets you copy the formatting you've applied to a specific section of text to another section using the paint format tool. To use this tool, select the text that's formatted in the way that you want to copy
 
@@ -138,19 +138,19 @@ The Paint Tool copies formatting from one place in your document to another. It'
 
 **Paste from external**
 
-![image](images/pastefromexternal.png)
+![image](images/website_content/img_text_tools_03_paste_from_external.png)
 
 This will clean up HTML source code before pasting it into your document. Paste or drag content from Office documents, web pages and other programs into the box below (To paste use the keyboard shortcut, Ctrl + v on Windows or Command + v on a Mac). Please be patient, pasting from Office documents can take a considerable amount of time. When the paste is complete press Insert.
 
 **Undo and Redo**
 
-![image](images/undoredo.png) 
+![image](images/website_content/img_text_tools_04_undo_redo.png) 
 
 To reverse your last action and To reverse your last Undo.
 
 **HTML Mode**
 
-![image](images/htmlmode.png)
+![image](images/website_content/img_text_tools_05_html_mode.png)
 
 Insert HTML Code for each block. Please be careful to usie the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
 
@@ -159,31 +159,31 @@ Insert HTML Code for each block. Please be careful to usie the correct HTML code
 
 **Bold, Italic, Underline, Strikethrough**
 
-![image](images/fontstyle.png)
+![image](images/website_content/img_text_tools_06_text_style.png)
 
 Add text to Bold, Italic, Underline, Strikethrough.
 
 **Font Color**
 
-![image](images/fontcolor.png)
+![image](images/website_content/img_text_tools_07_font_color.png)
 
 Apply color to font by using our color picket or you can type a color code for the specific color.
 
 **Font Highlight**
 
-![image](images/fonthilight.png)
+![image](images/website_content/img_text_tools_08_font_highlight.png)
 
 Hover the text and choosing the colot to highlight.
 
 **Clean formatting**
 
-![image](images/cleanformat.png)
+![image](images/website_content/img_text_tools_09_clean_formatting.png)
 
 Clearing text format, in case you copy the text from another website. 
 
 **Font Family**
 
-![image](images/fontfamily.png)
+![image](images/website_content/img_text_tools_10_font_family.png)
 
 Selecting font family from the drop-down list and you can use **our new feature to add more font family from Google Font** as well!
 
@@ -192,27 +192,27 @@ Selecting font family from the drop-down list and you can use **our new feature 
 1. Choosing a font at [Google Font](https://fonts.google.com).
 2. On RVsitebuilder text tool, click plus button behind a font family.
 
-![image](images/googlefont01.png)
+![image](images/website_content/img_text_tools_11_add_font.png)
 
 3. Fill a font name and click Add.
 
-![image](images/googlefont02.png)
+![image](images/website_content/img_text_tools_12_add_font_popup.png)
 
 4. You can select a new font from a font list.
 
-![image](images/googlefont03.png)
+![image](images/website_content/img_text_tools_13_new_font.png)
 
     Tips: You can add a miximum 5 font families.
 
 **Font Style**
 
-![image](images/fontformat.png)
+![image](images/website_content/img_text_tools_14_font_style.png)
 
 Font style creates the basic text structure, helping you organize thoughts on a page. You can apply style to text while you’re editing or adding it. Selecting 11 stlyes on the drop-down list to control the typography (font design), giving the words personality and flare.
 
 **Font Size**
 
-![image](images/fontsize.png)
+![image](images/website_content/img_text_tools_15_font_size.png)
 
 Increase or decrease a font size by choosing on the drop-down list.
 
@@ -221,60 +221,60 @@ Increase or decrease a font size by choosing on the drop-down list.
 
 **Insert Number**
 
-![image](images/insertnumber.png)
+![image](images/website_content/img_text_tools_16_insert_number.png)
 
 Add list by numbered.
 
 **Insert bullet**
 
-![image](images/insertbullet.png)
+![image](images/website_content/img_text_tools_17_insert_bullet.png)
 
 Add content to list by bulleted list icons.
 
 **Indent**
 
-![image](images/indent.png)
+![image](images/website_content/img_text_tools_18_indent.png)
 
 In the Text toolbar, click the increase or decrease indent icons to indent text to the left or right.
 
 **Line Spacing**
 
-![image](images/linespacing.png)
+![image](images/website_content/img_text_tools_19_line_spacing.png)
 
 Change the space between lines. 
 
 **Alignment**
 
-![image](images/alignment.png)
+![image](images/website_content/img_text_tools_20_alignment.png)
 
 Align your text paragraph; left, center, right and justify.
 
 
 ### Table Tools
 
-![image](images/tabletools.png)
+![image](images/website_content/img_teble_01_tools.png)
 
 #### Table Size
 
-![image](images/tablesize.png)
+![image](images/website_content/img_teble_05_size.png)
 
 Adjust the table and boarder size, also select the boarder style on the drop-down list. You can choose a table unit size between percentage and pixel.
 
 #### Table object
 
-![image](images/tableobject.png)
+![image](images/website_content/img_teble_02_object.png)
 
 To Insert, merge, remove both row and column.
 
 **Table Color**
 
-![image](images/tablecolor.png)
+![image](images/website_content/img_teble_03_color.png)
 
 Adjust the color on each cell or the whole table and table border color.
 
 #### Table Alignment
 
-![image](images/tablealignment.png)
+![image](images/website_content/img_teble_04_alignment.png)
 
 Align text on the table both horizontal and verticle.
 
@@ -288,7 +288,7 @@ Align text on the table both horizontal and verticle.
 
 ### Add new content section
 
-![image](images/sections.png)
+![image](images/website_content/img_section_01_overview.png)
 
 On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
 In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
@@ -317,13 +317,13 @@ Content section is the main content area you can easily see it section by sectio
 
 1. Click on the content section you want to edit. The *blue border line* will show its area.
 
-=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section นึง เพื่อให้เห็นขอบเขตของ content section (กรอบสีฟ้า) และทำเห็นว่า ในกรอบสีฟ้านีคือ content section]
+![image](images/website_content/img_section_02_blue_border_line.png)
 
 2. Click **Edit Section** icon, and the **Section Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
 
    - **Background**
    
-![image](images/backgroundsection.png)
+![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
 *Fluid (full screen)*: Enable or disable a full screen section.
 
@@ -335,19 +335,19 @@ Content section is the main content area you can easily see it section by sectio
 
    - **Shadow**
 
-![image](images/shadowsection.png)
+![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
 You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
    - **Overlap**
 
-![image](images/overlapsection.png)
+![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
 You can make this section to overlap the above or below content section or being overlapped by them.
 
    - **Box**
 
-![image](images/boxsection.png)
+![image](images/website_template/img_customise_template_05_section_properties_box.png)
 
 Add and edit border of this section.
 
@@ -358,22 +358,22 @@ You can duplciate section fore more faster content making if it's used the same 
 
 1. Click on the content section you want to edit. The *blue border line* will show its area.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section นึง เพื่อให้เห็นขอบเขตของ content section (กรอบสีฟ้า) และทำเห็นว่า ในกรอบสีฟ้านีคือ content section]
+![image](images/website_content/img_section_02_blue_border_line.png)
 
 2. Click **Duplicate Section** icon. The new section will be duplicated below this section you selected.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ขี้ให้เห็น duplicate section icon]
+![image](images/website_content/img_section_03_duplicate_section_icon.png)
 
 3. You can start edit this duplicated section, it will not overwrite content and design in the original one.
 
- => [n'woon รูปแสดงให้เห็นsection ที่ถูก duplicate มาใหม่]
+![image](images/website_content/img_section_04_new_duplicate_section.png)
 
 
 #### Move section
 
 You can use **Move** tool to freely move content section by drag and drop.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ชี้มห้เห็น Move section icon และการ move แบบลากไปวาง]
+![image](images/website_content/img_section_05_move_section_icon.png)
 
 
 #### Remove section
@@ -381,8 +381,7 @@ You can use **Move** tool to freely move content section by drag and drop.
 *CANNOT UNDO* You can remove section if it's unwanted. But be careful and sure you want to remove it, it cannot be undo. 
 *If you accidently press Remove Section icon* DO NOT click main Save button (the blue Save button on the top right), just refresh this page, then the remove didn't save and take no effect.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน section ชี้มห้เห็น Remove section icon แค่นั้น ไม่ต้องทำไรมาก]
-
+![image](images/website_content/img_section_06_remove_section_icon.png)
 
 ### Content block design
 
@@ -393,13 +392,13 @@ Content block is sub content areas *inside content section* that you can see the
 
 1. Click on the content block you want to edit. The tools will show to edit this block.
 
-=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน content block นึง เพื่อให้เห็นขอบเขตของ content block]
+![image](images/website_content/img_block_01_content_area.png)
 
 2. Click **Edit Block** icon, and the **Block Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this block.
 
    - **Background**
    
-![image](images/backgroundsection.png)
+![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
 *Background Color* : Select background color by using color picker or choosing from a gradient color.
 
@@ -409,19 +408,19 @@ Content block is sub content areas *inside content section* that you can see the
 
    - **Shadow**
 
-![image](images/shadowsection.png)
+![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
 You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
    - **Overlap**
 
-![image](images/overlapsection.png)
+![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
 You can make this block to overlap the above or below content block or being overlapped by them.
 
    - **Box**
 
-![image](images/boxsection.png)
+![image](images/website_template/img_customise_template_05_section_properties_box.png)
 
 Add and edit border of this block.
 
@@ -432,24 +431,24 @@ You can duplciate section fore more faster content making if it's used the same 
 
 1. Click on the content block you want to edit. The tools will show to edit this block.
 
-=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน content block นึง เพื่อให้เห็นขอบเขตของ content block]
+![image](images/website_content/img_block_01_content_area.png)
 
 
 2. Click **Duplicate Block** icon. The new block will be duplicated next to this block you selected.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ขี้ให้เห็น duplicate block icon]
+![image](images/website_content/img_block_02_duplicate_block_icon.png)
 
 
 3. You can start edit this duplicated block, it will not overwrite content and design in the original one.
 
- => [n'woon รูปแสดงให้เห็น block ที่ถูก duplicate มาใหม่]
+![image](images/website_content/img_block_03_new_duplicate_block.png)
 
 
 #### Move block
 
 You can use **Move** block to freely move content block by drag and drop inside content section.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ชี้ให้เห็น Move block icon และการ move แบบลากไปวาง]
+![image](images/website_content/img_block_04_move_block_icon.png)
 
 
 #### Add animation to block
@@ -458,11 +457,11 @@ You can make content block display animation effect for being more wow.
 
 1. Click on the content block you want to edit. then click on **Animation** icon.
 
-=> [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ขี้ให้เห็น Animation icon]
+![image](images/website_content/img_block_05_animation_icon.png)
 
 2. Select an effect for your content block and give it the moving duration in second.
 
-=> [n'woon รูป Block animation จิ้มตั้วอย่าง 1  effect และแสดงการใส่ effect duration]
+![image](images/website_content/img_block_06_select_effect.png)
 
 
 #### Remove block
@@ -470,7 +469,7 @@ You can make content block display animation effect for being more wow.
 *CANNOT UNDO* You can remove block if it's unwanted. But be careful and sure you want to remove it, it cannot be undo. 
 *If you accidently press Remove Block icon* DO NOT click main Save button (the blue Save button on the top right), just refresh this page, then the remove didn't save and take no effect.
 
- => [n'woon รูป program เปิดหน้า content แล้วไกด์ให้คลิกลงบน block ชี้มห้เห็ฯ Remove block icon แค่นั้น ไม่ต้องทำไรมาก]
+![image](images/website_content/img_block_07_remove_block_icon.png)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -488,27 +487,27 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
   
 1. Place mouse on content section you want to insert Blog widget.
    
- => [n'woon รูป แสดงการคลิกลงบน content section หรือ block 1 อัน ]
+![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
- => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Section**.
 
- => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert section]
+![image](images/website_content/img_blog_widget_03_insert_section.png)
 
 
 4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
- => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+![image](images/website_content/img_blog_widget_04_ex_insert_section.png)
 
 
 5. You can also edit section background the same way with section background of content.
 
- => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น tools ของ section background]
+![image](images/website_content/img_blog_widget_05_section_properties.png)
 
 
 
@@ -516,27 +515,27 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
   
 1. Place mouse on content block you want to insert Blog widget.
    
- => [n'woon รูป แสดงการคลิกลงบน content section หรือ block 1 อัน ]
+![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
- => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Block**.
 
- => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert Block]
+![image](images/website_content/img_blog_widget_06_insert_block.png)
 
 
 4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
- => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+![image](images/website_content/img_blog_widget_07_ex_insert_block.png)
 
 
 5. You can also edit block background the same way with block background of content.
 
- => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น tools ของ block]
+![image](images/website_content/img_blog_widget_08_section_properties.png)
 
 
 
@@ -544,22 +543,23 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
   
 1. Place mouse on content area you want to insert Blog widget.
    
- => [n'woon รูป แสดงการคลิกลงบน content section หรือ block ที่แทรกใน content ]
+![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
- => [n'woon รูปแสดงการคลิก Insert tool วางเมาส์ลง widget ]
+![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Element**.
 
- => [n'woon รูปแสดงการคลิก insert Blog Catagory List หรือ Recent Post List แบบ insert Element]
+![image](images/website_content/img_blog_widget_09_insert_element.png)
 
 
 4. The inserted widget will be at the mouse position along the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
- => [n'woon รูปแสดง section ที่ add blog widget มา ให้เห็น Category List Setting panel หรือ Resent Post List setting panel ตามทีี่เลือกอันไหนมา]
+![image](images/website_content/img_blog_widget_10_resent_post_list_setting.png)
+
 
 
 
@@ -571,19 +571,19 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
 
 You can insert connect link or hyperlink to your content and image by using **Insert** tool.
 
- => [n'woon รูปแสดง การคลิกเปิด tool ของปุ่ม Insert]
+![image](images/website_content/img_insert_link.png)
 
 
 ### Insert page as link
 
 1. Highlight *short content* or click on *an image*.
 
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Page**.
 
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Page ใต้เมนู link]
+![image](images/website_content/img_insert_link_02_page.png)
 
 
 3. All 3 page types you can insert this content or image to link to.
@@ -592,49 +592,48 @@ You can insert connect link or hyperlink to your content and image by using **In
   
   You can link to any page on your website.
 
- => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Pages]
+ ![image](images/website_content/img_insert_link_03_to_page.png)
 
 
    - *Blog*
 
   You can link to any blog post on your blog.
 
- => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง Blog]
+ ![image](images/website_content/img_insert_link_04_to_blog.png)
 
 
    - *System*
 
   You can link to any system page on your website such as Login page, Register page, etc.
 
- => [n'woon รูปแสดงหน้า Link to Page, เปิดตรง System]
+ ![image](images/website_content/img_insert_link_05_system.png)
 
 
 
 4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
- => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
-
+ ![image](images/website_content/img_insert_link_06_page_setting_open.png)
 
 ### Insert website as link
 
 1. Highlight *short content* or click on *an image*.
 
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Website**.
 
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Website ใต้เมนู link]
+![image](images/website_content/img_insert_link_07_website.png)
 
 
 3. You can link to any website by inserting URL here.
 
- => [n'woon รูปแสดงหน้า Link to website]
+![image](images/website_content/img_insert_link_08_website_url.png)
 
 
 4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
- => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
+![image](images/website_content/img_insert_link_09_website_setting_open.png)
 
 
 ### Insert send email as link
@@ -644,22 +643,22 @@ You can set the link to send email to you for more communication with your websi
 
 1. Highlight *short content* or click on *an image*.
 
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Email**.
 
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง email ใต้เมนู link]
+![image](images/website_content/img_insert_link_10_mail.png)
 
 
 3. On **Set Email** tab, add Email address, subject to let your visitor write message directly to you here.
 
- => [n'woon รูปแสดงหน้า Link to email]
+![image](images/website_content/img_insert_link_11_set_email.png)
 
 
 4. on **Set Button** tab, set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
- => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรง set link open และ  tooltips]
+![image](images/website_content/img_insert_link_12_email_setting_open.png)
 
 
 ### Insert file downloading as link
@@ -669,64 +668,65 @@ You can insert file to be donwloaded for your website visitors.
 
 1. Highlight *short content* or click on *an image*.
 
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Files**.
 
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Files ใต้เมนู link]
+![image](images/website_content/img_insert_link_13_files.png)
 
 
 3. *Choose File* to upload, and select it from select field.
 
- => [n'woon รูปแสดงหน้า Link to file ชี้ให้เห็นปุ่ม choose file ก่อน แล้วไปเลือก file ที่ upload ขึ้นมาแล้ว]
+![image](images/website_content/img_insert_link_14_choose_files.png)
 
 
 4. Set where hover tooltips to display when mouse hover on it.
 
- => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรงtooltips]
+![image](images/website_content/img_insert_link_15_tooltips_files.png)
 
 
 ### Insert bookmark as link
-
-- **Set content as bookmark target**
-
-1. Highlight *short content* or click on *an image*.
-
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
-
-
-2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
-
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Bookmark target ใต้เมนู link]
-
-
-3. Name this bookmark target for selection purpose.
-
- => [n'woon รูปแสดงหน้า Link to Bookmark target แสดงการใส่ชื่อ bookmark]
-
-
 
 - **Set content to a bookmark**
 
 1. Highlight *short content* or click on *an image*.
 
- => [n'woon รูปแสดง การ highlish content และ คลิกรูป 1 รูป เพื่อทำ hyperlink (2 แบบ)]
+![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
 
- => [n'woon รูปแสดง tools ของปุ่ม Insert ชี้ตรง Bookmark ใต้เมนู link]
+![image](images/website_content/img_insert_link_16_bookmark.png)
 
 
 3. Choose a bookmark from dropdown list.
 
- => [n'woon รูปแสดงหน้า Link to Bookmark แสดงให้เห็น dropdown list]
+![image](images/website_content/img_insert_link_17_choose_bookmark.png)
 
 
 4. Set where hover tooltips to display when mouse hover on it.
 
- => [n'woon รูปแสดงหน้า Link to Pageชี้ให้เห็นตรงtooltips]
+![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
+
+
+
+- **Set content as bookmark target**
+
+1. Highlight *short content* or click on *an image*.
+   
+![image](images/website_content/img_insert_link_01_highlight.png)
+
+
+1. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
+
+![image](images/website_content/img_insert_link_19_bookmark_target.png)
+
+
+3. Name this bookmark target for selection purpose.
+
+![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
+
 
 
 
@@ -746,24 +746,24 @@ You can add button in content area for more connections.
 
 2. On Center menu, click "Insert" and select "Button".
 
- => [n'woon รูป คลิกปุ่ม Insert และเลือก Button]
+![image](images/website_content/img_insert_button_01.png)
 
 
 3. Select a design for your button.
 
- => [n'woon ใน Button panel เลือก 1 style]
+![image](images/website_content/img_insert_button_02_select.png)
 
 
 4. Click on button itself for more setting such as set it linked to external website url.
 
- => [n'woon รูปตรง button ที่ีเลือกมา คลิกแสดงให้เห็นปุ่ม edit ต่างๆ]
+![image](images/website_content/img_insert_button_03_edit_tools.png)
 
 
 ### Edit button
 
 Click on the button to activate Button tools.
 
- => [n'woon รูปตรง button ที่ีเลือกมา คลิกแสดงให้เห็นปุ่ม edit ต่างๆ]
+![image](images/website_content/img_insert_button_03_edit_tools.png)
 
 
 - **Edit button design**
@@ -774,14 +774,14 @@ On the **Button** panel, you can edit button style as unique as you want.
 
 You can change button design from here again.
 
- => [n'woon ใน Button panel เลือกใหม่ 1 style]
+![image](images/website_content/img_insert_button_04_style.png)
 
 
    - **Design**
 
 You can also customize the button to be more unique and attractive.
 
- => [n'woon ใน Button panel คลิก design]
+![image](images/website_content/img_insert_button_05_design.png)
 
 *Button Base Color* : To customize the button color other than pre-installed designs
 
@@ -792,11 +792,11 @@ You can also customize the button to be more unique and attractive.
 *Box Shadow* : To add shadow and shadow color on the border of the button.
 
 
-   - **Design**
+   - **HTML Text**
 
 You can add HTML code on this button for more functional.
 
- => [n'woon ใน Button panel คลิก HTML Text]
+![image](images/website_content/img_insert_button_06_html_text.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -811,13 +811,13 @@ Once some content done, let's make this page more interesting by adding images o
 You can click directly on the images that come with section.
 
 
-![image](images/content8.png)
+![image](images/website_content/img_insert_image_01.png)
 
 
 The 3 image tools are right on the image you clicked; **Upload**, **Replace**, and **Edit** respectively.
 
 
-![image](images/content9.png)
+![image](images/website_content/img_insert_image_02_edit_button.png)
 
 
 1. **Upload**
@@ -828,7 +828,7 @@ Click this icon, you will see the Upload Image window to upload an image from yo
 
 Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
 
-![image](images/content10.png)
+![image](images/website_content/img_insert_image_03_image_manager.png)
 
    1 ) Image Manager panel ; Feel free to select one in free images from here.
 
@@ -840,7 +840,8 @@ Click this icon and you will see the Image manager panel that has 3 main parts t
 
 Click this button in order to edit this image.
 
-![image](images/content11.png)
+![image](images/website_content/img_insert_image_04_edit_tools.png)
+
 
    From left to right.
 
