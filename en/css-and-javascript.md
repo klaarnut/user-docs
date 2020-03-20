@@ -22,17 +22,17 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 *javascript is supported here, you dont need to insert script in File Manager*
 
-![image](images/jscss1.png)
+![image](images/css_javascrip/img_css_javascript_01_icon.png)
 
 
 3. Insert the Javascript/Css
 
-![image](images/jscss2.png)
+![image](images/css_javascrip/img_css_javascript_02_html_mode.png)
 
 
 4. Click **Ok** to save.
 
-![image](images/jscss3.png)
+![image](images/css_javascrip/img_css_javascript_03_ok.png)
 
 
 5. Don't forget to click **Save** on content editor.
@@ -51,12 +51,12 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 1. On Content editor, click **Site** -> **Page Management** icon
 
-![image](images/visibility2.png)
+![image](images/css_javascrip/img_css_javascript_04_site.png)
 
 
 2. On **Site Config** panel.
 
-![image](images/jscss4.png)
+![image](images/css_javascrip/img_css_javascript_05_site_config.png)
 
 1) Click **Site**
 

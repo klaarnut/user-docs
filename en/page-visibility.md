@@ -21,17 +21,17 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 ### Setting Areas
 A) 3-dot next to current page name you're editing
 
-![image](images/Visibility1.png)
+![image](images/page_visibility/img_page_visibility_01_setting_3_dot.png)
 
 
 B) Site -> Page Management icon
 
-![image](images/visibility2.png)
+![image](images/page_visibility/img_page_visibility_02_setting_page_management_icon.png)
 
 
 C) Site -> Menu Pages -> 3-dot after page names
 
-![image](images/visibility3.png)
+![image](images/page_visibility/img_page_visibility_03_setting_3_dot_on_site.png)
 
 
 
@@ -46,7 +46,7 @@ Once **Visibility** clicked, you will be at Page Management box.
 
 Slide this button to right, and select one audience type for this page.
 
-![image](images/visibility5.png)
+![image](images/page_visibility/img_page_visibility_04_site_config.png)
 
 
 
