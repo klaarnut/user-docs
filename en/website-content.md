@@ -26,7 +26,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 ### Add new page
 
 
-1. In Content editor, click "+" floating menu, and select **New Page**.
+1. In Content editor, click "+" on floating menu, and select **New Page**.
 
 ![image](images/website_content/img_add_page_01_newpage.png)
 
@@ -34,7 +34,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 2. The "Add Page" panel appears;
 
     1) Page Name : Insert any name for this new page.
-    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point the new added page to a menu later.*
+    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point ้this page to a menu later.*
     3) Save : To add this page.
 
 ![image](images/website_content/img_add_page_02_panel_appears.png)
@@ -45,7 +45,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 ![image](images/website_content/img_add_page_03_show_on_menu.png)
 
 
-- b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. This page will not have its Menu on the website navigation. You can add Menu for this page later (next section).
+- b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
 
 ![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
@@ -57,18 +57,18 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 - **Link page to a current menu on navigation**
 
-1. In Content editor, click "Menu" floating menu, and select **Menu**.
+1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
 ![image](images/website_content/img_link_page_01.png)
 
 
-2. The "Menu Setting" panel appears, click on the Menu you want to link to this page.
+2. The "Menu Setting" panel appears, click on the Menu you want to link to a page.
 
 
 ![image](images/website_content/img_link_page_02_menu_setting.png)
 
 
-3. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
+3. In "Menu Setting" panel, look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
 ![image](images/website_content/img_link_page_03_setting_page.png)
 
@@ -80,7 +80,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 - **Link page to a new menu**
 
-1. In Content editor, click "Menu" floating menu, and select **Menu**.
+1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
 ![image](images/website_content/img_add_page_01_newpage.png)
 
@@ -129,11 +129,11 @@ Once you place mouse on a text area, you can immediately start your content with
 
 ![image](images/website_content/img_text_tools_02_paint_format.png)
 
-The Paint Tool copies formatting from one place in your document to another. It's quite handy. RVsitebuilder lets you copy the formatting you've applied to a specific section of text to another section using the paint format tool. To use this tool, select the text that's formatted in the way that you want to copy
+The Paint Tool copies format from one place in your document to another. It's quite handy. RVsitebuilder lets you copy the format you've applied to a specific section of text to another section using the paint format tool. To use this tool, select the text that's formatted in the way that you want to copy
 
 1. Current cursor on format a line of text or cell in your desired appearance.
 2. Click the Paint Format icon.
-3. To apply this format to other text, simply highlight the text you want to apply the formatting to.
+3. To apply this format to other text, simply highlight the text you want to apply the format to.
 4. Clicking Paint Format icon again, it will lock the format into place and every piece of text clicked will change to the new format.
 
 **Paste from external**
@@ -146,13 +146,13 @@ This will clean up HTML source code before pasting it into your document. Paste 
 
 ![image](images/website_content/img_text_tools_04_undo_redo.png) 
 
-To reverse your last action and To reverse your last Undo.
+To reverse your last action and to reverse your last Undo.
 
 **HTML Mode**
 
 ![image](images/website_content/img_text_tools_05_html_mode.png)
 
-Insert HTML Code for each block. Please be careful to usie the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
+Insert HTML Code for each block. Please be careful to use the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
 
 
 #### Font
@@ -167,13 +167,13 @@ Add text to Bold, Italic, Underline, Strikethrough.
 
 ![image](images/website_content/img_text_tools_07_font_color.png)
 
-Apply color to font by using our color picket or you can type a color code for the specific color.
+Apply color to font by using our color picker or you can type a color code for the specific color.
 
 **Font Highlight**
 
 ![image](images/website_content/img_text_tools_08_font_highlight.png)
 
-Hover the text and choosing the colot to highlight.
+Hover the text and choose the colot to highlight.
 
 **Clean formatting**
 
@@ -185,12 +185,12 @@ Clearing text format, in case you copy the text from another website.
 
 ![image](images/website_content/img_text_tools_10_font_family.png)
 
-Selecting font family from the drop-down list and you can use **our new feature to add more font family from Google Font** as well!
+Select font family from the drop-down list and you can use **our new feature to add more font family from Google Font** as well!
 
 **Add font family from Google Font**
 
-1. Choosing a font at [Google Font](https://fonts.google.com).
-2. On RVsitebuilder text tool, click plus button behind a font family.
+1. Choose a font at [Google Font](https://fonts.google.com).
+2. On Text tool, click "+" button next to font family.
 
 ![image](images/website_content/img_text_tools_11_add_font.png)
 
@@ -198,7 +198,7 @@ Selecting font family from the drop-down list and you can use **our new feature 
 
 ![image](images/website_content/img_text_tools_12_add_font_popup.png)
 
-4. You can select a new font from a font list.
+4. You can select a new font from font list.
 
 ![image](images/website_content/img_text_tools_13_new_font.png)
 
@@ -214,7 +214,7 @@ Font style creates the basic text structure, helping you organize thoughts on a 
 
 ![image](images/website_content/img_text_tools_15_font_size.png)
 
-Increase or decrease a font size by choosing on the drop-down list.
+Increase or decrease font size by choosing on the drop-down list.
 
 
 #### Paragraph
@@ -235,7 +235,7 @@ Add content to list by bulleted list icons.
 
 ![image](images/website_content/img_text_tools_18_indent.png)
 
-In the Text toolbar, click the increase or decrease indent icons to indent text to the left or right.
+In the Text tool, click the increase or decrease indent icons to indent text to the left or right.
 
 **Line Spacing**
 
@@ -309,7 +309,7 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 ### Content section design
 
-Content section is the main content area you can easily see it section by section by *blue border line*. You can edit section background for more attracive content.
+Content section is the main content area you can easily see section by section inside *blue border line*. You can edit section background for more attracive content.
 
 
 #### Edit section background
@@ -477,10 +477,10 @@ You can make content block display animation effect for being more wow.
 <a name="insertblogwidget"></a>
 ## Insert blog widget
 
-You can Blog widget to insert your **Blog Catagory List** and **Recent Post List** along with content on the page you want for more connection and readers to your Blog.
+You can use Blog widget to insert your **Blog Catagory List** and **Recent Post List** among website content on the page you want for more connection and readers to your Blog.
 
 
-3 ways to insert Blog widget for your Blog Catagory List or Recent Post List to content are; as Section, as Block and as element along with the content.
+3 ways to insert Blog widget for your Blog Catagory List or Recent Post List to content are; as Section, as Block and as element among the content.
 
 
 - **As section**
@@ -539,7 +539,7 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
 
 
 
-- **As element along with content**
+- **As element among the content**
   
 1. Place mouse on content area you want to insert Blog widget.
    
@@ -556,7 +556,7 @@ You can Blog widget to insert your **Blog Catagory List** and **Recent Post List
 ![image](images/website_content/img_blog_widget_09_insert_element.png)
 
 
-4. The inserted widget will be at the mouse position along the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+4. The inserted widget will be at the mouse position among the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
 ![image](images/website_content/img_blog_widget_10_resent_post_list_setting.png)
 
@@ -808,7 +808,7 @@ Replace, Edit, Upload, Use image from facebook
 
 Once some content done, let's make this page more interesting by adding images on it.
 
-You can click directly on the images that come with section.
+You can click directly on the image that comes with section.
 
 
 ![image](images/website_content/img_insert_image_01.png)
