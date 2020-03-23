@@ -23,7 +23,7 @@
 
 ### By your domain name
 
-1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/7.2/en/website-membership).
+1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/master/en/website-membership).
 2. Enter admin login.
 
 ![image](images/website_template/img_create_newsite_02_01_domainname.png)
@@ -203,7 +203,7 @@ Manage your Top Menu and Menu
 
 **Select Top Menu style**
 
-Most of the visitors who access your website do not have much time to spare. The key is to intelligently display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
+Most of the visitors who access your website do not have much time to spare. The key is to wisely display those links which your visitors are looking for. Once your products are easily accessible, your visitors are likely to turn into reliable customers.
 
 You can select a Top Menu style anytime.
 
@@ -222,7 +222,7 @@ You can select a Top Menu style anytime.
 
 ![image](images/website_template/img_website_template_content_topmenu_01_howtoclick.png)
 
-2. Click on a logo to change your own company logo and insert your company address.
+2. Click on website logo to change your own company logo and insert your company address.
 
 ![image](images/website_template/img_website_template_content_topmenu_02_select.png)
 
@@ -284,29 +284,39 @@ You may first started your website with an immoveble Header and Content for cool
 
 If you want to change Hero banner to slide images, you switch it page by page. *This way, you will have some page with Slide images Header, and Home page and the other pages still have Hero banner.*
 
-กรณีคลิกเข้ามาครั้งแรก 
-1. คลิกที่ custom this banner
+*First time changing header banner image of any other page than Home page. It will require you to make sure to Custom this banner.* 
+
+1. Just click on custom this banner
+   
  ![image](images/website_template/img_changetemplate_hero_slide_01_banner_tool_1.png)
-2. เลือกแบนเนอร์และกดเซฟ
+
+
+2. Select one banner image and Save.
+   
 ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
-3. กดเซฟใหญ่ มุมบนขาว
+
+
+3. Don't forget to Save what you selected by the main Save button on the right top.
+
 ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
 
-กรณีครั้งต่อๆ ไป
+
+*Changing header banner image on these other pages for second time and later*
+
 1. On the Banner tool, click "Switch Banner"
+   
  ![image](images/website_template/img_changetemplate_hero_slide_04_banner_tool_2.png)
-2. เลือกแบนเนอร์และกดเซฟ
+
+
+2. Select one banner image and Save.
+   
 ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
-3. กดเซฟใหญ่ มุมบนขาว
+
+
+3. Don't forget to Save what you selected by the main Save button on the right top.
+   
 ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
 
-<!-- ของพี่โฉมเขียนไว้ 1. One the page you want to switch to Slide images, click on Header banner to activate Banner tools.
-
-2. On the Banner tool, click "Switch Banner".
-
-=> [n'woon รูป hero banner ไกด์ให้คิลิกรง Switch banner icon]
-
-3. Select one from pre-installed image list, then change it later. -->
 
 
 
@@ -339,7 +349,7 @@ If you want to change Slide header to be just an immoveable image for cool, you 
 
 ![image](images/website_template/img_changetemplate_slide_hero_02_remove_slide.png)
 
-3. On the laft image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
+3. On this remaining image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
 
 ![image](images/website_template/img_changetemplate_slide_hero_03_section_properties.png)
 

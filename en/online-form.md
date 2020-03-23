@@ -12,7 +12,7 @@ Its purpose is to let users to submit information for you to contact back or for
 <a name="addnewform"></a>
 ## Add New Form
 
-**1.** On Content Editot, navigate to **Form** floating menu.
+**1.** On Content Editor, navigate to **Form** on floating menu.
 
 ![image](images/online_form/img_click_form.png)
 

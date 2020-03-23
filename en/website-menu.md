@@ -17,7 +17,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 <a name="addnewmenu"></a>
 ## Add New Menu
 
-1. In Content editor, click "Menu" floating menu, and select **Menu**.
+1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
 ![image](images/website_menu/Menu_01_add_new_menu.png)
 
@@ -54,7 +54,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 ## Rename menu
 
 
-1. In Content editor, click "Menu" floating menu, and select **Menu**.
+1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
 ![image](images/website_menu/Menu_06_rename_menu.png)
 
@@ -76,7 +76,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 <a name="addsubmenu"></a>
 ## Add sub menu
 
-1. In Content editor, click "Menu" floating menu, and select **Menu**.
+1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
 ![image](images/website_menu/Menu_09_add_sub_menu.png)
 
