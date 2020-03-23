@@ -1,30 +1,32 @@
 # Content Editor
 
-  - [Edit Content](#editcontent)
-  - [Add New Content Section](#addsection)
-  - [Add Image](#addimage)
-
+-   [1. Edit your content](#1-edit-your-content)
+    -   [Text Tools](#text-tools)
+        -   [Clipboard](#clipboard)
+        -   [Font](#font)
+        -   [Paragraph](#paragraph)
+    -   [Table Tools](#table-tools)
+        -   [Table Size](#table-size)
+        -   [Table object](#table-object)
+        -   [Table Alignment](#table-alignment)
+-   [2. Add new content section](#2-add-new-content-section)
+-   [3. Add image to your content](#3-add-image-to-your-content)
 
 Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
 
-At Content tab, you will always be at the new added page or the latest one you edit previously. 
+At Content tab, you will always be at the new added page or the latest one you edit previously.
 
 ![image](images/content6.png)
 
-
-
-<a name="editcontent"></a>
 ## 1. Edit your content
 
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
 ![image](images/content7.png)
 
-
 ### Text Tools
 
-![image](images/texttools.png) 
-
+![image](images/texttools.png)
 
 #### Clipboard
 
@@ -47,7 +49,7 @@ This will clean up HTML source code before pasting it into your document. Paste 
 
 **Undo and Redo**
 
-![image](images/undoredo.png) 
+![image](images/undoredo.png)
 
 To reverse your last action and To reverse your last Undo.
 
@@ -56,7 +58,6 @@ To reverse your last action and To reverse your last Undo.
 ![image](images/htmlmode.png)
 
 Insert HTML Code for each block. Please be careful to usie the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
-
 
 #### Font
 
@@ -82,7 +83,7 @@ Hover the text and choosing the colot to highlight.
 
 ![image](images/cleanformat.png)
 
-Clearing text format, in case you copy the text from another website. 
+Clearing text format, in case you copy the text from another website.
 
 **Font Family**
 
@@ -119,7 +120,6 @@ Font style creates the basic text structure, helping you organize thoughts on a 
 
 Increase or decrease a font size by choosing on the drop-down list.
 
-
 #### Paragraph
 
 **Insert Number**
@@ -144,14 +144,13 @@ In the Text toolbar, click the increase or decrease indent icons to indent text 
 
 ![image](images/linespacing.png)
 
-Change the space between lines. 
+Change the space between lines.
 
 **Alignment**
 
 ![image](images/alignment.png)
 
 Align your text paragraph; left, center, right and justify.
-
 
 ### Table Tools
 
@@ -181,15 +180,12 @@ Adjust the color on each cell or the whole table and table border color.
 
 Align text on the table both horizontal and verticle.
 
-
-
-<a name="addsection"></a>
 ## 2. Add new content section
 
 ![image](images/sections.png)
 
 On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
-In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
+In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 1. **Content**: a normal section which contains a various layout.
 2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
@@ -198,33 +194,26 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
 6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
 7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
-8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section. 
+8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section.
 9. **Full screen**: Full-screen mode takes advantage of your available screen real estate and provides a useful platform for presenting visual content. One main benefit of a full screen page layout is visibility.
 10. **Social**: Putting your social media channel on your website can directly affect the response and engagement from your visitor.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
 12. **Blog**: Adding more widget on your page for letting a visitor can easily access to read your blog.
 
-
-
-<a name="addimage"></a>
 ## 3. Add image to your content
 
 Once some content done, let's make this page more interesting by adding images on it.
 
 You can click directly on the images that come with section.
 
-
 ![image](images/content8.png)
-
 
 The 3 image tools are right on the image you clicked; **Upload**, **Replace**, and **Edit** respectively.
 
-
 ![image](images/content9.png)
 
-
 1. **Upload**
-      
+
 Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
 
 2. **Replace**
@@ -233,11 +222,11 @@ Click this icon and you will see the Image manager panel that has 3 main parts t
 
 ![image](images/content10.png)
 
-   1 ) Image Manager panel ; Feel free to select one in free images from here.
+1 ) Image Manager panel ; Feel free to select one in free images from here.
 
-   2 ) Upload button ; Feel free to upload new image from your computer.
+2 ) Upload button ; Feel free to upload new image from your computer.
 
-   3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
 3. **Edit**
 
@@ -245,25 +234,20 @@ Click this button in order to edit this image.
 
 ![image](images/content11.png)
 
-   From left to right.
+From left to right.
 
-   **Zoom In** : To Zoom this image for more closer.
+**Zoom In** : To Zoom this image for more closer.
 
-   **Zoom Out** : To make this image more farther but not farther than the original.
+**Zoom Out** : To make this image more farther but not farther than the original.
 
-   **Rotate** : To rotate this image.
+**Rotate** : To rotate this image.
 
-   **Flip Horizontal** : To make this image flipped horizontally.
+**Flip Horizontal** : To make this image flipped horizontally.
 
-   **Flip Vertical** : To make this image flipped vertically.
+**Flip Vertical** : To make this image flipped vertically.
 
-   **Resize** : To make this image size matched this image box. It's not to resize image freely.
+**Resize** : To make this image size matched this image box. It's not to resize image freely.
 
-   **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+**Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
 
-   **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
-
-
-
-
-
+**FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!

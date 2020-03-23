@@ -1,12 +1,12 @@
 # Register and Login System
 
-- [Built-in Register and Login Setup](#built-in-register-and-login-setup)
-  - [Register Setup](#register-setup)
-  - [Login Setup](#login-setup)
-- [Google Login Setup for Built-in Channels in your website](#google-login-setup-for-built-in-channels-in-your-website)
-- [​Facebook Login Setup for Built-in Channels in your website](#facebook-login-setup-for-built-in-channels-in-your-website)
-- [Twitter Login Setup for Built-in Channels in your website](#twitter-login-setup-for-built-in-channels-in-your-website)
-- [LINE Login Setup for Built-in Channels in your website](#line-login-setup-for-built-in-channels-in-your-website)
+-   [Built-in Register and Login Setup](#built-in-register-and-login-setup)
+    -   [Register Setup](#register-setup)
+    -   [Login Setup](#login-setup)
+-   [Google Login Setup for Built-in Channels in your website](#google-login-setup-for-built-in-channels-in-your-website)
+-   [​Facebook Login Setup for Built-in Channels in your website](#facebook-login-setup-for-built-in-channels-in-your-website)
+-   [Twitter Login Setup for Built-in Channels in your website](#twitter-login-setup-for-built-in-channels-in-your-website)
+-   [LINE Login Setup for Built-in Channels in your website](#line-login-setup-for-built-in-channels-in-your-website)
 
 RVsitebuilder 7 has login function for website and user separately such as;
 
@@ -16,7 +16,7 @@ https://user.rvsitebuilder.com/admin/login. for you and other website admins [yo
 
 You can start using the Built-in Login channel to let user register and login with their email addresses. RVsitebuilder 7 has social login channels to​ allow​ users to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** to loginto your website in the quicker way.
 
-### Built-in Register and Login Setup
+## Built-in Register and Login Setup
 
 Every website created in RVsitebuilder 7 will have **Login button on Top Menu by default**. This Login button will be used for user register and login.
 
@@ -27,7 +27,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 <br/>
 
-#### Register Setup
+### Register Setup
 
 1. Click on Site -> System -> Register page.
 
@@ -42,9 +42,9 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 <br/>
 
-#### Login Setup
+### Login Setup
 
-1. 1. Click on Site -> System -> Login page.
+1.  1. Click on Site -> System -> Login page.
 
 ![image](images/login1.png)
 <br/><code>_Image: Opening Login setting_</code>
@@ -71,19 +71,17 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 <br/>
 
-- [Google Account](#googlelogin)
+-   [Google Account](#googlelogin)
 
-- [Facebook](#facebooklogin)
+-   [Facebook](#facebooklogin)
 
-- [Twitter](#twitterlogin)
+-   [Twitter](#twitterlogin)
 
-- [LINE](#linelogin)
+-   [LINE](#linelogin)
 
 <br/>
 
-<a name="googlelogin"></a>
-
-### Google Login Setup for Built-in Channels in your website
+## Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
@@ -192,9 +190,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 <br/>
 
-<a name="facebooklogin"></a>
-
-### ​Facebook Login Setup for Built-in Channels in your website
+## ​Facebook Login Setup for Built-in Channels in your website
 
 1. Go to https://developers.facebook.com/apps , select **Create a New App**.
 
@@ -244,9 +240,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 <br/>
 
-<a name="twitterlogin"></a>
-
-### Twitter Login Setup for Built-in Channels in your website
+## Twitter Login Setup for Built-in Channels in your website
 
 1. Go to https://apps.twitter.com/, select **Create New App**.
 
@@ -278,9 +272,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 <br/>
 
-<a name="linelogin"></a>
-
-### LINE Login Setup for Built-in Channels in your website
+## LINE Login Setup for Built-in Channels in your website
 
 To setup Line app as a login channel for your website, you will have to register your email address with Line first.
 

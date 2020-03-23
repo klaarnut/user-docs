@@ -1,80 +1,53 @@
 # Page Types
 
-  - [Page](#page)
-  - [Post](#post)
-  - [Post Category](#postcategory)
-  - [Non-editable system page](#noneditable)
-  - [Editable system page](#editable)
-  - [Product](#product)
-  - [Product Category](#productcategory)
-  - [Pop-up](#popup)
-  - [Splash Page](#splashpage)
-
+-   [Page](#page)
+-   [Post](#post)
+-   [Post Category](#post-category)
+-   [Non-editable system page](#non-editable-system-page)
+-   [Editable system page](#editable-system-page)
+-   [Product](#product)
+-   [Product Category](#product-category)
+-   [Pop-up](#pop-up)
+-   [Splash Page](#splash-page)
 
 It has several page types you see while building your wewbsite in RVSitebuilder. This part will help you understand the difference of them.
 
-
-<a name="page"></a>
-### Page
+## Page
 
 Page is a web page created dynamically by the end-user from RVsitebuilder CMS. It can be a parent menu, sub-menu, and internal page. Internal page is the page that not exist on the menu but could be link to.
 
+## Post
 
+Blog post is created dynamically by the end-user. It is organized under post categories.
 
-<a name="post"></a>
-### Post
+## Post Category
 
-Blog post is created dynamically by the end-user. It is organized under post categories. 
+Post can be listed on several post categories, but need to have a primary category. Post listing will list the post on the primary category.
 
+## Non-editable system page
 
-
-<a name="postcategory"></a>
-### Post Category
-
-Post can be listed on several post categories, but need to have a primary category. Post listing will list the post on the primary category. 
-
-
-
-<a name="noneditable"></a>
-### Non-editable system page
-
-Non-editable system page is the page that created by app developers but **cannot** be edited on WYSIWYG including page properties such as Slug URL, SEO options, META tags, and etc. 
+Non-editable system page is the page that created by app developers but **cannot** be edited on WYSIWYG including page properties such as Slug URL, SEO options, META tags, and etc.
 
 End-user may link to it on the system page hyperlink's selection list.
 
-
-
-<a name="editable"></a>
-### Editable system page
+## Editable system page
 
 Editable system page is the page that created by app developers and **can** edit on WYSIWYG including page properties such as SEO options, META tags, and etc. Slug URL cannot be modified though.
 
 To display visually and configurable, system page may contain RVsitebuilder widget to make it happens.
 
+## Product
 
+Coming soon
 
-<a name="product"></a>
-### Product
+## Product Category
 
-Coming soon 
+Coming soon
 
+## Pop-up
 
+Coming soon
 
-<a name="productcategory"></a>
-### Product Category
-
-Coming soon 
-
-
-
-<a name="popup"></a>
-### Pop-up
-
-Coming soon 
-
-
-
-<a name="splashpage"></a>
-### Splash Page
+## Splash Page
 
 Coming soon
