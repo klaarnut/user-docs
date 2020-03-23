@@ -20,7 +20,7 @@
     - [Add New Category](add-new-category.md)
     - [Blog Design](blog-design.md)
     - [Blog Widgets](blog-widget.md)
-    - [Edit Blog](blog-sharing.md)
+    - [Blog Sharing](blog-sharing.md)
 
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)
