@@ -16,11 +16,11 @@
     - [Online Form](online-form.md)
 
 - ## ![image](images/icon_blog.svg) Website Blog
-    - [Add New Blog](creating-blog.md)
-    - [Add New Category](creating-blog.md)
-    - [Blog Design](creating-blog.md)
-    - [Blog Widgets](creating-blog.md)
-    - [Edit Blog](creating-blog.md)
+    - [Add New Blog](add-new-blog.md)
+    - [Add New Category](add-new-category.md)
+    - [Blog Design](blog-design.md)
+    - [Blog Widgets](blog-widget.md)
+    - [Edit Blog](blog-sharing.md)
 
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)
