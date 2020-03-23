@@ -502,7 +502,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_04_ex_insert_section.png)
+![image](images/website_content/img_blog_widget_04_ex_incert_section.png)
 
 
 5. You can also edit section background the same way with section background of content.
@@ -530,7 +530,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_07_ex_insert_block.png)
+![image](images/website_content/img_blog_widget_07_ex_incert_block.png)
 
 
 5. You can also edit block background the same way with block background of content.
@@ -558,7 +558,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 4. The inserted widget will be at the mouse position among the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_10_resent_post_list_setting.png)
+![image](images/website_content/img_blog_widget_10_recent_post_list_setting.png)
 
 
 
