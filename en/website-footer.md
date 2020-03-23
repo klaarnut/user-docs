@@ -66,8 +66,7 @@ Add your company address for more trustworthy and easy to contact. This is a Bra
 
 ![image](images/website_footer/img_07_click_contact_us_area.png)
 
-2. Click **Apply**, and Save it on Content editor page.
-=> [พี่โฉม อันนี้ไม่มีปุ่ม Apply แล้ว]
+1. Click Save on Content editor page.
 
  ![image](images/website_footer/img_08_save_contact_us_area.png)
 
@@ -84,11 +83,11 @@ Always have your visitors stay connected with you on Facebook, Twitter, Google+,
   
 ![image](images/website_footer/img_09_click_follow_us_area.png)
 
-2. ใส่ข้อมูลในแท็บ setting
+2. Add your social accounts on Setting tab.
    
 ![image](images/website_footer/img_10_input_data_setting_follow_us_area.png)
 
-3. เลือกดีไซน์ในแท็บดีไซน์ และคลิก Preview
+3. On Design tab, select appearance, and Preview.
 
 ![image](images/website_footer/img_11_select_design_follow_us_area.png)
 
