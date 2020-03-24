@@ -1,9 +1,8 @@
 # Website Footer
-
-  - [Footer Design](#footerdesign)
-  - [Information Setting](#informationsetting)
-  - [Contact Us Setting](#contactussetting)
-  - [Social Media Setting](#socialsetting)
+- [Footer Design](#footer-design)
+- [Information Setting](#information-setting)
+- [Contact Us Setting](#contact-us-setting)
+- [Social Media Setting](#social-media-setting)
 
 
 
@@ -11,11 +10,7 @@ The new feature of RVsitebuilder is an adjustable footer area!
 
 In version 7, it allows you to change the style and background color by selecting from a list we provides.
 
-
-
-<a name="footerdesign"></a>
 ## Footer Design
-
 1. On step **Design** tab, click **Footer**.
 
 ![image](images/website_footer/img_01_footer.png)
@@ -33,8 +28,6 @@ In version 7, it allows you to change the style and background color by selectin
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="informationsetting"></a>
 ## Information Setting
 
 You can insert information about your company on the information block.
@@ -49,14 +42,12 @@ You can insert information about your company on the information block.
 
 3. Click **Apply**, and Save it on Content editor page.
 
- ![image](images/website_footer/img_06_click_apply_and_save_info_footer.png)
+![image](images/website_footer/img_06_click_apply_and_save_info_footer.png)
 
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="contactussetting"></a>
-## Contact Us setting
+## Contact Us Setting
 
 Add your company address for more trustworthy and easy to contact. This is a Brand global setting which logo, a phone number will be shown on your top menu also.
 
@@ -73,9 +64,7 @@ Add your company address for more trustworthy and easy to contact. This is a Bra
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="socialsetting"></a>
-## Social Media setting
+## Social Media Setting
 
 Always have your visitors stay connected with you on Facebook, Twitter, Google+, Instagram, Line that will appear on website footer.
 

@@ -1,20 +1,17 @@
 # User Interface
 
-  - [Public Interface](#publicinterface)
-  - [Member Interface](#memberinterface)
+-   [Public Interface](#public-interface)
+-   [Member Interface](#member-interface)
 
 User Interface will have 2 main levels; **Public** and **Member**.
 
-
-<a name="publicinterface"></a>
-### Public Interface
+## Public Interface
 
 For guest, or every website visitors who open your website.
 
 1. **Your website** that you willingly allow everyone can access to. Such as https://user.rvsitebuilder.com/
 
 ![image](images/user_interface/img_user_rvsitebuilder.png)
-
 
 2. **Register** page. For when you allow users to register for website membership. The register page will be available on your website when you enable it in Design -> Top Menu -> Display Login/Logout.
 
@@ -24,10 +21,7 @@ For guest, or every website visitors who open your website.
 
 ![image](images/user_interface/img_login.png)
 
-
-
-<a name="memberinterface"></a>
-### Member Interface
+## Member Interface
 
 For website visitors who are already your website members.
 
@@ -39,13 +33,11 @@ To show user their deafult information.
 
 ![image](images/user_interface/img_member_interface_01_profile.png)
 
-
 2. **Update Information**
 
 To let user manage their profile info and image.
 
 ![image](images/user_interface/img_member_interface_02_update_information.png)
-
 
 3. **Change Password**
 

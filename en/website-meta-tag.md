@@ -1,20 +1,18 @@
 # Easy Website Meta tag
 
-  - [Meta tag by page](#metabypage)
-  - [Meta tag by site](#metabysite)
+-   [Website Meta tag](#website-meta-tag)
+    -   [Setting Areas](#setting-areas)
+        -   [By page](#by-page)
+        -   [By site](#by-site)
 
 ## Website Meta tag
 
-
 RVsitebuilder provides places to insert meta tag and meta description for users. This might be only a little help. But all the rest of being ranked in google.
 
-
 ### Setting Areas
+
 You can set SEO in 2 ways; by page or by site.
 
-
-
-<a name="metabypage"></a>
 #### By page
 
 It means to set SEO for an individual page that will be effect only at this page.
@@ -23,16 +21,13 @@ A) 3-dot next to current page name you're editing
 
 ![image](images/website_meta_tag/img_meta_tag_01_setting_3_dot.png)
 
-
 B) Site -> Page Management icon
 
 ![image](images/website_meta_tag/img_meta_tag_02_setting_page_management_icon.png)
 
-
 C) Site -> Menu Pages -> 3-dot after page names
 
 ![image](images/website_meta_tag/img_meta_tag_03_setting_3_dot_on_site.png)
-
 
 Once **Meta tag** clicked, you will be at Page Management box.
 
@@ -42,9 +37,6 @@ Once **Meta tag** clicked, you will be at Page Management box.
 
 ![image](images/website_meta_tag/img_meta_tag_04_site_config.png)
 
-
-
-<a name="metabysite"></a>
 #### By site
 
 This means to set Meta tag that will effect for the entire website, You can edit on some specific pages to use different Meta tag by guide **By page** above.
@@ -54,7 +46,6 @@ Way to access to Meta tag by site setting areas.
 1. At **Site** -> **Page Management** icon
 
 ![image](images/website_meta_tag/img_meta_tag_02_setting_page_management_icon.png)
-
 
 2. you will just click on **Site** on the setting panel to switch to Site setting.
 
@@ -70,8 +61,6 @@ Way to access to Meta tag by site setting areas.
 
 5) Click **Save**
 
-
 3. Don't forget to click **Save** on content editor.
-
 
 4. Click on **My Site** to publish what you just have done.

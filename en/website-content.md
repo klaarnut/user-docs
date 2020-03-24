@@ -1,25 +1,49 @@
 # Website Content
-
-  - [Add new page](#addnewpage)
-  - [Add content and font](#addcontentandfont)
-  - [Content area design](#contentareadesign)
-  - [Insert blog widget](#insertblogwidget)
-  - [Insert link to content and image](#insertlink)
-  - [Insert button](#insertbutton)
-  - [Insert image](#insertimage)
-
-
+- [Add new page](#add-new-page)
+  - [Add new page](#add-new-page-1)
+  - [Link page to a menu](#link-page-to-a-menu)
+- [Add content and font](#add-content-and-font)
+  - [Text Tools](#text-tools)
+    - [Clipboard](#clipboard)
+    - [Font](#font)
+    - [Paragraph](#paragraph)
+  - [Table Tools](#table-tools)
+    - [Table Size](#table-size)
+    - [Table object](#table-object)
+    - [Table Alignment](#table-alignment)
+- [Content area design](#content-area-design)
+  - [Add new content section](#add-new-content-section)
+  - [Content section design](#content-section-design)
+    - [Edit section background](#edit-section-background)
+    - [Duplicate section](#duplicate-section)
+    - [Move section](#move-section)
+    - [Remove section](#remove-section)
+  - [Content block design](#content-block-design)
+    - [Edit block background](#edit-block-background)
+    - [Duplicate block](#duplicate-block)
+    - [Move block](#move-block)
+    - [Add animation to block](#add-animation-to-block)
+    - [Remove block](#remove-block)
+- [Insert blog widget](#insert-blog-widget)
+- [Insert link to content and image](#insert-link-to-content-and-image)
+  - [Insert page as link](#insert-page-as-link)
+  - [Insert website as link](#insert-website-as-link)
+  - [Insert send email as link](#insert-send-email-as-link)
+  - [Insert file downloading as link](#insert-file-downloading-as-link)
+  - [Insert bookmark as link](#insert-bookmark-as-link)
+- [Insert button](#insert-button)
+  - [Insert button](#insert-button-1)
+  - [Edit button](#edit-button)
+- [Insert image](#insert-image)
 
 
 Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
 
-At Content tab, you will always be at the new added page or the latest one you edit previously. 
+At Content tab, you will always be at the new added page or the latest one you edit previously.
 
 ![image](images/website_content/img_webstie_content.png)
 
 
-
-<a name="addnewpage"></a>
 ## Add new page
 
 
@@ -107,8 +131,6 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="addcontentandfont"></a>
 ## Add content and font
 
 RVsitebuilder 7 provides full pack of content tools you would want.
@@ -116,7 +138,6 @@ RVsitebuilder 7 provides full pack of content tools you would want.
 Once you place mouse on a text area, you can immediately start your content with our cool text tools.
 
 ![image](images/website_content/img_add_content_01.png)
-
 
 ### Text Tools
 
@@ -154,7 +175,6 @@ To reverse your last action and to reverse your last Undo.
 
 Insert HTML Code for each block. Please be careful to use the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
 
-
 #### Font
 
 **Bold, Italic, Underline, Strikethrough**
@@ -179,7 +199,7 @@ Hover the text and choose the colot to highlight.
 
 ![image](images/website_content/img_text_tools_09_clean_formatting.png)
 
-Clearing text format, in case you copy the text from another website. 
+Clearing text format, in case you copy the text from another website.
 
 **Font Family**
 
@@ -216,7 +236,6 @@ Font style creates the basic text structure, helping you organize thoughts on a 
 
 Increase or decrease font size by choosing on the drop-down list.
 
-
 #### Paragraph
 
 **Insert Number**
@@ -241,14 +260,13 @@ In the Text tool, click the increase or decrease indent icons to indent text to 
 
 ![image](images/website_content/img_text_tools_19_line_spacing.png)
 
-Change the space between lines. 
+Change the space between lines.
 
 **Alignment**
 
 ![image](images/website_content/img_text_tools_20_alignment.png)
 
 Align your text paragraph; left, center, right and justify.
-
 
 ### Table Tools
 
@@ -281,8 +299,6 @@ Align text on the table both horizontal and verticle.
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="contentareadesign"></a>
 ## Content area design
 
 
@@ -291,7 +307,7 @@ Align text on the table both horizontal and verticle.
 ![image](images/website_content/img_section_01_overview.png)
 
 On step **Content**, you can select a **Section** by drag and drop on the editor area. We provide 12 catagories section.
-In all 200+ layout designs, 130 designs are new from RVsitebuilder 7. 
+In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 
 1. **Content**: a normal section which contains a various layout.
 2. **List**: it allows you to add a group of product with descriptions and icons. It’s great for things like product descriptions, or can be used as a unique way to list the services you offer.
@@ -300,7 +316,7 @@ In all 200+ layout designs, 130 designs are new from RVsitebuilder 7.
 5. **Pricing**: If you run a business or sell a product on your website, you probably have a dedicated pricing page for the whole thing. You'll notice the best pricing pages have clean layouts, use simple language that speaks to the customer, and aim to inspire trust between the business and the user.
 6. **Contact**: The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.
 7. **Table**: If you are presenting data and information using columns and rows, then these best table website templates are ideal for you. Tables are a super convenient way of displaying any sort of statistics, specifications and other whatnots. Instead of creating them from scratch, we built many different variations that are just a click away
-8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section. 
+8. **Video**: One of the best ways to catch the eye of your website visitors is by showcasing your videos in a featured video section.
 9. **Full screen**: Full-screen mode takes advantage of your available screen real estate and provides a useful platform for presenting visual content. One main benefit of a full screen page layout is visibility.
 10. **Social**: Putting your social media channel on your website can directly affect the response and engagement from your visitor.
 11. **Blank**: Custom design a section by yourself. We provide a blank section with a variety block layout.
@@ -474,7 +490,6 @@ You can make content block display animation effect for being more wow.
 ---------------------------------------------------------------------------------------------------
 
 
-<a name="insertblogwidget"></a>
 ## Insert blog widget
 
 You can use Blog widget to insert your **Blog Catagory List** and **Recent Post List** among website content on the page you want for more connection and readers to your Blog.
@@ -565,8 +580,6 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="insertlink"></a>
 ## Insert link to content and image
 
 You can insert connect link or hyperlink to your content and image by using **Insert** tool.
@@ -732,8 +745,6 @@ You can insert file to be donwloaded for your website visitors.
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="insertbutton"></a>
 ## Insert button
 
 
@@ -801,8 +812,6 @@ You can add HTML code on this button for more functional.
 
 ---------------------------------------------------------------------------------------------------
 
-
-<a name="insertimage"></a>
 ## Insert image
 Replace, Edit, Upload, Use image from facebook
 
@@ -813,15 +822,13 @@ You can click directly on the image that comes with section.
 
 ![image](images/website_content/img_insert_image_01.png)
 
-
 The 3 image tools are right on the image you clicked; **Upload**, **Replace**, and **Edit** respectively.
 
 
 ![image](images/website_content/img_insert_image_02_edit_button.png)
 
-
 1. **Upload**
-      
+
 Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
 
 2. **Replace**
@@ -830,11 +837,11 @@ Click this icon and you will see the Image manager panel that has 3 main parts t
 
 ![image](images/website_content/img_insert_image_03_image_manager.png)
 
-   1 ) Image Manager panel ; Feel free to select one in free images from here.
+1 ) Image Manager panel ; Feel free to select one in free images from here.
 
-   2 ) Upload button ; Feel free to upload new image from your computer.
+2 ) Upload button ; Feel free to upload new image from your computer.
 
-   3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
 3. **Edit**
 
@@ -843,25 +850,20 @@ Click this button in order to edit this image.
 ![image](images/website_content/img_insert_image_04_edit_tools.png)
 
 
-   From left to right.
+From left to right.
 
-   **Zoom In** : To Zoom this image for more closer.
+**Zoom In** : To Zoom this image for more closer.
 
-   **Zoom Out** : To make this image more farther but not farther than the original.
+**Zoom Out** : To make this image more farther but not farther than the original.
 
-   **Rotate** : To rotate this image.
+**Rotate** : To rotate this image.
 
-   **Flip Horizontal** : To make this image flipped horizontally.
+**Flip Horizontal** : To make this image flipped horizontally.
 
-   **Flip Vertical** : To make this image flipped vertically.
+**Flip Vertical** : To make this image flipped vertically.
 
-   **Resize** : To make this image size matched this image box. It's not to resize image freely.
+**Resize** : To make this image size matched this image box. It's not to resize image freely.
 
-   **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+**Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
 
-   **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
-
-
-
-
-
+**FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!

@@ -1,4 +1,4 @@
-## Apps
+# Apps
 
 RVsitebuilder 7 is a full function CMS, and it's also a tool that allows you to have more Apps to use with your website aside from features in content editor.
 

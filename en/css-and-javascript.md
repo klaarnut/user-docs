@@ -1,58 +1,42 @@
 # Easy add CSS/Javascrip on your website
 
-  - [Add CSS/Javascript by page](#cssjsbypage)
-  - [Add CSS/Javascript by site](#cssjsbysite)
-
-RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website. 
-
+-   [Add CSS/Javascript by page](#add-cssjavascript-by-page)
+-   [Add CSS/Javascript by site](#add-cssjavascript-by-site)https://www.hellomyweb.com/blog/ssh-serveraliveinterval/
+-   RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website.
 
 Long story short, it allows you to install Apps from our [Apps Marketplace](https://apps.rvsitebuilder.com) to use on your website aside from cool features we already provide in RVsitebuilder.
 
-
 But in case if sometimes you really want to add Javascript/Css on your page in order to make your website more wow, you can also do that in our **HTML Mode**.
 
-
-<a name="cssjsbypage"></a>
-### Add CSS/Javascript by page
+## Add CSS/Javascript by page
 
 1. Make sure the Javascript/Css you got is correct and working properly.
 
-
 2. At Content tab, click on any content section of the page you want. On **Section Editor**, click on **html mode**.
 
-*javascript is supported here, you dont need to insert script in File Manager*
+_javascript is supported here, you dont need to insert script in File Manager_
 
 ![image](images/css_javascrip/img_css_javascript_01_icon.png)
-
 
 3. Insert the Javascript/Css
 
 ![image](images/css_javascrip/img_css_javascript_02_html_mode.png)
 
-
 4. Click **Ok** to save.
 
 ![image](images/css_javascrip/img_css_javascript_03_ok.png)
 
-
 5. Don't forget to click **Save** on content editor.
-
 
 6. Click on **My Site** to see what you just have done.
 
-
 7. If there's nothing in action or it shows and error, please check the script again for if it's really correct.
 
-
-
-<a name="cssjsbysite"></a>
-### Add CSS/Javascript by site
-
+## Add CSS/Javascript by site
 
 1. On Content editor, click **Site** -> **Page Management** icon
 
 ![image](images/css_javascrip/img_css_javascript_04_site.png)
-
 
 2. On **Site Config** panel.
 
@@ -68,14 +52,8 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 5) Click **Save**
 
-
-
 3. Don't forget to click **Save** on content editor.
-
 
 4. Click on **My Site** to see what you just have done.
 
-
 5. If there's nothing in action or it shows and error, please check the script again for if it's really correct.
-
-

@@ -1,10 +1,12 @@
 # Register and Login System
 
-  - [Built-in Register and Login](#cmsregisterlogin)
-  - [Google Login Setup](#googlelogin)
-  - [Facebook Login Setup](#facebooklogin)
-  - [Twitter Login Setup](#twitterlogin)
-  - [LINE Login Setup](#linelogin)
+-   [Built-in Register and Login Setup](#built-in-register-and-login-setup)
+    -   [Register Setup](#register-setup)
+    -   [Login Setup](#login-setup)
+-   [Google Login Setup for Built-in Channels in your website](#google-login-setup-for-built-in-channels-in-your-website)
+-   [​Facebook Login Setup for Built-in Channels in your website](#facebook-login-setup-for-built-in-channels-in-your-website)
+-   [Twitter Login Setup for Built-in Channels in your website](#twitter-login-setup-for-built-in-channels-in-your-website)
+-   [LINE Login Setup for Built-in Channels in your website](#line-login-setup-for-built-in-channels-in-your-website)
 
 RVsitebuilder 7 has login function for website and user separately such as;
 
@@ -12,53 +14,49 @@ https://user.rvsitebuilder.com/login, for website user.
 
 https://user.rvsitebuilder.com/admin/login. for you and other website admins [you set](website-membership.md)
 
-
 You can start using the Built-in Login channel to let user register and login with their email addresses. RVsitebuilder 7 has social login channels to​ allow​ users to​ use​ one of their​ current accounts from​ **Google​ Email, Facebook, Twitter, LINE** to loginto your website in the quicker way.
 
+## Built-in Register and Login Setup
 
-<a name="cmsregisterlogin"></a>
-### Built-in Register and Login Setup
-
-Every website created in RVsitebuilder 7 will have **Login button on Top Menu by default**. This Login button will be used for user register and login. 
+Every website created in RVsitebuilder 7 will have **Login button on Top Menu by default**. This Login button will be used for user register and login.
 
 It can be disabled and enabled in Design -> Topmenu -> Display Login button, slide the slidable button from here.
 
 ![image](images/login23.png)
-<br/><code>*Image: Disable/enable Login button*</code>
+<br/><code>_Image: Disable/enable Login button_</code>
 
 <br/>
 
-#### Register Setup
+### Register Setup
 
 1. Click on Site -> System -> Register page.
 
 ![image](images/register1.png)
-<br/><code>*Image: Opening Register setting*</code>
+<br/><code>_Image: Opening Register setting_</code>
 
 <br/>
 2. Once the Register form appears, click on form to open Register Setting panel.
 
 ![image](images/register2.png)
-<br/><code>*Image: Register setting area*</code>
+<br/><code>_Image: Register setting area_</code>
 
 <br/>
 
-#### Login Setup
+### Login Setup
 
-1. 1. Click on Site -> System -> Login page.
+1. Click on Site -> System -> Login page.
 
 ![image](images/login1.png)
-<br/><code>*Image: Opening Login setting*</code>
+<br/><code>_Image: Opening Login setting_</code>
 
 <br/>
 2. Once the Register form appears, click on form to open Login Setting panel.
 
 ![image](images/login2.png)
-<br/><code>*Image: Login setting area*</code>
+<br/><code>_Image: Login setting area_</code>
 
 <br/>
 3. You can start with **Built-in Channels**.
-
 
 4. You can also enable **Social Login** to use together with normal Built-in in number 3.
 
@@ -73,18 +71,17 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 <br/>
 
-- [Google Account](#googlelogin)
+-   [Google Account](#googlelogin)
 
-- [Facebook](#facebooklogin)
+-   [Facebook](#facebooklogin)
 
-- [Twitter](#twitterlogin)
+-   [Twitter](#twitterlogin)
 
-- [LINE](#linelogin)
+-   [LINE](#linelogin)
 
 <br/>
 
-<a name="googlelogin"></a>
-### Google Login Setup for Built-in Channels in your website
+## Google Login Setup for Built-in Channels in your website
 
 ![image](images/login_system.png)
 
@@ -120,11 +117,11 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 <br/>
 7. Create your **Product name shown to users** and website URL at **Homepage URL**.
 
-*For example*
+_For example_
 
-*Product name shown to users : Calm Seas*
+_Product name shown to users : Calm Seas_
 
-*Homepage URL : http://calmseas.netwaysite.com/*
+_Homepage URL : http://calmseas.netwaysite.com/_
 
 ![image](images/step7.png)
 
@@ -137,9 +134,9 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 3) Insert **Authorized JavaScript origins** (Your website URL)
 
-4) Insert **Redirect URL***
+4) Insert **Redirect URL\***
 
-*Please login to your website editor -> Site  -> System, select "Login" under Member. Click on any area of Login widget to open Login Setting. Click on Social Login, and copy URL from Google Login Redirect URL*
+_Please login to your website editor -> Site -> System, select "Login" under Member. Click on any area of Login widget to open Login Setting. Click on Social Login, and copy URL from Google Login Redirect URL_
 
 ![image](images/loginSystem5.png)
 
@@ -187,15 +184,13 @@ Click ***Enable*** to activate the API.*
 <br/>
 5) Click "Save" to save all of your setting above.
 
-
 13. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
-If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-). 
+If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-).
 
 <br/>
 
-<a name="facebooklogin"></a>
-### ​Facebook Login Setup for Built-in Channels in your website
+## ​Facebook Login Setup for Built-in Channels in your website
 
 1. Go to https://developers.facebook.com/apps , select **Create a New App**.
 
@@ -205,7 +200,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 1. Next page, look for product **Integrate Facebook Login** and select **Confirm**.
 
-1. At Facebook API management dashboard, find **Facebook Login**, and insert **OAuth redirect URIs** and **Save Changes**. *(You can find OAuth redirect URIs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Login Callback URL for facebook.)*
+1. At Facebook API management dashboard, find **Facebook Login**, and insert **OAuth redirect URIs** and **Save Changes**. _(You can find OAuth redirect URIs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Login Callback URL for facebook.)_
 
 1. Go to **Settings** -> **Basic**, to insert **Privacy Policy URL**. If you have a page to provide Privacy Policy on your website, if not, you can insert your website URL.
 
@@ -241,23 +236,21 @@ If Google Login returns error when visitors try to login, please contact your ho
 <br/>
 5) Click "Save" to save all of your setting above.
 
-
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 <br/>
 
-<a name="twitterlogin"></a>
-### Twitter Login Setup for Built-in Channels in your website
+## Twitter Login Setup for Built-in Channels in your website
 
 1. Go to https://apps.twitter.com/, select **Create New App**.
 
-2. Insert all the information required. *(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Twitter login redirect URL.)* And click **Create** to complete the setting.
+2. Insert all the information required. _(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for Twitter login redirect URL.)_ And click **Create** to complete the setting.
 
 3. Once the application created, select **Keys and Access Tokens**.
 
 4. Twitter API management page will display Consumer Key (API key) and Consumer Secret (API Secret).
 
-5.  Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Twitter Login Setup.
+5. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Twitter Login Setup.
 
 ![image](images/loginSystem02.png)
 
@@ -275,19 +268,18 @@ If Google Login returns error when visitors try to login, please contact your ho
 <br/>
 5) Click "Save" to save all of your setting above.
 
-
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
 <br/>
 
-<a name="linelogin"></a>
-### LINE Login Setup for Built-in Channels in your website
+## LINE Login Setup for Built-in Channels in your website
 
 To setup Line app as a login channel for your website, you will have to register your email address with Line first.
 
 Register here: https://developers.line.biz/en/docs/line-login/getting-started/
 
 Then setup the login by following.
+
 1. Login to line developer console at: https://developers.line.biz/console/
 
 2. Click **Create New Provider**.
@@ -312,10 +304,10 @@ Then setup the login by following.
 <br/>
 6. Add required values:
 
-*App name*
-*App description*
-*App type*, select Use Web
-*Email address*, add the email address of admin.
+_App name_
+_App description_
+_App type_, select Use Web
+_Email address_, add the email address of admin.
 
 ![image](images/loginSystemLine5.png)
 
@@ -332,7 +324,7 @@ Then setup the login by following.
 <br/>
 9. Insert **Callback URL**, and click **Update**.
 
-*(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)*
+_(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)_
 
 ![image](images/loginSystemLine8.png)
 
@@ -370,6 +362,4 @@ Then setup the login by following.
 <br/>
 5) Click "Save" to save all of your setting above.
 
-
 6. The LINE Login single sign-on is available for your user to login to your website without make a new register.
-

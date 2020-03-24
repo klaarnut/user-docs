@@ -1,6 +1,6 @@
-- [Google API](#google-api)
-  - [Google API Setup](#google-api-setup)
-## Google API
+# Google API
+
+-   [Google API Setup](#google-api-setup)
 
 Google API Setup is needed when for google connection for your website performance and setting up website register & login from Single Sign-on with users google email account.
 
@@ -10,9 +10,9 @@ Aside from loggin to Google Console, RVsitebuilder 7 can bring those report in y
 
 As above, to see your website report from Google Console, you can first set Google API with by this guide.
 
-### Google API Setup
+## Google API Setup
 
-1. Register at https://console.developers.google.com/ 
+1. Register at https://console.developers.google.com/
 
 2. In Google APIs page, click **Create** for setting your new Google API.
 
@@ -42,11 +42,12 @@ Homepage URL : http://calmseas.netwaysite.com/
 ![image](images/step7.png)
 
 8. At **Create OAuth client ID** page.
+
 1) Select **Web application**
 2) Create a name for recognizable
 3) Insert **Authorized JavaScript origins** (Your website URL)
-4) Insert **Redirect URL***
-*Please login to your website admin, go to Marketing -> Go to Setup to bring the value for Redirect URL information.*
+4) Insert **Redirect URL\***
+   _Please login to your website admin, go to Marketing -> Go to Setup to bring the value for Redirect URL information._
 5) Don't forget to click **Save**.
 
 ![image](images/loginSystem2.png)
@@ -63,7 +64,7 @@ Homepage URL : http://calmseas.netwaysite.com/
 
 ![image](images/loginSystem3.png)
 
-Click ***Enable*** to activate the API.*
+Click **_Enable_** to activate the API.\*
 
 ![image](images/loginSystem4.png)
 
@@ -72,14 +73,14 @@ Click ***Enable*** to activate the API.*
 ![image](images/webmkt1.png)
 
 Then click **Create Google Authorization**.
-*(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
+_(You can find details from number 9 at Google API, menu Credential, click on the created project.)_
 
 ![image](images/step12.1.png)
 
 ![image](images/step12.2.png)
 
 13. Once the detail are are successfully submitted, you will be leased to Google Login page.
-Select account you want to use for Google Analytics setup for your website.
+    Select account you want to use for Google Analytics setup for your website.
 
 ![image](images/18.png)
 
