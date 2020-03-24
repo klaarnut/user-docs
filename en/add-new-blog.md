@@ -10,7 +10,7 @@
 -   [Manage your Blog index](#manage-your-blog-index)
     -   [Blog index widget section](#blog-index-widget-section)
 
-## Add New Post
+## Add New Post TEST
 
 ![image](images/blog01.png)
 
