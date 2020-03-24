@@ -12,12 +12,31 @@
 
 ## Add New Post TEST
 
-![image](images/blog01.png)
+Once you finished your cool website, you may want to add blog for more frequent communication and article updates orr you may want to start your website blog the first thing. You can add blog on your website as simple as the way you add new page. Make your website gain more visitors and readers.
 
-A simple and easy to add your new blog post
+=> น้องวุ่นแสดงรูปภาพหน้าเว็บสวยๆที่มีเมนู Blog ขึ้นมาบน navigation โดยเปิดหน้า blog วไ้
 
-1. Current on the step **Content**.
-1. Select **New Post**.
+Let's start
+
+1. On the current Content editor, navigate to"+" symbol on floating menu to click **New Post**.
+
+=> น้องวุ่น ในหน้า content editor คลิก + New Post
+
+
+2. Add the name for your blog post in Post Name field, and select one blog category for this post.
+
+=> น้องวุ่น ใน Add post panel,ชี้ให้เห็นช่อง Post Name, และส่วนของ categories ยังไม่ต้องชี้ไปที่ +Add Category
+
+*Quick add new category function*
+
+You can add new category to thos post by clicking on "+ Add Category". Give it a name and make it a Parent or under other Category Parent.
+
+=> น้องวุ่น ใน Add post panel, +Add Category , ช้่องใส่ชื่อ, และการเลือก parent หรือ set ตัวเองเป็น parent
+
+
+
+
+
 
 ## Add Catagories
 
