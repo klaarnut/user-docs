@@ -1,13 +1,14 @@
 # Creating Blog
-- [Add New Post](#add-new-post)
-- [Add Catagories](#add-catagories)
-- [Manage your Categories Index](#manage-your-categories-index)
-  - [Category index widget section](#category-index-widget-section)
-- [Add Blog to Catagory](#add-blog-to-catagory)
-- [Manage your Blog post](#manage-your-blog-post)
-  - [Blog Post Widget Section](#blog-post-widget-section)
-- [Manage your Blog index](#manage-your-blog-index)
-  - [Blog index widget section](#blog-index-widget-section)
+
+-   [Add New Post](#add-new-post)
+-   [Add Catagories](#add-catagories)
+-   [Manage your Categories Index](#manage-your-categories-index)
+    -   [Category index widget section](#category-index-widget-section)
+-   [Add Blog to Catagory](#add-blog-to-catagory)
+-   [Manage your Blog post](#manage-your-blog-post)
+    -   [Blog Post Widget Section](#blog-post-widget-section)
+-   [Manage your Blog index](#manage-your-blog-index)
+    -   [Blog index widget section](#blog-index-widget-section)
 
 ## Add New Post
 
@@ -22,17 +23,17 @@ A simple and easy to add your new blog post
 
 ![image](images/addcategory.png)
 
-On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. 
+On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels.
 
 For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
 ## Manage your Categories Index
 
-Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
+Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory.
 
 ![image](images/catepage.png)
 
-### Category index widget section 
+### Category index widget section
 
 **By Category List**: Shows all your posts in the category
 
@@ -48,7 +49,6 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 6. Enable/Disable post date and time on each post.
 7. Enable/Disable post's category on each post.
 8. Continue Reading text is a button to access a post page.
-
 
 ## Add Blog to Catagory
 
@@ -68,7 +68,7 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 ![image](images/blog04.png)
 
-### Blog Post Widget Section 
+### Blog Post Widget Section
 
 **Category list**: This widget shows all your categories.
 
@@ -129,11 +129,11 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 
 **Navigation**: A post breadcrumb navigation.
 
-![image](images/blog-breadcrumb.jpg) 
+![image](images/blog-breadcrumb.jpg)
 
 **Breadcrum Setting**
 
-![image](images/breadcrumsetting.png) 
+![image](images/breadcrumsetting.png)
 
 1. Select a design of arrow.
 2. Select a text color.
@@ -149,7 +149,6 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 1. Select a design of arrow.
 2. Select a text color.
 
-
 ## Manage your Blog index
 
 A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumbnail.
@@ -158,7 +157,7 @@ You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
 
 ![image](images/mainblogpage.png)
 
-### Blog index widget section 
+### Blog index widget section
 
 There are 2 widgets section, Category list and Recent Post, allow to add in a blog index. Beside, you are able to adjust a blog list widget to display a thumnails of all posts.
 
@@ -175,7 +174,3 @@ There are 2 widgets section, Category list and Recent Post, allow to add in a bl
 7. Enable/Disable show catagories on each post.
 8. Enable/Disable show a first paragraph on each post.
 9. Continue Reading text is a button to access a post page.
-
-
-
-

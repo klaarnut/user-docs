@@ -1,5 +1,11 @@
 # Website Marketing
 
+-   [Google API](#google-api)
+    -   [Google API Setup](#google-api-setup)
+-   [Google Analytics](#google-analytics)
+    -   [Google Analytics Setup](#google-analytics-setup)
+-   [Google Search Console](#google-search-console)
+
 ## Google API
 
 Once you setup [SEO and Meta tag](https://github.com/rvsitebuilder/user-docs/blob/7.1/en/easy-website-seo.md) for your website already. You can see website performance and how SEO works on Google Console.
@@ -10,7 +16,7 @@ As above, to see your website report from Google Console, you can first set Goog
 
 ### Google API Setup
 
-1. Register at https://console.developers.google.com/ 
+1. Register at https://console.developers.google.com/
 
 2. In Google APIs page, click **Create** for setting your new Google API.
 
@@ -40,13 +46,14 @@ Homepage URL : http://calmseas.netwaysite.com/
 ![image](images/step7.png)
 
 8. At **Create OAuth client ID** page.
+
 1) Select **Web application**
 2) Create a name for recognizable
-3) Insert **Authorized JavaScript origins***
-4.1) Insert **Callback URL for MKT Setting*** (Enter or click Create to add another field for 4.2)
-4.2) Insert **Callback URL for Social Login***
-*Please login to your website admin, go to Marketing -> Go to Setup to bring the value for inserting 3, 4.1 and 4.2.*
-5) Don't forget to click **Save**.
+3) Insert **Authorized JavaScript origins\***
+   4.1) Insert **Callback URL for MKT Setting\*** (Enter or click Create to add another field for 4.2)
+   4.2) Insert **Callback URL for Social Login\***
+   _Please login to your website admin, go to Marketing -> Go to Setup to bring the value for inserting 3, 4.1 and 4.2._
+4) Don't forget to click **Save**.
 
 ![image](images/step8.png)
 
@@ -65,11 +72,11 @@ Homepage URL : http://calmseas.netwaysite.com/
 3) Google Search Console API
 4) Google+ API
 5) ite Verification API
-*Sameple: Google Search Console API*
+   _Sameple: Google Search Console API_
 
 ![image](images/step11.png)
 
-*Click ***Enable*** to activate the API.*
+\*Click **_Enable_** to activate the API.\*
 
 ![image](images/step11.2.png)
 
@@ -78,14 +85,14 @@ Homepage URL : http://calmseas.netwaysite.com/
 ![image](images/webmkt1.png)
 
 Then click **Create Google Authorization**.
-*(You can find details from number 9 at Google API, menu Credential, click on the created project.)*
+_(You can find details from number 9 at Google API, menu Credential, click on the created project.)_
 
 ![image](images/step12.1.png)
 
 ![image](images/step12.2.png)
 
 13. Once the detail are are successfully submitted, you will be leased to Google Login page.
-Select account you want to use for Google Analytics setup for your website.
+    Select account you want to use for Google Analytics setup for your website.
 
 ![image](images/18.png)
 
@@ -95,7 +102,7 @@ Select account you want to use for Google Analytics setup for your website.
 
 ![image](images/20.png)
 
--------------------------------------------------------------------------
+---
 
 ## Google Analytics
 
@@ -107,36 +114,29 @@ Here's the guide to set Google Analytics to see your website performance.
 
 ![image](images/mkt21.png)
 
-
 2. Once registration is completed, click on Gear icon for setting.
 
 ![image](images/mkt22.png)
 
-
-3. At setting page, click **Create Account** (It will automatically show *Create new account* page for new register account.)
+3. At setting page, click **Create Account** (It will automatically show _Create new account_ page for new register account.)
 
 ![image](images/Ana3.png)
 
-
-4. At *Create new account* page, click **Website**, and fill the required details.
+4. At _Create new account_ page, click **Website**, and fill the required details.
 
 ![image](images/mkt24.png)
-
 
 5. Then select **Get Tracking ID**.
 
 ![image](images/mkt25.png)
 
-
 6. Accept Google Analytics Terms of Service by **I Accept** button.
 
 ![image](images/mkt26.png)
 
-
 7. The **Tracking ID** of your website is now ready to use.
 
 ![image](images/mkt27.png)
-
 
 8. Connecting Google Analytics report of your website to show in your website admin area, at Marketing dashboard:
 
@@ -144,13 +144,12 @@ Here's the guide to set Google Analytics to see your website performance.
 
 ![image](images/webmkt1.png)
 
-
 8.2) Insert **Tracking ID** from number 7 in **Google Analytics** field, and click **Submit Google Tracking ID**.
-*If you can't see the field to insert Tracking ID, you will have to go to setup Google API first.*
+_If you can't see the field to insert Tracking ID, you will have to go to setup Google API first._
 
 ![image](images/Ana8.png)
 
--------------------------------------------------------------------------
+---
 
 ## Google Search Console
 
@@ -172,7 +171,4 @@ Marketing -> Performance -> robots.txt
 
 Marketing -> Users -> User Analytic
 
--------------------------------------------------------------------------
-
-
-
+---

@@ -1,47 +1,37 @@
 # Website Design
 
-  - [Beautiful Template](#template)
-  - [Website Banner](#banner)
-  - [Website Navigation](#navigation)
-  - [Website Content](#content)
-
+-   [Beautiful Template](#beautiful-template)
+-   [Website Banner](#website-banner)
+-   [Website Navigation](#website-navigation)
+-   [Website Content](#website-content)
+    -   [Section Properties](#section-properties)
+    -   [Block Properties](#block-properties)
 
 After the [one-click create my site](create-new-website.md), you sure want to design it as beautiful as your style.
 
 First we will start with a beautiful template.
 
-
-
-<a name="template"></a>
-### Beautiful Template
+## Beautiful Template
 
 Select template relate to your business categorie with up to 138 ready-made beautiful templates including with very new template designs and blank templates.
 
 ![image](images/newtemplate.png)
 
-
-
-<a name="banner"></a>
-### Website Banner
+## Website Banner
 
 Banner is the most attractive part of your website. RVsitebuilder 7 allows you to use website banner in 2 styles; Hero Banner and Slide Banner.
 
-
-- **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner. 
+-   **Hero Banner**: A single banner image which you can insert the text and change its image. Choose the style at step **Design** and click on **Banner** icon. You can change its image and color by clicking on the Background icon on the right corner.
 
 ![image](images/create6.png)
 
-
-- **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
+-   **Slide Banner**: Make it more than one image on your website banner, also you can change the slide effect.
 
 ![image](images/create7.png)
 
- *Note: If you're setting website banner at Home page, it will affect to ALL pages.* 
+_Note: If you're setting website banner at Home page, it will affect to ALL pages._
 
-
-
-<a name="navigation"></a>
-### Website Navigation
+## Website Navigation
 
 Manage your Top Menu and Menu
 
@@ -50,8 +40,6 @@ Manage your Top Menu and Menu
 You can select a Top menu style on step **Design**. Don't forget to click **Save**.
 
 ![image](images/create8.png)
-
-
 
 And modify your Top menu on step **Content**, click on the Menu icon and select **Top Menu**. You can add icon, badge and point the menu to a page as you want.
 
@@ -62,8 +50,6 @@ And modify your Top menu on step **Content**, click on the Menu icon and select 
 Clicking on a logo to change your own company logo and insert your company address.
 
 ![image](images/create10.png)
-
-
 
 **Menu:** This part is useful in organizing the information on your website so that your visitors have a clear idea of your products and services.
 
@@ -87,16 +73,13 @@ There are 2 ways of adding a new menu
 
 On the Menu Setting you can:
 
-- Fill your Menu name
-- Add icon which will appear in front of the menu.
-- Add badge to get more attractive from visitor.
-- Select the method you need to open this menu.
-- Choose a direction to link this menu.
+-   Fill your Menu name
+-   Add icon which will appear in front of the menu.
+-   Add badge to get more attractive from visitor.
+-   Select the method you need to open this menu.
+-   Choose a direction to link this menu.
 
-
-
-<a name="content"></a>
-### Website Content
+## Website Content
 
 Easy way to create a wonderful website just drag and drop element. On step **Content**, click on a **Section** button then drag and drop a section.
 
@@ -105,7 +88,6 @@ Easy way to create a wonderful website just drag and drop element. On step **Con
 ![image](images/create14-1.png)
 
 Drag and drop a section from the list to your project, you may see a section properties on a blue tab which you can customize as you needs.
-
 
 #### Section Properties
 
@@ -133,36 +115,35 @@ You can use **Duplicate Section** icon to duplicate the section you want to repe
 
 ![image](images/editsection.png)
 
-   - **Background**
-   
+-   **Background**
+
 ![image](images/backgroundsection.png)
 
-*Fluid (full screen)*: Enable or disable a full screen section.
+_Fluid (full screen)_: Enable or disable a full screen section.
 
-*Color* : Selecting background color by using color picker or choosing from a gradient color.
+_Color_ : Selecting background color by using color picker or choosing from a gradient color.
 
-*Background Image*: Inserting an image to a background. You can select an image from Image Manager.
+_Background Image_: Inserting an image to a background. You can select an image from Image Manager.
 
-*Reponsive Image Position*: Image alignment on responsive mode.
+_Reponsive Image Position_: Image alignment on responsive mode.
 
-   - **Shadow**
+-   **Shadow**
 
 ![image](images/shadowsection.png)
 
 You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-   - **Overlap**
+-   **Overlap**
 
 ![image](images/overlapsection.png)
 
-Making one section to overlap other sections. 
+Making one section to overlap other sections.
 
-   - **Box**
+-   **Box**
 
 ![image](images/boxsection.png)
 
 Adjusting section border design.
-
 
 #### Block Properties
 
@@ -195,7 +176,3 @@ Set Animation and Parallax Effect for block by “Edit Block”. You can choose 
 Use “Delete” icon to delete block. Be careful, it’s a prompt delete function.
 
 ![image](images/deleteblock.png)
-
-
-
-

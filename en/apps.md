@@ -1,4 +1,4 @@
-## Apps
+# Apps
 
 RVsitebuilder 7 is a full function CMS, and it's also a tool that allows you to have more Apps to use with your website aside from features in content editor.
 
@@ -13,4 +13,3 @@ It lists all current enabled apps for your website. The default 7 apps are alway
 You can install more apps to use with your website such as Sitemap, Weather, and many others by visiting our [Apps Marketplace](https://apps.rvsitebuilder.com/).
 
 ![image](images/apps2.png)
-
