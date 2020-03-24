@@ -44,7 +44,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 ### Login Setup
 
-1.  1. Click on Site -> System -> Login page.
+1. Click on Site -> System -> Login page.
 
 ![image](images/login1.png)
 <br/><code>_Image: Opening Login setting_</code>
@@ -128,13 +128,13 @@ _Homepage URL : http://calmseas.netwaysite.com/_
 <br/>
 8. At **Create OAuth client ID** page.
 
-1. Select **Web application**
+1) Select **Web application**
 
-2. Create a name for recognizable
+2) Create a name for recognizable
 
-3. Insert **Authorized JavaScript origins** (Your website URL)
+3) Insert **Authorized JavaScript origins** (Your website URL)
 
-4. Insert **Redirect URL\***
+4) Insert **Redirect URL\***
 
 _Please login to your website editor -> Site -> System, select "Login" under Member. Click on any area of Login widget to open Login Setting. Click on Social Login, and copy URL from Google Login Redirect URL_
 
@@ -173,11 +173,11 @@ Click ***Enable*** to activate the API.*
 <br/>
 1) Slide the slidable button to activate Google Login.
 
-2. Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
+2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
 
-3. Click OK to add these values to your form.
+3) Click OK to add these values to your form.
 
-4. On Login Setting, click "Apply" to apply your setting.
+4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
@@ -225,11 +225,11 @@ If Google Login returns error when visitors try to login, please contact your ho
 <br/>
 1) Slide the slidable button to activate Google Login.
 
-2. Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
+2) Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
 
-3. Click OK to add these values to your form.
+3) Click OK to add these values to your form.
 
-4. On Login Setting, click "Apply" to apply your setting.
+4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
@@ -257,11 +257,11 @@ If Google Login returns error when visitors try to login, please contact your ho
 <br/>
 1) Slide the slidable button to activate Google Login.
 
-2. Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
+2) Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
 
-3. Click OK to add these values to your form.
+3) Click OK to add these values to your form.
 
-4. On Login Setting, click "Apply" to apply your setting.
+4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystem6.png)
 
@@ -351,11 +351,11 @@ _(You can find Callback URLs in your website editor -> Site -> System Pages -> L
 <br/>
 1) Slide the slidable button to activate Google Login.
 
-2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
+2) Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
 
-3. Click OK to add these values to your form.
+3) Click OK to add these values to your form.
 
-4. On Login Setting, click "Apply" to apply your setting.
+4) On Login Setting, click "Apply" to apply your setting.
 
 ![image](images/loginSystemLine13.png)
 

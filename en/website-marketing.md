@@ -102,7 +102,7 @@ _(You can find details from number 9 at Google API, menu Credential, click on th
 
 ![image](images/20.png)
 
----
+-------------------------------------------------------------------------
 
 ## Google Analytics
 
@@ -149,7 +149,7 @@ _If you can't see the field to insert Tracking ID, you will have to go to setupÂ
 
 ![image](images/Ana8.png)
 
----
+-------------------------------------------------------------------------
 
 ## Google Search Console
 
@@ -171,4 +171,4 @@ Marketing -> Performance -> robots.txt
 
 Marketing -> Users -> User Analytic
 
----
+-------------------------------------------------------------------------

@@ -21,15 +21,15 @@ It means to set SEO for an individual page that will be effect only on this page
 
 A) 3-dot next to current page name you're editing
 
-![image](images/seo1.png)
+![image](images/website_seo/img_seo_01_setting_3_dot.png)
 
 B) Site -> Page Management icon
 
-![image](images/visibility2.png)
+![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
 
 C) Site -> Menu Pages -> 3-dot after page names
 
-![image](images/seo2.png)
+![image](images/website_seo/img_seo_03_setting_3_dot_on_site.png)
 
 Once **SEO** clicked, you will be at Page Management box.
 
@@ -39,13 +39,13 @@ Once **SEO** clicked, you will be at Page Management box.
 
 Slide this button to right before adding SEO to this page.
 
-![image](images/seo3.png)
+![image](images/website_seo/img_seo_04_site_config.png)
 
 -   **Auto title and description** are the automated default for page's title, site brand and description.
 
 Slide the slide-button to right to custom page's title and description to be more effective SEO.
 
-![image](images/seo4.png)
+![image](images/website_seo/img_seo_05_auto_title_and_description.png)
 
 -   **Page title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 -   **Site brand** : It is inherrited from Site brand you defined as your company.
@@ -62,22 +62,22 @@ Setting SEO by site
 
 1. At **Site** -> **Page Management** icon
 
-![image](images/visibility2.png)
+![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
 
 2. Click **Site** on the setting panel to switch to Site setting.
 
-![image](images/seoimage1.png)
+![image](images/website_seo/img_seo_06_by_site.png)
 
-1. Click **Site**
+1) Click **Site**
 
-2. Select **CMS**
+2) Select **CMS**
 
-3. Select **SEO**
+3) Select **SEO**
 
-4. Select SEO for the entire site
+4) Select SEO for the entire site
 
-5. Click **Save**
+5) Click **Save**
 
-3) Don't forget to click **Save** on content editor.
+3. Don't forget to click **Save** on content editor.
 
 4. Click on **My Site** to publish what you just have done.

@@ -12,23 +12,23 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 1. Make sure the Javascript/Css you got is correct and working properly.
 
-2) At Content tab, click on any content section of the page you want. On **Section Editor**, click on **html mode**.
+2. At Content tab, click on any content section of the page you want. On **Section Editor**, click on **html mode**.
 
 _javascript is supported here, you dont need to insert script in File Manager_
 
-![image](images/jscss1.png)
+![image](images/css_javascrip/img_css_javascript_01_icon.png)
 
 3. Insert the Javascript/Css
 
-![image](images/jscss2.png)
+![image](images/css_javascrip/img_css_javascript_02_html_mode.png)
 
 4. Click **Ok** to save.
 
-![image](images/jscss3.png)
+![image](images/css_javascrip/img_css_javascript_03_ok.png)
 
 5. Don't forget to click **Save** on content editor.
 
-6) Click on **My Site** to see what you just have done.
+6. Click on **My Site** to see what you just have done.
 
 7. If there's nothing in action or it shows and error, please check the script again for if it's really correct.
 
@@ -36,24 +36,24 @@ _javascript is supported here, you dont need to insert script in File Manager_
 
 1. On Content editor, click **Site** -> **Page Management** icon
 
-![image](images/visibility2.png)
+![image](images/css_javascrip/img_css_javascript_04_site.png)
 
 2. On **Site Config** panel.
 
-![image](images/jscss4.png)
+![image](images/css_javascrip/img_css_javascript_05_site_config.png)
 
-1. Click **Site**
+1) Click **Site**
 
-2. Select **CMS**
+2) Select **CMS**
 
-3. Select **CSS/JS**
+3) Select **CSS/JS**
 
-4. Insert CSS or JavaScript
+4) Insert CSS or JavaScript
 
-5. Click **Save**
+5) Click **Save**
 
-3) Don't forget to click **Save** on content editor.
+3. Don't forget to click **Save** on content editor.
 
 4. Click on **My Site** to see what you just have done.
 
-5) If there's nothing in action or it shows and error, please check the script again for if it's really correct.
+5. If there's nothing in action or it shows and error, please check the script again for if it's really correct.

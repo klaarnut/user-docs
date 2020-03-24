@@ -9,19 +9,18 @@
     - [Page Type](page-type.md)
 
 - ## ![image](images/icon_creating_website.svg) Creating Website
-    - [Create a New Website](create-new-website.md)
-    - [Website Design](website-design.md)
+    - [Website Template](website-template.md)
+    - [Website Menu](website-menu.md)
     - [Website Content](website-content.md)
-    - [Page and Menu](page-and-menu.md) 
     - [Website Footer](website-footer.md)
     - [Online Form](online-form.md)
 
 - ## ![image](images/icon_blog.svg) Website Blog
-    - [Add New Blog](creating-blog.md)
-    - [Add New Category](creating-blog.md)
-    - [Blog Design](creating-blog.md)
-    - [Blog Widgets](creating-blog.md)
-    - [Edit Blog](creating-blog.md)
+    - [Add New Blog](add-new-blog.md)
+    - [Add New Category](add-new-category.md)
+    - [Blog Design](blog-design.md)
+    - [Blog Widgets](blog-widget.md)
+    - [Blog Sharing](blog-sharing.md)
 
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)

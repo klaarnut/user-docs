@@ -44,13 +44,13 @@ To show who is (you are) working now. Click on it and select.
 
 ### Template
 
-![image](images/template.png)
+![image](images/admin_interface/img_template.png)
 
 The first thing to welcome you to start a beautiful website. Every website template in every template category is automatically making your website a responsive one. The content, the layout, the images are well-designed for perfectly displaying on every device’s screen. You can see all RVsitebuilder 7 templates in our [website](https://rvsitebuilder.com/template/).
 
 ### Design
 
-![image](images/design1.png)
+![image](images/admin_interface/img_design_00.png)
 
 A place you can control how your website looks like from the most top down the footer. Not only for the beautiful look but also for more action and conversion you will get from your website visitors.
 
@@ -60,7 +60,7 @@ The 7 main parts to make your website be more attractive and functional.
 
 Let’s say it’s color theme of your website. Aside from website template which tells how the header and content would be, the main color of your website is here to set to be matched your company.
 
-![image](images/design2website.png)
+![image](images/admin_interface/img_design_01_website.png)
 
 _Theme Color_ : is to select how the color tone you want to be played in your website, the selectd will be appeared its detail below at Font part, and take real time effect on content area such as Header text and icons.
 
@@ -72,95 +72,95 @@ _Background_ : will be “Fluid (full screen)” with color pickers disabled by 
 
 The top most to be seen is popular to display main parts of your company such as Logo, Telephone Number, Support or quick link, and also Account Name for when you allow your website to be logged in. Select one in 21 Topmenu designs to match your website template and theme, or to be completely different to get more attraction. The “Login/Logout” is enabled by default to let you and website visitors to register and login. Disable it if you like.
 
-![image](images/design3topmenu.png)
+![image](images/admin_interface/img_design_02_topmenu.png)
 
 -   **Menu**
 
 The main navigation on your website can be set to be matched and more unique by select in one from 32 Horizontal Menu designs or one from 6 Transparent designs. Make it more Modern with “Overlap” function to make Menu float over website banner for more cooler. Disable Menu completely for when you make a website that has only one page.
 
-![image](images/design4menu.png)
+![image](images/admin_interface/img_design_03_menu.png)
 
 -   **Banner**
 
 Banner has 2 types, Hero and Slide. It can be switch between 2 types by select one from 29 Hero styles or 85 Slide styles, just be aware that all current content and setting will be reset by the change. The selected Banner can be changed its image(s) later by your desire.
 
-![image](images/design5banner.png)
+![image](images/admin_interface/img_design_04_banner.png)
 
 -   **Sidebar**
 
 The attention needed Page or Blog Post can be placed as to always gain on every page of your website. Make those highlight Page or Post on Left or Right or both sides at your desire.
 
-![image](images/design6sidebar.png)
+![image](images/admin_interface/img_design_05_sidebar.png)
 
 -   **Footer**
 
 Footer is the important part on website to let people know your company whereabout. The address is identity that makes people trust in your company. Keep them follow and in touch with you on renowned social channels.
 
-![image](images/design7footer.png)
+![image](images/admin_interface/img_design_06_footer.png)
 
 -   **Sort Header**
 
 Freely reposition of Header pieces (Banner, Topmenu, Menu) as you want in Header area.
 
-![image](images/design8header.png)
+![image](images/admin_interface/img_design_07_sort_header.png)
 
 ### Content
 
-![image](images/content1.png)
+![image](images/admin_interface/img_content_00.png)
 
 -   **Section**
 
 Start page content with Content Sections that guide you for how to insert content and image to your page. Just drag a Section you like to drop anywhere on page Body area. All selected Section can be moved, customized section background, background for Blogs in Section.
 
-![image](images/content2section.png)
+![image](images/admin_interface/img_content_01_section.png)
 
 -   **Form**
 
 Use Online Form for website visitors to submit it directly to your Email Address. Add more fields to your Form for proper purpose, Calendar, Price, etc. Form section can also be play with design to make it more gorgeous.
 
-![image](images/content3form.png)
+![image](images/admin_interface/img_content_02_form.png)
 
 -   **Menu**
 
 Add more Page(s) to Menu or Top Menu before defying to a page that already made Content for it, redirect this new added Page to a Blog Post or other websites at your desire.
 
-![image](images/content4menu.png)
+![image](images/admin_interface/img_content_03_menu_topmenu.png)
 
 -   **Add Page/Post**
 
 Add a New Page or new Post and immediately without worrying about where to put it on Menu. You can defy it to where you want any time.
 
-![image](images/content5addpage.png)
+![image](images/admin_interface/img_content_04_new_page_post.png)
 
 ### Email
 
 You may want to send an email for those visitors who register to your website as Welcome Email, Email Template can be useful and easier to support you. Custom its design to be matched your website design.
 
-![image](images/email1.png)
+![image](images/admin_interface/img_email_00.png)
 
 -   **Template**
 
 Select one from two default Email Template of how you want the email to be, and custom it later.
 
-![image](images/email2template.png)
+![image](images/admin_interface/img_email_01_template.png)
 
 -   **Background**
 
 Make Email with background that match your website theme. Give dimensions of the email content and its background on Top, Bottom, Left, Right as you like.
 
-![image](images/email3bg.png)
+![image](images/admin_interface/img_email_02_background.png)
 
 -   **Header**
 
 elect one from 7 Header designs and custom it the way you like such as Header color, Header Image, insert Logo, company name, telephone number, make it the way that the receiver will immediately know that it was sent from you,
 
-![image](images/email4header.png)
+![image](images/admin_interface/img_email_03_header.png)
 
 -   **Footer**
 
 Select one from 7 Footer designs, the information on Email Footer will be the same as in your website Footer by default. Add or edit the social channels to be followed.
 
-![image](images/email5footer.png)
+![image](images/admin_interface/img_email_04_footer.png)
 
 ## Center Menu
 
@@ -170,7 +170,7 @@ Select one from 7 Footer designs, the information on Email Footer will be the sa
 
 The center to insert anything to content on page you’re editing.
 
-![image](images/Insert.png)
+![image](images/admin_interface/img_insert.png)
 
 -   **Link**
 
@@ -204,13 +204,13 @@ Divide content parts by in the same text block with Separate Line is not only to
 
 The real time website preview mode while you’re editing. See how your website would be on sizes of device screens, computer desktop, ipad and mobile in rotate eyes.
 
-![image](images/preview.png)
+![image](images/admin_interface/img_view_modes.png)
 
 ### Hide/Show Admin Top Bar
 
 Admin Top Bar is an always-appear tool bar for more faster access wherever you are in CMS. Sometimes while you’re at content builder, you can hide this Top Bar in case if it becomes as eyesore.
 
-![image](images/showHide.png)
+![image](images/admin_interface/img_hide_show_admin_topbar.png)
 
 ## Right Menu
 
@@ -220,7 +220,7 @@ Admin Top Bar is an always-appear tool bar for more faster access wherever you a
 
 The current page that you’re working with. It comes with a symbol in front of it such as Home or Document to tell the page’s priority. The 3-dots contains page setting for Set as home, Rename, Set as draft, Duplicate, SEO, Meta tag, Js/Css, Visibility.
 
-![image](images/rightmenu1.png)
+![image](images/admin_interface/img_3_dots.png)
 
 -   **Set as home**
 
@@ -272,7 +272,7 @@ _Restricted Members_ : aside from setting page to be visible to those all member
 
 To navigate or change page/post editor.
 
-![image](images/rightmenu2.png)
+![image](images/admin_interface/img_site.png)
 
 -   **Page Setting**
 
@@ -327,4 +327,4 @@ To add your brand identity the same way you can on Top Menu. The latest setting 
 
 To save what you’re working with on your page. Many features in RVsitebuilder CMS are auto-apply to your page but it’s not saved yet, so just click this Save button as frequently as you want.
 
-![image](images/rightmenu3.png)
+![image](images/admin_interface/img_save.png)

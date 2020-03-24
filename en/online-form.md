@@ -1,22 +1,28 @@
-# Adding Online Form on Your Website
+# Online Form
 
 -   [Add New Form](#add-new-form)
 -   [Form Design](#form-design)
 -   [Email Setup](#email-setup)
 
-Online Form is frequently used on a website that needs more communication between you, the website owner, and website users.
+
+Online Form is frequently used on a website that needs more communication between you, the website owner, and website users. 
 
 Its purpose is to let users to submit information for you to contact back or for more sale opportunity.
 
+
 ## Add New Form
 
-**1.** On Content Editot, navigate to **Form** floating menu.
+**1.** On Content Editor, navigate to **Form** on floating menu.
 
-![image](images/form1.png)
+![image](images/online_form/img_click_form.png)
 
 **2.** Select one from cool Form designs, and drag it to drop on content area.
 
-![image](images/form2.png)
+![image](images/online_form/img_select_from.png)
+
+
+---------------------------------------------------------------------------------------------------
+
 
 ## Form Design
 
@@ -24,17 +30,20 @@ Its purpose is to let users to submit information for you to contact back or for
 
 Once you done playing with the color, click on the form to add or remove fields on this form as your need.
 
-![image](images/form3.png)
+![image](images/online_form/img_design_form.png)
 
 **2.** Any field can be set as _Required_ to ask the nescessary information from your users. Click **directly on field** to set it.
 
-![image](images/form6.png)
+![image](images/online_form/img_field_setting.png)
+
+
+---------------------------------------------------------------------------------------------------
 
 ## Email Setup
 
 **1.** Once you redesign your form beautiful enough and the nescessary fields added, click on the form to setup EMAIL to use with this form. Click on **Email Setup**.
 
-![image](images/form4.png)
+![image](images/online_form/img_email_setup.png)
 
 **2.** Form will switch to Email Setup area
 
@@ -42,6 +51,8 @@ Once you done playing with the color, click on the form to add or remove fields 
 
 -   the background **"Thank you"** is the editable area that you can edit text and image/icon on it directly!
 
-![image](images/form5.png)
+![image](images/online_form/img_thank_you_form.png)
 
 **3.** DON'T FORGET TO CLICK **Save** on the right menu to save all of your form setting.
+
+ ![image](images/online_form/img_save_form.png)
