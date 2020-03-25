@@ -1,8 +1,7 @@
-# Creating Blog
+# Add New Blog
 
 -   [Add New Post](#add-new-post)
--   [Add Catagories](#add-catagories)
--   [Manage your Categories Index](#manage-your-categories-index)
+-   [Manage Manage your new added post](#manage-your-new-blog-added-post)
     -   [Category index widget section](#category-index-widget-section)
 -   [Add Blog to Catagory](#add-blog-to-catagory)
 -   [Manage your Blog post](#manage-your-blog-post)
