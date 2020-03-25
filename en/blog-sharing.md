@@ -1,10 +1,10 @@
-#Add facebook widget on your blog
+# Add facebook widget on your blog
 
 - [Add facebook comment](#add-facebook-comment)
 - [Add facebook Like and Share buttons](#add-facebook-like-and-share-buttons)
 - [Add facebook page](#add-facebook-page)
 
-Your blog posts need more attention and are deserved to that your readers can help spreading it. You can use facebook comment, Like, Share button in RVsitebuilder 7 to make this mission completed.
+Your blog posts need more attention and are deserved to have your readers spread it. You can use facebook comment, Like, Share button, and facebook page widgets to make this mission completed.
 
 
 ## Add facebook comment
