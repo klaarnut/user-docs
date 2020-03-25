@@ -18,7 +18,6 @@
 - ## ![image](images/icon_blog.svg) Website Blog
     - [Add New Blog](add-new-blog.md)
     - [Add New Category](add-new-category.md)
-    - [Blog Design](blog-design.md)
     - [Blog Widgets](blog-widget.md)
     - [Blog Sharing](blog-sharing.md)
 

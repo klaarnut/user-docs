@@ -1,13 +1,11 @@
 # Add New Blog
 
--   [Add New Post](#add-new-post)
-    -   [Manage your new added post](#manage-your-new-added-post)
-        -   [ฺBlog Layout](#blog-layout)
--   [Add Blog to Catagory](#add-blog-to-catagory)
--   [Manage your Blog post](#manage-your-blog-post)
-    -   [Blog Post Widget Section](#blog-post-widget-section)
--   [Manage your Blog index](#manage-your-blog-index)
-    -   [Blog index widget section](#blog-index-widget-section)
+- [Add New Post](#add-new-post)
+  - [Blog Layout](#blog-layout)
+  - [Blog content](#blog-content)
+    - [Editable section](#editable-section)
+    - [Widget sections](#widget-sections)
+- [Publish Blog on your website](#publish-blog-on-your-website)
 
 ## Add New Post
 
@@ -35,20 +33,20 @@ The **General** is the default category for your first time creating blog. You c
 => น้องวุ่น ใน Add post panel, +Add Category , ช้่องใส่ชื่อ, และการเลือก parent หรือ set ตัวเองเป็น parent
 
 
-### Manage your new added post
+**Manage your new added post**
 
 Your new added post will be welcome by its editor with all ways to manage you can think of.
 
 => น้องวุ่น หน้า post editor ใหม่ที่เพิ่ง add post มา แค่แสดงให้เห็นว่า add มาแล้ว และ tools มากมายที่จะใช้
 
 
-#### Blog Layout
+### Blog Layout
 
 You can start at layout of your blog first to make it matched with your desire.
 
 1. Click on Master Header to activate Post Info Setting panel.
 
-=> น้องวุ่น หน้า post editor คลิกตรง Master header เพื่อเปิด post info setting ขึ้นมา
+=> น้องวุ่น หน้า blog editor คลิกตรง Master header เพื่อเปิด post info setting ขึ้นมา
 
 
 2. Click on "Design" tab, you will see 3 designs of blog Master Header to select. Select one from three, and click preview.
@@ -72,107 +70,83 @@ You can start at layout of your blog first to make it matched with your desire.
 
 
 
-## Add Catagories
+### Blog content
 
-![image](images/addcategory.png)
+Once the post editor opened, you can immediately start your blog content.
 
-On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels.
+#### Editable section
 
-For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
+The only editable area on blog is blog content which you can notice it with "YOUR TITLE HERE".
 
-## Manage your Categories Index
+=> น้องวุ่น หน้า blog editor ใหม่ที่เพิ่ง add post มา คลิกแสดงให้เห็นส่วน editable area (content)
 
-Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory.
+1. **Content**
 
-![image](images/catepage.png)
+Start typing what you want to share on your blog post. All text tools and functions are same as wesbite content you can see full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#add-content-and-font).
 
-### Category index widget section
+=> น้องวุ่น หน้า post editor ตรง content ลอง edit คำ หรือ ชี้ให้เห็น area edit content กับ image ก็ได้
 
-**By Category List**: Shows all your posts in the category
 
-**By Category List Setting**
+2. **Design**
 
-![image](images/bycatesetting.png)
+You can also design blog content are by using Section Properties and Block Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
 
-1. Enable/Disable Category Name
-2. Enable/Disable Total Number of Posts
-3. Limit post per page
-4. Order by: Select Newest, Post Title or Last edit to arrage a list.
-5. Enable/Disable author name on each post.
-6. Enable/Disable post date and time on each post.
-7. Enable/Disable post's category on each post.
-8. Continue Reading text is a button to access a post page.
+    Block Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-block-design).
 
-## Add Blog to Catagory
+=> น้องวุ่น หน้า blog editor ตรง content ชี้ให้เห็นปุ่ม edit Section properties กับ Block properties
 
-![image](images/addpost.png)
 
-Fills your blog name and select catagory which you want to add in.
+3. **Add more blog section**
+   
+You can add more blog section to continue your long post or separate its content by using Section on the floating menu. Or see our full Content Section guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#add-new-content-section).
 
-## Manage your Blog post
+=> น้องวุ่น หน้า blog editor ชี้ให้เห็นเมนู Section ด้านซ้ายมือว่า add เพิ่มได้
 
-Once you creates a post, you will be able to write a content in the section under a post info widget section.
 
-![image](images/manageblogpost01.png)
 
-You can add more widget by clicking the **Section** icon then selecting **Blog**
+#### Widget sections
 
-![image](images/blog03.png)
+Aside from blog content area, you will see many parts specified with "Widget" symbol. They're for setting, not directly type on it.
 
-![image](images/blog04.png)
+=> น้องวุ่น หน้า blog editor คลิกแสดงให้เห็นส่วนที่เป็น widget ต่างๆ ให้เห็นสัญลักษณืของมัน
 
-### Blog Post Widget Section
 
-**Category list**: This widget shows all your categories.
+1. **Breadcrumb widget**
 
-![image](images/blog-category.jpg)
+The blog breadcrumb navigation you can set its style and design.
 
-**Category List Setting**
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง breadcrumb widget
 
-![image](images/categorylist.png)
 
-1. Title: Insert your Title.
-2. Number of Category: Limit your category which display on the list.
-3. Order by: Select Ascending or Descending to arrage a list.
-4. Enable/Disable a total number of posts.
+*Breadcrum Setting*
 
-**Recent Post**: This widget shows your latest post.
+Setting tab is to set arrow style and its color.
 
-![image](images/blog-recentpost.jpg)
+Design tab is to select the design of Breadcrumb widget.
 
-**Recent Post Setting**
+=> น้องวุ่น ตรง breadscrumb setting แสดงให้เห็นตรงการตั้งค่าทั้ง 2 tab
 
-![image](images/recentpost.png)
 
-1. Title: Insert your Title.
-2. Category to display: Select a category which you need to show on a list.
-3. Number of Post: Limit your post which display on the list.
-4. Order by: Select Ascending or Descending to arrage a list.
-5. Enable/Disable post date and time on each post.
-6. Enable/Disable author name on each post.
-7. Enable/Disable show catagories on each post.
+*Section Design*
 
-**Posts in Category**: Shows all blog post which create on the same post's category.
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
 
-![image](images/blog-postcategory.jpg)
 
-**Posts in This Category Setiing**
 
-![image](images/postinthiscat.png)
+2. **Post Info widget**
 
-1. Title: Insert your Title.
-2. Number of Post: Limit your post which display on the list.
-3. Order by: Select Ascending or Descending to arrage a list.
-4. Enable/Disable post date and time on each post.
-5. Enable/Disable author name on each post.
+The current post information such as; Category, Date and Time, Author Name, Author Image, and Author Email.
 
-**Post Info**: A post details and informations.
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง Post info widget
 
-![image](images/blog-postinfo.jpg)
 
-**Post Info Setting**
+*Post Info Setting*
 
-![image](images/postinfosetting.png)
+Setting tab is to set Post title size and the information to show.
 
 1. Title Size: Select a font size for Title
 2. Enable/Disable Category name.
@@ -180,50 +154,147 @@ You can add more widget by clicking the **Section** icon then selecting **Blog**
 4. Enable/Disable author email.
 5. Enable/Disable author name.
 
-**Navigation**: A post breadcrumb navigation.
+=> น้องวุ่น ตรง Post info setting แสดงให้เห็นตรงการตั้งค่า settign tab ชี้ไปให้ตรงตำแหน่งต่างๆบน post info
 
-![image](images/blog-breadcrumb.jpg)
+Design tab is to select the design of Breadcrumb widget.
 
-**Breadcrum Setting**
+=> น้องวุ่น ตรง post info setting ชี้ให่เห็นตรง design tab.
 
-![image](images/breadcrumsetting.png)
 
-1. Select a design of arrow.
-2. Select a text color.
+*Section Design*
 
-**Next and Previous**: Visitor can click to see a next post and previous post.
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
 
-![image](images/blog-next.jpg)
 
-**Next and Previous Buttons Setting**
 
-![image](images/nextandpreviousbuttons.png)
+3. **Category List widget**
 
-1. Select a design of arrow.
-2. Select a text color.
+This widget shows all categories and the number of blog posts in it,
 
-## Manage your Blog index
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง Catetory kist widget
 
-A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumbnail.
 
-You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
+*Category List Setting*
 
-![image](images/mainblogpage.png)
-
-### Blog index widget section
-
-There are 2 widgets section, Category list and Recent Post, allow to add in a blog index. Beside, you are able to adjust a blog list widget to display a thumnails of all posts.
-
-**Blog List Setting**
-
-![image](images/bloglist.png)
+Setting tab is to set followings:
 
 1. Title: Insert your Title.
-2. Enable/Disable a total of posts
-3. Limit a number of post which diaplay on the list
-4. Order by: Select Newest, Post Title or Last edit to arrage a list.
-5. Enable/Disable author name on each post.
-6. Enable/Disable post date and time on each post.
+2. Number of Category: Set the number of category you want them to show here.
+3. Order by: Select Ascending or Descending to arrange in the list.
+4. Enable/Disable a total number of posts.
+
+=> น้องวุ่น ตรง category list setting แสดงให้เห็นตรงการตั้งค่า settign tab ชี้ไปให้ตรงตำแหน่งต่างๆบน list
+
+Design tab is to select the design of Category List widget.
+
+=> น้องวุ่น ตรง Category List setting ชี้ให่เห็นตรง design tab.
+
+
+*Section Design*
+
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+
+
+
+4. **Recent Post**
+
+The section to show recent posts you added.
+
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง recent post widget
+
+
+*Recent Post Setting*
+
+Setting tab is to set followings:
+
+1. Title: Insert your Title.
+2. Category to display: Select a category you want to show in the list.
+3. Number of Post: Set the number of post you want them to show here.
+4. Order by: Select Ascending or Descending to arrange in the list.
+5. Enable/Disable post date and time on each post.
+6. Enable/Disable author name on each post.
 7. Enable/Disable show catagories on each post.
-8. Enable/Disable show a first paragraph on each post.
-9. Continue Reading text is a button to access a post page.
+
+=> น้องวุ่น ตรง recent post setting แสดงให้เห็นตรงการตั้งค่า settign tab ชี้ไปให้ตรงตำแหน่งต่างๆบน list
+
+Design tab is to select the design of Recent Post widget.
+
+=> น้องวุ่น ตรง Category List setting ชี้ให่เห็นตรง design tab.
+
+
+*Section Design*
+
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+
+
+
+5. **Posts in Category**
+
+This section shows blog posts in the same category of the post you're working with now.
+
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง post in this cateogry widget
+
+
+*Posts in Category Setting*
+
+Setting tab is to set followings:
+
+1. Title: Insert your Title.
+2. Number of Post: Set the number of post you want them to show here.
+3. Order by: Select Ascending or Descending to arrange in the list.
+4. Enable/Disable post date and time on each post.
+5. Enable/Disable author name on each post.
+
+=> น้องวุ่น ตรง post in category setting แสดงให้เห็นตรงการตั้งค่า settign tab ชี้ไปให้ตรงตำแหน่งต่างๆบน list
+
+Design tab is to select the design of Posts in Category widget.
+
+=> น้องวุ่น ตรง Category List setting ชี้ให่เห็นตรง design tab.
+
+
+*Section Design*
+
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+
+
+
+6. **Next and Previous**
+
+The buttons for readers to go next or back your other posts.
+
+=> น้องวุ่น หน้า blog editor แสดงให้เห็นตรง Next and previous widget
+
+
+*Next and Previous Setting*
+
+Setting tab is to set arrow styles and its color.
+
+Design tab is to select the design of Next and Previous widget.
+
+=> น้องวุ่น ตรง breadscrumb setting แสดงให้เห็นตรงการตั้งค่าทั้ง 2 tab
+
+
+*Section Design*
+
+You can edit design of this widget by using Section Properties.
+   
+    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+
+
+## Publish Blog on your website
+
+Just click **Save** button, your blog will be online immediately on the navigation of your website.
+
+![image](images/website_template/img_publish_website.png)
+
+
+
+   
