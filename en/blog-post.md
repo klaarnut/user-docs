@@ -5,6 +5,7 @@
   - [Blog content](#blog-content)
     - [Editable section](#editable-section)
     - [Widget sections](#widget-sections)
+- [Edit Blog](#edit-blog)
 - [Publish Blog on your website](#publish-blog-on-your-website)
 
 ## Add New Post
@@ -287,6 +288,12 @@ Design tab is to select the design of Next and Previous widget.
 You can edit design of this widget by using Section Properties.
    
     Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+
+
+
+## Edit Blog
+
+
 
 
 ## Publish Blog on your website
