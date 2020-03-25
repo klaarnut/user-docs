@@ -56,10 +56,12 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 4. You can also enable **Social Login** to use together with normal Built-in in number 3.
 
-   1) Click on Social Login icon
+      1) Click on Social Login icon
+   
    ![image](images/register_and_login/img_social_login_01.png)
 
-   2) Slide the slideable button on any or all the Social channels you want user to login to your website with.
+      2) Slide the slideable button on any or all the Social channels you want user to login to your website with.
+
    ![image](images/register_and_login/img_social_login_02.png)
 
 
@@ -322,7 +324,7 @@ _(You can find Callback URLs in your website editor -> Site -> System Pages -> L
 
 <!-- 4) On Login Setting, click "Apply" to apply your setting. -->
       4) On Login Setting, click open switch button.
-      5) Click Preview
+      5) Click "Preview"
       6) Click "Save" to save all of your setting above.
 
 ![image](images/register_and_login/img_line_login_config_02.png)
