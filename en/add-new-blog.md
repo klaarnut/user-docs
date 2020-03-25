@@ -1,7 +1,7 @@
 # Add New Blog
 
 -   [Add New Post](#add-new-post)
-    -   [Manage your new added post](#manage-your-new--added-post)
+    -   [Manage your new added post](#manage-your-new-added-post)
         -   [ฺBlog Layout](#blog-layout)
 -   [Add Blog to Catagory](#add-blog-to-catagory)
 -   [Manage your Blog post](#manage-your-blog-post)
