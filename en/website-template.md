@@ -17,7 +17,6 @@
 - [Change template](#change-template)
   - [Change Hero template to Slide](#change-hero-template-to-slide)
   - [Change Slide template to Hero](#change-slide-template-to-hero)
-- [3. Sure to change it, just click **OK**.](#3-sure-to-change-it-just-click-ok)
 - [Publish](#publish)
 
 
@@ -380,6 +379,7 @@ You can change the Slide Header banner for the entire website at once.
 ![image](images/website_template/img_changetemplate_slide_hero_05_warning.png)
 
 3. Sure to change it, just click **OK**.
+
 ---------------------------------------------------------------------------------------------------
 
 
