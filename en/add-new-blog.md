@@ -1,8 +1,8 @@
 # Add New Blog
 
 -   [Add New Post](#add-new-post)
--   [Manage Manage your new added post](#manage-your-new-blog-added-post)
-    -   [Category index widget section](#category-index-widget-section)
+    -   [Manage Manage your new added post](#manage-your-new-blog-added-post)
+        -   [ฺBlog Layout](#blog-layout)
 -   [Add Blog to Catagory](#add-blog-to-catagory)
 -   [Manage your Blog post](#manage-your-blog-post)
     -   [Blog Post Widget Section](#blog-post-widget-section)
