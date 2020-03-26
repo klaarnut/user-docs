@@ -6,7 +6,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 3 ways to insert Blog widget for your Blog Catagory List or Recent Post List to content are; as Section, as Block and as element among the content.
 
 
-- **As section**
+### Insert blog widget as section
 
 1. On any current page or blog editor, click on **Site** menu and navigate to **Blog** and click on post you want to edit.
 
@@ -44,7 +44,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 
 
-- **As block**
+### Insert blog widget as block
   
 1. On any current page or blog editor, click on **Site** menu and navigate to **Blog** and click on post you want to edit.
 
@@ -85,7 +85,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 
 
-- **As element among the blog content**
+### Insert blog widget as element among your post content
   
 1. On any current page or blog editor, click on **Site** menu and navigate to **Blog** and click on post you want to edit.
 
