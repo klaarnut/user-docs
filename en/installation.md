@@ -1,7 +1,7 @@
 # Installation
 
--   [cPanel Control Panel](#cpanel-control-panel)
--   [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
+- [cPanel Control Panel](#cpanel-control-panel)
+- [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
 
 ## cPanel Control Panel
 

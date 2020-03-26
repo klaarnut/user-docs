@@ -4,7 +4,6 @@
   - [Link page to a menu](#link-page-to-a-menu)
 - [Add content and font](#add-content-and-font)
   - [Text Tools](#text-tools)
-    - [Clipboard](#clipboard)
     - [Font](#font)
     - [Paragraph](#paragraph)
   - [Table Tools](#table-tools)
@@ -144,9 +143,9 @@ Once you place mouse on a text area, you can immediately start your content with
 ![image](images/website_content/img_text_tools_01.png) 
 
 
-#### Clipboard
+**Clipboard**
 
-**Paint format**
+*Paint format*
 
 ![image](images/website_content/img_text_tools_02_paint_format.png)
 
