@@ -4,25 +4,11 @@
   - [Link page to a menu](#link-page-to-a-menu)
 - [Add content and font](#add-content-and-font)
   - [Text Tools](#text-tools)
-    - [Font](#font)
-    - [Paragraph](#paragraph)
   - [Table Tools](#table-tools)
-    - [Table Size](#table-size)
-    - [Table object](#table-object)
-    - [Table Alignment](#table-alignment)
 - [Content area design](#content-area-design)
   - [Add new content section](#add-new-content-section)
   - [Content section design](#content-section-design)
-    - [Edit section background](#edit-section-background)
-    - [Duplicate section](#duplicate-section)
-    - [Move section](#move-section)
-    - [Remove section](#remove-section)
   - [Content block design](#content-block-design)
-    - [Edit block background](#edit-block-background)
-    - [Duplicate block](#duplicate-block)
-    - [Move block](#move-block)
-    - [Add animation to block](#add-animation-to-block)
-    - [Remove block](#remove-block)
 - [Insert blog widget](#insert-blog-widget)
 - [Insert link to content and image](#insert-link-to-content-and-image)
   - [Insert page as link](#insert-page-as-link)
@@ -57,7 +43,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 2. The "Add Page" panel appears;
 
     1) Page Name : Insert any name for this new page.
-    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point ้this page to a menu later.*
+    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
     3) Save : To add this page.
 
 ![image](images/website_content/img_add_page_02_panel_appears.png)
@@ -143,9 +129,9 @@ Once you place mouse on a text area, you can immediately start your content with
 ![image](images/website_content/img_text_tools_01.png) 
 
 
-**Clipboard**
+#### Clipboard
 
-*Paint format*
+**Paint format**
 
 ![image](images/website_content/img_text_tools_02_paint_format.png)
 
