@@ -8,9 +8,9 @@
 - [Manage current blog posts](#manage-current-blog-posts)
   - [Access your blog posts](#access-your-blog-posts)
   - [Blog management tools](#blog-management-tools)
-- [Publish Blog on your website](#publish-blog-on-your-website)
 - [Manage your Blog index](#manage-your-blog-index)
   - [Blog index widget section](#blog-index-widget-section)
+- [Publish Blog on your website](#publish-blog-on-your-website)
 
 ## Add New Post
 
@@ -352,13 +352,6 @@ Aside frpom creating new blog posts, you can also manage bog post the same way y
 
 
 
-## Publish Blog on your website
-
-Just click **Save** button, your blog will be online immediately on the navigation of your website.
-
-![image](images/website_template/img_publish_website.png)
-
-
 ## Manage your Blog index
 
 A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumbnail.
@@ -384,4 +377,12 @@ There are 2 widgets section, Category list and Recent Post, allow to add in a bl
 7. Enable/Disable show catagories on each post.
 8. Enable/Disable show a first paragraph on each post.
 9. Continue Reading text is a button to access a post page.
+
+
+
+## Publish Blog on your website
+
+Just click **Save** button, your blog will be online immediately on the navigation of your website.
+
+![image](images/website_template/img_publish_website.png)
    
