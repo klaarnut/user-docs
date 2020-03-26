@@ -5,7 +5,9 @@
   - [Blog content](#blog-content)
     - [Editable section](#editable-section)
     - [Widget sections](#widget-sections)
-- [Edit Blog](#edit-blog)
+- [Manage current blog posts](#manage-current-blog-posts)
+  - [Access your blog posts](#access-your-blog-posts)
+  - [Blog management tools](#blog-management-tools)
 - [Publish Blog on your website](#publish-blog-on-your-website)
 
 ## Add New Post
@@ -291,8 +293,60 @@ You can edit design of this widget by using Section Properties.
 
 
 
-## Edit Blog
+## Manage current blog posts
 
+### Access your blog posts
+
+You can access any of your blog post as easy as access to page editor.
+
+1. On any current page or blog editor, click on **Site** menu and navigate to **Blog**.
+
+=> น้องวุ่น ตรง page หรือ blog editor, คลิกที่เมนู Site ด้านบน แล้วคลิก Blog เพื่อเปิด post setting 
+
+2. "Post Setting" tool is activated.
+
+   *Recently* part is showing ypur recently added posts
+
+   *Search* is to search your post article
+
+   *Post* part is to show all categories and posts under them.
+
+=> น้องวุ่น ตรง post setting ชี้ให้เห็น 3 ส่วนคือ recently, search, Post
+
+3. You can click directly on post name to open its editor.
+
+=> น้องวุ่น คลิกให้ดูว่าสามารถคลิกตรงชื่อ blog เพื่อเปิด blog editor ได้เลย
+
+
+### Blog management tools
+
+Aside frpom creating new blog posts, you can also manage bog post the same way you manage pages on your website.
+
+1. On any current page or blog editor, click on **Site** menu and navigate to **Blog**.
+
+=> น้องวุ่น ตรง page หรือ blog editor, คลิกที่เมนู Site ด้านบน แล้วคลิก Blog เพื่อเปิด post setting 
+
+2. "Post Setting" tool is activated, click on 3-dot next to post name you want to manage.
+
+=> น้องวุ่น ตรง post setting คลิกตรง 3-dot เพื่อให้ setting  ขึ้นมา
+
+   *Set as home* is to set this post as the first post when readers navigate to your blog
+
+   *Rename* is to rename post article
+
+   *Delete* is to delete this post from your blog website
+
+   *Hide* is to hide this post from being shown on blog website
+
+   *Duplicate* is to duplicate this post and may change its details later
+
+   *SEO* is to add SEO to your blog post for being more reached and found when readers search on search engine. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-seo.md).
+
+   *Meta Tag* is to insert meta tag and meta descritpion. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-meta-tag.md).
+
+   *CSS/JS* is to insert CSS and javascript code to this post. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/css-and-javascript.md).
+
+   *Visibility* is to set to whom your post will be visible to, public, all members, or restricted members. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/page-visibility.md).
 
 
 
