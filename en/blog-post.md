@@ -9,6 +9,8 @@
   - [Access your blog posts](#access-your-blog-posts)
   - [Blog management tools](#blog-management-tools)
 - [Publish Blog on your website](#publish-blog-on-your-website)
+- [Manage your Blog index](#manage-your-blog-index)
+  - [Blog index widget section](#blog-index-widget-section)
 
 ## Add New Post
 
@@ -357,5 +359,29 @@ Just click **Save** button, your blog will be online immediately on the navigati
 ![image](images/website_template/img_publish_website.png)
 
 
+## Manage your Blog index
 
+A main blog page can access by domain.com/blog. This page is a blog dashboard where a visitor can see your all blog post as a thumbnail.
+
+You can moditfy this page by clicking **Site** -> **Blog** tab -> **Blog** page.
+
+![image](images/mainblogpage.png)
+
+### Blog index widget section 
+
+There are 2 widgets section, Category list and Recent Post, allow to add in a blog index. Beside, you are able to adjust a blog list widget to display a thumnails of all posts.
+
+**Blog List Setting**
+
+![image](images/bloglist.png)
+
+1. Title: Insert your Title.
+2. Enable/Disable a total of posts
+3. Limit a number of post which diaplay on the list
+4. Order by: Select Newest, Post Title or Last edit to arrage a list.
+5. Enable/Disable author name on each post.
+6. Enable/Disable post date and time on each post.
+7. Enable/Disable show catagories on each post.
+8. Enable/Disable show a first paragraph on each post.
+9. Continue Reading text is a button to access a post page.
    
