@@ -7,12 +7,17 @@
 
 ## Add Catagories
 
-![image](images/addcategory.png)
 
 On step **Content**, click on **New Post**. You can click **Add Category** to create your own category. Also, you can select the parent category with the 3 maximum levels. 
 
 For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
+=> น้องวุ่น ตรง page หรือ blog editor, คลิก new post แล้วให้ดูตรง category ไม่ต้องยุ่งอะไรกับ post name
+
+
+You can add new catagory when you add new post as well.
+
+=> น้องวุ่น ตรง page หรือ blog editor, คลิก new post แล้วใส่ชือ new post และให้ดูตรง category ว่า add new category ได้เลยทันที
 
 
 ## Manage Categories Index
