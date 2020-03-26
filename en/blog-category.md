@@ -1,6 +1,6 @@
 # Blog Category
 - [Add Catagories](#add-catagories)
-- [Manage Categories Index](#manage-categories-index)
+- [Manage Category Index](#manage-category-index)
   - [Category index widget section](#category-index-widget-section)
 - [Add Blog to Catagory](#add-blog-to-catagory)
 
@@ -20,7 +20,7 @@ You can add new catagory when you add new post as well.
 => น้องวุ่น ตรง page หรือ blog editor, คลิก new post แล้วใส่ชือ new post และให้ดูตรง category ว่า add new category ได้เลยทันที
 
 
-## Manage Categories Index
+## Manage Category Index
 
 Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
 
