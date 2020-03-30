@@ -1,14 +1,26 @@
 # Website Template
 
 
-  - [Create a new site](#createanewsite)
-  - [Customise template](#customisetemplate)
-  - [Change template](#changetemplate)
-  - [Publish](#publish)
+- [Create a new site](#create-a-new-site)
+  - [By cPanel control panel](#by-cpanel-control-panel)
+  - [By your domain name](#by-your-domain-name)
+  - [Select Domain Name](#select-domain-name)
+  - [Select Template](#select-template)
+- [Customise template](#customise-template)
+  - [Edit website banner](#edit-website-banner)
+    - [Hero Banner](#hero-banner)
+    - [Slide Banner](#slide-banner)
+  - [Edit website navigation style](#edit-website-navigation-style)
+    - [Top Menu](#top-menu)
+    - [Menu](#menu)
+  - [Sort Header Positions](#sort-header-positions)
+- [Change template](#change-template)
+  - [Change Hero template to Slide](#change-hero-template-to-slide)
+  - [Change Slide template to Hero](#change-slide-template-to-hero)
+- [Publish](#publish)
 
 
 
-<a name="createanewsite"></a>
 ## Create a new site
 
 ### By cPanel control panel
@@ -64,7 +76,7 @@ Start a ready-to-edit website by selecting one from free beautiful templates fro
 ---------------------------------------------------------------------------------------------------
 
 
-<a name="customisetemplate"></a>
+
 ## Customise template
 
 
@@ -261,7 +273,7 @@ You can reorder Header positions between Banner, Top Menu, and Menu to make your
 
 ---------------------------------------------------------------------------------------------------
 
-<a name="changetemplate"></a>
+
 ## Change template
 
 You may want to change template on your website for seasoning, changing Hero template to Slide or changing Slide template to Hero. It's easy as just click on **Template** tab.
@@ -367,13 +379,14 @@ You can change the Slide Header banner for the entire website at once.
 ![image](images/website_template/img_changetemplate_slide_hero_05_warning.png)
 
 3. Sure to change it, just click **OK**.
+
 ---------------------------------------------------------------------------------------------------
 
 
-<a name="publish"></a>
+
 ## Publish
 
-Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
+Just click **Save** button, your website will online immediately. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
 
 ![image](images/website_template/img_publish_website.png)
 

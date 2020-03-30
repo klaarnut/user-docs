@@ -1,11 +1,10 @@
 # Easy Website SEO
 
--   [Make your website found on google](#make-your-website-found-on-google)
-    -   [Setting Areas](#setting-areas)
-        -   [SEO By page](#seo-by-page)
-        -   [SEO By site](#seo-by-site)
+- [Setting Areas](#setting-areas)
+  - [SEO By page](#seo-by-page)
+  - [SEO By site](#seo-by-site)
 
-## Make your website found on google
+**Make your website found on google**
 
 SEO strategy nowadays is not only to do the meta tag in order to get ranked in google. And as google nowadays has improved its algorithm in website ranking, so it becomes more focus on Page Title or content, related to what popular searched from global searchers.
 
