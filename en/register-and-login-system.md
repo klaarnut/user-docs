@@ -127,7 +127,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
     [image](images/loginSystem2.png)
 
-9. The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
+9.  The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
 
 ![image](images/mkt12.png)
 
@@ -316,17 +316,17 @@ _(You can find Callback URLs in your website editor -> Site -> System Pages -> L
 
 13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
 
-      1) Select LINE tab.
-      2) Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
-      3) Click OK to add these values to your form.
+    1)  Select LINE tab.
+    2)  Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
+    3)  Click OK to add these values to your form.
 
 ![image](images/register_and_login/img_line_login_config_01.png)
 
 <!-- 4) On Login Setting, click "Apply" to apply your setting. -->
-      4) On Login Setting, click open switch button.
-      5) Click "Preview"
-      6) Click "Save" to save all of your setting above.
+    4) On Login Setting, click open switch button.
+    5) Click "Preview"
+    6) Click "Save" to save all of your setting above.
 
 ![image](images/register_and_login/img_line_login_config_02.png)
 
-14. The LINE Login single sign-on is available for your user to login to your website without make a new register.
+14.  The LINE Login single sign-on is available for your user to login to your website without make a new register.
