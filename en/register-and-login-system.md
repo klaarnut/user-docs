@@ -308,7 +308,7 @@ _(You can find Callback URLs in your website editor -> Site -> System Pages -> L
 
 11. The details of **Channel secret** are showing.
 
-![image](images/register_and_login/img_line_login_10.png)
+![image](images/register_and_login/img_line_login_12.png)
 
 12. The details of **Channel ID** are showing.
 
