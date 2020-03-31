@@ -24,7 +24,7 @@ Allow your readers to comment on your blos post by their facebook account. This 
 
 ![image](images/blog_sharing/img_facebook_comment_02_editor.png)
 
-4. Set the widtf of section and number of comments you want them to show on comment section of this post.
+4. Set the width of section and number of comments you want them to show on comment section of this post.
 
 ![image](images/blog_sharing/img_facebook_comment_03_setting.png)
 
