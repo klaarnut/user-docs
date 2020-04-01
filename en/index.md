@@ -24,7 +24,7 @@
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)
     - [Website Meta Tag](website-meta-tag.md)
-    - [Blog SEO](creating-blog.md)
+    - [Blog SEO](blog-seo.md)
 
 - ## ![image](images/icon_email.svg) Website Email
     - [Setting Automation Emails](email-template.md)

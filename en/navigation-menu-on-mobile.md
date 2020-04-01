@@ -25,16 +25,18 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 4. Insert the following code.เพิ่ม Code ด้านล่างนี้ลงไป 
 
-<style> 
+    <style> 
 
-@media only screen and (max-width:1024px) { 
-  .top_login  { display:none; }     
+    @media only screen and (max-width:1024px) { 
+    .top_login  { display:none; }     
 
-   /*class_name*/ 
-} 
+    /*class_name*/ 
+    } 
 
-</style> 
+    </style> 
 
+    
+*Class Names
     class_name
 
     selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
