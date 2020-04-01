@@ -21,15 +21,15 @@ Member is where to manage user and role for website members for both those you a
 
 ## Setting Areas
 
-At the current page editor, click on **Apps**, selct **Member** to open Member management area.
+At the current page editor, click on **Apps**, select **Member** to open Member management area.
 
-![image](images/member1.png)
+![image](images/website_membership/img_member_setting_areas.png)
 
 ## User Management
 
 All website members, you, other website admins, and those customers who registered on your website will be listed here.
 
-![image](images/member3.png)
+![image](images/website_membership/img_user_management_01.png)
 
 ### Edit Current Member
 
@@ -39,7 +39,7 @@ You can edit password, enable the member to login by single sign-on from their s
 1. In the member information page, edit fields you want.
 1. Click **Update** button for saving.
 
-![image](images/member4.png)
+![image](images/website_membership/img_user_management_02_edit.png)
 
 ### Add New Member
 
@@ -47,11 +47,11 @@ You can add anyone as a member to your website. Give them role, and send them th
 
 1. Click on **Add Member**.
 
-![image](images/member5.png)
+![image](images/website_membership/img_user_management_03_click_add_member.png)
 
 2. Add information in all fields.
 
-![image](images/member6.png)
+![image](images/website_membership/img_user_management_04_add_member.png)
 
 **_Role_** You can define role for thie new user as Administrator, Executive, User, or VIP. We will see more details about each role in the next part.
 
@@ -64,7 +64,7 @@ You can add anyone as a member to your website. Give them role, and send them th
 
 3. Click **Create** to confirm adding this user.
 
-![image](images/member5.png)
+![image](images/website_membership/img_user_management_05_create_member.png)
 
 ### Delete Member
 
@@ -72,15 +72,15 @@ Delete member will permanently delete that person from access to your member are
 
 1. Click a name you want to delete from being your website member.
 
-![image](images/member71.png)
+![image](images/website_membership/img_user_management_06_click_delete.png)
 
 2. In user information page, click on **Delete** on the top right corner.
 
-![image](images/member8.png)
+![image](images/website_membership/img_user_management_06_delete_member.png)
 
 3. Confirm.
 
-![image](images/member9.png)
+![image](images/website_membership/img_user_management_07_click_confirm.png)
 
 This user is deleted from member area of your website but still able to visit your website as normal visitor.
 
@@ -90,7 +90,7 @@ Role is the privilege to define to website member. You, as the website starter, 
 
 There are 4 roles you can manage, and more custom role(s) you can create.
 
-![image](images/role1.png)
+![image](images/website_membership/img_role_management_01.png)
 
 ### Backend Role
 
@@ -110,7 +110,7 @@ Role management allows you to create custom role(s) you may need.
 
 1. Click **Create New**
 
-![image](images/role2.png)
+![image](images/website_membership/img_user_management_06_delete_member.png)
 
 2. Give this Role a name.
 
@@ -118,4 +118,4 @@ Role management allows you to create custom role(s) you may need.
 
 4. Click **Create**.
 
-![image](images/role3.png)
+![image](images/website_membership/img_user_management_07_click_confirm.png)

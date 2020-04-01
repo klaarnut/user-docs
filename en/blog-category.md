@@ -1,8 +1,9 @@
 # Blog Category
-- [Add Catagories](#add-catagories)
-- [Manage Category Index](#manage-category-index)
-  - [Category index widget section](#category-index-widget-section)
-- [Add Blog to Catagory](#add-blog-to-catagory)
+- [Blog Category](#blog-category)
+  - [Add Catagories](#add-catagories)
+  - [Manage Category Index](#manage-category-index)
+    - [Category index widget section](#category-index-widget-section)
+  - [Add Blog to Catagory](#add-blog-to-catagory)
 
 
 ## Add Catagories
@@ -12,19 +13,17 @@ On step **Content**, click on **New Post**. You can click **Add Category** to cr
 
 For example: If we add "Cats" category and select parent category to "Animals", a "Cats" category will be under the "Animals" folder.
 
-=> น้องวุ่น ตรง page หรือ blog editor, คลิก new post แล้วให้ดูตรง category ไม่ต้องยุ่งอะไรกับ post name
-
+![image](images/blog_category/img_add_catagories_01.png)
 
 You can add new catagory when you add new post as well.
 
-=> น้องวุ่น ตรง page หรือ blog editor, คลิก new post แล้วใส่ชือ new post และให้ดูตรง category ว่า add new category ได้เลยทันที
-
+![image](images/blog_category/img_add_catagories_02.png)
 
 ## Manage Category Index
 
 Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
 
-![image](images/catepage.png)
+!![image](images/blog_category/img_add_catagories_03.png)
 
 
 ### Category index widget section 
@@ -33,7 +32,7 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 
 **By Category List Setting**
 
-![image](images/bycatesetting.png)
+!![image](images/blog_category/img_add_catagories_04.png)
 
 1. Enable/Disable Category Name
 2. Enable/Disable Total Number of Posts
@@ -47,7 +46,6 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 
 ## Add Blog to Catagory
 
-![image](images/addpost.png)
+!![image](images/blog_category/img_add_catagories_05.png)
 
 Fills your blog name and select catagory which you want to add in.
-

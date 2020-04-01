@@ -1,8 +1,9 @@
 # Add facebook widget on your blog
 
-- [Add facebook comment](#add-facebook-comment)
-- [Add facebook Like and Share buttons](#add-facebook-like-and-share-buttons)
-- [Add facebook page](#add-facebook-page)
+- [Add facebook widget on your blog](#add-facebook-widget-on-your-blog)
+  - [Add facebook comment](#add-facebook-comment)
+  - [Add facebook Like and Share buttons](#add-facebook-like-and-share-buttons)
+  - [Add facebook page](#add-facebook-page)
 
 Your blog posts need more attention and are deserved to have your readers spread it. You can use facebook comment, Like, Share button, and facebook page widgets to make this mission completed.
 
@@ -13,23 +14,23 @@ Allow your readers to comment on your blos post by their facebook account. This 
 
 1. On blog editor (and website pages as well), click Section.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิก section เมนูซ้ายมือ
+![image](images/blog_sharing/img_blog_sharing.png)
 
 2. On **Social** category, select "Facebook comment" section, drag and drop to position you want.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor ตรงเมู  section แสดงให้เห็น Social แล้ลาก facebook comment มาใส่ตรง blog
+![image](images/blog_sharing/img_facebook_comment_01_section.png)
  
 3. Place mouse of the "Facebook comment" widget to activate the editor. And click on "Facebook Comment Editor"
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิกตรง facebook comment ที่ลากมา เพื่อเปิดตัว editor
+![image](images/blog_sharing/img_facebook_comment_02_editor.png)
 
-4. Set the widtf of section and number of comments you want them to show on comment section of this post.
+4. Set the width of section and number of comments you want them to show on comment section of this post.
 
-=> น้องวุ่นหน้า blog editor คลิกตรง facebook comment editor วามีอะไรให้ใส่บา้ง
+![image](images/blog_sharing/img_facebook_comment_03_setting.png)
 
 5. Click Save on blog editor.
 
-=> น้องวุ่นหน้าแสดงรูปการ คลิก Save ขวาบน
+![image](images/blog_sharing/img_facebook_comment_04_save.png)
 
 
 ## Add facebook Like and Share buttons
@@ -38,23 +39,23 @@ Have your blog post spreaded by your readers. This good and interesting post of 
 
 1. On Post editor (and website pages as well) , select the position to place the Share button and click Section.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิก section เมนูซ้ายมือ
+![image](images/blog_sharing/img_blog_sharing.png)
 
 2. Select "Social Like and Share" section from Social Section, drag and drop to position you want.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor ตรงเมู  section แสดงให้เห็น Social แล้ลาก facebook like and share มาใส่ตรง blog
+![image](images/blog_sharing/img_like_and_share_01_section.png)
 
 3. Place mouse of the "Social Like and Share" widget to activate the editor. And click on "Facebook Like Editor"
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิกตรง facebook comment ที่ลากมา เพื่อเปิดตัว editor
+![image](images/blog_sharing/img_like_and_share_02_editor.png)
 
 4. Set for enable both or only one button you want. And Save
 
-=> น้องวุ่นหน้า blog editor คลิกตรง facebook like and share editor ว่าสามารถเปิดทั้ง 2 อัน หรืออันเดีัยวก็ได้
+![image](images/blog_sharing/img_like_and_share_03_setting.png)
 
 5. Click Save on blog editor.
 
-=> น้องวุ่นหน้าแสดงรูปการ คลิก Save ขวาบน
+![image](images/blog_sharing/img_like_and_share_04_save.png)
 
 6. Have the ton of shares!
 
@@ -65,20 +66,20 @@ You can add your facebook on your blog post to reach more people, and to have mo
 
 1. On Post editor (and website pages as well) , select the position to place the Share button and click Section.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิก section เมนูซ้ายมือ
+![image](images/blog_sharing/img_blog_sharing.png)
 
 2. Select one of "Facebook Page" sections from Social Section, drag and drop to position you want.
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor ตรงเมู  section แสดงให้เห็น Social ให้ดูว่ามี facebook page ให้เลือกหลายแบบ เลือก 1อัน มาใส่ตรง blog
+![image](images/blog_sharing/img_facebook_page_01_section.png)
 
 3. Place mouse of the "Facebook Page" widget to activate the editor. And click on "Facebook Page Editor"
 
-=> น้องวุ่นแสดงรูปภาพหน้า blog editor คลิกตรง facebook page widget เพื่อเปิดตัว editor
+![image](images/blog_sharing/img_facebook_page_02_editor.png)
 
 4. Add your facebook page URL, and set its appearance as you want. And Save
 
-=> น้องวุ่นหน้า blog editor คลิกตรง facebook page ว่ามีอะไรให้ใส่บ้าง
+![image](images/blog_sharing/img_facebook_page_03_setting.png)
 
 5. Click Save on blog editor.
 
-=> น้องวุ่นหน้าแสดงรูปการ คลิก Save ขวาบน
+![image](images/blog_sharing/img_facebook_page_04_save.png)

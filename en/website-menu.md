@@ -44,7 +44,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 6. Close Menu Setting window, and Save it on Content edior page.
 
- ![image](images/website_menu/Menu_05_02_save_add_menu.png)
+![image](images/website_menu/Menu_05_02_save_add_menu.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -61,13 +61,11 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 2. The "Menu Setting" panel appears, click on Menu you want to rename on the navigation. Then Rename it.
 
-
 ![image](images/website_menu/Menu_07_click_rename_menu.png)
 
 3. Close Menu Setting window, and Save it on Content edior page.
 
 ![image](images/website_menu/Menu_08_save_rename_menu.png)
- 
 
  ---------------------------------------------------------------------------------------------------
 
@@ -87,5 +85,5 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 3. Close Menu Setting window, and Save it on Content edior page.
 
- ![image](images/website_menu/Menu_11_save_add_sub_menu.png)
+![image](images/website_menu/Menu_11_save_add_sub_menu.png)
 
