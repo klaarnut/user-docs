@@ -1,8 +1,11 @@
 # Easy Blog SEO
 
-- [Setting Areas](#setting-areas)
-  - [SEO By post](#seo-by-post)
-  - [SEO By entire blog](#seo-by-entire-blog)
+- [Easy Blog SEO](#easy-blog-seo)
+  - [Setting Areas](#setting-areas)
+    - [SEO By post](#seo-by-post)
+    - [SEO By entire blog](#seo-by-entire-blog)
+      - [Setting SEO by blog](#setting-seo-by-blog)
+      - [Blog Management](#blog-management)
 
 **Make your blog found on google**
 
@@ -20,16 +23,14 @@ It means to set SEO for an individual post.
 
 A. 3-dot next to current post name you're editing
 
-=> น้องวุ่นเปลี่ยนรูปข้างล่างเป็นการคลิกจาก post นะคะ (ในรูปคือ page)
-![image](images/website_seo/img_seo_01_setting_3_dot.png)
+![image](images/blog_seo/img_seo_by_post_01.png)
 
 
 B. Site -> Blog icon -> post name
 
 1. Click 3-dot after post names
 
-=> น้องวุ่นเปลี่ยนรูปข้างล่างเป็นการคลิกจาก post นะคะ และเพิ่มให้เห็นด้วยวาต้องคลิกตรง blog ทางขวามือนั่นก่อน ลแ้วคลิก 3-dot ของชื่อ post อันนึง
-![image](images/website_seo/img_seo_03_setting_3_dot_on_site.png)
+![image](images/blog_seo/img_seo_by_post_02.png)
 
 
 2. Once **SEO** clicked, you will be at Blog Management panel which is for the current post you're on.
