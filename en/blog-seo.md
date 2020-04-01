@@ -39,10 +39,9 @@ Slide the slide-button to right to custom post's title and description to be mor
 
 You will see the *Auto title and description* are the automated as default.
 
-=> น้องวุ่นเปลี่ยนรูปข้างล่างเป็นของ blog จ้ะ ทำเป็น รูปเดรยว หรือ 2 ก็ได้ ตามสะดวก มีแยกอธิบายด้านล่าง
-![image](images/website_seo/img_seo_04_site_config.png)
+![image](images/blog_seo/img_seo_by_post_03_setting_01.png)
 
-![image](images/website_seo/img_seo_05_auto_title_and_description.png)
+![image](images/blog_seo/img_seo_by_post_04_setting_02.png)
 
 -   **Post title** : You can edit post's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 -   **Site brand** : It is inherrited from Site brand you defined as your company.
@@ -60,10 +59,7 @@ This means to set SEO that will be effect for the entire blog. You can edit on a
 
 1. At Site -> Blog icon -> Blog -> 3-dot after Blog
 
-=> น้องวุ่นเปลี่ยนรูปข้างล่างเป็นการคลิกจาก Blog นะคะ และเพิ่มให้เห็นด้วยวาต้องคลิกตรง Blog หลักทางขวามือนั่นก่อน ลแ้วคลิก 3-dot จาก Blog หลัก
-
-![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
-
+![image](images/blog_seo/img_seo_by_blog_01.png)
 
 2. Once **SEO** clicked, you will be at Blog Management panel which is for the current your blog.
 
@@ -71,10 +67,9 @@ Slide the slide-button to right to custom the title and description to be more e
 
 You will see the *Auto title and description* are the automated as default.
 
-=> น้องวุ่นเปลี่ยนรูปข้างล่างเป็นของ blog จ้ะ ทำเป็น รูปเดรยว หรือ 2 ก็ได้ ตามสะดวก มีแยกอธิบายด้านล่าง
-![image](images/website_seo/img_seo_04_site_config.png)
+![image](images/blog_seo/img_seo_by_post_03_setting_01.png)
 
-![image](images/website_seo/img_seo_05_auto_title_and_description.png)
+![image](images/blog_seo/img_seo_by_post_04_setting_02.png)
 
 -   **Blog title** : You can edit blog title to be more search key than blog name such as changing Blog to Travel Blog.
 -   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/**blog** to https://rvsitebuilder.com/**travelblog**
@@ -87,14 +82,16 @@ _Tips: Description for your blog should be short effective and quick understanda
 
 Blog Management is set base url for blog post and category.
 
-=> น้องวุ่นแสดงรูป blog management panel ค่ะ
+![image](images/blog_seo/img_seo_by_blog_02_click_management.png)
+
+![image](images/blog_seo/img_seo_by_blog_03_management.png)
 
 Base url setting is how URLs for your posts and cetegories will show that you can add more on it.
 
 
 **Default URL** is what you can see on blog post and category when it's opened.
 
-=> น้องวุ่นแสดงรูป blog management panel คให้เห็นตรง default
+![image](images/blog_seo/img_seo_by_blog_04_default.png)
 
 Sample of Post: https://domain.com/blog/category/categoryname/postname 
 
@@ -108,7 +105,7 @@ It's : https://domain.com/blog/category/general (general is default blog genetal
 
 **Custom URL** is what you can add more from deafult.
 
-=> น้องวุ่นแสดงรูป blog management panel คให้เห็นตรง custom ลองใส่ค่าเป็นตัวอย่าง เอาตามที่พี่เขียนตัวอยา่งก็ได้ user จะได้เห็นภาพ
+![image](images/blog_seo/img_seo_by_blog_05_custom.png)
 
 Sample of Post: [ %BLOG_NAME%/%CATEGORY_NAME%/ ]%POST_NAME%
 
