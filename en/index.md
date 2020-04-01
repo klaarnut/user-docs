@@ -40,6 +40,7 @@
 
 - ## ![image](images/icon_advanced.svg) Advanced
     - [CSS and Javascript Manaul Add](css-and-javascript.md)
+    - [Navigation and Menu on Mobile](navigation-menu-on-mobile.md)
 
 - ## ![image](images/icon_management.svg) Website Management
     - [Backing up Website](backup-website.md)
