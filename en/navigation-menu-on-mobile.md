@@ -125,7 +125,7 @@ YOu can change it ligher for more visible menus.
 
 4. Insert the following code. 
 
-...php
+
 
 <style> 
 
@@ -144,11 +144,11 @@ html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover {
 } 
 
 </style> 
-...
+
 
 => น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
-5. Save this on Site Config panel.
+1. Save this on Site Config panel.
 
 => น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
