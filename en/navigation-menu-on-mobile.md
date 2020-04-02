@@ -1,8 +1,9 @@
 # Navigation and Menu on Mobile
 
-- [Hide Register and Login menus on mobile mode](#hide-register-and-login-menus-on-mobile-mode)
-- [Change Font color on Top menu for dark tone background color](#change-font-color-on-top-menu-for-dark-tone-background-color)
-- [Change background color for Hamburger menu on mobile mode](#change-background-color-for-hamburger-menu-on-mobile-mode)
+- [Navigation and Menu on Mobile](#navigation-and-menu-on-mobile)
+  - [Hide Register and Login menus on mobile mode](#hide-register-and-login-menus-on-mobile-mode)
+  - [Change Font color on Top menu for dark tone background color](#change-font-color-on-top-menu-for-dark-tone-background-color)
+  - [Change background color for Hamburger menu on mobile mode](#change-background-color-for-hamburger-menu-on-mobile-mode)
 
 Once you built your website perfectly in both content and design, you may want to make it a little different between opening your website on computer screen and mobile. 
 
@@ -13,15 +14,15 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-=> น้องวุ่นดูรูปของพี่จะได้เลย เอาภาพให้เห็น่าอยู่บน content editor ด้วยจ้ะนะ (พี่รวม 1-3 ของพี่จะมาไว้ข้อเดียว๗ )
+![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-=> น้องวุ่นดูรูปของพี่จะข้อ 4 ได้เลย พร้อม คลิกเมนู CMS ซ้่ายมือ
+![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-=> น้องวุ่นดูรูปของพี่จะข้อ 4 เพิ่ม focus ตรง CSS/JS
+![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
@@ -47,20 +48,20 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 > 
 > poweredFooter {display:none;}  /*   to hide Powered Section */ 
     
-=> น้องวุ่นดูรูปของพี่จะข้อ 4 เพิ่ม ใส่ code แบบที่พี่จะทพตัวอย่างเลย
+![image](images/navigation_menu_on_mobile/img_hide_login_04.png)
 
 
-1. Save this on Site Config panel.
+5. Save this on Site Config panel.
 
-=> น้องวุ่น ปแสดงปุ่ม save ของ panel site config
+![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
 
 6. Don't forget to Save by the main save button.
 
-=> น้องวุ่นการ save บน content editor หลัก
+![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
 
 7. You will get like this.
 
-=> น้องวุ่นดูรูปของพี่จะข้อ 8
+![image](images/navigation_menu_on_mobile/img_hide_login_08.png)
 
 
 ------------------------------------------------------------------------------------------------
@@ -72,41 +73,41 @@ If you change background color for **Top Menu** and it'squite dark that the menu
  
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 2 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 3 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
     ```css 
     <style>
 
-    nav#topmenu a { color: #a9a9a9 !important; } 
+    nav#topmenu a { color: #f15a29 !important; } 
 
     </style>
 
     ```
 
 
-=> น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
+![image](images/navigation_menu_on_mobile/img_change_font_color_01.png)
 
 5. Save this on Site Config panel.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
 
 6. Don't forget to Save by the main save button.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
 
 7. You will get like this.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_change_font_color_02.png)
 
  
 ------------------------------------------------------------------------------------------------
@@ -120,15 +121,15 @@ YOu can change it ligher for more visible menus.
 
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 2 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 3 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
@@ -154,19 +155,19 @@ YOu can change it ligher for more visible menus.
     </style> 
     ```
 
-=> น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
+![image](images/navigation_menu_on_mobile/img_change_background_color_01.png)
 
-1. Save this on Site Config panel.
+5. Save this on Site Config panel.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
 
 6. Don't forget to Save by the main save button.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
-=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+![image](images/navigation_menu_on_mobile/img_change_background_color_02.png)
  
 
  
