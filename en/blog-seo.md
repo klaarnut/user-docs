@@ -42,10 +42,7 @@ You will see the *Auto title and description* are the automated as default.
 
 -   **Post title** : You can edit post's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
 -   **Site brand** : It is inherrited from Site brand you defined as your company.
--   **Post's url** : You can edit url of this post to be more search key than the normal such as changing
--   https://rvsitebuilder.com/blog/category/general/post
--   to
--   https://rvsitebuilder.com/blog/category/general/mypost
+-   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog/category/general/post to https://rvsitebuilder.com/blog/category/general/mypost
 -   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
 _Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations._
@@ -72,10 +69,10 @@ You will see the *Auto title and description* are the automated as default.
 ![image](images/blog_seo/img_seo_by_blog_01_03.png)
 
 -   **Blog title** : You can edit blog title to be more search key than blog name such as changing Blog to Travel Blog.
--   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/**blog** to https://rvsitebuilder.com/**travelblog**
+-   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog to https://rvsitebuilder.com/travelblog
 -   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
-_Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations._
+_Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
 
 
 #### Blog Management
@@ -109,13 +106,13 @@ It's : https://domain.com/blog/category/general (general is default blog genetal
 
 Sample of Post: [ %BLOG_NAME%/%CATEGORY_NAME%/ ]%POST_NAME%
 
-You may custom to : [ %BLOG_NAME%/%CATEGORY_NAME%/*inblog* ]%POST_NAME%
+You may custom to : [ %BLOG_NAME%/%CATEGORY_NAME%/inblog ]%POST_NAME%
 
-It will be: https://domain.com/blog/category/general/**inblog**/mypost/
+It will be: https://domain.com/blog/category/general/inblog/mypost/
 
 
 Sameple of Category : [ %BLOG_NAME%/ ]%CATEGORY_NAME%
 
-You may custom to : [ %BLOG_NAME%/*newin* ]%CATEGORY_NAME%
+You may custom to : [ %BLOG_NAME%/newin ]%CATEGORY_NAME%
 
-It will be: https://domain.com/blog/**newin**/general/
+It will be: https://domain.com/blog/newin/general/
