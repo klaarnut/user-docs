@@ -36,20 +36,18 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
     </style> 
 
     
-*Class Names
-
-    class_name
-
-    selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
-
-    sitemapFooter {display:none;}   /*  to hide Sitemap Footer Section  */ 
-
-    poweredFooter {display:none;}  /*   to hide Powered Section */ 
+> class_name
+> 
+> selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
+> 
+> sitemapFooter {display:none;}   /*  to hide Sitemap Footer Section  */ 
+> 
+> poweredFooter {display:none;}  /*   to hide Powered Section */ 
     
 => น้องวุ่นดูรูปของพี่จะข้อ 4 เพิ่ม ใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
 
-5. Save this on Site Config panel.
+1. Save this on Site Config panel.
 
 => น้องวุ่น ปแสดงปุ่ม save ของ panel site config
 
@@ -127,6 +125,7 @@ YOu can change it ligher for more visible menus.
 
 4. Insert the following code. 
 
+...php
 
 <style> 
 
@@ -145,6 +144,7 @@ html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover {
 } 
 
 </style> 
+...
 
 => น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
