@@ -45,7 +45,7 @@ You will see the *Auto title and description* are the automated as default.
 -   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog/category/general/post to https://rvsitebuilder.com/blog/category/general/mypost
 -   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
-_Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations._
+ *Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.*
 
 ### SEO By entire blog
 
@@ -72,7 +72,7 @@ You will see the *Auto title and description* are the automated as default.
 -   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog to https://rvsitebuilder.com/travelblog
 -   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
-_Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.
+  *Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.*
 
 
 #### Blog Management
