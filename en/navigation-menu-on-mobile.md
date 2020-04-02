@@ -117,7 +117,7 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
 The default background color for hamburger menu on device screens smalller than 1024px will be grey, such as on tablet and mobile.
 
-YOu can change it ligher for more visible menus.
+You can change it ligher for more visible menus.
 
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
