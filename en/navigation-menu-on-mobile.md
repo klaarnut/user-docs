@@ -139,15 +139,15 @@ YOu can change it ligher for more visible menus.
 
     @media only screen and (max-width:1024px) { 
 
-    .uk-navbar {background-color: #501a00; color: #fff;}  /* background Logo Section */ 
+        .uk-navbar {background-color: #501a00; color: #fff;}  /* background Logo Section */ 
 
-    .uk-offcanvas-bar { background: #501a00;} 
+        .uk-offcanvas-bar { background: #501a00;} 
 
-    html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover { 
+        html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover { 
 
-                    background: #00000030; color: #ffffff; 
+            background: #00000030; color: #ffffff; 
 
-    } 
+        } 
 
     } 
 
