@@ -67,9 +67,9 @@ Slide the slide-button to right to custom the title and description to be more e
 
 You will see the *Auto title and description* are the automated as default.
 
-![image](images/blog_seo/img_seo_by_post_03_setting_01.png)
+![image](images/blog_seo/img_seo_by_blog_01_02.png)
 
-![image](images/blog_seo/img_seo_by_post_04_setting_02.png)
+![image](images/blog_seo/img_seo_by_blog_01_03.png)
 
 -   **Blog title** : You can edit blog title to be more search key than blog name such as changing Blog to Travel Blog.
 -   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/**blog** to https://rvsitebuilder.com/**travelblog**
