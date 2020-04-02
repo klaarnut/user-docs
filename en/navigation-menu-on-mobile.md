@@ -1,8 +1,8 @@
 # Navigation and Menu on Mobile
 
 - [Hide Register and Login menus on mobile mode](#hide-register-and-login-menus-on-mobile-mode)
-- [หัวข้อ2: บน Topmenu เมื่อเปลี่ยน Background Color เป็นสีเข้ม (Edit Section)  ต้องการเปลี่ยนสี Font ให้ชัดขึ้น](#หัวข้อ2-บน-topmenu-เมื่อเปลี่ยน-background-color-เป็นสีเข้ม-edit-section-ต้องการเปลี่ยนสี-font-ให้ชัดขึ้น)
-- [หัวข้อ3: ต้องการเปลี่ยนสี  Background Color ของ Hamberger menu เมื่อแสดงที่หน้าจอมือถือ (เดิมเป็นสีดำ)](#หัวข้อ3-ต้องการเปลี่ยนสี-background-color-ของ-hamberger-menu-เมื่อแสดงที่หน้าจอมือถือ-เดิมเป็นสีดำ)
+- [Change Font color on Top menu for dark tone background color](#change-font-color-on-top-menu-for-dark-tone-background-color)
+- [Change background color for Hamburger menu on mobile mode](#change-background-color-for-hamburger-menu-on-mobile-mode)
 
 Once you built your website perfectly in both content and design, you may want to make it a little different between opening your website on computer screen and mobile. 
 
@@ -23,7 +23,7 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 => น้องวุ่นดูรูปของพี่จะข้อ 4 เพิ่ม focus ตรง CSS/JS
 
-4. Insert the following code.เพิ่ม Code ด้านล่างนี้ลงไป 
+4. Insert the following code. 
 
     <style> 
 
@@ -37,6 +37,7 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
     
 *Class Names
+
     class_name
 
     selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
@@ -64,23 +65,23 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 ------------------------------------------------------------------------------------------------
 
 
-## หัวข้อ2: บน Topmenu เมื่อเปลี่ยน Background Color เป็นสีเข้ม (Edit Section)  ต้องการเปลี่ยนสี Font ให้ชัดขึ้น 
+## Change Font color on Top menu for dark tone background color 
 
+If you change background color for **Top Menu** and it'squite dark that the menu names are sunk in. You can make it more visible by editing CSS/JS.
  
+1. On Content editor, click on 3-dot and select "CSS/JS"
+   
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
-1. เข้าโปรแกรม RVsitebuilder  
+2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-2. เมนู Content 
+=> น้องวุ่นใช้รูปเดียวกับข้อ 2 ข้างบน
 
-3. คลิกปุ่ม Option (Three Dot) >> เลือก CSS/JS 
+3. On Site Management, select **CSS/JS** tab. 
 
-4. บน Dialog : Site Config >> เลือก Site Tab  
+=> น้องวุ่นใช้รูปเดียวกับข้อ 3 ข้างบน
 
-5. ใน List Menu เลือก CMS (ด้านซ้าย) 
-
-6. ที่ Site Management >> เลือก CSS/JS 
-
-เพิ่ม Code ด้านล่างนี้ลงไป  
+4. Insert the following code. 
 
 <style> 
 
@@ -88,35 +89,44 @@ nav#topmenu a { color: #a9a9a9 !important; }
 
 </style> 
 
-กด Save บน Dialog 
+=> น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
-7.กด Save บน Program 
+5. Save this on Site Config panel.
 
-8.กด Mysite 
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
- 
+6. Don't forget to Save by the main save button.
 
-## หัวข้อ3: ต้องการเปลี่ยนสี  Background Color ของ Hamberger menu เมื่อแสดงที่หน้าจอมือถือ (เดิมเป็นสีดำ) 
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
-เฉพาะหน้าจอตำ่กว่า 1024px  เช่น Mobile, Tablet  
+7. You will get like this.
 
-               
-
-1. เข้าโปรแกรม RVsitebuilder  
-
-2. เมนู Content 
-
-3. คลิกปุ่ม Option (Three Dot) >> เลือก CSS/JS 
-
-4. บน Dialog : Site Config >> เลือก Site Tab  
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
  
+------------------------------------------------------------------------------------------------
 
-5. ใน List Menu เลือก CMS (ด้านซ้าย) 
 
-6. ที่ Site Management >> เลือกแท็บ CSS/JS 
+## Change background color for Hamburger menu on mobile mode
 
-เพิ่ม Code ด้านล่างนี้ลงไป 
+The default background color for hamburger menu on device screens smalller than 1024px will be grey, such as on tablet and mobile.
+
+YOu can change it ligher for more visible menus.
+
+1. On Content editor, click on 3-dot and select "CSS/JS"
+   
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+
+2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
+
+=> น้องวุ่นใช้รูปเดียวกับข้อ 2 ข้างบน
+
+3. On Site Management, select **CSS/JS** tab. 
+
+=> น้องวุ่นใช้รูปเดียวกับข้อ 3 ข้างบน
+
+4. Insert the following code. 
+
 
 <style> 
 
@@ -136,14 +146,19 @@ html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover {
 
 </style> 
 
- 
+=> น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
-กด Save บน Dialog 
+5. Save this on Site Config panel.
 
-7.กด Save บน Program 
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
 
-8.กด Mysite 
+6. Don't forget to Save by the main save button.
 
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
+
+7. You will get like this.
+
+=> น้องวุ่นใช้รูปเดียวกับข้อ 1 ข้างบน
  
 
  
