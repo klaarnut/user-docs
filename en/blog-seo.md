@@ -77,7 +77,7 @@ You will see the *Auto title and description* are the automated as default.
 
 #### Blog Management
 
-Blog Management is set base url for blog post and category.
+Blog Management is to set base url for blog post and category.
 
 ![image](images/blog_seo/img_seo_by_blog_02_click_management.png)
 
