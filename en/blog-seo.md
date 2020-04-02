@@ -97,7 +97,7 @@ It's : https://domain.com/blog/category/general/post
 
 Sample of Category : https://domain.com/blog/category/categoryname
 
-It's : https://domain.com/blog/category/general (general is default blog genetal)
+It's : https://domain.com/blog/category/general (general is default blog category)
 
 
 **Custom URL** is what you can add more from deafult.
