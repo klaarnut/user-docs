@@ -57,11 +57,11 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 6. Don't forget to Save by the main save button.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
+![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_08.png)
+![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
 
 
 ------------------------------------------------------------------------------------------------
