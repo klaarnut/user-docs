@@ -129,6 +129,7 @@ YOu can change it ligher for more visible menus.
 
 
 ```css 
+<style>
 
 @media only screen and (max-width:1024px) { 
 
