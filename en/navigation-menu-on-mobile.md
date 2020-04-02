@@ -103,7 +103,7 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
 6. Don't forget to Save by the main save button.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
+![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
