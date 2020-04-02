@@ -25,7 +25,7 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 4. Insert the following code. 
 
-    <style> 
+    ```css 
 
     @media only screen and (max-width:1024px) { 
     .top_login  { display:none; }     
@@ -33,7 +33,7 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
     /*class_name*/ 
     } 
 
-    </style> 
+    ```
 
     
 > class_name
@@ -81,11 +81,12 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
 4. Insert the following code. 
 
-<style> 
+```css 
 
 nav#topmenu a { color: #a9a9a9 !important; } 
 
-</style> 
+```
+
 
 => น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
@@ -127,7 +128,7 @@ YOu can change it ligher for more visible menus.
 
 
 
-<style> 
+```css 
 
 @media only screen and (max-width:1024px) { 
 
@@ -144,7 +145,7 @@ html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover {
 } 
 
 </style> 
-
+```
 
 => น้องวุ่นใส่ code แบบที่พี่จะทพตัวอย่างเลย
 
