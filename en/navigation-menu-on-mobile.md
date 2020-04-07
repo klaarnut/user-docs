@@ -99,7 +99,7 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
 5. Save this on Site Config panel.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
+![image](images/navigation_menu_on_mobile/img_change_font_color_02.png)
 
 6. Don't forget to Save by the main save button.
 
@@ -107,7 +107,7 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_change_font_color_02.png)
+![image](images/navigation_menu_on_mobile/img_change_font_color_03.png)
 
  
 ------------------------------------------------------------------------------------------------
@@ -159,7 +159,7 @@ You can change it ligher for more visible menus.
 
 5. Save this on Site Config panel.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
+![image](images/navigation_menu_on_mobile/img_change_background_color_02.png)
 
 6. Don't forget to Save by the main save button.
 
@@ -167,7 +167,4 @@ You can change it ligher for more visible menus.
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_change_background_color_02.png)
- 
-
- 
+![image](images/navigation_menu_on_mobile/img_change_background_color_03.png)
