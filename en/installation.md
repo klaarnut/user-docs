@@ -24,7 +24,7 @@ For other control panel systems or non-control panel domain name, you can simply
     download.rvglobalsoft.com  
     Files.mirror1.rvsitebuilder.com
 
- 3. Create a database, perform the following steps to create the MySQL database.
+3. Create a database, perform the following steps to create the MySQL database.
     1. Click icon to create MySQL® databases.
         ![image](images/create_database/create-db-step1.png)
 
@@ -37,7 +37,7 @@ For other control panel systems or non-control panel domain name, you can simply
     4. The new database appears in the Current Databases table.
         ![image](images/create_database/create-db-step4.png) 
 
-       After you create a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:
+- After you create a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:
 
     1. Enter a username in the Username text box.
     2. Enter and confirm the new password in the appropriate text boxes.
@@ -53,26 +53,26 @@ For other control panel systems or non-control panel domain name, you can simply
     2. Select the checkboxes that correspond to the privileges that you wish to grant to the user.  Click Make Changes. And click Go back to return to the main interface.
         ![image](images/create_database/create-db-step8.png)  
 
-1. Download RVsitebuilder Setup wizard
-      1. Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer.
-      2. Unzip the setup file
-      3. Upload Folder rvsitebuilder to /public_html/ or /publc/ or /www/ 
+4. Download RVsitebuilder Setup wizard
+    1. Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer.
+    2. Unzip the setup file
+    3. Upload Folder rvsitebuilder to /public_html/ or /publc/ or /www/ 
    
-2. Install RVsitebuilder directly on your domain name.
+5. Install RVsitebuilder directly on your domain name.
   
     1. Call the setup.php script for your domain name on browser http://mydomainname.com/rvsitebuilder/setup.php
     ![image](images/install_nocp/Install-nocp-step1.png)
 
-    2. Database and FTP setup 
+    1. Database and FTP setup 
     ![image](images/install_nocp/Install-nocp-step2.png)
 
-    3. website properties setup
+    1. website properties setup
     ![image](images/install_nocp/Install-nocp-step3.png)
 
-    4. Accept agreement and install.
+    1. Accept agreement and install.
     ![image](images/install_nocp/Install-nocp-step4-1.png) 
     ![image](images/install_nocp/Install-nocp-step4-2.png)
  
-3. Once the installation is completed.
+6. Once the installation is completed.
    RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!
     ![image](images/install_nocp/Install-nocp-step-login.png)
