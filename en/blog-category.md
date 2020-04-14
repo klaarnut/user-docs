@@ -23,8 +23,7 @@ You can add new catagory when you add new post as well.
 
 Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select Catagory. 
 
-!![image](images/blog_category/img_add_catagories_03.png)
-
+![image](images/blog_category/img_add_catagories_03.png)
 
 ### Category index widget section 
 
@@ -32,7 +31,7 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 
 **By Category List Setting**
 
-!![image](images/blog_category/img_add_catagories_04.png)
+![image](images/blog_category/img_add_catagories_04.png)
 
 1. Enable/Disable Category Name
 2. Enable/Disable Total Number of Posts
@@ -43,9 +42,8 @@ Also, you can modify a catagories page. Clicking **Site** -> **Blog** -> Select 
 7. Enable/Disable post's category on each post.
 8. Continue Reading text is a button to access a post page.
 
-
 ## Add Blog to Catagory
 
-!![image](images/blog_category/img_add_catagories_05.png)
+![image](images/blog_category/img_add_catagories_05.png)
 
 Fills your blog name and select catagory which you want to add in.
