@@ -22,7 +22,7 @@
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
-![image](images/admintopbar.png)
+![image](images/create_database/create-db-step1.png)
 
 From left to right
 
