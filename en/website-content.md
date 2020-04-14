@@ -57,7 +57,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 
 2. The "Add Page" panel appears;
-
+   
    1) Page Name : Insert any name for this new page.
    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
    3) Save : To add this page.
@@ -65,12 +65,12 @@ At Content tab, you will always be at the new added page or the latest one you e
 ![image](images/website_content/img_add_page_02_panel_appears.png)
 
     
-      - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
+   - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
 ![image](images/website_content/img_add_page_03_show_on_menu.png)
 
 
-      - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
+   - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
 
 ![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
@@ -225,6 +225,7 @@ Select font family from the drop-down list and you can use **our new feature to 
 
     Tips: You can add a miximum 5 font families.
 
+
 **Font Style**
 
 Font style creates the basic text structure, helping you organize thoughts on a page. You can apply style to text while you’re editing or adding it. Selecting 11 stlyes on the drop-down list to control the typography (font design), giving the words personality and flare.
@@ -338,8 +339,6 @@ Content section is the main content area you can easily see section by section i
 2. Click **Edit Section** icon, and the **Section Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
 
    - **Background**
-   
-![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
       *Fluid (full screen)*: Enable or disable a full screen section.
 
@@ -348,6 +347,8 @@ Content section is the main content area you can easily see section by section i
       *Background Image*: You can upload your own image or select one from Image Manager.
 
       *Reponsive Image Position*: Image alignment on responsive mode.
+   
+![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
    - **Shadow**
 
@@ -414,13 +415,13 @@ Content block is sub content areas *inside content section* that you can see the
 
    - **Background**
    
-![image](images/website_template/img_customise_template_02_section_properties_bg.png)
-
       *Background Color* : Select background color by using color picker or choosing from a gradient color.
 
       *Background Image*: You can upload your own image or select one from Image Manager.
 
       *Reponsive Image Position*: Image alignment on responsive mode.
+
+![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
    - **Shadow**
 
@@ -495,6 +496,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 
 - **As section**
+
   
 1. Place mouse on content section you want to insert Blog widget.
    
@@ -523,6 +525,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 
 - **As block**
+
   
 1. Place mouse on content block you want to insert Blog widget.
    
@@ -551,6 +554,7 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 
 
 - **As element among the content**
+
   
 1. Place mouse on content area you want to insert Blog widget.
    
@@ -597,12 +601,11 @@ You can insert connect link or hyperlink to your content and image by using **In
 
 3. All 3 page types you can insert this content or image to link to.
 
-   - *Pages*
+- *Pages*
   
-      You can link to any page on your website.
+   You can link to any page on your website.
 
 ![image](images/website_content/img_insert_link_03_to_page.png)
-
 
    - *Blog*
 
@@ -617,7 +620,7 @@ You can insert connect link or hyperlink to your content and image by using **In
 
 ![image](images/website_content/img_insert_link_05_system.png)
 
-4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
+1. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
 ![image](images/website_content/img_insert_link_06_page_setting_open.png)
 
@@ -684,6 +687,7 @@ You can insert file to be donwloaded for your website visitors.
 
 - **Set content to a bookmark**
 
+
 1. Highlight *short content* or click on *an image*.
 
 ![image](images/website_content/img_insert_link_01_highlight.png)
@@ -701,6 +705,7 @@ You can insert file to be donwloaded for your website visitors.
 ![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
 
 - **Set content as bookmark target**
+
 
 1. Highlight *short content* or click on *an image*.
    
@@ -746,18 +751,16 @@ Click on the button to activate Button tools.
 
    On the **Button** panel, you can edit button style as unique as you want.
 
-   - **Style**
+  - **Style**
 
       You can change button design from here again.
 
-![image](images/website_content/img_insert_button_04_style.png)
+      ![image](images/website_content/img_insert_button_04_style.png)
 
    - **Design**
 
       You can also customize the button to be more unique and attractive.
-
-![image](images/website_content/img_insert_button_05_design.png)
-
+      
       *Button Base Color* : To customize the button color other than pre-installed designs
 
       *Size and Border* : To edit size of the button, and the border of the button that you can add color to it.
@@ -766,12 +769,13 @@ Click on the button to activate Button tools.
 
       *Box Shadow* : To add shadow and shadow color on the border of the button.
 
+      ![image](images/website_content/img_insert_button_05_design.png)
 
    - **HTML Text**
 
       You can add HTML code on this button for more functional.
-
-![image](images/website_content/img_insert_button_06_html_text.png)
+      
+      ![image](images/website_content/img_insert_button_06_html_text.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -797,13 +801,13 @@ The 3 image tools are right on the image you clicked; **Upload**, **Replace**, a
 
    Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
 
-![image](images/website_content/img_insert_image_03_image_manager.png)
-
       1) Image Manager panel ; Feel free to select one in free images from here.
 
       2) Upload button ; Feel free to upload new image from your computer.
 
       3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+
+![image](images/website_content/img_insert_image_03_image_manager.png)
 
 3. **Edit**
 
