@@ -1,23 +1,24 @@
 # Website Template
 
 
-- [Create a new site](#create-a-new-site)
-  - [By cPanel control panel](#by-cpanel-control-panel)
-  - [By your domain name](#by-your-domain-name)
-  - [Select Domain Name](#select-domain-name)
-  - [Select Template](#select-template)
-- [Customise template](#customise-template)
-  - [Edit website banner](#edit-website-banner)
-    - [Hero Banner](#hero-banner)
-    - [Slide Banner](#slide-banner)
-  - [Edit website navigation style](#edit-website-navigation-style)
-    - [Top Menu](#top-menu)
-    - [Menu](#menu)
-  - [Sort Header Positions](#sort-header-positions)
-- [Change template](#change-template)
-  - [Change Hero template to Slide](#change-hero-template-to-slide)
-  - [Change Slide template to Hero](#change-slide-template-to-hero)
-- [Publish](#publish)
+- [Website Template](#website-template)
+  - [Create a new site](#create-a-new-site)
+    - [By cPanel control panel](#by-cpanel-control-panel)
+    - [By your domain name](#by-your-domain-name)
+    - [Select Domain Name](#select-domain-name)
+    - [Select Template](#select-template)
+  - [Customise template](#customise-template)
+    - [Edit website banner](#edit-website-banner)
+      - [Hero Banner](#hero-banner)
+      - [Slide Banner](#slide-banner)
+    - [Edit website navigation style](#edit-website-navigation-style)
+      - [Top Menu](#top-menu)
+      - [Menu](#menu)
+    - [Sort Header Positions](#sort-header-positions)
+  - [Change template](#change-template)
+    - [Change Hero template to Slide](#change-hero-template-to-slide)
+    - [Change Slide template to Hero](#change-slide-template-to-hero)
+  - [Publish](#publish)
 
 
 
@@ -300,7 +301,7 @@ If you want to change Hero banner to slide images, you switch it page by page. *
 
 1. Just click on custom this banner
    
- ![image](images/website_template/img_changetemplate_hero_slide_01_banner_tool_1.png)
+![image](images/website_template/img_changetemplate_hero_slide_01_banner_tool_1.png)
 
 
 2. Select one banner image and Save.
@@ -317,7 +318,7 @@ If you want to change Hero banner to slide images, you switch it page by page. *
 
 1. On the Banner tool, click "Switch Banner"
    
- ![image](images/website_template/img_changetemplate_hero_slide_04_banner_tool_2.png)
+![image](images/website_template/img_changetemplate_hero_slide_04_banner_tool_2.png)
 
 
 2. Select one banner image and Save.
