@@ -367,17 +367,17 @@ You may feel the slide images on Header are none of use by some reason.
 
 - **Change for the entire website**
 
-You can change the Slide Header banner for the entire website at once.
+   You can change the Slide Header banner for the entire website at once.
 
-1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a Hero banner, so keep looing for **"Type: Hero"**.
+  1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a Hero banner, so keep looing for **"Type: Hero"**.
 
-   ![image](images/website_template/img_changetemplate_slide_hero_04_select_temp.png)
+      ![image](images/website_template/img_changetemplate_slide_hero_04_select_temp.png)
 
-2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
+  2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
 
-   ![image](images/website_template/img_changetemplate_slide_hero_05_warning.png)
+      ![image](images/website_template/img_changetemplate_slide_hero_05_warning.png)
 
-3. Sure to change it, just click **OK**.
+  3. Sure to change it, just click **OK**.
 
 ---------------------------------------------------------------------------------------------------
 

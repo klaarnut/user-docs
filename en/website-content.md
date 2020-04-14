@@ -58,11 +58,11 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 2. The "Add Page" panel appears;
    
-      1) Page Name : Insert any name for this new page.
-      2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
-      3) Save : To add this page.
+      1. Page Name : Insert any name for this new page.
+      2. "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
+      3. Save : To add this page.
 
-   ![image](images/website_content/img_add_page_02_panel_appears.png)
+      ![image](images/website_content/img_add_page_02_panel_appears.png)
       
       - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
@@ -808,20 +808,20 @@ The 3 image tools are right on the image you clicked; **Upload**, **Replace**, a
    ![image](images/website_content/img_insert_image_04_edit_tools.png)
 
 
-From left to right.
+   From left to right.
 
-**Zoom In** : To Zoom this image for more closer.
+      **Zoom In** : To Zoom this image for more closer.
 
-**Zoom Out** : To make this image more farther but not farther than the original.
+      **Zoom Out** : To make this image more farther but not farther than the original.
 
-**Rotate** : To rotate this image.
+      **Rotate** : To rotate this image.
 
-**Flip Horizontal** : To make this image flipped horizontally.
+      **Flip Horizontal** : To make this image flipped horizontally.
 
-**Flip Vertical** : To make this image flipped vertically.
+      **Flip Vertical** : To make this image flipped vertically.
 
-**Resize** : To make this image size matched this image box. It's not to resize image freely.
+      **Resize** : To make this image size matched this image box. It's not to resize image freely.
 
-**Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
+      **Overwrite** (Caution) : If you click Overwrite, it will entirely overwrite the original image by the new uploaded image. If you have the original image in any places of your website, it will be displayed the new uploaded image instead.
 
-**FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
+      **FULL image Editor** : You can insert text, crop, rotation and add a filter. Make your image more beautiful ever!
