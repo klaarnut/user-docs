@@ -175,7 +175,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
       3. Order by: Select Ascending or Descending to arrange in the list.
       4. Enable/Disable a total number of posts.
 
-        ![image](images/blog_post/img_widget_category_list_02_setting.png)
+    ![image](images/blog_post/img_widget_category_list_02_setting.png)
 
     Design tab is to select the design of Category List widget.
 
@@ -337,8 +337,6 @@ There are 2 widgets section, Category list and Recent Post, allow to add in a bl
 
 **Blog List Setting**
 
-![image](images/blog_post/img_blog_page_02_setting.png)
-
 1. Title: Insert your Title.
 2. Enable/Disable a total of posts
 3. Limit a number of post which diaplay on the list
@@ -348,6 +346,8 @@ There are 2 widgets section, Category list and Recent Post, allow to add in a bl
 7. Enable/Disable show catagories on each post.
 8. Enable/Disable show a first paragraph on each post.
 9. Continue Reading text is a button to access a post page.
+
+    ![image](images/blog_post/img_blog_page_02_setting.png)
 
 ## Publish Blog on your website
 

@@ -58,9 +58,9 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 2. The "Add Page" panel appears;
    
-   1) Page Name : Insert any name for this new page.
-   2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
-   3) Save : To add this page.
+      1) Page Name : Insert any name for this new page.
+      2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
+      3) Save : To add this page.
 
    ![image](images/website_content/img_add_page_02_panel_appears.png)
       
@@ -73,58 +73,58 @@ At Content tab, you will always be at the new added page or the latest one you e
       ![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
 
-1. You can start content for this page now.
+3. You can start content for this page now.
 
 
 ### Link page to a menu
 
 - **Link page to a current menu on navigation**
 
-1. In Content editor, click "Menu" on floating menu, and select **Menu**.
+  1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
-   ![image](images/website_content/img_link_page_01.png)
-
-
-2. The "Menu Setting" panel appears, click on the Menu you want to link to a page.
-
-   ![image](images/website_content/img_link_page_02_menu_setting.png)
+      ![image](images/website_content/img_link_page_01.png)
 
 
-3. In "Menu Setting" panel, look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
+  2. The "Menu Setting" panel appears, click on the Menu you want to link to a page.
 
-   ![image](images/website_content/img_link_page_03_setting_page.png)
+      ![image](images/website_content/img_link_page_02_menu_setting.png)
 
 
-4. Close Menu Setting window, and Save it on Content edior page.
+  3. In "Menu Setting" panel, look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
-   ![image](images/website_content/img_link_page_04_save_menu.png)
+      ![image](images/website_content/img_link_page_03_setting_page.png)
+
+
+  4. Close Menu Setting window, and Save it on Content edior page.
+
+      ![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 - **Link page to a new menu**
 
-1. In Content editor, click "Menu" on floating menu, and select **Menu**.
+  1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
-   ![image](images/website_content/img_add_page_01_newpage.png)
-
-
-2. The "Menu Setting" panel appears. Click at "+" symbol on Website Navigation to add new menu.
-
-   ![image](images/website_content/img_add_page_05_add_page_by_icon.png)
+      ![image](images/website_content/img_add_page_01_newpage.png)
 
 
-3. The added menu information appears in "Menu Setting" panel.
+  2. The "Menu Setting" panel appears. Click at "+" symbol on Website Navigation to add new menu.
 
-   ![image](images/website_content/img_add_page_06_menu_setting.png)
-
-
-4. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
-
-   ![image](images/website_content/img_add_page_07_setting_page.png)
+      ![image](images/website_content/img_add_page_05_add_page_by_icon.png)
 
 
-5. Close Menu Setting window, and Save it on Content edior page.
+  3. The added menu information appears in "Menu Setting" panel.
 
-   ![image](images/website_content/img_link_page_04_save_menu.png)
+      ![image](images/website_content/img_add_page_06_menu_setting.png)
+
+
+  4. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
+
+      ![image](images/website_content/img_add_page_07_setting_page.png)
+
+
+  5. Close Menu Setting window, and Save it on Content edior page.
+
+      ![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -210,17 +210,17 @@ Select font family from the drop-down list and you can use **our new feature to 
 1. Choose a font at [Google Font](https://fonts.google.com).
 2. On Text tool, click "+" button next to font family.
 
-![image](images/website_content/img_text_tools_11_add_font.png)
+   ![image](images/website_content/img_text_tools_11_add_font.png)
 
 3. Fill a font name and click Add.
 
-![image](images/website_content/img_text_tools_12_add_font_popup.png)
+   ![image](images/website_content/img_text_tools_12_add_font_popup.png)
 
 4. You can select a new font from font list.
 
-![image](images/website_content/img_text_tools_13_new_font.png)
+   ![image](images/website_content/img_text_tools_13_new_font.png)
 
-    Tips: You can add a miximum 5 font families.
+> Tips: You can add a miximum 5 font families.
 
 
 **Font Style**
@@ -495,85 +495,82 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
 - **As section**
 
   
-1. Place mouse on content section you want to insert Blog widget.
+  1. Place mouse on content section you want to insert Blog widget.
    
-   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+      ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
-2. Use **Insert** tool, and **Widget**. 
+  2. Use **Insert** tool, and **Widget**. 
 
-   ![image](images/website_content/img_blog_widget_02_insert.png)
-
-
-3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Section**.
-
-   ![image](images/website_content/img_blog_widget_03_insert_section.png)
+      ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
-4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+  3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Section**.
+
+      ![image](images/website_content/img_blog_widget_03_insert_section.png)
+
+
+  4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-   ![image](images/website_content/img_blog_widget_04_ex_incert_section.png)
+      ![image](images/website_content/img_blog_widget_04_ex_incert_section.png)
 
 
-5. You can also edit section background the same way with section background of content.
+  5. You can also edit section background the same way with section background of content.
 
-   ![image](images/website_content/img_blog_widget_05_section_properties.png)
+      ![image](images/website_content/img_blog_widget_05_section_properties.png)
 
 
 
 - **As block**
 
   
-1. Place mouse on content block you want to insert Blog widget.
+  1. Place mouse on content block you want to insert Blog widget.
    
-   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+      ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
-2. Use **Insert** tool, and **Widget**. 
+  2. Use **Insert** tool, and **Widget**. 
 
-   ![image](images/website_content/img_blog_widget_02_insert.png)
-
-
-3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Block**.
-
-   ![image](images/website_content/img_blog_widget_06_insert_block.png)
+      ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
-4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+  3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Block**.
+
+      ![image](images/website_content/img_blog_widget_06_insert_block.png)
+
+
+  4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-   ![image](images/website_content/img_blog_widget_07_ex_incert_block.png)
+      ![image](images/website_content/img_blog_widget_07_ex_incert_block.png)
 
 
-5. You can also edit block background the same way with block background of content.
+  5. You can also edit block background the same way with block background of content.
 
-   ![image](images/website_content/img_blog_widget_08_section_properties.png)
+      ![image](images/website_content/img_blog_widget_08_section_properties.png)
 
 
 
 - **As element among the content**
 
   
-1. Place mouse on content area you want to insert Blog widget.
+  1. Place mouse on content area you want to insert Blog widget.
    
-   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+      ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
-2. Use **Insert** tool, and **Widget**. 
+  2. Use **Insert** tool, and **Widget**. 
 
-   ![image](images/website_content/img_blog_widget_02_insert.png)
-
-
-3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Element**.
-
-   ![image](images/website_content/img_blog_widget_09_insert_element.png)
+      ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
-4. The inserted widget will be at the mouse position among the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
+  3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Element**.
+
+      ![image](images/website_content/img_blog_widget_09_insert_element.png)
+
+
+  4. The inserted widget will be at the mouse position among the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-   ![image](images/website_content/img_blog_widget_10_recent_post_list_setting.png)
-
-
-
+      ![image](images/website_content/img_blog_widget_10_recent_post_list_setting.png)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -684,37 +681,35 @@ You can insert file to be donwloaded for your website visitors.
 
 - **Set content to a bookmark**
 
+  1. Highlight *short content* or click on *an image*.
 
-1. Highlight *short content* or click on *an image*.
+      ![image](images/website_content/img_insert_link_01_highlight.png)
 
-   ![image](images/website_content/img_insert_link_01_highlight.png)
+  2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
 
-2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
+      ![image](images/website_content/img_insert_link_16_bookmark.png)
 
-   ![image](images/website_content/img_insert_link_16_bookmark.png)
+  3. Choose a bookmark from dropdown list.
 
-3. Choose a bookmark from dropdown list.
+      ![image](images/website_content/img_insert_link_17_choose_bookmark.png)
 
-   ![image](images/website_content/img_insert_link_17_choose_bookmark.png)
+  4. Set where hover tooltips to display when mouse hover on it.
 
-4. Set where hover tooltips to display when mouse hover on it.
-
-   ![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
+      ![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
 
 - **Set content as bookmark target**
 
-
-1. Highlight *short content* or click on *an image*.
+  1. Highlight *short content* or click on *an image*.
    
-   ![image](images/website_content/img_insert_link_01_highlight.png)
+      ![image](images/website_content/img_insert_link_01_highlight.png)
 
-2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
+  2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
 
-   ![image](images/website_content/img_insert_link_19_bookmark_target.png)
+      ![image](images/website_content/img_insert_link_19_bookmark_target.png)
 
-3. Name this bookmark target for selection purpose.
+  3. Name this bookmark target for selection purpose.
 
-   ![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
+      ![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -810,7 +805,7 @@ The 3 image tools are right on the image you clicked; **Upload**, **Replace**, a
 
    Click this button in order to edit this image.
 
-   [image](images/website_content/img_insert_image_04_edit_tools.png)
+   ![image](images/website_content/img_insert_image_04_edit_tools.png)
 
 
 From left to right.

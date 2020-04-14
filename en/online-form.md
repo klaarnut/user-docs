@@ -28,7 +28,7 @@ Its purpose is to let users to submit information for you to contact back or for
 
 1. Once the Form dropped, the Form Design will welcome you for custom design as you want. All color can be changed, the Form fields can be added or removed for your need.
 
-Once you done playing with the color, click on the form to add or remove fields on this form as your need.
+    Once you done playing with the color, click on the form to add or remove fields on this form as your need.
 
     ![image](images/online_form/img_design_form.png)
 

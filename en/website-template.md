@@ -292,55 +292,56 @@ You may first started your website with an immoveble Header and Content for cool
 
 - **Change on some page**
 
-If you want to change Hero banner to slide images, you switch it page by page. *This way, you will have some page with Slide images Header, and Home page and the other pages still have Hero banner.*
+   If you want to change Hero banner to slide images, you switch it page by page. *This way, you will have some page with Slide images Header, and Home page and the other pages still have Hero banner.*
 
-*First time changing header banner image of any other page than Home page. It will require you to make sure to Custom this banner.* 
+   *First time changing header banner image of any other page than Home page. It will require you to make sure to Custom this banner.* 
 
-1. Just click on custom this banner
+  1. Just click on custom this banner
    
-   ![image](images/website_template/img_changetemplate_hero_slide_01_banner_tool_1.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_01_banner_tool_1.png)
 
 
-2. Select one banner image and Save.
+  2. Select one banner image and Save.
    
-   ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
 
 
-3. Don't forget to Save what you selected by the main Save button on the right top.
+  3. Don't forget to Save what you selected by the main Save button on the right top.
 
-   ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
 
 
-*Changing header banner image on these other pages for second time and later*
+   *Changing header banner image on these other pages for second time and later*
 
-1. On the Banner tool, click "Switch Banner"
+
+   1. On the Banner tool, click "Switch Banner"
    
-   ![image](images/website_template/img_changetemplate_hero_slide_04_banner_tool_2.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_04_banner_tool_2.png)
 
 
-2. Select one banner image and Save.
+   2. Select one banner image and Save.
    
-   ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_02_select_banner.png)
 
 
-3. Don't forget to Save what you selected by the main Save button on the right top.
+  4. Don't forget to Save what you selected by the main Save button on the right top.
    
-   ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_03_save.png)
 
 
 
 
 - **Change for the entire website**
 
-1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a movable slide images on website header, so keep looing for **"Type: Slide"**.
+  1. Just click **Templates** tab, and sneak on Template Categories list for the most relative, and place mouse (not click) on a template you like and see its type. You're finding a movable slide images on website header, so keep looing for **"Type: Slide"**.
 
-   ![image](images/website_template/img_changetemplate_hero_slide_05_select_temp.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_05_select_temp.png)
 
-2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
+  2. By selecting a most favorite slide banner will pop you a warning about what's to concern on changing template.
 
-   ![image](images/website_template/img_changetemplate_hero_slide_06_warning.png)
+      ![image](images/website_template/img_changetemplate_hero_slide_06_warning.png)
 
-3. Sure to change it, just click **OK**.
+  3. Sure to change it, just click **OK**.
 
 
 ### Change Slide template to Hero
@@ -349,19 +350,19 @@ You may feel the slide images on Header are none of use by some reason.
 
 - **Change on some page**
 
-If you want to change Slide header to be just an immoveable image for cool, you can remove unused images from Header of the page. *This way, you will have some page with Slide images Header, and some with immoveable image.*
+   If you want to change Slide header to be just an immoveable image for cool, you can remove unused images from Header of the page. *This way, you will have some page with Slide images Header, and some with immoveable image.*
 
-1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
+  1. One the page you want to remove Slide images, click on Header banner to activate Banner tools.
 
-   ![image](images/website_template/img_changetemplate_slide_hero_01_banner_tools.png)
+      ![image](images/website_template/img_changetemplate_slide_hero_01_banner_tools.png)
 
-2. Click remove all Header images and leave the last one.
+  2. Click remove all Header images and leave the last one.
 
-   ![image](images/website_template/img_changetemplate_slide_hero_02_remove_slide.png)
+      ![image](images/website_template/img_changetemplate_slide_hero_02_remove_slide.png)
 
-3. On this remaining image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
+  3. On this remaining image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
 
-   ![image](images/website_template/img_changetemplate_slide_hero_03_section_properties.png)
+      ![image](images/website_template/img_changetemplate_slide_hero_03_section_properties.png)
 
 
 - **Change for the entire website**
