@@ -1,25 +1,41 @@
 # Website Content
-- [Add new page](#add-new-page)
-  - [Add new page](#add-new-page-1)
-  - [Link page to a menu](#link-page-to-a-menu)
-- [Add content and font](#add-content-and-font)
-  - [Text Tools](#text-tools)
-  - [Table Tools](#table-tools)
-- [Content area design](#content-area-design)
-  - [Add new content section](#add-new-content-section)
-  - [Content section design](#content-section-design)
-  - [Content block design](#content-block-design)
-- [Insert blog widget](#insert-blog-widget)
-- [Insert link to content and image](#insert-link-to-content-and-image)
-  - [Insert page as link](#insert-page-as-link)
-  - [Insert website as link](#insert-website-as-link)
-  - [Insert send email as link](#insert-send-email-as-link)
-  - [Insert file downloading as link](#insert-file-downloading-as-link)
-  - [Insert bookmark as link](#insert-bookmark-as-link)
-- [Insert button](#insert-button)
-  - [Insert button](#insert-button-1)
-  - [Edit button](#edit-button)
-- [Insert image](#insert-image)
+- [Website Content](#website-content)
+  - [Add new page](#add-new-page)
+    - [Add new page](#add-new-page-1)
+    - [Link page to a menu](#link-page-to-a-menu)
+  - [Add content and font](#add-content-and-font)
+    - [Text Tools](#text-tools)
+      - [Clipboard](#clipboard)
+      - [Font](#font)
+      - [Paragraph](#paragraph)
+    - [Table Tools](#table-tools)
+      - [Table Size](#table-size)
+      - [Table object](#table-object)
+      - [Table Alignment](#table-alignment)
+  - [Content area design](#content-area-design)
+    - [Add new content section](#add-new-content-section)
+    - [Content section design](#content-section-design)
+      - [Edit section background](#edit-section-background)
+      - [Duplicate section](#duplicate-section)
+      - [Move section](#move-section)
+      - [Remove section](#remove-section)
+    - [Content block design](#content-block-design)
+      - [Edit block background](#edit-block-background)
+      - [Duplicate block](#duplicate-block)
+      - [Move block](#move-block)
+      - [Add animation to block](#add-animation-to-block)
+      - [Remove block](#remove-block)
+  - [Insert blog widget](#insert-blog-widget)
+  - [Insert link to content and image](#insert-link-to-content-and-image)
+    - [Insert page as link](#insert-page-as-link)
+    - [Insert website as link](#insert-website-as-link)
+    - [Insert send email as link](#insert-send-email-as-link)
+    - [Insert file downloading as link](#insert-file-downloading-as-link)
+    - [Insert bookmark as link](#insert-bookmark-as-link)
+  - [Insert button](#insert-button)
+    - [Insert button](#insert-button-1)
+    - [Edit button](#edit-button)
+  - [Insert image](#insert-image)
 
 
 Edit content for your website is the most easiest and frequent activity you may enjoy. The Content Editor is the very first and an always place to welcome you after logging in.
@@ -42,24 +58,24 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 2. The "Add Page" panel appears;
 
-    1) Page Name : Insert any name for this new page.
-    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
-    3) Save : To add this page.
+   1) Page Name : Insert any name for this new page.
+   2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
+   3) Save : To add this page.
 
 ![image](images/website_content/img_add_page_02_panel_appears.png)
 
     
-- a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
+      - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
 ![image](images/website_content/img_add_page_03_show_on_menu.png)
 
 
-- b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
+      - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
 
 ![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
 
-3. You can start content for this page now.
+1. You can start content for this page now.
 
 
 ### Link page to a menu
@@ -133,8 +149,6 @@ Once you place mouse on a text area, you can immediately start your content with
 
 **Paint format**
 
-![image](images/website_content/img_text_tools_02_paint_format.png)
-
 The Paint Tool copies format from one place in your document to another. It's quite handy. RVsitebuilder lets you copy the format you've applied to a specific section of text to another section using the paint format tool. To use this tool, select the text that's formatted in the way that you want to copy
 
 1. Current cursor on format a line of text or cell in your desired appearance.
@@ -142,55 +156,57 @@ The Paint Tool copies format from one place in your document to another. It's qu
 3. To apply this format to other text, simply highlight the text you want to apply the format to.
 4. Clicking Paint Format icon again, it will lock the format into place and every piece of text clicked will change to the new format.
 
-**Paste from external**
+![image](images/website_content/img_text_tools_02_paint_format.png)
 
-![image](images/website_content/img_text_tools_03_paste_from_external.png)
+**Paste from external**
 
 This will clean up HTML source code before pasting it into your document. Paste or drag content from Office documents, web pages and other programs into the box below (To paste use the keyboard shortcut, Ctrl + v on Windows or Command + v on a Mac). Please be patient, pasting from Office documents can take a considerable amount of time. When the paste is complete press Insert.
 
-**Undo and Redo**
+![image](images/website_content/img_text_tools_03_paste_from_external.png)
 
-![image](images/website_content/img_text_tools_04_undo_redo.png) 
+**Undo and Redo**
 
 To reverse your last action and to reverse your last Undo.
 
+![image](images/website_content/img_text_tools_04_undo_redo.png) 
+
 **HTML Mode**
 
-![image](images/website_content/img_text_tools_05_html_mode.png)
-
 Insert HTML Code for each block. Please be careful to use the correct HTML code. As it will break an RVsitebuilder function, if your code doesn't use the correct syntax.
+
+![image](images/website_content/img_text_tools_05_html_mode.png)
 
 #### Font
 
 **Bold, Italic, Underline, Strikethrough**
 
-![image](images/website_content/img_text_tools_06_text_style.png)
-
 Add text to Bold, Italic, Underline, Strikethrough.
+
+![image](images/website_content/img_text_tools_06_text_style.png)
 
 **Font Color**
 
-![image](images/website_content/img_text_tools_07_font_color.png)
-
 Apply color to font by using our color picker or you can type a color code for the specific color.
+
+![image](images/website_content/img_text_tools_07_font_color.png)
 
 **Font Highlight**
 
-![image](images/website_content/img_text_tools_08_font_highlight.png)
-
 Hover the text and choose the colot to highlight.
+
+![image](images/website_content/img_text_tools_08_font_highlight.png)
 
 **Clean formatting**
 
-![image](images/website_content/img_text_tools_09_clean_formatting.png)
-
 Clearing text format, in case you copy the text from another website.
+
+![image](images/website_content/img_text_tools_09_clean_formatting.png)
 
 **Font Family**
 
-![image](images/website_content/img_text_tools_10_font_family.png)
-
 Select font family from the drop-down list and you can use **our new feature to add more font family from Google Font** as well!
+
+![image](images/website_content/img_text_tools_10_font_family.png)
 
 **Add font family from Google Font**
 
@@ -211,47 +227,47 @@ Select font family from the drop-down list and you can use **our new feature to 
 
 **Font Style**
 
-![image](images/website_content/img_text_tools_14_font_style.png)
-
 Font style creates the basic text structure, helping you organize thoughts on a page. You can apply style to text while you’re editing or adding it. Selecting 11 stlyes on the drop-down list to control the typography (font design), giving the words personality and flare.
+
+![image](images/website_content/img_text_tools_14_font_style.png)
 
 **Font Size**
 
-![image](images/website_content/img_text_tools_15_font_size.png)
-
 Increase or decrease font size by choosing on the drop-down list.
+
+![image](images/website_content/img_text_tools_15_font_size.png)
 
 #### Paragraph
 
 **Insert Number**
 
-![image](images/website_content/img_text_tools_16_insert_number.png)
-
 Add list by numbered.
+
+![image](images/website_content/img_text_tools_16_insert_number.png)
 
 **Insert bullet**
 
-![image](images/website_content/img_text_tools_17_insert_bullet.png)
-
 Add content to list by bulleted list icons.
+
+![image](images/website_content/img_text_tools_17_insert_bullet.png)
 
 **Indent**
 
-![image](images/website_content/img_text_tools_18_indent.png)
-
 In the Text tool, click the increase or decrease indent icons to indent text to the left or right.
+
+![image](images/website_content/img_text_tools_18_indent.png)
 
 **Line Spacing**
 
-![image](images/website_content/img_text_tools_19_line_spacing.png)
-
 Change the space between lines.
+
+![image](images/website_content/img_text_tools_19_line_spacing.png)
 
 **Alignment**
 
-![image](images/website_content/img_text_tools_20_alignment.png)
-
 Align your text paragraph; left, center, right and justify.
+
+![image](images/website_content/img_text_tools_20_alignment.png)
 
 ### Table Tools
 
@@ -259,28 +275,27 @@ Align your text paragraph; left, center, right and justify.
 
 #### Table Size
 
-![image](images/website_content/img_teble_05_size.png)
-
 Adjust the table and boarder size, also select the boarder style on the drop-down list. You can choose a table unit size between percentage and pixel.
+
+![image](images/website_content/img_teble_05_size.png)
 
 #### Table object
 
-![image](images/website_content/img_teble_02_object.png)
-
 To Insert, merge, remove both row and column.
+
+![image](images/website_content/img_teble_02_object.png)
 
 **Table Color**
 
-![image](images/website_content/img_teble_03_color.png)
-
 Adjust the color on each cell or the whole table and table border color.
+
+![image](images/website_content/img_teble_03_color.png)
 
 #### Table Alignment
 
-![image](images/website_content/img_teble_04_alignment.png)
-
 Align text on the table both horizontal and verticle.
 
+![image](images/website_content/img_teble_04_alignment.png)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -326,31 +341,31 @@ Content section is the main content area you can easily see section by section i
    
 ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
-*Fluid (full screen)*: Enable or disable a full screen section.
+      *Fluid (full screen)*: Enable or disable a full screen section.
 
-*Color* : Select background color by using color picker or choosing from a gradient color.
+      *Color* : Select background color by using color picker or choosing from a gradient color.
 
-*Background Image*: You can upload your own image or select one from Image Manager.
+      *Background Image*: You can upload your own image or select one from Image Manager.
 
-*Reponsive Image Position*: Image alignment on responsive mode.
+      *Reponsive Image Position*: Image alignment on responsive mode.
 
    - **Shadow**
 
-![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+      You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-You can select 6 shadow preset styles which you can modify color and size on the below setting.
+![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
    - **Overlap**
 
-![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+      You can make this section to overlap the above or below content section or being overlapped by them.
 
-You can make this section to overlap the above or below content section or being overlapped by them.
+![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
    - **Box**
 
-![image](images/website_template/img_customise_template_05_section_properties_box.png)
+      Add and edit border of this section.
 
-Add and edit border of this section.
+![image](images/website_template/img_customise_template_05_section_properties_box.png)
 
 
 #### Duplicate section
@@ -401,30 +416,29 @@ Content block is sub content areas *inside content section* that you can see the
    
 ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
-*Background Color* : Select background color by using color picker or choosing from a gradient color.
+      *Background Color* : Select background color by using color picker or choosing from a gradient color.
 
-*Background Image*: You can upload your own image or select one from Image Manager.
+      *Background Image*: You can upload your own image or select one from Image Manager.
 
-*Reponsive Image Position*: Image alignment on responsive mode.
+      *Reponsive Image Position*: Image alignment on responsive mode.
 
    - **Shadow**
 
-![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+      You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-You can select 6 shadow preset styles which you can modify color and size on the below setting.
+![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
    - **Overlap**
 
-![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+      You can make this block to overlap the above or below content block or being overlapped by them.
 
-You can make this block to overlap the above or below content block or being overlapped by them.
+![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
    - **Box**
 
+      Add and edit border of this block.
+
 ![image](images/website_template/img_customise_template_05_section_properties_box.png)
-
-Add and edit border of this block.
-
 
 #### Duplicate block
 
@@ -434,16 +448,13 @@ You can duplciate section fore more faster content making if it's used the same 
 
 ![image](images/website_content/img_block_01_content_area.png)
 
-
 2. Click **Duplicate Block** icon. The new block will be duplicated next to this block you selected.
 
 ![image](images/website_content/img_block_02_duplicate_block_icon.png)
 
-
 3. You can start edit this duplicated block, it will not overwrite content and design in the original one.
 
 ![image](images/website_content/img_block_03_new_duplicate_block.png)
-
 
 #### Move block
 
@@ -588,29 +599,27 @@ You can insert connect link or hyperlink to your content and image by using **In
 
    - *Pages*
   
-  You can link to any page on your website.
+      You can link to any page on your website.
 
- ![image](images/website_content/img_insert_link_03_to_page.png)
+![image](images/website_content/img_insert_link_03_to_page.png)
 
 
    - *Blog*
 
-  You can link to any blog post on your blog.
+      You can link to any blog post on your blog.
 
- ![image](images/website_content/img_insert_link_04_to_blog.png)
+![image](images/website_content/img_insert_link_04_to_blog.png)
 
 
    - *System*
 
-  You can link to any system page on your website such as Login page, Register page, etc.
+      You can link to any system page on your website such as Login page, Register page, etc.
 
- ![image](images/website_content/img_insert_link_05_system.png)
-
-
+![image](images/website_content/img_insert_link_05_system.png)
 
 4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
- ![image](images/website_content/img_insert_link_06_page_setting_open.png)
+![image](images/website_content/img_insert_link_06_page_setting_open.png)
 
 ### Insert website as link
 
@@ -618,41 +627,33 @@ You can insert connect link or hyperlink to your content and image by using **In
 
 ![image](images/website_content/img_insert_link_01_highlight.png)
 
-
 2. On **Insert** tool, place mouse on **Link** and select **Website**.
 
 ![image](images/website_content/img_insert_link_07_website.png)
-
 
 3. You can link to any website by inserting URL here.
 
 ![image](images/website_content/img_insert_link_08_website_url.png)
 
-
 4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
 ![image](images/website_content/img_insert_link_09_website_setting_open.png)
-
 
 ### Insert send email as link
 
 You can set the link to send email to you for more communication with your website visitors.
 
-
 1. Highlight *short content* or click on *an image*.
 
 ![image](images/website_content/img_insert_link_01_highlight.png)
-
 
 2. On **Insert** tool, place mouse on **Link** and select **Email**.
 
 ![image](images/website_content/img_insert_link_10_mail.png)
 
-
 3. On **Set Email** tab, add Email address, subject to let your visitor write message directly to you here.
 
 ![image](images/website_content/img_insert_link_11_set_email.png)
-
 
 4. on **Set Button** tab, set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
@@ -663,26 +664,21 @@ You can set the link to send email to you for more communication with your websi
 
 You can insert file to be donwloaded for your website visitors.
 
-
 1. Highlight *short content* or click on *an image*.
 
 ![image](images/website_content/img_insert_link_01_highlight.png)
-
 
 2. On **Insert** tool, place mouse on **Link** and select **Files**.
 
 ![image](images/website_content/img_insert_link_13_files.png)
 
-
 3. *Choose File* to upload, and select it from select field.
 
 ![image](images/website_content/img_insert_link_14_choose_files.png)
 
-
 4. Set where hover tooltips to display when mouse hover on it.
 
 ![image](images/website_content/img_insert_link_15_tooltips_files.png)
-
 
 ### Insert bookmark as link
 
@@ -692,22 +688,17 @@ You can insert file to be donwloaded for your website visitors.
 
 ![image](images/website_content/img_insert_link_01_highlight.png)
 
-
 2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
 
 ![image](images/website_content/img_insert_link_16_bookmark.png)
-
 
 3. Choose a bookmark from dropdown list.
 
 ![image](images/website_content/img_insert_link_17_choose_bookmark.png)
 
-
 4. Set where hover tooltips to display when mouse hover on it.
 
 ![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
-
-
 
 - **Set content as bookmark target**
 
@@ -715,23 +706,17 @@ You can insert file to be donwloaded for your website visitors.
    
 ![image](images/website_content/img_insert_link_01_highlight.png)
 
-
-1. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
+2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
 
 ![image](images/website_content/img_insert_link_19_bookmark_target.png)
-
 
 3. Name this bookmark target for selection purpose.
 
 ![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
 
-
-
-
 ---------------------------------------------------------------------------------------------------
 
 ## Insert button
-
 
 ### Insert button
 
@@ -739,21 +724,17 @@ You can add button in content area for more connections.
 
 1. At Content area, place mouse on position you want to insert button.
 
-
 2. On Center menu, click "Insert" and select "Button".
 
 ![image](images/website_content/img_insert_button_01.png)
-
 
 3. Select a design for your button.
 
 ![image](images/website_content/img_insert_button_02_select.png)
 
-
 4. Click on button itself for more setting such as set it linked to external website url.
 
 ![image](images/website_content/img_insert_button_03_edit_tools.png)
-
 
 ### Edit button
 
@@ -761,36 +742,34 @@ Click on the button to activate Button tools.
 
 ![image](images/website_content/img_insert_button_03_edit_tools.png)
 
-
 - **Edit button design**
 
-On the **Button** panel, you can edit button style as unique as you want.
+   On the **Button** panel, you can edit button style as unique as you want.
 
    - **Style**
 
-You can change button design from here again.
+      You can change button design from here again.
 
 ![image](images/website_content/img_insert_button_04_style.png)
 
-
    - **Design**
 
-You can also customize the button to be more unique and attractive.
+      You can also customize the button to be more unique and attractive.
 
 ![image](images/website_content/img_insert_button_05_design.png)
 
-*Button Base Color* : To customize the button color other than pre-installed designs
+      *Button Base Color* : To customize the button color other than pre-installed designs
 
-*Size and Border* : To edit size of the button, and the border of the button that you can add color to it.
+      *Size and Border* : To edit size of the button, and the border of the button that you can add color to it.
 
-*Text Shadow* : To add shadow and shadow color on the text in the button
+      *Text Shadow* : To add shadow and shadow color on the text in the button
 
-*Box Shadow* : To add shadow and shadow color on the border of the button.
+      *Box Shadow* : To add shadow and shadow color on the border of the button.
 
 
    - **HTML Text**
 
-You can add HTML code on this button for more functional.
+      You can add HTML code on this button for more functional.
 
 ![image](images/website_content/img_insert_button_06_html_text.png)
 
@@ -804,33 +783,31 @@ Once some content done, let's make this page more interesting by adding images o
 
 You can click directly on the image that comes with section.
 
-
 ![image](images/website_content/img_insert_image_01.png)
 
 The 3 image tools are right on the image you clicked; **Upload**, **Replace**, and **Edit** respectively.
-
 
 ![image](images/website_content/img_insert_image_02_edit_button.png)
 
 1. **Upload**
 
-Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
+   Click this icon, you will see the Upload Image window to upload an image from your computer. Simply upload it.
 
 2. **Replace**
 
-Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
+   Click this icon and you will see the Image manager panel that has 3 main parts to manage image.
 
 ![image](images/website_content/img_insert_image_03_image_manager.png)
 
-1 ) Image Manager panel ; Feel free to select one in free images from here.
+      1) Image Manager panel ; Feel free to select one in free images from here.
 
-2 ) Upload button ; Feel free to upload new image from your computer.
+      2) Upload button ; Feel free to upload new image from your computer.
 
-3 ) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
+      3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
 3. **Edit**
 
-Click this button in order to edit this image.
+   Click this button in order to edit this image.
 
 ![image](images/website_content/img_insert_image_04_edit_tools.png)
 
