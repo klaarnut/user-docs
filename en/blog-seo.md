@@ -1,8 +1,11 @@
 # Easy Blog SEO
 
-- [Setting Areas](#setting-areas)
-  - [SEO By post](#seo-by-post)
-  - [SEO By entire blog](#seo-by-entire-blog)
+- [Easy Blog SEO](#easy-blog-seo)
+  - [Setting Areas](#setting-areas)
+    - [SEO By post](#seo-by-post)
+    - [SEO By entire blog](#seo-by-entire-blog)
+      - [Setting SEO by blog](#setting-seo-by-blog)
+      - [Blog Management](#blog-management)
 
 **Make your blog found on google**
 
@@ -22,28 +25,27 @@ A. 3-dot next to current post name you're editing
 
 ![image](images/blog_seo/img_seo_by_post_01.png)
 
-
 B. Site -> Blog icon -> post name
 
 1. Click 3-dot after post names
 
-![image](images/blog_seo/img_seo_by_post_02.png)
+    ![image](images/blog_seo/img_seo_by_post_02.png)
 
 
 2. Once **SEO** clicked, you will be at Blog Management panel which is for the current post you're on.
 
-Slide the slide-button to right to custom post's title and description to be more effective SEO.
+    Slide the slide-button to right to custom post's title and description to be more effective SEO.
 
-You will see the *Auto title and description* are the automated as default.
+    You will see the *Auto title and description* are the automated as default.
 
-![image](images/blog_seo/img_seo_by_post_03_setting_01.png)
+    ![image](images/blog_seo/img_seo_by_post_03_setting_01.png)
 
-![image](images/blog_seo/img_seo_by_post_04_setting_02.png)
+    ![image](images/blog_seo/img_seo_by_post_04_setting_02.png)
 
--   **Post title** : You can edit post's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
--   **Site brand** : It is inherrited from Site brand you defined as your company.
--   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog/category/general/post to https://rvsitebuilder.com/blog/category/general/mypost
--   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
+   - **Post title** : You can edit post's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
+   - **Site brand** : It is inherrited from Site brand you defined as your company.
+   - **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog/category/general/post to https://rvsitebuilder.com/blog/category/general/mypost
+   - **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
  *Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.*
 
@@ -56,21 +58,21 @@ This means to set SEO that will be effect for the entire blog. You can edit on a
 
 1. At Site -> Blog icon -> Blog -> 3-dot after Blog
 
-![image](images/blog_seo/img_seo_by_blog_01.png)
+    ![image](images/blog_seo/img_seo_by_blog_01.png)
 
 2. Once **SEO** clicked, you will be at Blog Management panel which is for the current your blog.
 
-Slide the slide-button to right to custom the title and description to be more effective SEO.
+    Slide the slide-button to right to custom the title and description to be more effective SEO.
 
-You will see the *Auto title and description* are the automated as default.
+    You will see the *Auto title and description* are the automated as default.
 
-![image](images/blog_seo/img_seo_by_blog_01_02.png)
+    ![image](images/blog_seo/img_seo_by_blog_01_02.png)
 
-![image](images/blog_seo/img_seo_by_blog_01_03.png)
+    ![image](images/blog_seo/img_seo_by_blog_01_03.png)
 
--   **Blog title** : You can edit blog title to be more search key than blog name such as changing Blog to Travel Blog.
--   **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog to https://rvsitebuilder.com/travelblog
--   **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
+      - **Blog title** : You can edit blog title to be more search key than blog name such as changing Blog to Travel Blog.
+      - **Post's url** : You can edit url of this post to be more search key than the normal such as changing https://rvsitebuilder.com/blog to https://rvsitebuilder.com/travelblog
+      - **Description** : Make a few less-is-more sentences for the seek-and-found you. A short description about your business.
 
   *Tips: Description for your blog should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations.*
 

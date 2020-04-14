@@ -49,17 +49,17 @@ Way to access to Meta tag by site setting areas.
 
 2. you will just click on **Site** on the setting panel to switch to Site setting.
 
-![image](images/website_meta_tag/img_meta_tag_05_by_site.png)
+   1) Click **Site**
 
-1) Click **Site**
+   2) Select **CMS**
 
-2) Select **CMS**
+   3) Select **Meta**
 
-3) Select **Meta**
+   4) Insrt Meta tag for the entire site
 
-4) Insrt Meta tag for the entire site
+   5) Click **Save**
 
-5) Click **Save**
+    ![image](images/website_meta_tag/img_meta_tag_05_by_site.png)
 
 3. Don't forget to click **Save** on content editor.
 

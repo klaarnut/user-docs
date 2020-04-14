@@ -1,8 +1,9 @@
 # Easy Website SEO
 
-- [Setting Areas](#setting-areas)
-  - [SEO By page](#seo-by-page)
-  - [SEO By site](#seo-by-site)
+- [Easy Website SEO](#easy-website-seo)
+    - [Setting Areas](#setting-areas)
+      - [SEO By page](#seo-by-page)
+      - [SEO By site](#seo-by-site)
 
 **Make your website found on google**
 
@@ -20,15 +21,15 @@ It means to set SEO for an individual page that will be effect only on this page
 
 A) 3-dot next to current page name you're editing
 
-![image](images/website_seo/img_seo_01_setting_3_dot.png)
+  ![image](images/website_seo/img_seo_01_setting_3_dot.png)
 
 B) Site -> Page Management icon
 
-![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
+  ![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
 
 C) Site -> Menu Pages -> 3-dot after page names
 
-![image](images/website_seo/img_seo_03_setting_3_dot_on_site.png)
+  ![image](images/website_seo/img_seo_03_setting_3_dot_on_site.png)
 
 Once **SEO** clicked, you will be at Page Management box.
 
@@ -38,18 +39,18 @@ Once **SEO** clicked, you will be at Page Management box.
 
 Slide this button to right before adding SEO to this page.
 
-![image](images/website_seo/img_seo_04_site_config.png)
+  ![image](images/website_seo/img_seo_04_site_config.png)
 
--   **Auto title and description** are the automated default for page's title, site brand and description.
+- **Auto title and description** are the automated default for page's title, site brand and description.
 
-Slide the slide-button to right to custom page's title and description to be more effective SEO.
+  Slide the slide-button to right to custom page's title and description to be more effective SEO.
 
-![image](images/website_seo/img_seo_05_auto_title_and_description.png)
+  ![image](images/website_seo/img_seo_05_auto_title_and_description.png)
 
--   **Page title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
--   **Site brand** : It is inherrited from Site brand you defined as your company.
--   **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
--   **Description** : Make a few less-is-more sentences for the seek and found you. A short description about your business.
+- **Page title** : You can edit page's title to be more search key than page name such as changing Home to RVsitebuilder CMS.
+- **Site brand** : It is inherrited from Site brand you defined as your company.
+- **Page's url** : You can edit url of this page to be more search key than the normal such as changing https://rvsitebuilder/com/home to https://rvsitebuilder.com/CMS
+- **Description** : Make a few less-is-more sentences for the seek and found you. A short description about your business.
 
 _Tips: Description for your website should be short effective and quick understandable sentences with impact keywords people would use to find what they want relate to your business. Avoid using the very unique words which may relate to your company but people don't know about it. Localization is to focus on specific countries, be sure about your targetted customers and their locations._
 
@@ -61,21 +62,21 @@ Setting SEO by site
 
 1. At **Site** -> **Page Management** icon
 
-![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
+  ![image](images/website_seo/img_seo_02_setting_page_management_icon.png)
 
 2. Click **Site** on the setting panel to switch to Site setting.
 
-![image](images/website_seo/img_seo_06_by_site.png)
+    1) Click **Site**
 
-1) Click **Site**
+    2) Select **CMS**
 
-2) Select **CMS**
+    3) Select **SEO**
 
-3) Select **SEO**
+    4) Select SEO for the entire site
 
-4) Select SEO for the entire site
-
-5) Click **Save**
+    5) Click **Save**
+   
+   ![image](images/website_seo/img_seo_06_by_site.png)
 
 3. Don't forget to click **Save** on content editor.
 
