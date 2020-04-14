@@ -53,7 +53,7 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 1. In Content editor, click "+" on floating menu, and select **New Page**.
 
-![image](images/website_content/img_add_page_01_newpage.png)
+   ![image](images/website_content/img_add_page_01_newpage.png)
 
 
 2. The "Add Page" panel appears;
@@ -62,17 +62,15 @@ At Content tab, you will always be at the new added page or the latest one you e
    2) "Show on menu" box : Check it to make this new page has its own Menu on website navigation. *You can leave this unchecked if you don't want the page to be online, and point this page to a menu later.*
    3) Save : To add this page.
 
-![image](images/website_content/img_add_page_02_panel_appears.png)
-
+   ![image](images/website_content/img_add_page_02_panel_appears.png)
+      
+      - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
     
-   - a) Below is sample of the new added page with *"Show on menu" box checked*. The new content editor will be ready to work that you can see it on current page name on the Right Menu, and its Menu is right on the website navigation.
-    
-![image](images/website_content/img_add_page_03_show_on_menu.png)
+      ![image](images/website_content/img_add_page_03_show_on_menu.png)
 
+      - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
 
-   - b) Below is sample of the new added page with *"Show on menu" box UNCHECKED*. The new content editor will be ready to work that you can see it on current page name on the Right Menu. **This page will not have its Menu on the website navigation. You can add Menu for this page later (next section)**.
-
-![image](images/website_content/img_add_page_04_notshow_on_menu.png)
+      ![image](images/website_content/img_add_page_04_notshow_on_menu.png)
 
 
 1. You can start content for this page now.
@@ -84,50 +82,49 @@ At Content tab, you will always be at the new added page or the latest one you e
 
 1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
-![image](images/website_content/img_link_page_01.png)
+   ![image](images/website_content/img_link_page_01.png)
 
 
 2. The "Menu Setting" panel appears, click on the Menu you want to link to a page.
 
-
-![image](images/website_content/img_link_page_02_menu_setting.png)
+   ![image](images/website_content/img_link_page_02_menu_setting.png)
 
 
 3. In "Menu Setting" panel, look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
-![image](images/website_content/img_link_page_03_setting_page.png)
+   ![image](images/website_content/img_link_page_03_setting_page.png)
 
 
 4. Close Menu Setting window, and Save it on Content edior page.
 
-![image](images/website_content/img_link_page_04_save_menu.png)
+   ![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 - **Link page to a new menu**
 
 1. In Content editor, click "Menu" on floating menu, and select **Menu**.
 
-![image](images/website_content/img_add_page_01_newpage.png)
+   ![image](images/website_content/img_add_page_01_newpage.png)
 
 
 2. The "Menu Setting" panel appears. Click at "+" symbol on Website Navigation to add new menu.
 
-![image](images/website_content/img_add_page_05_add_page_by_icon.png)
+   ![image](images/website_content/img_add_page_05_add_page_by_icon.png)
 
 
 3. The added menu information appears in "Menu Setting" panel.
 
-![image](images/website_content/img_add_page_06_menu_setting.png)
+   ![image](images/website_content/img_add_page_06_menu_setting.png)
 
 
 4. In "Menu Setting" panel,look at **Link to** part, select **Page** bullet. And select page name from **Select Page** part.
 
-![image](images/website_content/img_add_page_07_setting_page.png)
+   ![image](images/website_content/img_add_page_07_setting_page.png)
 
 
 5. Close Menu Setting window, and Save it on Content edior page.
 
-![image](images/website_content/img_link_page_04_save_menu.png)
+   ![image](images/website_content/img_link_page_04_save_menu.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -156,7 +153,7 @@ The Paint Tool copies format from one place in your document to another. It's qu
 3. To apply this format to other text, simply highlight the text you want to apply the format to.
 4. Clicking Paint Format icon again, it will lock the format into place and every piece of text clicked will change to the new format.
 
-![image](images/website_content/img_text_tools_02_paint_format.png)
+   ![image](images/website_content/img_text_tools_02_paint_format.png)
 
 **Paste from external**
 
@@ -334,7 +331,7 @@ Content section is the main content area you can easily see section by section i
 
 1. Click on the content section you want to edit. The *blue border line* will show its area.
 
-![image](images/website_content/img_section_02_blue_border_line.png)
+   ![image](images/website_content/img_section_02_blue_border_line.png)
 
 2. Click **Edit Section** icon, and the **Section Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
 
@@ -348,25 +345,25 @@ Content section is the main content area you can easily see section by section i
 
       *Reponsive Image Position*: Image alignment on responsive mode.
    
-![image](images/website_template/img_customise_template_02_section_properties_bg.png)
+      ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
    - **Shadow**
 
       You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+      ![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
    - **Overlap**
 
       You can make this section to overlap the above or below content section or being overlapped by them.
 
-![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+      ![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
    - **Box**
 
       Add and edit border of this section.
 
-![image](images/website_template/img_customise_template_05_section_properties_box.png)
+      ![image](images/website_template/img_customise_template_05_section_properties_box.png)
 
 
 #### Duplicate section
@@ -375,15 +372,15 @@ You can duplciate section fore more faster content making if it's used the same 
 
 1. Click on the content section you want to edit. The *blue border line* will show its area.
 
-![image](images/website_content/img_section_02_blue_border_line.png)
+   ![image](images/website_content/img_section_02_blue_border_line.png)
 
 2. Click **Duplicate Section** icon. The new section will be duplicated below this section you selected.
 
-![image](images/website_content/img_section_03_duplicate_section_icon.png)
+   ![image](images/website_content/img_section_03_duplicate_section_icon.png)
 
 3. You can start edit this duplicated section, it will not overwrite content and design in the original one.
 
-![image](images/website_content/img_section_04_new_duplicate_section.png)
+   ![image](images/website_content/img_section_04_new_duplicate_section.png)
 
 
 #### Move section
@@ -409,7 +406,7 @@ Content block is sub content areas *inside content section* that you can see the
 
 1. Click on the content block you want to edit. The tools will show to edit this block.
 
-![image](images/website_content/img_block_01_content_area.png)
+   ![image](images/website_content/img_block_01_content_area.png)
 
 2. Click **Edit Block** icon, and the **Block Properties** pops up which it allows you to change background image, set shadow, make section overlapping, and edit box border of this block.
 
@@ -421,25 +418,25 @@ Content block is sub content areas *inside content section* that you can see the
 
       *Reponsive Image Position*: Image alignment on responsive mode.
 
-![image](images/website_template/img_customise_template_02_section_properties_bg.png)
+      ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
 
    - **Shadow**
 
       You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+      ![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
 
    - **Overlap**
 
       You can make this block to overlap the above or below content block or being overlapped by them.
 
-![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+      ![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
 
    - **Box**
 
       Add and edit border of this block.
 
-![image](images/website_template/img_customise_template_05_section_properties_box.png)
+      ![image](images/website_template/img_customise_template_05_section_properties_box.png)
 
 #### Duplicate block
 
@@ -447,15 +444,15 @@ You can duplciate section fore more faster content making if it's used the same 
 
 1. Click on the content block you want to edit. The tools will show to edit this block.
 
-![image](images/website_content/img_block_01_content_area.png)
+   ![image](images/website_content/img_block_01_content_area.png)
 
 2. Click **Duplicate Block** icon. The new block will be duplicated next to this block you selected.
 
-![image](images/website_content/img_block_02_duplicate_block_icon.png)
+   ![image](images/website_content/img_block_02_duplicate_block_icon.png)
 
 3. You can start edit this duplicated block, it will not overwrite content and design in the original one.
 
-![image](images/website_content/img_block_03_new_duplicate_block.png)
+   ![image](images/website_content/img_block_03_new_duplicate_block.png)
 
 #### Move block
 
@@ -470,11 +467,11 @@ You can make content block display animation effect for being more wow.
 
 1. Click on the content block you want to edit. then click on **Animation** icon.
 
-![image](images/website_content/img_block_05_animation_icon.png)
+   ![image](images/website_content/img_block_05_animation_icon.png)
 
 2. Select an effect for your content block and give it the moving duration in second.
 
-![image](images/website_content/img_block_06_select_effect.png)
+   ![image](images/website_content/img_block_06_select_effect.png)
 
 
 #### Remove block
@@ -500,27 +497,27 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
   
 1. Place mouse on content section you want to insert Blog widget.
    
-![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
-![image](images/website_content/img_blog_widget_02_insert.png)
+   ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Section**.
 
-![image](images/website_content/img_blog_widget_03_insert_section.png)
+   ![image](images/website_content/img_blog_widget_03_insert_section.png)
 
 
 4. The inserted widget will be under the content section you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_04_ex_incert_section.png)
+   ![image](images/website_content/img_blog_widget_04_ex_incert_section.png)
 
 
 5. You can also edit section background the same way with section background of content.
 
-![image](images/website_content/img_blog_widget_05_section_properties.png)
+   ![image](images/website_content/img_blog_widget_05_section_properties.png)
 
 
 
@@ -529,27 +526,27 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
   
 1. Place mouse on content block you want to insert Blog widget.
    
-![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
-![image](images/website_content/img_blog_widget_02_insert.png)
+   ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Block**.
 
-![image](images/website_content/img_blog_widget_06_insert_block.png)
+   ![image](images/website_content/img_blog_widget_06_insert_block.png)
 
 
 4. The inserted widget will be next to content block you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_07_ex_incert_block.png)
+   ![image](images/website_content/img_blog_widget_07_ex_incert_block.png)
 
 
 5. You can also edit block background the same way with block background of content.
 
-![image](images/website_content/img_blog_widget_08_section_properties.png)
+   ![image](images/website_content/img_blog_widget_08_section_properties.png)
 
 
 
@@ -558,22 +555,22 @@ You can use Blog widget to insert your **Blog Catagory List** and **Recent Post 
   
 1. Place mouse on content area you want to insert Blog widget.
    
-![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
+   ![image](images/website_content/img_blog_widget_01_mouse_on_content.png)
 
 
 2. Use **Insert** tool, and **Widget**. 
 
-![image](images/website_content/img_blog_widget_02_insert.png)
+   ![image](images/website_content/img_blog_widget_02_insert.png)
 
 
 3. By hovering mouse on **Blog** widget, place to insert Blog Catagory List or Recent Post List, and select **Insert Element**.
 
-![image](images/website_content/img_blog_widget_09_insert_element.png)
+   ![image](images/website_content/img_blog_widget_09_insert_element.png)
 
 
 4. The inserted widget will be at the mouse position among the content you clicked by number 1. You can edit how this list display and its design in the List Setting panel.
    
-![image](images/website_content/img_blog_widget_10_recent_post_list_setting.png)
+   ![image](images/website_content/img_blog_widget_10_recent_post_list_setting.png)
 
 
 
@@ -591,56 +588,56 @@ You can insert connect link or hyperlink to your content and image by using **In
 
 1. Highlight *short content* or click on *an image*.
 
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 
 2. On **Insert** tool, place mouse on **Link** and select **Page**.
 
-![image](images/website_content/img_insert_link_02_page.png)
+   ![image](images/website_content/img_insert_link_02_page.png)
 
 
 3. All 3 page types you can insert this content or image to link to.
 
-- *Pages*
+   - *Pages*
   
-   You can link to any page on your website.
+      You can link to any page on your website.
 
-![image](images/website_content/img_insert_link_03_to_page.png)
+      ![image](images/website_content/img_insert_link_03_to_page.png)
 
    - *Blog*
 
       You can link to any blog post on your blog.
 
-![image](images/website_content/img_insert_link_04_to_blog.png)
+      ![image](images/website_content/img_insert_link_04_to_blog.png)
 
 
    - *System*
 
       You can link to any system page on your website such as Login page, Register page, etc.
 
-![image](images/website_content/img_insert_link_05_system.png)
+      ![image](images/website_content/img_insert_link_05_system.png)
 
-1. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
+4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
-![image](images/website_content/img_insert_link_06_page_setting_open.png)
+   ![image](images/website_content/img_insert_link_06_page_setting_open.png)
 
 ### Insert website as link
 
 1. Highlight *short content* or click on *an image*.
 
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 2. On **Insert** tool, place mouse on **Link** and select **Website**.
 
-![image](images/website_content/img_insert_link_07_website.png)
+   ![image](images/website_content/img_insert_link_07_website.png)
 
 3. You can link to any website by inserting URL here.
 
-![image](images/website_content/img_insert_link_08_website_url.png)
+   ![image](images/website_content/img_insert_link_08_website_url.png)
 
 4. Set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
-![image](images/website_content/img_insert_link_09_website_setting_open.png)
+   ![image](images/website_content/img_insert_link_09_website_setting_open.png)
 
 ### Insert send email as link
 
@@ -648,19 +645,19 @@ You can set the link to send email to you for more communication with your websi
 
 1. Highlight *short content* or click on *an image*.
 
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 2. On **Insert** tool, place mouse on **Link** and select **Email**.
 
-![image](images/website_content/img_insert_link_10_mail.png)
+   ![image](images/website_content/img_insert_link_10_mail.png)
 
 3. On **Set Email** tab, add Email address, subject to let your visitor write message directly to you here.
 
-![image](images/website_content/img_insert_link_11_set_email.png)
+   ![image](images/website_content/img_insert_link_11_set_email.png)
 
 4. on **Set Button** tab, set where link will be opened, and add the hover tooltips to display when mouse hover on it.
 
-![image](images/website_content/img_insert_link_12_email_setting_open.png)
+   ![image](images/website_content/img_insert_link_12_email_setting_open.png)
 
 
 ### Insert file downloading as link
@@ -669,19 +666,19 @@ You can insert file to be donwloaded for your website visitors.
 
 1. Highlight *short content* or click on *an image*.
 
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 2. On **Insert** tool, place mouse on **Link** and select **Files**.
 
-![image](images/website_content/img_insert_link_13_files.png)
+   ![image](images/website_content/img_insert_link_13_files.png)
 
 3. *Choose File* to upload, and select it from select field.
 
-![image](images/website_content/img_insert_link_14_choose_files.png)
+   ![image](images/website_content/img_insert_link_14_choose_files.png)
 
 4. Set where hover tooltips to display when mouse hover on it.
 
-![image](images/website_content/img_insert_link_15_tooltips_files.png)
+   ![image](images/website_content/img_insert_link_15_tooltips_files.png)
 
 ### Insert bookmark as link
 
@@ -690,34 +687,34 @@ You can insert file to be donwloaded for your website visitors.
 
 1. Highlight *short content* or click on *an image*.
 
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 2. On **Insert** tool, place mouse on **Link** and select **Bookmark**.
 
-![image](images/website_content/img_insert_link_16_bookmark.png)
+   ![image](images/website_content/img_insert_link_16_bookmark.png)
 
 3. Choose a bookmark from dropdown list.
 
-![image](images/website_content/img_insert_link_17_choose_bookmark.png)
+   ![image](images/website_content/img_insert_link_17_choose_bookmark.png)
 
 4. Set where hover tooltips to display when mouse hover on it.
 
-![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
+   ![image](images/website_content/img_insert_link_18_tooltips_bookmark.png)
 
 - **Set content as bookmark target**
 
 
 1. Highlight *short content* or click on *an image*.
    
-![image](images/website_content/img_insert_link_01_highlight.png)
+   ![image](images/website_content/img_insert_link_01_highlight.png)
 
 2. On **Insert** tool, place mouse on **Link** and select **Bookmark Target**.
 
-![image](images/website_content/img_insert_link_19_bookmark_target.png)
+   ![image](images/website_content/img_insert_link_19_bookmark_target.png)
 
 3. Name this bookmark target for selection purpose.
 
-![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
+   ![image](images/website_content/img_insert_link_19_bookmark_target_fill.png)
 
 ---------------------------------------------------------------------------------------------------
 
@@ -731,15 +728,15 @@ You can add button in content area for more connections.
 
 2. On Center menu, click "Insert" and select "Button".
 
-![image](images/website_content/img_insert_button_01.png)
+   ![image](images/website_content/img_insert_button_01.png)
 
 3. Select a design for your button.
 
-![image](images/website_content/img_insert_button_02_select.png)
+   ![image](images/website_content/img_insert_button_02_select.png)
 
 4. Click on button itself for more setting such as set it linked to external website url.
 
-![image](images/website_content/img_insert_button_03_edit_tools.png)
+   ![image](images/website_content/img_insert_button_03_edit_tools.png)
 
 ### Edit button
 
@@ -751,7 +748,7 @@ Click on the button to activate Button tools.
 
    On the **Button** panel, you can edit button style as unique as you want.
 
-  - **Style**
+   - **Style**
 
       You can change button design from here again.
 
@@ -807,13 +804,13 @@ The 3 image tools are right on the image you clicked; **Upload**, **Replace**, a
 
       3) Other image folders ; folders to select images from such as our own buit-images, images from your Instagram or facebook accounts.
 
-![image](images/website_content/img_insert_image_03_image_manager.png)
+      ![image](images/website_content/img_insert_image_03_image_manager.png)
 
 3. **Edit**
 
    Click this button in order to edit this image.
 
-![image](images/website_content/img_insert_image_04_edit_tools.png)
+   [image](images/website_content/img_insert_image_04_edit_tools.png)
 
 
 From left to right.
