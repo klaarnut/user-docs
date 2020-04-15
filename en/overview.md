@@ -1,9 +1,9 @@
 # RVsitebuilder end-user documentation
 
--   [Overview](#overview)
--   [RVsitebuilder Demo](#rvsitebuilder-demo)
--   [Getting RVsitebuilder](#getting-rvsitebuilder)
--   [Getting Support](#getting-support)
+- [Overview](#overview)
+- [RVsitebuilder Demo](#rvsitebuilder-demo)
+- [Getting RVsitebuilder](#getting-rvsitebuilder)
+- [Getting Support](#getting-support)
 
 ## Overview
 

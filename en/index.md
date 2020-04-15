@@ -16,16 +16,15 @@
     - [Online Form](online-form.md)
 
 - ## ![image](images/icon_blog.svg) Website Blog
-    - [Add New Blog](add-new-blog.md)
-    - [Add New Category](add-new-category.md)
-    - [Blog Design](blog-design.md)
+    - [Blog Post](blog-post.md)
+    - [Blog Category](blog-category.md)
     - [Blog Widgets](blog-widget.md)
     - [Blog Sharing](blog-sharing.md)
 
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)
     - [Website Meta Tag](website-meta-tag.md)
-    - [Blog SEO](creating-blog.md)
+    - [Blog SEO](blog-seo.md)
 
 - ## ![image](images/icon_email.svg) Website Email
     - [Setting Automation Emails](email-template.md)
@@ -41,6 +40,7 @@
 
 - ## ![image](images/icon_advanced.svg) Advanced
     - [CSS and Javascript Manaul Add](css-and-javascript.md)
+    - [Navigation and Menu on Mobile](navigation-menu-on-mobile.md)
 
 - ## ![image](images/icon_management.svg) Website Management
     - [Backing up Website](backup-website.md)
