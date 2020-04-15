@@ -23,33 +23,33 @@ Make your website way more you with the custom email template for emails sent ou
 
     There are 2 templates for 2 receivers.
 
-    1) User template, email templates to send to your website users.
+    1. User template, email templates to send to your website users.
 
-    ![image](images/email_template/img_email_03_user_menu.png)
+        ![image](images/email_template/img_email_03_user_menu.png)
 
-      -   **Master**, is to set an email template to globally use in every emails sent out.
+         -   **Master**, is to set an email template to globally use in every emails sent out.
 
-      -   **Form**, the email template to use with online form on your website.
+         -   **Form**, the email template to use with online form on your website.
 
-      -   **Member**, the email template to use with **Login** button on your website.
+         -   **Member**, the email template to use with **Login** button on your website.
 
-      -   _Reset password email_: the email to use when users use forget password function on website login area.
+              -   _Reset password email_: the email to use when users use forget password function on website login area.
 
-      -   _Verify Email_: email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
+              -   _Verify Email_: email approval for identifying the correct visitor email. Authentication your visitor by clicking confirm on their email.
 
-      -   _Welcome Email_: a greeting email which sends out when visitors approve the verification email.
+              -   _Welcome Email_: a greeting email which sends out when visitors approve the verification email.
 
-    2) Admin template, email templates to send to website admins on your website.
+    2. Admin template, email templates to send to website admins on your website.
 
-    ![image](images/email_template/img_email_04_admin_menu.png)
+        ![image](images/email_template/img_email_04_admin_menu.png)
 
-      -   **Master**, is to set an email template to globally use in every emails sent out.
+         -   **Master**, is to set an email template to globally use in every emails sent out.
 
-      -   **Member**, the email template to use to get alert from new users.
-
-          - **Online Form** : an alert email to inform all website admins when a new user has submitted online form on your website.
+         -   **Member**, the email template to use to get alert from new users.
   
-          - **New active user** **: an alert email to inform all website admin about new resgistered users.
+         -   **Online Form** : an alert email to inform all website admins when a new user has submitted online form on your website
+ 
+         - **New active user** : an alert email to inform all website admin about new resgistered users.
 
 4. **Edit company brand**
 

@@ -230,7 +230,7 @@ The current page that you’re working with. It comes with a symbol in front of 
 
     Rename this page and it will result on page name on Navigation, page’s URL, and Footer Sitemap.
 
--   **Set as draft**
+-   **Hide**
 
     Hide this page for when it’s not finished to be shown on website yet. Set it a draft page that you can work with it until it’s done as set it undrafted to show it on your website.
 
@@ -246,7 +246,7 @@ The current page that you’re working with. It comes with a symbol in front of 
 
     To insert embed meta tag that you would like search engines to track.
 
--   **Js/Css**
+-   **Css/Js**
 
     If you can write your own Javascript or CSS and would like to use it on your page, RVsitebuilder CMS allows it here.
 
