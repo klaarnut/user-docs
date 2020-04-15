@@ -1,7 +1,8 @@
 # Installation
 
-- [cPanel Control Panel](#cpanel-control-panel)
-- [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
+- [Installation](#installation)
+  - [cPanel Control Panel](#cpanel-control-panel)
+  - [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
 
 ## cPanel Control Panel
 
@@ -61,17 +62,17 @@ For other control panel systems or non-control panel domain name, you can simply
 5. Install RVsitebuilder directly on your domain name.
   
     1. Call the setup.php script for your domain name on browser http://mydomainname.com/rvsitebuilder/setup.php
-    ![image](images/install_nocp/Install-nocp-step1.png)
+        ![image](images/install_nocp/Install-nocp-step1.png)
 
-    1. Database and FTP setup 
-    ![image](images/install_nocp/Install-nocp-step2.png)
+    2. Database and FTP setup 
+        ![image](images/install_nocp/Install-nocp-step2.png)
 
-    1. website properties setup
-    ![image](images/install_nocp/Install-nocp-step3.png)
+    3. website properties setup
+        ![image](images/install_nocp/Install-nocp-step3.png)
 
-    1. Accept agreement and install.
-    ![image](images/install_nocp/Install-nocp-step4-1.png) 
-    ![image](images/install_nocp/Install-nocp-step4-2.png)
+    4. Accept agreement and install.
+        ![image](images/install_nocp/Install-nocp-step4-1.png) 
+        ![image](images/install_nocp/Install-nocp-step4-2.png)
  
 6. Once the installation is completed.
    RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!

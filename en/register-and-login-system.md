@@ -137,20 +137,20 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
 13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
 
+     1. Select google tab.
+     2. Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
+     3. Click OK to add these values to your form.
+
     ![image](images/register_and_login/img_google_login_config_01.png)
 
-     1) Select google tab.
-     2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
-     3) Click OK to add these values to your form.
+     4. On Login Setting, click open switch button.
+     5. Click "Preview"
+     6. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_google_login_config_02.png)
 
-     4) On Login Setting, click open switch button.
-     5) Click "Preview"
-     6) Click "Save" to save all of your setting above.
 
-
-14.  The Google Login single sign-on is available for your user to login to your website without make a new register.
+14.   The Google Login single sign-on is available for your user to login to your website without make a new register.
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-).
 
@@ -185,15 +185,15 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 14. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Facebook Login Setup.
    
-    1) Select facebook tab.
-    2) Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
-    3) Click OK to add these values to your form.
+    1. Select facebook tab.
+    2. Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
+    3. Click OK to add these values to your form.
  
     ![image](images/register_and_login/img_facebook_login_01.png)
 
-    4) On Login Setting, click open switch button.
-    5) Click "Preview"
-    6) Click "Save" to save all of your setting above.
+    4. On Login Setting, click open switch button.
+    5. Click "Preview"
+    6. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_facebook_login_02.png)
 
@@ -201,7 +201,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 
 
-1.  The Facebook Login single sign-on is available for your user to login to your website without make a new register.
+15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 
 ## Twitter Login Setup for Built-in Channels in your website
@@ -216,15 +216,15 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 5. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Twitter Login Setup.
 
-   1) Select twitter tab.
-   2) Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
-   3) Click OK to add these values to your form.
+   1. Select twitter tab.
+   2. Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
+   3. Click OK to add these values to your form.
 
     ![image](images/register_and_login/img_twitter_login_01.png)
 
-   4) On Login Setting, click "Apply" to apply your setting.
-   5) Click "Preview"
-   6) Click "Save" to save all of your setting above.
+   4. On Login Setting, click "Apply" to apply your setting.
+   5. Click "Preview"
+   6. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_twitter_login_02.png)
 
@@ -292,15 +292,15 @@ Then setup the login by following.
 
 13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
 
-    1)  Select LINE tab.
-    2)  Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
-    3)  Click OK to add these values to your form.
+    1. Select LINE tab.
+    2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
+    3. Click OK to add these values to your form.
 
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-    4) On Login Setting, click open switch button.
-    5) Click "Preview"
-    6) Click "Save" to save all of your setting above.
+    4. On Login Setting, click open switch button.
+    5. Click "Preview"
+    6. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_line_login_config_02.png)
 
