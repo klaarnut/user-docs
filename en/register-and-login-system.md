@@ -66,7 +66,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 -   [LINE](#linelogin)
 
 
-## Google Login Setup for Built-in Channels in your website
+## Google Login Setup
 
 ![image](images/login_system.png)
 
@@ -155,7 +155,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-).
 
 
-## ​Facebook Login Setup for Built-in Channels in your website
+## ​Facebook Login Setup
 
 1. Go to https://developers.facebook.com/apps , select **Create a New App**.
    
@@ -197,14 +197,10 @@ If Google Login returns error when visitors try to login, please contact your ho
 
     ![image](images/register_and_login/img_facebook_login_02.png)
 
-
-
-
-
 15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 
-## Twitter Login Setup for Built-in Channels in your website
+## Twitter Login Setup
 
 1. Go to https://apps.twitter.com/, select **Create New App**.
 
@@ -230,7 +226,7 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
-## LINE Login Setup for Built-in Channels in your website
+## LINE Login Setup
 
 To setup Line app as a login channel for your website, you will have to register your email address with Line first.
 
