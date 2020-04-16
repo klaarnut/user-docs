@@ -8,7 +8,7 @@ You can access any of your page to edit at anytime.
 
 น้องวุ่นเปลี่ยนรูปข้างล่างเป็น page manage นะตะ
 
-    ![image](images/blog_post/img_access_blog_01.png)
+![image](images/blog_post/img_access_blog_01.png)
 
 
 2. "Page Setting" tool is activated.
@@ -23,7 +23,7 @@ You can access any of your page to edit at anytime.
 
 น้องวุ่นเปลี่ยนรูปข้างล่างเป็น page manage นะคะ จะมี 4 ส่วน Recently , search, menu page แลัะ internal page
 
-    ![image](images/blog_post/img_access_blog_02.png)
+![image](images/blog_post/img_access_blog_02.png)
 
 3. You can click directly on page name to open its editor.
 
@@ -55,7 +55,7 @@ You can mange pages on your website by using Page Setting feature.
 
 *Rename* is to rename this page
 
-**Delete** is to delete this page from your website. If you linked it with a menu, the menu will be DELETED as well.
+*Delete* is to delete this page from your website. If you linked it with a menu, the menu will be DELETED as well.
 
 *Duplicate* is to duplicate this page both content and design, and may change its details later
 
