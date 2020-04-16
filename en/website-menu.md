@@ -1,8 +1,10 @@
 # Website Menu
 
-  - [Add new menu](#addnewmenu)
-  - [Rename menu](#renamemenu)
-  - [Add sub menu](#addsubmenu)
+- [Add New Menu](#add-new-menu)
+- [Add New Top Menu](#add-new-top-menu)
+- [Rename menu](#rename-menu)
+- [Add sub menu](#add-sub-menu)
+- [Delete Menu](#delete-menu)
 
 
 
@@ -14,7 +16,6 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 
 
-<a name="addnewmenu"></a>
 ## Add New Menu
 
 1. In Content editor, click "Menu" on floating menu, and select **Menu**.
@@ -49,7 +50,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 ---------------------------------------------------------------------------------------------------
 
-<a name="addnewmenu"></a>
+
 ## Add New Top Menu
 
 1. In Content editor, click "Top Menu" on floating menu, and select **Menu**.
@@ -106,9 +107,10 @@ You can also edit website branding at anytime by following this [guide](http://w
 
 RVsitebuilder 7 brings back membership area with full-featured authentication setting. You can enable Register/Login menu on yoour website by following this easy [guide](http://wun.cpedge.rvglobalsoft.net/docs/user-docs-recheck/en/register-and-login-system#built-in-register-and-login-setup)
 
+
 ---------------------------------------------------------------------------------------------------
 
-<a name="renamemenu"></a>
+
 ## Rename menu
 
 
@@ -129,7 +131,6 @@ RVsitebuilder 7 brings back membership area with full-featured authentication se
 
 
 
-<a name="addsubmenu"></a>
 ## Add sub menu
 
 1. In Content editor, click "Menu" on floating menu, and select **Menu**.
@@ -148,7 +149,7 @@ RVsitebuilder 7 brings back membership area with full-featured authentication se
 
   -------------------------------------------
 
- <a name="addsubmenu"></a>
+
 ## Delete Menu
 
 To delete menu is quite easy, but just make sure you really want to delete it.
