@@ -9,9 +9,10 @@
     - [Page Type](page-type.md)
 
 - ## ![image](images/icon_creating_website.svg) Creating Website
-    - [Website Template](website-template.md)
+    - [Website Design](website-design.md)
     - [Website Menu](website-menu.md)
     - [Website Content](website-content.md)
+    - [Page Management](page-management.md)
     - [Website Footer](website-footer.md)
     - [Online Form](online-form.md)
 
