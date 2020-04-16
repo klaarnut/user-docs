@@ -1,24 +1,19 @@
 # Website Template
 
 
-- [Website Template](#website-template)
-  - [Create a new site](#create-a-new-site)
-    - [By cPanel control panel](#by-cpanel-control-panel)
-    - [By your domain name](#by-your-domain-name)
-    - [Select Domain Name](#select-domain-name)
-    - [Select Template](#select-template)
-  - [Customise template](#customise-template)
-    - [Edit website banner](#edit-website-banner)
-      - [Hero Banner](#hero-banner)
-      - [Slide Banner](#slide-banner)
-    - [Edit website navigation style](#edit-website-navigation-style)
-      - [Top Menu](#top-menu)
-      - [Menu](#menu)
-    - [Sort Header Positions](#sort-header-positions)
-  - [Change template](#change-template)
-    - [Change Hero template to Slide](#change-hero-template-to-slide)
-    - [Change Slide template to Hero](#change-slide-template-to-hero)
-  - [Publish](#publish)
+- [Create a new site](#create-a-new-site)
+  - [By cPanel control panel](#by-cpanel-control-panel)
+  - [By your domain name](#by-your-domain-name)
+  - [Select Domain Name](#select-domain-name)
+  - [Select Template](#select-template)
+- [Customise template](#customise-template)
+  - [Edit website banner](#edit-website-banner)
+  - [Edit website navigation style](#edit-website-navigation-style)
+  - [Sort Header Positions](#sort-header-positions)
+- [Change template](#change-template)
+  - [Change Hero template to Slide](#change-hero-template-to-slide)
+  - [Change Slide template to Hero](#change-slide-template-to-hero)
+- [Publish](#publish)
 
 
 
@@ -228,13 +223,59 @@ You can select a Top Menu style anytime.
 
 **Edit Top Menu branding**
 
-1. At **Content** tab, click on the Menu icon and select **Top Menu**.
+1. In Content editor, click "Top Menu" on floating menu.
 
    ![image](images/website_template/img_website_template_content_topmenu_01_howtoclick.png)
 
 2. Click on website logo to change your own company logo and insert your company address.
 
    ![image](images/website_template/img_website_template_content_topmenu_02_select.png)
+
+
+**Edit Top Menu background**
+
+You can change backgrond color for Top Menu for when you want to make it more cheerful or when you care of the test might be sunk in it.
+
+1. In Content editor, click "Top Menu" on floating menu.
+
+   ![image](images/website_template/img_website_template_content_topmenu_01_howtoclick.png)
+
+
+2. Click on Top Menu to activate **Section Properties**. It allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
+
+น้องวุ่นแสดงการคลิกบน top menu เพื่อไปคลิก edit section ของ top menu ต่อ
+
+
+   - **Background**
+
+      *Fluid (full screen)*: Enable or disable a full screen section.
+
+      *Color* : Select background color by using color picker or choosing from a gradient color.
+
+      *Background Image*: You can upload your own image or select one from Image Manager.
+
+      *Reponsive Image Position*: Image alignment on responsive mode.
+   
+      ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
+
+   - **Shadow**
+
+      You can select 6 shadow preset styles which you can modify color and size on the below setting.
+
+      ![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+
+   - **Overlap**
+
+      You can make this section to overlap the above or below content section or being overlapped by them.
+
+      ![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+
+   - **Box**
+
+      Add and edit border of this section.
+
+      ![image](images/website_template/img_customise_template_05_section_properties_box.png)
+
 
 
 #### Menu
