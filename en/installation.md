@@ -74,15 +74,19 @@ For other control panel systems or non-control panel domain name, you can simply
 4. Install RVsitebuilder directly on your domain name.
   
     1. Call the setup.php script for your domain name on browser http://mydomainname.com/rvsitebuilder/setup.php
+
         ![image](images/install_nocp/Install-nocp-step1.png)
 
     2. Database and FTP setup 
+
         ![image](images/install_nocp/Install-nocp-step2.png)
 
     3. website properties setup
+
         ![image](images/install_nocp/Install-nocp-step3.png)
 
     4. Accept agreement and install.
+
         ![image](images/install_nocp/Install-nocp-step4-1.png) 
         ![image](images/install_nocp/Install-nocp-step4-2.png)
  
