@@ -1,17 +1,14 @@
 # Add New Blog
 
-- [Add New Blog](#add-new-blog)
-  - [Add New Post](#add-new-post)
-    - [Blog Layout](#blog-layout)
-    - [Blog content](#blog-content)
-      - [Editable section](#editable-section)
-      - [Widget sections](#widget-sections)
-  - [Manage current blog posts](#manage-current-blog-posts)
-    - [Access your blog posts](#access-your-blog-posts)
-    - [Blog management tools](#blog-management-tools)
-  - [Manage your Blog index](#manage-your-blog-index)
-    - [Blog index widget section](#blog-index-widget-section)
-  - [Publish Blog on your website](#publish-blog-on-your-website)
+- [Add New Post](#add-new-post)
+  - [Blog Layout](#blog-layout)
+  - [Blog content](#blog-content)
+- [Manage current blog posts](#manage-current-blog-posts)
+  - [Access your blog posts](#access-your-blog-posts)
+  - [Blog management tools](#blog-management-tools)
+- [Manage your Blog index](#manage-your-blog-index)
+  - [Blog index widget section](#blog-index-widget-section)
+- [Publish Blog on your website](#publish-blog-on-your-website)
 
 ## Add New Post
 
@@ -294,7 +291,7 @@ You can access any of your blog post as easy as access to page editor.
 
 ### Blog management tools
 
-Aside frpom creating new blog posts, you can also manage bog post the same way you manage pages on your website.
+Aside from creating new blog posts, you can also manage bog post the same way you manage pages on your website.
 
 1. On any current page or blog editor, click on **Site** menu and navigate to **Blog**.
 
@@ -354,3 +351,4 @@ There are 2 widgets section, Category list and Recent Post, allow to add in a bl
 Just click **Save** button, your blog will be online immediately on the navigation of your website.
 
 ![image](images/blog_post/img_publish_blog.png)
+
