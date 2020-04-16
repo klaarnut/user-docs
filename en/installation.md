@@ -89,4 +89,5 @@ For other control panel systems or non-control panel domain name, you can simply
 5. Once the installation is completed.
 
    RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!
+
     ![image](images/install_nocp/Install-nocp-step-login.png)
