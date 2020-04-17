@@ -38,24 +38,24 @@ For other control panel systems or non-control panel domain name, you can simply
    4. The new database appears in the Current Databases table.
       ![image](images/install_nocp/create-db-step4.png)
 
-- After you create a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:
+**After you create a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:**
 
-  1. Enter a username in the Username text box.
-  2. Enter and confirm the new password in the appropriate text boxes.
-  3. Click Create User.
-     ![image](images/install_nocp/create-db-step5.png)
+1. Enter a username in the Username text box.
+2. Enter and confirm the new password in the appropriate text boxes.
+3. Click Create User.
+   ![image](images/install_nocp/create-db-step5.png)
 
-  4. Click Go Back to return to the main interface.
-     ![image](images/install_nocp/create-db-step6.png)
+4. Click Go Back to return to the main interface.
+   ![image](images/install_nocp/create-db-step6.png)
 
-  Add a user to a database. To add a user to a database, perform the following steps:
+Add a user to a database. To add a user to a database, perform the following steps:
 
-  1. In the Add User To Database section of the interface, select the desired user and database from the menus. Click Add.
-     ![image](images/install_nocp/create-db-step7.png)
-  2. Select the checkboxes that correspond to the privileges that you wish to grant to the user. Click Make Changes. And click Go back to return to the main interface.
-     ![image](images/install_nocp/create-db-step8.png)
+1. In the Add User To Database section of the interface, select the desired user and database from the menus. Click Add.
+   ![image](images/install_nocp/create-db-step7.png)
+2. Select the checkboxes that correspond to the privileges that you wish to grant to the user. Click Make Changes. And click Go back to return to the main interface.
+   ![image](images/install_nocp/create-db-step8.png)
 
-4. Download RVsitebuilder Setup wizard
+3. Download RVsitebuilder Setup wizard
 
    1. Download RVsitebuilder Setup wizard https://files.mirror1.rvsitebuilder.com/download/rvsitebuilderinstaller/setup to your local computer.
    2. Click botton `Upload`.
@@ -72,7 +72,7 @@ For other control panel systems or non-control panel domain name, you can simply
    6. completed.
       ![image](images/install_nocp/upload5.png)
 
-5. Install RVsitebuilder directly on your domain name.
+4. Install RVsitebuilder directly on your domain name.
 
    1. Call the setup.php script for your domain name on browser http://mydomainname.com/rvsitebuilder/setup.php
       ![image](images/install_nocp/Install-nocp-step1.png)
@@ -87,6 +87,6 @@ For other control panel systems or non-control panel domain name, you can simply
       ![image](images/install_nocp/Install-nocp-step4-1.png)
       ![image](images/install_nocp/Install-nocp-step4-2.png)
 
-6. Once the installation is completed.
+5. Once the installation is completed.
    RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!
    ![image](images/install_nocp/Install-nocp-step-login.png)

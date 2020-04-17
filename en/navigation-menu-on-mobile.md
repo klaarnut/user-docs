@@ -14,15 +14,15 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
@@ -40,28 +40,27 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
     ```
 
     
-> class_name
-> 
-> selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
-> 
-> sitemapFooter {display:none;}   /*  to hide Sitemap Footer Section  */ 
-> 
-> poweredFooter {display:none;}  /*   to hide Powered Section */ 
+    > class_name
+    > 
+    > selected_topmenu {display:none;}  /*  to hide Topmenu Section  */ 
+    > 
+    > sitemapFooter {display:none;}   /*  to hide Sitemap Footer Section  */ 
+    > 
+    > poweredFooter {display:none;}  /*   to hide Powered Section */ 
     
-![image](images/navigation_menu_on_mobile/img_hide_login_04.png)
-
+    ![image](images/navigation_menu_on_mobile/img_hide_login_04.png)
 
 5. Save this on Site Config panel.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_05.png)
 
 6. Don't forget to Save by the main save button.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_07.png)
 
 
 ------------------------------------------------------------------------------------------------
@@ -73,15 +72,15 @@ If you change background color for **Top Menu** and it'squite dark that the menu
  
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
@@ -94,20 +93,19 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 
     ```
 
-
-![image](images/navigation_menu_on_mobile/img_change_font_color_01.png)
+    ![image](images/navigation_menu_on_mobile/img_change_font_color_01.png)
 
 5. Save this on Site Config panel.
 
-![image](images/navigation_menu_on_mobile/img_change_font_color_02.png)
+    ![image](images/navigation_menu_on_mobile/img_change_font_color_02.png)
 
 6. Don't forget to Save by the main save button.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_change_font_color_03.png)
+    ![image](images/navigation_menu_on_mobile/img_change_font_color_03.png)
 
  
 ------------------------------------------------------------------------------------------------
@@ -121,15 +119,15 @@ You can change it ligher for more visible menus.
 
 1. On Content editor, click on 3-dot and select "CSS/JS"
    
-![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_01.png)
 
 2. On Site Config panel, navigate to **Site** tab and select CMS from left menu. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_02.png)
 
 3. On Site Management, select **CSS/JS** tab. 
 
-![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_03.png)
 
 4. Insert the following code. 
 
@@ -155,16 +153,16 @@ You can change it ligher for more visible menus.
     </style> 
     ```
 
-![image](images/navigation_menu_on_mobile/img_change_background_color_01.png)
+    ![image](images/navigation_menu_on_mobile/img_change_background_color_01.png)
 
 5. Save this on Site Config panel.
 
-![image](images/navigation_menu_on_mobile/img_change_background_color_02.png)
+    ![image](images/navigation_menu_on_mobile/img_change_background_color_02.png)
 
 6. Don't forget to Save by the main save button.
 
-![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
+    ![image](images/navigation_menu_on_mobile/img_hide_login_06.png)
 
 7. You will get like this.
 
-![image](images/navigation_menu_on_mobile/img_change_background_color_03.png)
+    ![image](images/navigation_menu_on_mobile/img_change_background_color_03.png)
