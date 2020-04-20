@@ -1,19 +1,24 @@
 # Website Template
 
 
-- [Create a new site](#create-a-new-site)
-  - [By cPanel control panel](#by-cpanel-control-panel)
-  - [By your domain name](#by-your-domain-name)
-  - [Select Domain Name](#select-domain-name)
-  - [Select Template](#select-template)
-- [Customise template](#customise-template)
-  - [Edit website banner](#edit-website-banner)
-  - [Edit website navigation style](#edit-website-navigation-style)
-  - [Sort Header Positions](#sort-header-positions)
-- [Change template](#change-template)
-  - [Change Hero template to Slide](#change-hero-template-to-slide)
-  - [Change Slide template to Hero](#change-slide-template-to-hero)
-- [Publish](#publish)
+- [Website Template](#website-template)
+  - [Create a new site](#create-a-new-site)
+    - [By cPanel control panel](#by-cpanel-control-panel)
+    - [By your domain name](#by-your-domain-name)
+    - [Select Domain Name](#select-domain-name)
+    - [Select Template](#select-template)
+  - [Customise template](#customise-template)
+    - [Edit website banner](#edit-website-banner)
+      - [Hero Banner](#hero-banner)
+      - [Slide Banner](#slide-banner)
+    - [Edit website navigation style](#edit-website-navigation-style)
+      - [Top Menu](#top-menu)
+      - [Menu](#menu)
+    - [Sort Header Positions](#sort-header-positions)
+  - [Change template](#change-template)
+    - [Change Hero template to Slide](#change-hero-template-to-slide)
+    - [Change Slide template to Hero](#change-slide-template-to-hero)
+  - [Publish](#publish)
 
 
 
@@ -243,7 +248,7 @@ You can change backgrond color for Top Menu for when you want to make it more ch
 
 2. Click on Top Menu to activate **Section Properties**. It allows you to change background image, set shadow, make section overlapping, and edit box border of this section.
 
-น้องวุ่นแสดงการคลิกบน top menu เพื่อไปคลิก edit section ของ top menu ต่อ
+   ![image](images/website_template/img_edit_top_menu_background.png)
 
 
    - **Background**
