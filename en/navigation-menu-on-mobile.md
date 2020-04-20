@@ -1,14 +1,13 @@
 # Navigation and Menu on Mobile
 
-- [Navigation and Menu on Mobile](#navigation-and-menu-on-mobile)
-  - [Hide Register and Login menus on mobile mode](#hide-register-and-login-menus-on-mobile-mode)
-  - [Change Font color on Top menu for dark tone background color](#change-font-color-on-top-menu-for-dark-tone-background-color)
-  - [Change background color for Hamburger menu on mobile mode](#change-background-color-for-hamburger-menu-on-mobile-mode)
+- [Hide Register and Login](#hide-register-and-login)
+- [Change Font color on Top menu](#change-font-color-on-top-menu)
+- [Change background color for Hamburger menu](#change-background-color-for-hamburger-menu)
 
 Once you built your website perfectly in both content and design, you may want to make it a little different between opening your website on computer screen and mobile. 
 
 
-## Hide Register and Login menus on mobile mode
+## Hide Register and Login
 
 You can hide Register and Login menu on any device screens smaller than 1024px such as tablet and mobile.
 
@@ -66,7 +65,7 @@ You can hide Register and Login menu on any device screens smaller than 1024px s
 ------------------------------------------------------------------------------------------------
 
 
-## Change Font color on Top menu for dark tone background color 
+## Change Font color on Top menu
 
 If you change background color for **Top Menu** and it'squite dark that the menu names are sunk in. You can make it more visible by editing CSS/JS.
  
@@ -111,7 +110,7 @@ If you change background color for **Top Menu** and it'squite dark that the menu
 ------------------------------------------------------------------------------------------------
 
 
-## Change background color for Hamburger menu on mobile mode
+## Change background color for Hamburger menu
 
 The default background color for hamburger menu on device screens smalller than 1024px will be grey, such as on tablet and mobile.
 

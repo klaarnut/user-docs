@@ -172,4 +172,4 @@ It will delete menu from website navigation but the page it's linked to still re
 
   ![image](images/website_menu/Menu_20_delete_menu_site.png)
 
-4. If you want to delete page as well. Please follow this [guide](page-management.md)
+4. If you want to delete page as well. Please follow this [guide](page-management.md#page-management-tools)

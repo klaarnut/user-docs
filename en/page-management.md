@@ -1,6 +1,9 @@
 # Page Management
 
-### Edit page
+- [Edit page](#edit-page)
+- [Page management tools](#page-management-tools)
+  
+## Edit page
 
 You can access any of your page to edit at anytime.
 
@@ -29,7 +32,7 @@ You can access any of your page to edit at anytime.
 --------------------------------------------------------------------
 
 
-### Page management tools
+## Page management tools
 
 You can mange pages on your website by using Page Setting feature.
 
@@ -51,10 +54,10 @@ You can mange pages on your website by using Page Setting feature.
 
    - *Duplicate* is to duplicate this page both content and design, and may change its details later
 
-   - *SEO* is to add SEO to your page for being more reached and found when readers search on search engine. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-seo.md).
+   - *SEO* is to add SEO to your page for being more reached and found when readers search on search engine. Full guide is [here](website-seo.md).
 
-   - *Meta Tag* is to insert meta tag and meta descritpion. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-meta-tag.md).
+   - *Meta Tag* is to insert meta tag and meta descritpion. Full guide is [here](website-meta-tag.md).
 
-   - *CSS/JS* is to insert CSS and javascript code to this page. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/css-and-javascript.md).
+   - *CSS/JS* is to insert CSS and javascript code to this page. Full guide is [here](css-and-javascript.md).
 
-   - *Visibility* is to set to whom your page will be visible to, public, all members, or restricted members. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/page-visibility.md).
+   - *Visibility* is to set to whom your page will be visible to, public, all members, or restricted members. Full guide is [here](page-visibility.md).

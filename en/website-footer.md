@@ -1,9 +1,9 @@
 # Website Footer
-- [Website Footer](#website-footer)
-  - [Footer Design](#footer-design)
-  - [Information Setting](#information-setting)
-  - [Contact Us Setting](#contact-us-setting)
-  - [Social Media Setting](#social-media-setting)
+
+- [Footer Design](#footer-design)
+- [Information Setting](#information-setting)
+- [Contact Us Setting](#contact-us-setting)
+- [Social Media Setting](#social-media-setting)
 
 
 

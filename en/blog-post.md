@@ -81,7 +81,7 @@ The only editable area on blog is blog content which you can notice it with "YOU
 
 1. **Content**
 
-    Start typing what you want to share on your blog post. All text tools and functions are same as wesbite content you can see full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#add-content-and-font).
+    Start typing what you want to share on your blog post. All text tools and functions are same as wesbite content you can see full guide [here](website-content.md#add-content-and-font).
 
     ![image](images/blog_post/img_blog_content_02_content.png)
 
@@ -89,15 +89,15 @@ The only editable area on blog is blog content which you can notice it with "YOU
 
     You can also design blog content are by using Section Properties and Block Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
-    Block Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-block-design).
+    Block Properties full guide [here](website-content.md#content-block-design).
     
     ![image](images/blog_post/img_blog_content_03_design.png)
 
 3. **Add more blog section**
    
-    You can add more blog section to continue your long post or separate its content by using Section on the floating menu. Or see our full Content Section guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#add-new-content-section).
+    You can add more blog section to continue your long post or separate its content by using Section on the floating menu. Or see our full Content Section guide [here](website-content.md#add-new-content-section).
 
     ![image](images/blog_post/img_blog_content_04_add_section.png)
 
@@ -127,7 +127,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 2. **Post Info widget**
 
@@ -155,7 +155,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 3. **Category List widget**
 
@@ -182,7 +182,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 4. **Recent Post**
 
@@ -212,7 +212,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 5. **Posts in Category**
 
@@ -240,7 +240,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 6. **Next and Previous**
 
@@ -262,7 +262,7 @@ Aside from blog content area, you will see many parts specified with "Widget" sy
 
     You can edit design of this widget by using Section Properties.
    
-    Section Properties full guide [here](https://user.rvsitebuilder.com/docs/master/en/website-content.md#content-section-design).
+    Section Properties full guide [here](website-content.md#content-section-design).
 
 
 ## Manage current blog posts
@@ -311,13 +311,13 @@ Aside from creating new blog posts, you can also manage bog post the same way yo
 
     *Duplicate* is to duplicate this post and may change its details later
 
-    *SEO* is to add SEO to your blog post for being more reached and found when readers search on search engine. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-seo.md).
+    *SEO* is to add SEO to your blog post for being more reached and found when readers search on search engine. Full guide is [here](blog-seo.md).
 
-    *Meta Tag* is to insert meta tag and meta descritpion. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/website-meta-tag.md).
+    *Meta Tag* is to insert meta tag and meta descritpion. Full guide is [here](website-meta-tag.md).
 
-    *CSS/JS* is to insert CSS and javascript code to this post. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/css-and-javascript.md).
+    *CSS/JS* is to insert CSS and javascript code to this post. Full guide is [here](css-and-javascript.md).
 
-    *Visibility* is to set to whom your post will be visible to, public, all members, or restricted members. Full guide is [here](https://user.rvsitebuilder.com/docs/master/en/page-visibility.md).
+    *Visibility* is to set to whom your post will be visible to, public, all members, or restricted members. Full guide is [here](page-visibility.md).
 
 
 ## Manage your Blog index
