@@ -50,7 +50,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 **Change design of Menu**
 
-You can change design for your website navigation by following this [guide](http://wun.cpedge.rvglobalsoft.net/docs/user-docs-recheck/en/website-template#menu)
+You can change design for your website navigation by following this [guide](website-design.md)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -110,7 +110,7 @@ You can also edit website branding at anytime by following this [guide](http://w
 
 **Register and Login menu**
 
-RVsitebuilder 7 brings back membership area with full-featured authentication setting. You can enable Register/Login menu on yoour website by following this easy [guide](http://wun.cpedge.rvglobalsoft.net/docs/user-docs-recheck/en/register-and-login-system#built-in-register-and-login-setup)
+RVsitebuilder 7 brings back membership area with full-featured authentication setting. You can enable Register/Login menu on yoour website by following this easy [guide](register-and-login-system.md)
 
 **Change design of Top Menu**
 
