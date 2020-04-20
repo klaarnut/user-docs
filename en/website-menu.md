@@ -1,11 +1,10 @@
 # Website Menu
 
-- [Website Menu](#website-menu)
-  - [Add New Menu](#add-new-menu)
-  - [Add New Top Menu](#add-new-top-menu)
-  - [Rename menu](#rename-menu)
-  - [Add sub menu](#add-sub-menu)
-  - [Delete Menu](#delete-menu)
+- [Add New Menu](#add-new-menu)
+- [Add New Top Menu](#add-new-top-menu)
+- [Rename menu](#rename-menu)
+- [Add sub menu](#add-sub-menu)
+- [Delete Menu](#delete-menu)
 
 
 
@@ -13,7 +12,7 @@ First, a little to know is adding Menu and adding Page are not the same part.
 
 Adding menu is to add new Top Menu or Menu on website navigation. You can define **Page** for the new added menu immediately or later.
 
-Adding page is to add new content area for your new content. It WILL NOT appear on website navigation unless you add it to a Menu. See guide [here](website-content.md).
+Adding page is to add new content area for your new content. It WILL NOT appear on website navigation unless you add it to a Menu. See guide [here](website-content.md#add-new-page).
 
 
 
@@ -51,7 +50,7 @@ Adding page is to add new content area for your new content. It WILL NOT appear 
 
 **Change design of Menu**
 
-You can change design for your website navigation by following this [guide](website-design.md)
+You can change design for your website navigation by following this [guide](website-design.md#menu)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -100,7 +99,7 @@ You can add more Top Menu for the purpose of quicker contact such as Help or Con
 
 **Edit Website Branding**
 
-You can also edit website branding at anytime by following this [guide](http://wun.cpedge.rvglobalsoft.net/docs/user-docs-recheck/en/website-template#top-menu)
+You can also edit website branding at anytime by following this [guide](website-design.md#top-menu)
 
 
 **Register and Login menu**
@@ -109,7 +108,7 @@ RVsitebuilder 7 brings back membership area with full-featured authentication se
 
 **Change design of Top Menu**
 
-You can change design for your website navigation by following this [guide](http://wun.cpedge.rvglobalsoft.net/docs/user-docs-recheck/en/website-template#top-menu)
+You can change design for your website navigation by following this [guide](website-design.md#top-menu)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -173,4 +172,4 @@ It will delete menu from website navigation but the page it's linked to still re
 
   ![image](images/website_menu/Menu_20_delete_menu_site.png)
 
-4. If you want to delete page as well. Please follow this [guide](......)
+4. If you want to delete page as well. Please follow this [guide](page-management.md)
