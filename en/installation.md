@@ -1,10 +1,10 @@
 # Installation
 
-- [Installation](#installation)
-  - [cPanel Control Panel](#cpanel-control-panel)
-  - [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
 
-## Control Panel
+- [Control Panel Installation](#control-panel-installation)
+- [Web Installation](#web-installation)
+
+## Control Panel Installation
 
 RVsitebuilder 7 can install on control panel system by server administrator. If you don't own a server you can find one from our hosting partner below.
 
@@ -12,9 +12,9 @@ RVsitebuilder 7 can install on control panel system by server administrator. If 
 
 2. Then you can access to RVsitebuilder immediately from [your control panel](website-design.md#create-a-new-site) and start your website!
 
-## Web Installer
+## Web Installation
 
-RVsitebuilder 7 can also install on every domain name. **If you have a Host Provider who provides you a control panel account by Control Panel above. You don't have to install it by yourself and can ignore this.**
+RVsitebuilder 7 can also install on every domain name. **If you have a Host Provider who provides you a control panel account by Control Panel Installation above. You don't have to install it by yourself and can ignore this.**
 
 1. Get a control panel account or domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
 
@@ -45,7 +45,7 @@ RVsitebuilder 7 can also install on every domain name. **If you have a Host Prov
 
       ![image](images/install_nocp/create-db-step4.png)
 
-**After you create a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:**
+**After you created a database, add users to the database and configure their privileges. To create a new user account, perform the following steps:**
 
 1. Enter a username in the Username text box.
 2. Enter and confirm the new password in the appropriate text boxes.
