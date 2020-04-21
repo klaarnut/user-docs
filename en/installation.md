@@ -16,9 +16,9 @@ RVsitebuilder 7 can install on control panel system by server administrator. If 
 
 RVsitebuilder 7 can also install on every domain name. **If you have a Host Provider who provides you a control panel account by Control Panel Installation above. You don't have to install it by yourself and can ignore this.**
 
-1. Get a control panel account or domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
+1. Get a domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
 
-2. Make your control panel account meet with the following requirements.
+2. Make your domain configuration meet with the following requirements.
 
    - Domain name must run on PHP7.1.3 or above.
    - php extension: 'mysqlnd','pdo','gd','curl','iconv','mbstring','zip','posix_getpwuid','json'
