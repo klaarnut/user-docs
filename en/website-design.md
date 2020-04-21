@@ -1,19 +1,24 @@
 # Website Design
 
 
-- [Create a new site](#create-a-new-site)
-  - [By cPanel control panel](#by-cpanel-control-panel)
-  - [By your domain name](#by-your-domain-name)
-  - [Select Domain Name](#select-domain-name)
-  - [Select Template](#select-template)
-- [Customise template](#customise-template)
-  - [Edit website banner](#edit-website-banner)
-  - [Edit website navigation style](#edit-website-navigation-style)
-  - [Sort Header Positions](#sort-header-positions)
-- [Change template](#change-template)
-  - [Change Hero template to Slide](#change-hero-template-to-slide)
-  - [Change Slide template to Hero](#change-slide-template-to-hero)
-- [Publish](#publish)
+- [Website Design](#website-design)
+  - [Create a new site](#create-a-new-site)
+    - [By cPanel control panel](#by-cpanel-control-panel)
+    - [By your domain name](#by-your-domain-name)
+    - [Select Domain Name](#select-domain-name)
+    - [Select Template](#select-template)
+  - [Customise template](#customise-template)
+    - [Edit website banner](#edit-website-banner)
+      - [Hero Banner](#hero-banner)
+      - [Slide Banner](#slide-banner)
+    - [Edit website navigation style](#edit-website-navigation-style)
+      - [Top Menu](#top-menu)
+      - [Menu](#menu)
+    - [Sort Header Positions](#sort-header-positions)
+  - [Change template](#change-template)
+    - [Change Hero template to Slide](#change-hero-template-to-slide)
+    - [Change Slide template to Hero](#change-slide-template-to-hero)
+  - [Publish](#publish)
 
 
 
@@ -256,25 +261,25 @@ You can change backgrond color for Top Menu for when you want to make it more ch
 
       *Reponsive Image Position*: Image alignment on responsive mode.
    
-      ![image](images/website_template/img_customise_template_02_section_properties_bg.png)
+      ![image](images/website_template/img_edit_top_menu_modify_background.png)
 
    - **Shadow**
 
       You can select 6 shadow preset styles which you can modify color and size on the below setting.
 
-      ![image](images/website_template/img_customise_template_03_section_properties_shadow.png)
+      ![image](images/website_template/img_edit_top_menu_modify_shadow.png)
 
    - **Overlap**
 
       You can make this section to overlap the above or below content section or being overlapped by them.
 
-      ![image](images/website_template/img_customise_template_04_section_properties_overlap.png)
+      ![image](images/website_template/img_edit_top_menu_modify_overlap.png)
 
    - **Box**
 
       Add and edit border of this section.
 
-      ![image](images/website_template/img_customise_template_05_section_properties_box.png)
+      ![image](images/website_template/img_edit_top_menu_modify_box.png)
 
 
 
