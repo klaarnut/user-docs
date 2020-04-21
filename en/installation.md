@@ -110,6 +110,6 @@ RVsitebuilder 7 can also install on every domain name. **If you have a Host Prov
       ![image](images/install_nocp/Install-nocp-step4-2.png)
 
 5. Once the installation is completed.
-   RVsitebuilder CMS is ready to [create website](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) on your domain now!
+   RVsitebuilder CMS is ready to [create website]((website-design.md#create-a-new-site) on your domain now!
 
    ![image](images/install_nocp/Install-nocp-step-login.png)
