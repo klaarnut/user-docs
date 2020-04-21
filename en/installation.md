@@ -4,15 +4,17 @@
   - [cPanel Control Panel](#cpanel-control-panel)
   - [Other Control Panel Systems and Non-control panel](#other-control-panel-systems-and-non-control-panel)
 
-## cPanel Control Panel
+## Control Panel
 
-1. You can buy hosting service from our cPanel [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed.
+RVsitebuilder 7 can install on control panel system by server administrator. If you don't own a server you can find one from our hosting partner below.
 
-2. Then you can access to RVsitebuilder immediately from [your cPanel control panel](https://user.rvsitebuilder.com/docs/7.2/en/create-new-website) and start your website!
+1. You can buy hosting service from our [hosting partners](https://rvsitebuilder.com/hosting-partner/) to get a control panel account with RVsitebuilder that's already installed.
 
-## Other Control Panel Systems and Non-control panel
+2. Then you can access to RVsitebuilder immediately from [your control panel](website-design.md#create-a-new-site) and start your website!
 
-For other control panel systems or non-control panel domain name, you can simply follow these steps.
+## Web Installer
+
+RVsitebuilder 7 can also install on every domain name. **If you have a Host Provider who provides you a control panel account by Control Panel above. You don't have to install it by yourself and can ignore this.**
 
 1. Get a control panel account or domain name on a server that already has RVsitebuilder license from your host provider or find one in our [hosting partners](https://rvsitebuilder.com/hosting-partner/) list.
 

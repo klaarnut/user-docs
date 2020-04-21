@@ -1,24 +1,19 @@
-# Website Template
+# Website Design
 
 
-- [Website Template](#website-template)
-  - [Create a new site](#create-a-new-site)
-    - [By cPanel control panel](#by-cpanel-control-panel)
-    - [By your domain name](#by-your-domain-name)
-    - [Select Domain Name](#select-domain-name)
-    - [Select Template](#select-template)
-  - [Customise template](#customise-template)
-    - [Edit website banner](#edit-website-banner)
-      - [Hero Banner](#hero-banner)
-      - [Slide Banner](#slide-banner)
-    - [Edit website navigation style](#edit-website-navigation-style)
-      - [Top Menu](#top-menu)
-      - [Menu](#menu)
-    - [Sort Header Positions](#sort-header-positions)
-  - [Change template](#change-template)
-    - [Change Hero template to Slide](#change-hero-template-to-slide)
-    - [Change Slide template to Hero](#change-slide-template-to-hero)
-  - [Publish](#publish)
+- [Create a new site](#create-a-new-site)
+  - [By cPanel control panel](#by-cpanel-control-panel)
+  - [By your domain name](#by-your-domain-name)
+  - [Select Domain Name](#select-domain-name)
+  - [Select Template](#select-template)
+- [Customise template](#customise-template)
+  - [Edit website banner](#edit-website-banner)
+  - [Edit website navigation style](#edit-website-navigation-style)
+  - [Sort Header Positions](#sort-header-positions)
+- [Change template](#change-template)
+  - [Change Hero template to Slide](#change-hero-template-to-slide)
+  - [Change Slide template to Hero](#change-slide-template-to-hero)
+- [Publish](#publish)
 
 
 
