@@ -1,24 +1,19 @@
 # Website Design
 
 
-- [Website Design](#website-design)
-  - [Create a new site](#create-a-new-site)
-    - [By cPanel control panel](#by-cpanel-control-panel)
-    - [By your domain name](#by-your-domain-name)
-    - [Select Domain Name](#select-domain-name)
-    - [Select Template](#select-template)
-  - [Customise template](#customise-template)
-    - [Edit website banner](#edit-website-banner)
-      - [Hero Banner](#hero-banner)
-      - [Slide Banner](#slide-banner)
-    - [Edit website navigation style](#edit-website-navigation-style)
-      - [Top Menu](#top-menu)
-      - [Menu](#menu)
-    - [Sort Header Positions](#sort-header-positions)
-  - [Change template](#change-template)
-    - [Change Hero template to Slide](#change-hero-template-to-slide)
-    - [Change Slide template to Hero](#change-slide-template-to-hero)
-  - [Publish](#publish)
+- [Create a new site](#create-a-new-site)
+  - [By cPanel control panel](#by-cpanel-control-panel)
+  - [By your domain name](#by-your-domain-name)
+  - [Select Domain Name](#select-domain-name)
+  - [Select Template](#select-template)
+- [Customise template](#customise-template)
+  - [Edit website banner](#edit-website-banner)
+  - [Edit website navigation style](#edit-website-navigation-style)
+  - [Sort Header Positions](#sort-header-positions)
+- [Change template](#change-template)
+  - [Change Hero template to Slide](#change-hero-template-to-slide)
+  - [Change Slide template to Hero](#change-slide-template-to-hero)
+- [Publish](#publish)
 
 
 
@@ -36,7 +31,7 @@
 
 ### By your domain name
 
-1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/master/en/website-membership).
+1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](website-membership.md).
    
 2. Enter admin login.
    
@@ -406,7 +401,7 @@ You may feel the slide images on Header are none of use by some reason.
 
       ![image](images/website_template/img_changetemplate_slide_hero_02_remove_slide.png)
 
-  3. On this remaining image, edit it as you want it to be. You can see how to customise banner are below at [Customise template](#customisetemplate)
+  3. On this remaining image, edit it as you want it to be. You can see how to customise banner at [Customise template](#customise-template)
 
       ![image](images/website_template/img_changetemplate_slide_hero_03_section_properties.png)
 
