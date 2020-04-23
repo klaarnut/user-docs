@@ -7,7 +7,7 @@
 
 # 1-Click Installation
 
-RVsitebuilder 7 can install on control panel system by server administrator. RVsitebuilder 7 can easy install by just one click on your control panel.
+RVsitebuilder 7 can easy install by just one click on your control panel.
 
 ## RVsitebuilder icon is available in your control panel
 
