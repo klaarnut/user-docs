@@ -18,7 +18,7 @@ If your cPanel control panel has RVsitebuilder already. You can start create web
 
 ## RVsitebuilder icon is not available
 
-If it doens't have RVsitebuilder on your control panel, you can ask your host provider to install it for you.
+If it doesn't have RVsitebuilder on your control panel, you can ask your host provider to install it for you.
 
 ## You don't have control panel
 
