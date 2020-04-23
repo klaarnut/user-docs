@@ -1,22 +1,22 @@
 # Installation
 
 
-- [RVsitebuilder icon is available in your control panel](#rvsitebuilder-icon-is-available-in-your-control-panel)
-- [RVsitebuilder icon is not available](#rvsitebuilder-icon-is-not-available)
+- [RVsitebuilder icon is available on your control panel](#rvsitebuilder-icon-is-available-on-your-control-panel)
+- [RVsitebuilder icon is not available on control panel](#rvsitebuilder-icon-is-not-available-on-control-panel)
 - [You don't have control panel](#you-dont-have-control-panel)
 
 # 1-Click Installation
 
 RVsitebuilder 7 can easy install by just one click on your control panel.
 
-## RVsitebuilder icon is available in your control panel
+## RVsitebuilder icon is available on your control panel
 
 If your cPanel control panel has RVsitebuilder already. You can start create website immediately by this [guide](website-design.md#create-a-new-site).
 
    ![image](images/website_template/img_create_newsite_01_cPanel.png)
 
 
-## RVsitebuilder icon is not available
+## RVsitebuilder icon is not available on control panel
 
 If it doesn't have RVsitebuilder on your control panel, you can ask your host provider to install it for you.
 
