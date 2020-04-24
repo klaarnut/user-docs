@@ -14,17 +14,17 @@ But in case if sometimes you really want to add Javascript/Css on your page in o
 
 2. At Content tab, click on any content section of the page you want. On **Section Editor**, click on **html mode**.
 
-_javascript is supported here, you dont need to insert script in File Manager_
+    _javascript is supported here, you dont need to insert script in File Manager_
 
-![image](images/css_javascrip/img_css_javascript_01_icon.png)
+    ![image](images/css_javascrip/img_css_javascript_01_icon.png)
 
 3. Insert the Javascript/Css
 
-![image](images/css_javascrip/img_css_javascript_02_html_mode.png)
+    ![image](images/css_javascrip/img_css_javascript_02_html_mode.png)
 
 4. Click **Ok** to save.
 
-![image](images/css_javascrip/img_css_javascript_03_ok.png)
+    ![image](images/css_javascrip/img_css_javascript_03_ok.png)
 
 5. Don't forget to click **Save** on content editor.
 
@@ -36,21 +36,21 @@ _javascript is supported here, you dont need to insert script in File Manager_
 
 1. On Content editor, click **Site** -> **Page Management** icon
 
-![image](images/css_javascrip/img_css_javascript_04_site.png)
+    ![image](images/css_javascrip/img_css_javascript_04_site.png)
 
 2. On **Site Config** panel.
 
-![image](images/css_javascrip/img_css_javascript_05_site_config.png)
+   1. Click **Site**
 
-1) Click **Site**
+   2. Select **CMS**
 
-2) Select **CMS**
+   3. Select **CSS/JS**
 
-3) Select **CSS/JS**
+   4. Insert CSS or JavaScript
 
-4) Insert CSS or JavaScript
+   5. Click **Save**
 
-5) Click **Save**
+    ![image](images/css_javascrip/img_css_javascript_05_site_config.png)
 
 3. Don't forget to click **Save** on content editor.
 

@@ -1,8 +1,8 @@
 # Online Form
 
--   [Add New Form](#add-new-form)
--   [Form Design](#form-design)
--   [Email Setup](#email-setup)
+- [Add New Form](#add-new-form)
+- [Form Design](#form-design)
+- [Email Setup](#email-setup)
 
 
 Online Form is frequently used on a website that needs more communication between you, the website owner, and website users. 

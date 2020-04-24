@@ -22,7 +22,7 @@
 
 Top Bar menus will be all time available on CMS for the easier and faster access.
 
-![image](images/create_database/create-db-step1.png)
+![image](images/admin_interface/admintopbar.png)
 
 From left to right
 
@@ -40,7 +40,7 @@ To show who is (you are) working now. Click on it and select.
 
 ## Left Menu
 
-![image](images/leftmenu.png)
+![image](images/admin_interface/leftmenu.png)
 
 ### Template
 

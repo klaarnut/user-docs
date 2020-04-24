@@ -66,7 +66,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 -   [LINE](#linelogin)
 
 
-## Google Login Setup for Built-in Channels in your website
+## Google Login Setup
 
 ![image](images/login_system.png)
 
@@ -119,44 +119,43 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
     ![image](images/loginSystem2.png)
 
-9.  The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
+9. The **Client ID** and **Client Secret** are showing that you can copy before leaving this page by clicking **OK**.
 
     ![image](images/mkt12.png)
 
-10.  Once you clicked OK to leave OAuth client, at Google APIs page, select **Library**.
+10. Once you clicked OK to leave OAuth client, at Google APIs page, select **Library**.
+    
     ![image](images/mkt13.png)
 
-11.   Search for the following API setups to **Enable** them.
+11. Search for the following API setups to **Enable** them.
 
     ![image](images/loginSystem3.png)
 
-12.  Click ***Enable*** to activate the API.*
+12. Click ***Enable*** to activate the API.*
 
     ![image](images/loginSystem4.png)
 
-13.   Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
+13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
+
+     1. Select google tab.
+     2. Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
+     3. Click OK to add these values to your form.
 
     ![image](images/register_and_login/img_google_login_config_01.png)
 
-<!-- 1) Slide the slidable button to activate Google Login. -->
-     1) Select google tab.
-     2) Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
-     3) Click OK to add these values to your form.
-<!-- 4) On Login Setting, click "Apply" to apply your setting. -->
+     4. On Login Setting, click open switch button.
+     5. Click "Preview"
+     6. Click "Save" to save all of your setting above.
 
-![image](images/register_and_login/img_google_login_config_02.png)
-
-     4) On Login Setting, click open switch button.
-     5) Click "Preview"
-     6) Click "Save" to save all of your setting above.
+    ![image](images/register_and_login/img_google_login_config_02.png)
 
 
-13. The Google Login single sign-on is available for your user to login to your website without make a new register.
+14.   The Google Login single sign-on is available for your user to login to your website without make a new register.
 
 If Google Login returns error when visitors try to login, please contact your host provider to allow google rule_id in ModSecurity by this [guide](https://support.rvglobalsoft.com/hc/en-us/articles/360019136994-Google-Login-on-My-website-is-giving-error-when-visitors-try-to-login-).
 
 
-## ​Facebook Login Setup for Built-in Channels in your website
+## ​Facebook Login Setup
 
 1. Go to https://developers.facebook.com/apps , select **Create a New App**.
    
@@ -185,27 +184,23 @@ If Google Login returns error when visitors try to login, please contact your ho
 13. Facebook API management page will display **App ID** and **App secret**.
 
 14. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Facebook Login Setup.
-
-<!-- 1) Slide the slidable button to activate Google Login. -->
-        1) Select facebook tab.
-        2) Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
-        3) Click OK to add these values to your form.
    
- ![image](images/register_and_login/img_facebook_login_01.png)
+    1. Select facebook tab.
+    2. Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
+    3. Click OK to add these values to your form.
+ 
+    ![image](images/register_and_login/img_facebook_login_01.png)
 
-<!-- 4) On Login Setting, click "Apply" to apply your setting. -->
-        4) On Login Setting, click open switch button.
-        5) Click "Preview"
-        6) Click "Save" to save all of your setting above.
+    4. On Login Setting, click open switch button.
+    5. Click "Preview"
+    6. Click "Save" to save all of your setting above.
 
-![image](images/register_and_login/img_facebook_login_02.png)
+    ![image](images/register_and_login/img_facebook_login_02.png)
 
-
-
-1.  The Facebook Login single sign-on is available for your user to login to your website without make a new register.
+15. The Facebook Login single sign-on is available for your user to login to your website without make a new register.
 
 
-## Twitter Login Setup for Built-in Channels in your website
+## Twitter Login Setup
 
 1. Go to https://apps.twitter.com/, select **Create New App**.
 
@@ -217,25 +212,21 @@ If Google Login returns error when visitors try to login, please contact your ho
 
 5. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Twitter Login Setup.
 
-<!-- 1) Slide the slidable button to activate Google Login. -->
-      1) Select twitter tab.
-      2) Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
-      3) Click OK to add these values to your form.
+   1. Select twitter tab.
+   2. Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
+   3. Click OK to add these values to your form.
 
-![image](images/register_and_login/img_twitter_login_01.png)
+    ![image](images/register_and_login/img_twitter_login_01.png)
 
-      4) On Login Setting, click "Apply" to apply your setting.
-      5) Click "Preview"
-      6) Click "Save" to save all of your setting above.
+   4. On Login Setting, click "Apply" to apply your setting.
+   5. Click "Preview"
+   6. Click "Save" to save all of your setting above.
 
-![image](images/register_and_login/img_twitter_login_02.png)
-
-
+    ![image](images/register_and_login/img_twitter_login_02.png)
 
 6. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
 
-
-## LINE Login Setup for Built-in Channels in your website
+## LINE Login Setup
 
 To setup Line app as a login channel for your website, you will have to register your email address with Line first.
 
@@ -247,77 +238,66 @@ Then setup the login by following.
 
 2. Click **Create New Provider**.
 
-![image](images/register_and_login/img_line_login_01.png)
+    ![image](images/register_and_login/img_line_login_01.png)
 
 3. Add Provider name, and Create.
 
-![image](images/register_and_login/img_line_login_02.png)
+    ![image](images/register_and_login/img_line_login_02.png)
 
 4. Create **a Line Login Channel** for LINE Login.
 
-![image](images/register_and_login/img_line_login_03.png)
+    ![image](images/register_and_login/img_line_login_03.png)
 
 5. Add required values:
 
-    _App name_
-    _App description_
-    _App type_, select Use Web
-    _Email address_, add the email address of admin.
+   - _App name_
+   - _App description_
+   - _App type_, select Use Web
+   - _Email address_, add the email address of admin.
 
-![image](images/register_and_login/img_line_login_04.png)
+    ![image](images/register_and_login/img_line_login_04.png)
 
 6. Once you're at Confirm page, *checkbox at LINE Developer Agreement*, and click **Create**.
 
-![image](images/register_and_login/img_line_login_05.png)
-
-<!-- <br/>
-7. You'll be leaded to App page. Click on **LINE Login** app.
-
-![image](images/loginSystemLine7.png) ไม่มีขั้นตอนนี้แล้ว-->
+    ![image](images/register_and_login/img_line_login_05.png)
 
 7. Select LINE Login tab, Insert **Callback URL**, and click **Update**.
 
-_(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)_
+    _(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)_
 
-![image](images/register_and_login/img_line_login_06.png)
+    ![image](images/register_and_login/img_line_login_06.png)
 
 8. Select **Basic sitting** tab for setting **OpenID Connect**, the details of **Channel ID** and **Channel secret**
 
-![image](images/register_and_login/img_line_login_07.png)
- 
-<!-- 9.  To record email addresses of LINE registered users on your website, you can setup at **OpenID Connect** by clicking on **Submit**.
-
-![image](images/loginSystemLine9.png) -->
 
 9. Click **Submit** button for setting **OpenID Connect**
 
-![image](images/register_and_login/img_line_login_08.png) 
+    ![image](images/register_and_login/img_line_login_08.png) 
 
 10. *Check boxes for functions*, and click **Submit**.
 
-![image](images/register_and_login/img_line_login_09.png) 
+    ![image](images/register_and_login/img_line_login_09.png) 
 
 11. The details of **Channel secret** are showing.
 
-![image](images/register_and_login/img_line_login_12.png)
+    ![image](images/register_and_login/img_line_login_12.png)
 
 12. The details of **Channel ID** are showing.
 
-![image](images/register_and_login/img_line_login_11.png)
+    ![image](images/register_and_login/img_line_login_11.png)
 
 13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
 
-    1)  Select LINE tab.
-    2)  Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
-    3)  Click OK to add these values to your form.
+    1. Select LINE tab.
+    2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
+    3. Click OK to add these values to your form.
 
-![image](images/register_and_login/img_line_login_config_01.png)
+    ![image](images/register_and_login/img_line_login_config_01.png)
 
-<!-- 4) On Login Setting, click "Apply" to apply your setting. -->
-    4) On Login Setting, click open switch button.
-    5) Click "Preview"
-    6) Click "Save" to save all of your setting above.
+    4. On Login Setting, click open switch button.
+    5. Click "Preview"
+    6. Click "Save" to save all of your setting above.
 
-![image](images/register_and_login/img_line_login_config_02.png)
+    ![image](images/register_and_login/img_line_login_config_02.png)
 
 14.  The LINE Login single sign-on is available for your user to login to your website without make a new register.
