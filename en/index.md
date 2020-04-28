@@ -9,24 +9,23 @@
     - [Page Type](page-type.md)
 
 - ## ![image](images/icon_creating_website.svg) Creating Website
-    - [Create a New Website](create-new-website.md)
     - [Website Design](website-design.md)
+    - [Website Menu](website-menu.md)
     - [Website Content](website-content.md)
-    - [Page and Menu](page-and-menu.md) 
+    - [Page Management](page-management.md)
     - [Website Footer](website-footer.md)
     - [Online Form](online-form.md)
 
 - ## ![image](images/icon_blog.svg) Website Blog
-    - [Add New Blog](creating-blog.md)
-    - [Add New Category](creating-blog.md)
-    - [Blog Design](creating-blog.md)
-    - [Blog Widgets](creating-blog.md)
-    - [Edit Blog](creating-blog.md)
+    - [Blog Post](blog-post.md)
+    - [Blog Category](blog-category.md)
+    - [Blog Widgets](blog-widget.md)
+    - [Blog Sharing](blog-sharing.md)
 
 - ## ![image](images/icon_seo.svg) SEO
     - [Website SEO](website-seo.md)
     - [Website Meta Tag](website-meta-tag.md)
-    - [Blog SEO](creating-blog.md)
+    - [Blog SEO](blog-seo.md)
 
 - ## ![image](images/icon_email.svg) Website Email
     - [Setting Automation Emails](email-template.md)
@@ -42,6 +41,7 @@
 
 - ## ![image](images/icon_advanced.svg) Advanced
     - [CSS and Javascript Manaul Add](css-and-javascript.md)
+    - [Navigation and Menu on Mobile](navigation-menu-on-mobile.md)
 
 - ## ![image](images/icon_management.svg) Website Management
     - [Backing up Website](backup-website.md)

@@ -1,11 +1,10 @@
-## Page Visibility
+# Page Visibility
 
-  - [Meaning](#meaning)
-  - [Setting Areas](#settingarea)
-  - [Page Visibility Setting](#visibilitysetting)
+-   [Meaning](#meaning)
+-   [Setting Areas](#setting-areas)
+-   [Page Visibility Management](#page-visibility-management)
 
-<a name="meaning"></a>
-### Meaning
+## Meaning
 
 Page visibility is the feature to set to whom your page(s) will be visible to, public, all members, or restricted members.
 
@@ -15,38 +14,31 @@ Page visibility is the feature to set to whom your page(s) will be visible to, p
 
 **Restricted member(s)**, is the custom visibility you set for restricted members who have more privilege than normal members such as to be able to access to website admin area. The advanced privilege of these restrictd members will be set by you (will be explained in Website Membership part).
 
+## Setting Areas
 
-
-<a name="settingarea"></a>
-### Setting Areas
 A) 3-dot next to current page name you're editing
 
-![image](images/Visibility1.png)
-
+![image](images/page_visibility/img_page_visibility_01_setting_3_dot.png)
 
 B) Site -> Page Management icon
 
-![image](images/visibility2.png)
-
+![image](images/page_visibility/img_page_visibility_02_setting_page_management_icon.png)
 
 C) Site -> Menu Pages -> 3-dot after page names
 
-![image](images/visibility3.png)
+![image](images/page_visibility/img_page_visibility_03_setting_3_dot_on_site.png)
 
-
-
-<a name="visibilitysetting"></a>
-### Page Visibility Management
+## Page Visibility Management
 
 Once **Visibility** clicked, you will be at Page Management box.
 
-- **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its visibility now. You can change to other pages from here to set their visibilities.
+-   **Menu Pages** on the left colum will bluely highlight the current page that you're going to set its visibility now. You can change to other pages from here to set their visibilities.
 
-- **Page Management** with current page name on the right column. The slideable button will be shown as "Auto" with colorless which it's telling that the visibility of THIS PAGE is automatically set to PUBLIC. 
+-   **Page Management** with current page name on the right column. The slideable button will be shown as "Auto" with colorless which it's telling that the visibility of THIS PAGE is automatically set to PUBLIC.
 
 Slide this button to right, and select one audience type for this page.
 
-![image](images/visibility5.png)
+![image](images/page_visibility/img_page_visibility_04_site_config.png)
 
 
 

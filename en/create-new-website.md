@@ -1,15 +1,15 @@
 # Create New Website
 
+-   [RVsitebuilder Access](#rvsitebuilder-access)
+    -   [By cPanel control panel](#by-cpanel-control-panel)
+    -   [By your domain name](#by-your-domain-name)
+-   [Domain Name Selection](#domain-name-selection)
+-   [Template Selection](#template-selection)
+    -   [Publish](#publish)
 
-  - [RVsitebuilder Access](#rvsitebuilderaccess)
-  - [Domain Name Selection](#domainselection)
-  - [Template Selection](#templateselection)
-  - [Publish](#publish)
+## RVsitebuilder Access
 
-<a name="rvsitebuilderaccess"></a>
-### RVsitebuilder Access
-
-#### By cPanel control panel
+### By cPanel control panel
 
 1. Login to control panel.
 1. Look for Software feature group.
@@ -17,8 +17,7 @@
 
 ![image](images/overview1.png)
 
-
-#### By your domain name
+### By your domain name
 
 1. Open domain name on browser with /admin/login (You can set the domain name login for admin by this [guide](https://user.rvsitebuilder.com/docs/7.2/en/website-membership).
 1. Enter admin login.
@@ -27,13 +26,11 @@
 
 ![image](images/overview3.png)
 
-
-
-<a name="domainselection"></a>
-### Domain Name Selection
+## Domain Name Selection
 
 After logging in, you can start your professtional site in 1 minute!
-1. Start with click **Create new site** 
+
+1. Start with click **Create new site**
 
 ![image](images/create1.png)
 
@@ -49,24 +46,17 @@ After logging in, you can start your professtional site in 1 minute!
 
 ![image](images/create4.png)
 
-
-
-<a name="templateselection"></a>
-### Template Selection
+## Template Selection
 
 This ready to use beautiful template, you can select one in more than 138 styles. Keep or customize as you like.
 
 ![image](images/selecttemplate.png)
 
-
-
-<a name="publish"></a>
 ### Publish
 
 After select template, you will be brought to website editor. Just click **Save** button, your website will online immediatly. No longer PUBLISH BUTTON. It's a new save system in a single Save button that brings your website online in a blink!
 
 ![image](images/save.jpeg)
-
 
 Now your website is online!
 
@@ -74,13 +64,12 @@ Let's go further for more beautiful and unique one!
 
 You may start next step with;
 
-   1) [Website Design](website-design.md)
+1. [Website Design](website-design.md)
 
-   2) [Website Content](website-content.md)
+2. [Website Content](website-content.md)
 
-   3) [Page and Menu](page-and-menu.md) 
+3. [Page and Menu](page-and-menu.md)
 
-   4) [Website Footer](website-footer.md)
+4. [Website Footer](website-footer.md)
 
-   5) [Online Form](online-form.md)
-   
+5. [Online Form](online-form.md)
