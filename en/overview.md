@@ -33,5 +33,5 @@ RVsitebuilder on non-control panel server can be done by the installation [here]
 If this documentation does not help, you can find community resources here:
 
 -   [End User Troubleshooting](https://support.rvglobalsoft.com/hc/en-us/categories/360002328334)
--   Submit [feature request](https://support.rvglobalsoft.com/hc/en-us/community/topics/360000639474-RVsitebuilder-7-Feature-Request)
+-   Submit [feature request](https://feedback.rvsitebuilder.com/b/feature-requests/)
 -   Submit a [ticket](https://rvglobalsoft.com/tickets/new&deptId=5)
