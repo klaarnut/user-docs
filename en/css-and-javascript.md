@@ -1,9 +1,9 @@
 # Easy add CSS/Javascrip on your website
 
--   [Add CSS/Javascript by page](#add-cssjavascript-by-page)
--   [Add CSS/Javascript by site](#add-cssjavascript-by-site)https://www.hellomyweb.com/blog/ssh-serveraliveinterval/
--   RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website.
+- [Add CSS/Javascript by page](#add-cssjavascript-by-page)
+- [Add CSS/Javascript by site](#add-cssjavascript-by-site)
 
+RVsitebuilder 7 is the plugable application that allows several Apps to install on it and use with your website.
 Long story short, it allows you to install Apps from our [Apps Marketplace](https://apps.rvsitebuilder.com) to use on your website aside from cool features we already provide in RVsitebuilder.
 
 But in case if sometimes you really want to add Javascript/Css on your page in order to make your website more wow, you can also do that in our **HTML Mode**.
