@@ -5,7 +5,7 @@ Setup requires a GitHub membership and a GitHub app must be created.
 ## Creating a GitHub App
 
 You can create and register a GitHub App under your personal account or under any organization you have administrative access to.
- <https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-a-github-app>
+To learn how to use GitHub App <https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-a-github-app>
 
 ## Once you have GitHub App information, you can set up Login as GitHub as follows
 
@@ -34,17 +34,17 @@ You can create and register a GitHub App under your personal account or under an
 7. Click on Login form page to open Login Setting Panel, click "Social Login".
     ![image](images/login_social_github/site_config.jpg)
 
-        6.1 Select Github tab.
-        6.2 Insert App ID for Github Client ID and App Secret for Github Client Secret.
-        6.3 Click "Save" to add these values to your form.
+8. In the Social Login tab, Select Github vertical tab.
+    - Insert App ID for Github Client ID and App Secret for Github Client Secret.
+    - Click "Save" to add these values to your form.
 
     ![image](images/login_social_github/github_05.jpg)
 
-        6.4 On Login Setting, Enable github login.
-        6.5 Click "Preview"
-        6.6 Click "Save" to save all of your setting above.
+9. On Login Setting, Enable github login.
+    - Click "Preview"
+    - Click "Save" to save all of your setting above.
 
     ![image](images/login_social_github/github_06.jpg)
 
-8. The Github Login single sign-on is available for your user to login to your website without make a new register.
+10. The Github Login single sign-on is available for your user to login to your website without make a new register.
   
