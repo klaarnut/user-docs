@@ -27,26 +27,18 @@ To learn how to use GitHub App <https://docs.github.com/en/free-pro-team@latest/
 
     ![image](images/login_social_github/github_04.jpg)
 
-6. Go to RVsitebuilder your website editor -> Site -> System Pages -> Admin Login
+6. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable GitHub Login Setup.
 
-    ![image](images/login_social_github/system_page.jpg)
+   1. Select GitHub tab.
+   2. Insert App ID for Github Client ID and App Secret for Github Client Secret.
+   3. Click OK to add these values to your form.
 
-7. Click on Login form page to open Login Setting Panel, click "Social Login".
+    ![image](images/login_social_github/github_login_config_01.jpg)
 
-    ![image](images/login_social_github/site_config.jpg)
+   4. On Login Setting, click "Apply" to apply your setting.
+   5. Click "Preview"
+   6. Click "Save" to save all of your setting above.
 
-8. In the Social Login tab, Select Github vertical tab.
-    - Insert App ID for Github Client ID and App Secret for Github Client Secret.
-    - Click "Save" to add these values to your form.
+    ![image](images/login_social_github/github_login_config_02.jpg)
 
-    ![image](images/login_social_github/github_05.jpg)
-
-9. On Login Setting, Enable github login.
-    - Click "Preview"
-    - Click "Save" to save all of your setting above.
-
-    ![image](images/login_social_github/github_06.jpg)
-
-10. The Github Login single sign-on is available for your user to login to your website without make a new register.
-
-    ![image](images/login_social_github/mysite.jpg)
+7. The Github Login single sign-on is available for your user to login to your website without make a new register.
