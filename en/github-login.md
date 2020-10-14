@@ -32,6 +32,7 @@ To learn how to use GitHub App <https://docs.github.com/en/free-pro-team@latest/
     ![image](images/login_social_github/system_page.jpg)
 
 7. Click on Login form page to open Login Setting Panel, click "Social Login".
+
     ![image](images/login_social_github/site_config.jpg)
 
 8. In the Social Login tab, Select Github vertical tab.
@@ -47,4 +48,5 @@ To learn how to use GitHub App <https://docs.github.com/en/free-pro-team@latest/
     ![image](images/login_social_github/github_06.jpg)
 
 10. The Github Login single sign-on is available for your user to login to your website without make a new register.
-  
+
+    ![image](images/login_social_github/mysite.jpg)
