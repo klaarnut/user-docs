@@ -1,11 +1,11 @@
-# Github Login Setup
+# GitHub Login Setup
 
 Setup requires a GitHub membership and a GitHub app must be created.
 
 ## Creating a GitHub App
 
 You can create and register a GitHub App under your personal account or under any organization you have administrative access to.
-To learn how to use GitHub App <https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-a-github-app>
+To learn how to use [Creating GitHub App](https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-a-github-app/).
 
 ## Once you have GitHub App information, you can set up Login as GitHub as follows
 
