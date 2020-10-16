@@ -1,6 +1,6 @@
 # Bitbucket Login Setup
 
-Setup requires a Bitbucket membership and a Bitbucket app must be created.
+Setup requires a Bitbucket membership and a Bitbucket OAuth consumers must be created.
 
 ## Creating a OAuth consumers
 

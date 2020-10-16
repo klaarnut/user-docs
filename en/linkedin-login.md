@@ -1,4 +1,4 @@
-# Linkedin Login Setup
+# LinkedIn Login Setup
 
 Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
