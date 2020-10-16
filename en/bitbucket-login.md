@@ -4,7 +4,7 @@ Setup requires a Bitbucket membership and a Bitbucket app must be created.
 
 ## Creating a OAuth consumers
 
-Generate your own OAuth consumer key and secret to [build your own custom integration with Bitbucket.](https://support.atlassian.com/bitbucket-cloud/docs/use-oauth-on-bitbucket-cloud/).
+Generate your own OAuth consumer key and secret to [build your own custom integration with Bitbucket.](https://support.atlassian.com/bitbucket-cloud/docs/use-oauth-on-bitbucket-cloud/)
 
 OAuth needs a key and secret, together these are know as an OAuth consumer. You can create a consumer on any existing workspace. To create a consumer, do the following:
 
@@ -21,7 +21,7 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
 
 1. Go to <https://Bitbucket.com/>, sign into your Bitbucket account.
 
-2. In the bottom left sidebar, click your profile and setting, then click All workspaces.
+2. In the bottom left sidebar, click your profile and setting, then click "All workspaces".
 
 3. Click "Manage" your consumer.
 
