@@ -6,7 +6,7 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
 1. Go to <https://www.linkedin.com/developers>, sign into your LinkedIn account.
 
-2. The top menu bar, click "My Apps", then click [Create app](https://www.linkedin.com/developers/apps/new/).
+2. The top menu bar, click "My Apps", then click "Create app".
 
 ![image](images/login_social_linkedin/linkedin_01.jpg)
 
