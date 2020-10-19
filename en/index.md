@@ -42,7 +42,7 @@
   - [Website Membership](website-membership.md)
   - [Website Register and Login System](register-and-login-system.md)
   
-- ## ![image](images/icon_social_login.svg) Social Login
+- ## ![image](images/icon_social_signin.svg) Social Login
 
   - [Google Login](google-login.md)
   - [Facebook Login](facebook-login.md)
