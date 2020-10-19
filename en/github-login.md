@@ -13,19 +13,19 @@ To learn how to use [Creating GitHub App](https://docs.github.com/en/free-pro-te
 
 2. In the upper-right corner of any page, click your profile photo, then click Settings.
 
-    ![image](images/login_social_github/github_01.jpg)
+    ![image](images/login_social_github/github_01.png)
 
 3. In the left sidebar, click Developer settings.
 
-    ![image](images/login_social_github/github_02.jpg)
+    ![image](images/login_social_github/github_02.png)
 
 4. Click "Edit" your GitHub App.
 
-    ![image](images/login_social_github/github_03.jpg)
+    ![image](images/login_social_github/github_03.png)
 
 5. Display your GitHub Apps.
 
-    ![image](images/login_social_github/github_04.jpg)
+    ![image](images/login_social_github/github_04.png)
 
 6. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable GitHub Login Setup.
 

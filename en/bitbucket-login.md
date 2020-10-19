@@ -25,11 +25,11 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
 
 3. Click "Manage" your consumer.
 
-    ![image](images/login_social_bitbucket/bitbucket_02.jpg)
+    ![image](images/login_social_bitbucket/bitbucket_02.png)
 
 4. Click "OAuth consumers" under Apps and features on the left navigation, then click the consumer name to see the generated Key and Secret value for your consumer.
 
-    ![image](images/login_social_bitbucket/bitbucket_03.jpg)
+    ![image](images/login_social_bitbucket/bitbucket_03.png)
 
 5. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable Bitbucket Login Setup.
 

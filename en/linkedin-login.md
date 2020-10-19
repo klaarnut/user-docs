@@ -8,11 +8,11 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
 2. The top menu bar, click "My Apps", then click "Create app".
 
-![image](images/login_social_linkedin/linkedin_01.jpg)
+![image](images/login_social_linkedin/linkedin_01.png)
 
 3. Create your App.
 
-![image](images/login_social_linkedin/linkedin_02.jpg)
+![image](images/login_social_linkedin/linkedin_02.png)
 
 ## Once you have LinkedIn App information, you can set up Login as LinkedIn as follows
 
@@ -20,11 +20,11 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
 2. Click "My Apps", select your app name.
 
-![image](images/login_social_linkedin/linkedin_03.jpg)
+![image](images/login_social_linkedin/linkedin_03.png)
 
 3. Click "Auth tab", click the eye icon to display password.
 
-![image](images/login_social_linkedin/linkedin_04.jpg)
+![image](images/login_social_linkedin/linkedin_04.png)
 
 4. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LinkedIn Login Setup.
 
