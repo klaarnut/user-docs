@@ -51,3 +51,7 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
     2. Slide the slideable button on any or all the Social channels you want user to login to your website with.
 
         ![image](images/register_and_login/img_social_login_02.png)
+
+    3. On Login Setting, click open switch button, click "Preview", then click "Save" to save all of your setting above.
+
+        ![image](images/register_and_login/img_twitter_login.jpg)

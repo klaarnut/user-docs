@@ -39,7 +39,7 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
 
     ![image](images/login_social_bitbucket/bitbucket_login_config_01.jpg)
 
-   4. On Login Setting, click "Apply" to apply your setting.
+   4. On Login Setting, click open switch button.
    5. Click "Preview"
    6. Click "Save" to save all of your setting above.
 

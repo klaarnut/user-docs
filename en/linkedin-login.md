@@ -34,7 +34,7 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
     ![image](images/login_social_linkedin/linkedin_login_config_01.jpg)
 
-   4. On Login Setting, click "Apply" to apply your setting.
+   4. On Login Setting, click open switch button.
    5. Click "Preview"
    6. Click "Save" to save all of your setting above.
 
