@@ -42,7 +42,7 @@
   - [Website Membership](website-membership.md)
   - [Website Register and Login System](register-and-login-system.md)
   
-- ## ![image](images/icon_social_signin.svg) Social Login
+- ## ![image](images/icon_social.svg) Social Login
 
   - [Google Login](google-login.md)
   - [Facebook Login](facebook-login.md)
@@ -59,7 +59,7 @@
 
 - ## ![image](images/icon_advanced.svg) Advanced
 
-  - [CSS and Javascript Manaul Add](css-and-javascript.md)
+  - [CSS and Javascript Manual Add](css-and-javascript.md)
   - [Navigation and Menu on Mobile](navigation-menu-on-mobile.md)
 
 - ## ![image](images/icon_management.svg) Website Management
