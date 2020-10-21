@@ -52,6 +52,9 @@ It can be disabled and enabled in Design -> Topmenu -> Display Login button, sli
 
         ![image](images/register_and_login/img_social_login_02.png)
 
-    3. On Login Setting, click open switch button, click "Preview", then click "Save" to save all of your setting above.
+    3. On Login Setting.
+       1. Click open switch button.
+       2. Click "Preview".
+       3. Click "Save" to save all of your setting above.
 
-        ![image](images/register_and_login/img_twitter_login.jpg)
+        ![image](images/register_and_login/img_twitter_login.png)
