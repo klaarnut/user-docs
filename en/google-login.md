@@ -22,7 +22,7 @@
    
     ![image](images/6.png)
 
-6. Then, select **Configure consent screen**.
+6. Then, select **Configure consent screen**..
    
     ![image](images/mkt9.png)
 
