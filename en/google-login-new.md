@@ -1,14 +1,10 @@
 # Google Login Setup
 
-To connect your app to Bitbucket, you will:
+You can set up social connections for applications using the Google API Setup. The configured social connections can be used to log in to your application.
 
-- Set up app in Bitbucket.
-- Create and enable connection in OAuth.
-- Test connection.
+To learn how to use [OAuth 2.0](https://support.google.com/cloud/answer/6158849/)
 
-## To create an OAuth 2.0 client ID in the console
-
-To learn how to use [OAuth 2.0](https://support.google.com/cloud/answer/6158849?hl=en/)
+**Google Login Setup for Built-in Channels requires Google API Setup**. Don't worry if you don't feel familiar with Google API Setup, you can follow easy steps below.
 
 1. Open Google Console website at <https://console.developers.google.com/> . Login with your google email (Gmail) or register if you don't have one.
 
