@@ -61,18 +61,20 @@ Then setup the login by following.
 
     1. Select LINE tab.
     2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
-    3. Click OK to add these values to your form. จากนั้นปิดหน้าหน้าต่าง site config
+    3. Click OK to add these values to your form.
+      - จากนั้นปิดหน้าหน้าต่าง site config
 
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-    กด save
+      - กด save ในหน้า editor
 
     ![image](images/register_and_login/img_line_login_config_02_2.png)
 
-    **** หากต้องการ เปิด/ปิด ปุ่ม Social Login สามารถทำได้ดังนี้
-    4. On Login Setting, click open switch button.
-    5. Click "Preview"
-    6. Click "Save" to save all of your setting above.
+    **** กรณีต้องการ เปิด/ปิด ปุ่ม Social Login
+
+    1. On Login Setting, click open switch button.
+    2. Click "Preview"
+    3. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_line_login_config_02.png)
 
