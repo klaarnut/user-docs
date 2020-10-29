@@ -70,11 +70,11 @@ Then setup the login by following.
 
     ![image](images/register_and_login/img_line_login_config_02_2.png)
 
-    **** กรณีต้องการ เปิด/ปิด ปุ่ม Social Login
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
 
-    1. On Login Setting, click open switch button.
-    2. Click "Preview"
-    3. Click "Save" to save all of your setting above.
+    4. On Login Setting, click open switch button.
+    5. Click "Preview"
+    6. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_line_login_config_02.png)
 
