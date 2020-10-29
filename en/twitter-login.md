@@ -13,8 +13,15 @@
    1. Select twitter tab.
    2. Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
    3. Click OK to add these values to your form.
+    - Close the Site Config window.
 
     ![image](images/register_and_login/img_twitter_login_01.png)
+
+     - Click "Save" in the editor page.
+  
+    ![image](images/register_and_login/img_twitter_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
 
    4. On Login Setting, click "Apply" to apply your setting.
    5. Click "Preview"

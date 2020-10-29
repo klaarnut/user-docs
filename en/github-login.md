@@ -32,8 +32,15 @@ To learn how to use [Creating GitHub App](https://docs.github.com/en/free-pro-te
    1. Select GitHub tab.
    2. Insert App ID for Github Client ID and App Secret for Github Client Secret.
    3. Click OK to add these values to your form.
+    - Close the Site Config window.
 
     ![image](images/login_social_github/github_login_config_01.jpg)
+
+    - Click "Save" in the editor page.
+
+    ![image](images/login_social_github/img_github_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
 
    4. On Login Setting, click open switch button.
    5. Click "Preview"

@@ -36,9 +36,16 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
    1. Select Bitbucket tab.
    2. Insert App ID for Bitbucket Client ID and App Secret for Bitbucket Client Secret.
    3. Click OK to add these values to your form.
+    - Close the Site Config window.
 
     ![image](images/login_social_bitbucket/bitbucket_login_config_01.jpg)
 
+    - Click "Save" in the editor page.
+
+    ![image](images/login_social_bitbucket/img_bitbucket_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
+    
    4. On Login Setting, click open switch button.
    5. Click "Preview"
    6. Click "Save" to save all of your setting above.

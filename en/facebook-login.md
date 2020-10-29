@@ -31,12 +31,17 @@
     1. Select facebook tab.
     2. Insert App ID for Facebook Client ID and App Secret for Facebook Client Secret.
     3. Click OK to add these values to your form.
+      - Close the Site Config window.
 
     ![image](images/register_and_login/img_facebook_login_01.png)
 
-    4. On Login Setting, click open switch button.
-    5. Click "Preview"
-    6. Click "Save" to save all of your setting above.
+    - Click "Save" in the editor page.
+  
+    ![image](images/register_and_login/img_facebook_login_config_03.png)
+
+    1. On Login Setting, click open switch button.
+    2. Click "Preview"
+    3. Click "Save" to save all of your setting above.
 
     ![image](images/register_and_login/img_facebook_login_02.png)
 

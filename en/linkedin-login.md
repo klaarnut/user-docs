@@ -31,8 +31,15 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
    1. Select LinkedIn tab.
    2. Insert App ID for LinkedIn Client ID and App Secret for LinkedIn Client Secret.
    3. Click OK to add these values to your form.
-
+    - Close the Site Config window.
+  
     ![image](images/login_social_linkedin/linkedin_login_config_01.jpg)
+
+     - Click "Save" in the editor page.
+
+    ![image](images/login_social_linkedin/img_linkedin_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
 
    4. On Login Setting, click open switch button.
    5. Click "Preview"
