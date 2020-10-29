@@ -8,19 +8,19 @@ Then setup the login by following.
 
 1. Login to line developer console at: <https://developers.line.biz/console/>
 
-2. Click **Create New Provider**.
+2. Click **Create a new provider**.
 
     ![image](images/register_and_login/img_line_login_01.png)
 
-3. Add Provider name, and Create.
+3. Add **Provider name**, and click**Create**.
 
     ![image](images/register_and_login/img_line_login_02.png)
 
-4. Create **a Line Login Channel** for LINE Login.
+4. Select **Create a LINE Login Channel** to use with your website login with LINE.
 
     ![image](images/register_and_login/img_line_login_03.png)
 
-5. Add required values:
+5. Complete required values:
 
    - _App name_
    - _App description_
@@ -35,13 +35,13 @@ Then setup the login by following.
 
 7. Select LINE Login tab, Insert **Callback URL**, and click **Update**.
 
-    _(You can find Callback URLs in your website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, look for LINE login redirect URL.)_
+    _(You can find Callback URLs in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for LINE login redirect URL.)_
 
     ![image](images/register_and_login/img_line_login_06.png)
 
-8. Select **Basic sitting** tab for setting **OpenID Connect**, the details of **Channel ID** and **Channel secret**
+8. Select **Basic setting** tab for setting **OpenID Connect**, the details of **Channel ID** and **Channel secret**
 
-9. Click **Submit** button for setting **OpenID Connect**
+9. Click **Apply** button for setting **OpenID Connect**
 
     ![image](images/register_and_login/img_line_login_08.png)
 
@@ -57,22 +57,15 @@ Then setup the login by following.
 
     ![image](images/register_and_login/img_line_login_11.png)
 
-13. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting, to enable LINE Login Setup.
+13. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for LINE login redirect URLto enable LINE Login Setup.
 
     1. Select LINE tab.
     2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
-    3. Click OK to add these values to your form.
-      - จากนั้นปิดหน้าหน้าต่าง site config
+    3. Click Save to add these values to your form.
 
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-      - กด save ในหน้า editor
-
-    ![image](images/register_and_login/img_line_login_config_02_2.png)
-
-    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
-
-    4. On Login Setting, click open switch button.
+    4. On Login Setting, the Social loin is enanled. If not, just slide the button to make it green.
     5. Click "Preview"
     6. Click "Save" to save all of your setting above.
 
