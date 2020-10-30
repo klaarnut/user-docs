@@ -65,7 +65,7 @@ Then setup the login by following.
 
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-    5. Click "Save" in the editor page.
+    5. Click "Save" on editor page.
 
     ![image](images/register_and_login/img_line_login_config_03.png)
 
@@ -75,7 +75,7 @@ Then setup the login by following.
 
 **Bonus**
 
-Disable and Enable your Twitter Login
+Disable and Enable your LINE Login
 
 Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and look at **Enable line login**.
 

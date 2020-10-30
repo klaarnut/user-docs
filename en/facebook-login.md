@@ -70,15 +70,15 @@
 
 **Bonus**
 
-Disable and Enable your Twitter Login
+Disable and Enable your Facebook Login
 
-Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and look at **Enable twitter login**.
+Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and look at **Enable facebook login**.
 
-    A.  slide to to left to disable or right to enable.
+A.  slide to to left to disable or right to enable.
 
-    B.  Click "Preview".
+B.  Click "Preview".
 
-    C.  Click "Save" to save all of your setting.
+C.  Click "Save" to save all of your setting.
 
 ![image](images/register_and_login/img_facebook_login_02_2.png)
 
