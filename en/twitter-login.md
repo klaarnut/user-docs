@@ -55,6 +55,7 @@
 
 12. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
     
+    
 
 **Bonus**
 
@@ -62,10 +63,10 @@ Disable and Enable your Twitter Login
 
 Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and look at **Enable twitter login**.
 
-    A.  slide to to left to disable or right to enable.
+A.  slide to to left to disable or right to enable.
 
-    B.  Click "Preview".
+B.  Click "Preview".
 
-    C.  Click "Save" to save all of your setting.
+C.  Click "Save" to save all of your setting.
     
-![image](images/register_and_login/img_twitter_login_02_2.png)
+ ![image](images/register_and_login/img_twitter_login_02_2.png)

@@ -34,7 +34,6 @@ Then setup the login by following.
     ![image](images/register_and_login/img_line_login_05.png)
 
 7. Select LINE Login tab, Insert **Callback URL**, and click **Update**.
-
     _(You can find Callback URLs in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for LINE login redirect URL.)_
 
     ![image](images/register_and_login/img_line_login_06.png)
@@ -57,28 +56,34 @@ Then setup the login by following.
 
     ![image](images/register_and_login/img_line_login_11.png)
 
-13. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for LINE login redirect URLto enable LINE Login Setup.
-
+13. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
+    
     1. Select LINE tab.
     2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
     3. Click Save to add these values to your form.
+    4. Close the Site Config window.
 
-    - Close the Site Config window.
-  
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-     - Click "Save" in the editor page.
+    5. Click "Save" in the editor page.
 
     ![image](images/register_and_login/img_line_login_config_03.png)
 
-    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
-
-    A.  On Login Setting, click open the switch button.
-
-    B.  Click "Preview".
-
-    C.  Click "Save" to save all of your setting above.
-
-    ![image](images/register_and_login/img_line_login_config_02_2.png)
-
 14. The LINE Login single sign-on is available for your user to login to your website without make a new register.
+
+
+
+**Bonus**
+
+Disable and Enable your Twitter Login
+
+Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and look at **Enable line login**.
+
+A.  Slide to to left to disable or right to enable.
+
+B.  Click "Preview".
+
+C.  Click "Save" to save all of your setting.
+
+![image](images/register_and_login/img_line_login_config_02_2.png)
+
