@@ -67,5 +67,5 @@ Go to website editor -> Site -> System -> on "System Pages" list -> Login, click
     B.  Click "Preview".
 
     C.  Click "Save" to save all of your setting.
-
-    ![image](images/register_and_login/img_twitter_login_02_2.png)
+    
+![image](images/register_and_login/img_twitter_login_02_2.png)
