@@ -45,11 +45,13 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
     ![image](images/login_social_bitbucket/img_bitbucket_login_config_03.png)
 
     **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
-    
-   4. On Login Setting, click open switch button.
-   5. Click "Preview"
-   6. Click "Save" to save all of your setting above.
 
-    ![image](images/login_social_bitbucket/bitbucket_login_config_02.jpg)
+    A. On Login Setting, click open the switch button.
 
-6. The Bitbucket Login single sign-on is available for your user to login to your website without make a new register.
+    B. Click "Preview".
+
+    C. Click "Save" to save all of your setting above.
+
+    ![image](images/login_social_bitbucket/bitbucket_login_config_02.png)
+
+1. The Bitbucket Login single sign-on is available for your user to login to your website without make a new register.

@@ -41,10 +41,12 @@ Setup requires a LinkedIn membership and a LinkedIn app must be created.
 
     **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
 
-   4. On Login Setting, click open switch button.
-   5. Click "Preview"
-   6. Click "Save" to save all of your setting above.
+    A.  On Login Setting, click open the switch button.
 
-    ![image](images/login_social_linkedin/linkedin_login_config_02.jpg)
+    B.  Click "Preview".
+
+    C.  Click "Save" to save all of your setting above.
+
+    ![image](images/login_social_linkedin/linkedin_login_config_02_2.png)
 
 5. The LinkedIn Login single sign-on is available for your user to login to your website without make a new register.

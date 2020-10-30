@@ -63,12 +63,22 @@ Then setup the login by following.
     2. Insert Channel ID for LINE Client ID and Channel Secret for LINE Client Secret.
     3. Click Save to add these values to your form.
 
+    - Close the Site Config window.
+  
     ![image](images/register_and_login/img_line_login_config_01.png)
 
-    4. On Login Setting, the Social loin is enanled. If not, just slide the button to make it green.
-    5. Click "Preview"
-    6. Click "Save" to save all of your setting above.
+     - Click "Save" in the editor page.
 
-    ![image](images/register_and_login/img_line_login_config_02.png)
+    ![image](images/register_and_login/img_line_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
+
+    A.  On Login Setting, click open the switch button.
+
+    B.  Click "Preview".
+
+    C.  Click "Save" to save all of your setting above.
+
+    ![image](images/register_and_login/img_line_login_config_02_2.png)
 
 14. The LINE Login single sign-on is available for your user to login to your website without make a new register.

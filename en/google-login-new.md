@@ -46,13 +46,23 @@ To learn how to use [OAuth 2.0](https://support.google.com/cloud/answer/6158849/
      2. Insert Client ID and Client secret from number 9 to Google Login Setup, and click OK to complete setting.
      3. Click OK to add these values to your form.
 
+     - Close the Site Config window.
+
     ![image](images/register_and_login/img_google_login_config_01.png)
 
-     4. On Login Setting, click open switch button.
-     5. Click "Preview"
-     6. Click "Save" to save all of your setting above.
+    - Click "Save" in the editor page.
 
-    ![image](images/register_and_login/img_google_login_config_02.png)
+    ![image](images/login_social_google/img_google_login_config_03.png)
+
+    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
+
+    A.  On Login Setting, click open the switch button.
+
+    B.  Click "Preview"
+
+    C.  Click "Save" to save all of your setting above.
+
+    ![image](images/login_social_google/img_google_login_config_02.png)
 
 11. The Google Login single sign-on is available for your user to login to your website without make a new register.
 
