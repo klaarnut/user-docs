@@ -42,16 +42,6 @@ To learn how to use [Creating GitHub App](https://docs.github.com/en/free-pro-te
 
 7. The Github Login single sign-on is available for your user to login to your website without make a new register.
 
-   1. Select GitHub tab.
-   2. Insert App ID for Github Client ID and App Secret for Github Client Secret.
-   3. Click Save to add these values to your form.
-   4. Close the Site Config window.
-
-    ![image](images/login_social_github/github_login_config_01.jpg)
-
-   5. Click "Save" on editor page.
-
-    ![image](images/login_social_github/img_github_login_config_03.png)
 
 
 **Bonus**

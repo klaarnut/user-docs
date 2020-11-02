@@ -30,16 +30,21 @@
 
  ![image](images/login_social_twitter/twitter_8.png)
 
-9. Insert all the information required. *(You can find Callback URL in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for Twitter login redirect URL.)*
+9. In **App Details** tab, insert all the information required. *(You can find Callback URL in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for Twitter login redirect URL.)*
 
- And click Create your Twitter application.
+10. At **Permissions** tab:
+    
+    Access Permission is **Read and Write**
+
+    Additional Permission is **Request email address from users**
 
 
-10. Twitter API management page will display Consumer Key (API key) and Consumer Secret (API Secret).
+11. Twitter API management page will display Consumer Key (API key) and Consumer Secret (API Secret).
 
  ![image](images/login_social_twitter/twitter_10.png)
 
-11. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
+
+12. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
     
     1. Select twitter tab.
     2. Insert Consumer Key for Twitter Client ID and Consumer Secret for Twitter Client Secret.
@@ -53,7 +58,7 @@
     ![image](images/register_and_login/img_twitter_login_config_03.png)
 
 
-12. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
+13. The Twitter Login single sign-on is available for your user to login to your website without make a new register.
     
     
 
