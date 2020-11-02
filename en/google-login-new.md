@@ -41,9 +41,8 @@ To learn how to use [OAuth 2.0](https://support.google.com/cloud/answer/6158849/
       4. Insert **Redirect URIs** (You can find it in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for Google login redirect URL.)
 
       5. Don't forget to click **Save**.
-      
-   
-![image](images/login_social_google/google_new_client_02.png)
+
+![image](images/login_social_google/google_new_oauth_01_1.png)
 
 
 8. You can see the credential in **Credentials** on the left menu, click on your OAuth Client Name.
