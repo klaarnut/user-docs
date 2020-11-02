@@ -58,6 +58,6 @@ B.  Click "Preview".
 
 C.  Click "Save" to save all of your setting.
 
-    ![image](images/login_social_bitbucket/bitbucket_login_config_02.png)
+![image](images/login_social_bitbucket/bitbucket_login_config_02.png)
 
 

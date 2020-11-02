@@ -8,37 +8,53 @@ To learn how to use [OAuth 2.0](https://support.google.com/cloud/answer/6158849/
 
 1. Open Google Console website at <https://console.developers.google.com/> . Login with your google email (Gmail) or register if you don't have one.
 
-2. **Create Project Name.** On the top menu bar, click "Select a project", then click "NEW PROJECT".
+2. Create Project Name: On the top menu bar, click **Select a project**, then click **NEW PROJECT**.
 
 ![image](images/login_social_google/google_new_project_01.png)
 
-3. Create a new project for your domain, click "CREATE".
+
+3. Insert a **Project name** for your domain, click **CREATE**.
 
 ![image](images/login_social_google/google_new_project_02.png)
 
-4. **Create OAuth Consent Screen.** On the left, click "OAuth consent screen", click "External", then click "Create".
+
+4. On APIs & Services page. Click **OAuth consent screen** on the left menu, select User Type as **External**, then click **Create**.
 
 ![image](images/login_social_google/google_new_oauth_01.png)
 
-5. Register for 4 STEPS.
+
+5. Complete App information for 4 STEPS.
 
 ![image](images/login_social_google/google_new_oauth_02.png)
 
-6. **Create Client ID for Web application.** On the left, click "Credentials", click "+CREATE CREDENTIALS", then select "OAuth Client ID".
+
+6. At the APIs & Services. On the left, click **Credentials**, click **+CREATE CREDENTIALS**, and select **OAuth client ID**.
 
 ![image](images/login_social_google/google_new_client_01.png)
 
-7. Create OAuth client ID, select "Application type" (Web application), create OAuth Client Name, then click "CREATE".
 
+7. On Create OAuth client ID page.
+
+      1. Select "Application type" as **Web application**
+      2. Create a name for recognizable
+      3. Insert **Authorized JavaScript origins** (Your website URL)
+      4. Insert **Redirect URIs** (You can find it in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for Google login redirect URL.)
+
+      5. Don't forget to click **Save**.
+      
+   
 ![image](images/login_social_google/google_new_client_02.png)
 
-8. **To check.** Click "Credentials", click your OAuth Client Name.
+
+8. You can see the credential in **Credentials** on the left menu, click on your OAuth Client Name.
 
 ![image](images/login_social_google/google_new_client_03.png)
+
 
 9. On the page that appears, copy the client ID and client secret to your clipboard, as you will need them when you configure your client library.
 
 ![image](images/login_social_google/google_new_client_04.png)
+
 
 10. Go to website editor -> Site -> System Pages -> Login, click on Login form to open Login setting. Enable Google Login Setup.
 
