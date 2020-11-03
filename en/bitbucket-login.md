@@ -11,9 +11,16 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
 3. Click **Settings** on the left sidebar to open the Workspace settings.
 4. Click **OAuth consumers** under Apps and features on the left navigation.
 5. Click the **Add consumer** button.
-6. Click Save.
-   The system generates a key and a secret for you.
+
+    ![image](images/login_social_bitbucket/bitbucket_01_1.png)
+
+6. Add OAuth consumer, Click Save. The system generates a key and a secret for you.
+
+    ![image](images/login_social_bitbucket/bitbucket_01_2.png)
+
 7. Toggle the consumer name to see the generated Key and Secret value for your consumer.
+
+    ![image](images/login_social_bitbucket/bitbucket_01_3.png)
 
 ## Once you have Bitbucket OAuth consumers, you can set up Login as Bitbucket as follows
 
@@ -44,8 +51,6 @@ OAuth needs a key and secret, together these are know as an OAuth consumer. You 
 
 6. The Bitbucket Login single sign-on is available for your user to login to your website without make a new register.
 
-
-
 **Bonus**
 
 Disable and Enable your Bitbucket Login
@@ -59,5 +64,3 @@ B.  Click "Preview".
 C.  Click "Save" to save all of your setting.
 
 ![image](images/login_social_bitbucket/bitbucket_login_config_02.png)
-
-
