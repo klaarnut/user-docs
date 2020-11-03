@@ -2,7 +2,6 @@
 
 Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy guide below to create yours.
 
-
 1. Go to <https://www.linkedin.com/developers>, sign into your LinkedIn account.
 
 2. The top menu bar, click **My Apps**, then click **+Create app**.
@@ -10,21 +9,25 @@ Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy 
 ![image](images/login_social_linkedin/linkedin_01.png)
 
 3. Complete all required fields. The Privacy Policy URL, If you have a page to provide Privacy Policy on your website, if not, you can insert your website URL.
-   
+
 ![image](images/login_social_linkedin/linkedin_02.png)
 
-4. Go to <https://www.linkedin.com/developers>, sign in to your LinkedIn account.
+4. Click **Auth**, Add Authorized redirect URLs for your app.
 
-5. Click **My App**, select your app name.
+![image](images/login_social_linkedin/linkedin_05.png)
+
+5. Go to <https://www.linkedin.com/developers>, sign in to your LinkedIn account.
+
+6. Click **My App**, select your app name.
 
 ![image](images/login_social_linkedin/linkedin_03.png)
 
-3. Click **Auth** tab, hit the eye icon to show password.
+7. Click **Auth** tab, hit the eye icon to show password.
 
 ![image](images/login_social_linkedin/linkedin_04.png)
 
-4. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
-   
+8. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
+
    1. Select LinkedIn tab.
    2. Insert App ID for LinkedIn Client ID and App Secret for LinkedIn Client Secret.
    3. Click Save to add these values to your form.
@@ -36,10 +39,7 @@ Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy 
 
     ![image](images/login_social_linkedin/img_linkedin_login_config_03.png)
 
-
-5. The LinkedIn Login single sign-on is available for your user to login to your website without make a new register.
-   
-
+9. The LinkedIn Login single sign-on is available for your user to login to your website without make a new register.
 
 **Bonus**
 
@@ -54,4 +54,3 @@ B.  Click "Preview".
 C.  Click "Save" to save all of your setting.
 
 ![image](images/login_social_linkedin/linkedin_login_config_02_2.png)
-
