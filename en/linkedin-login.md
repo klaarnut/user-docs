@@ -1,6 +1,6 @@
 # LinkedIn Login Setup
 
-Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy guide below to create yours.
+Setup Linked Login requires a LinkedIn membership and a LinkedIn app. Please follow the easy guide below to create yours.
 
 1. Go to <https://www.linkedin.com/developers>, sign into your LinkedIn account.
 
@@ -8,17 +8,15 @@ Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy 
 
 ![image](images/login_social_linkedin/linkedin_01.png)
 
-3. Complete all required fields. The Privacy Policy URL, If you have a page to provide Privacy Policy on your website, if not, you can insert your website URL.
+1. Complete all required fields.
 
 ![image](images/login_social_linkedin/linkedin_02.png)
 
-4. Click **Auth**, Add Authorized redirect URLs for your app.
+4. Next page, click on **Auth** tab, and **pencil symbol** to insert **Authorized redirect URLs for your app**. *(You can find Callback URL in your website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member, look for LinkedIn login redirect URL.)*
 
 ![image](images/login_social_linkedin/linkedin_05.png)
 
-5. Go to <https://www.linkedin.com/developers>, sign in to your LinkedIn account.
-
-6. Click **My App**, select your app name.
+5. Look for **My App** menu, and select your app name.
 
 ![image](images/login_social_linkedin/linkedin_03.png)
 
@@ -29,7 +27,7 @@ Setup requires a LinkedIn membership and a LinkedIn app. Please follow the easy 
 8. Go to website editor -> Site -> System -> on "System Pages" list -> Login, click on Login form to open Login setting. On Login Setting panel, scroll and click "Social Login" button, you will be at "Site Config" Member.
 
    1. Select LinkedIn tab.
-   2. Insert App ID for LinkedIn Client ID and App Secret for LinkedIn Client Secret.
+   2. Insert **App ID** for **LinkedIn Client ID** and **App Secret** for **LinkedIn Client Secret.**
    3. Click Save to add these values to your form.
    4. Close the Site Config window.
 
