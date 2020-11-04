@@ -67,7 +67,7 @@ To learn how to use [Creating GitHub App](https://docs.github.com/en/free-pro-te
 
 2. In the upper-right corner of any page, click your profile photo, then click **Settings**.
 
- ![image](images/login_social_github/github_create_01.png)
+ ![image](images/login_social_github/github_01.png)
 
 3. In the left sidebar, click **Developer settings**.
 
