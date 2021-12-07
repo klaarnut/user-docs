@@ -1,0 +1,3 @@
+# choose reviewer in this team when someone opens a pull request. 
+* @rvsitebuilder/all-member
+.github/ .vscode/ .husky/ @rvsitebuilder/devops
